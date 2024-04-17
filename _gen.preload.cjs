@@ -1,6 +1,13 @@
 /**
  *
  * 读取给定目录下，所有子孙目录，子孙文件，获得所有文件的路径
+ * 生成 preload 资源
+ * 注意，需要根据 rules，生成 preload 资源
+ * preload 资源，需要按照以下顺序，字体文件优先
+ * 1. 字体文件
+ * 2. 其他文件
+ * 
+ * preload 的资源不是越多越好，需要根据页面的实际情况，来决定加载哪些资源
  */
 
 const fs = require("fs")
@@ -85,8 +92,11 @@ const preloadFilesByRules = Object.keys(rules).reduce((acc, key) => {
 // 打印出需要使用 rules 的文件
 console.log(preloadFilesByRules)
 
-// 得到哪些文件不需要使用 rules, 同时需要排序，字体文件优先
-const preloadFilesNotByRules = filterFiles.filter((file) => !preloadFilesByRules.includes(file)).sort((a, b) => {
+// 得到哪些文件不需要使用 rules, 排除 .css 文件, 同时需要排序，字体文件优先
+const preloadFilesNotByRules = filterFiles.filter((file) => !preloadFilesByRules.includes(file)).filter((file) => {
+    const ext = path.extname(file)
+    return ![".css"].includes(ext)
+}).sort((a, b) => {
     const extA = path.extname(a)
     const extB = path.extname(b)
     if ([".ttf", ".woff", ".woff2"].includes(extA) && ![".ttf", ".woff", ".woff2"].includes(extB)) {
@@ -111,12 +121,12 @@ const genLinkLineByFile = (file) => {
     const ext = path.extname(file)
     const uri = `${cdnPrefix}${file}`
     if ([".css"].includes(ext)) {
-        return `${space}<link rel="preload" href="${uri}" as="style" crossorigin>`
+        return `${space}<link rel="preload" as="style" href="${uri}" crossorigin>`
     }
     if ([".ttf", ".woff", ".woff2"].includes(ext)) {
-        return `${space}<link rel="preload" href="${uri}" as="font" type="font/${ext.replace('.', '')}" crossorigin>`
+        return `${space}<link rel="preload" href="${uri}" as="font" crossorigin type="font/${ext.replace('.', '')}">`
     }
-    return `${space}<link rel="preload" href="${uri}" as="script" crossorigin>`
+    return `${space}<link rel="preload" as="script" href="${uri}" fetchpriority="low" crossorigin>`
 }
 
 const ejsTemplateWithRules = `
