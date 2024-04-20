@@ -135,7 +135,7 @@ const genLinkLineByFile = (file) => {
         return `${space}<link rel="preload" as="style" href="${uri}" crossorigin>`
     }
     if ([".ttf", ".woff", ".woff2"].includes(ext)) {
-        return `${space}<link rel="preload" href="${uri}" fetchpriority="high" as="font" crossorigin type="font/${ext.replace('.', '')}">`
+        return `${space}<link rel="preload" href="${uri}" as="font" crossorigin type="font/${ext.replace('.', '')}">`
     }
     return `${space}<link rel="preload" as="script" href="${uri}" fetchpriority="low" crossorigin>`
 }
