@@ -38,6 +38,11 @@ const filterFiles = filesList.filter((file) => {
 }).map((file) => {
     // "\\" -> "/"
   return path.normalize(file.replace(rootDir, "")).replace(/\\/g, "/")
+}).sort((a, b) => {
+    // 根据文件大小排序，越小的文件越优先
+    const sizeA = fs.statSync(path.join(rootDir, a)).size
+    const sizeB = fs.statSync(path.join(rootDir, b)).size
+    return sizeA - sizeB
 })
 
 // 输出文件路径
@@ -130,7 +135,7 @@ const genLinkLineByFile = (file) => {
         return `${space}<link rel="preload" as="style" href="${uri}" crossorigin>`
     }
     if ([".ttf", ".woff", ".woff2"].includes(ext)) {
-        return `${space}<link rel="preload" href="${uri}" as="font" crossorigin type="font/${ext.replace('.', '')}">`
+        return `${space}<link rel="preload" href="${uri}" fetchpriority="high" as="font" crossorigin type="font/${ext.replace('.', '')}">`
     }
     return `${space}<link rel="preload" as="script" href="${uri}" fetchpriority="low" crossorigin>`
 }
