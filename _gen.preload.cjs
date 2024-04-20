@@ -108,6 +108,12 @@ const preloadFilesNotByRules = filterFiles.filter((file) => !preloadFilesByRules
     return 0
 })
 
+// 只得到字体文件
+const preloadFilesFont = filterFiles.filter((file) => {
+    const ext = path.extname(file)
+    return [".ttf", ".woff", ".woff2"].includes(ext)
+})
+
 // 需要使用 rules 的文件展现的形式，看起来像以下内容
 // <% if (theme.navbar.search.enable) { %>
 //    <link rel="preload" href="/js/tools/localSearch.js" as="script">
@@ -186,7 +192,6 @@ ${preloadFilesByRules.filter((file) => rules["!theme.global.preloader"].includes
 
 `
 
-
 // ejs 模板, 根据上面的规则 rules，生成 preload 资源
 const ejsTemplateContent = `
     <!-- icon set -->
@@ -209,4 +214,16 @@ ${preloadFilesNotByRules
 ${ejsTemplateWithRules}
 `
 
-fs.writeFileSync(path.join(__dirname, "themes/redefine/layout/_partials/preload-scripts.ejs"), ejsTemplateContent)
+
+const onlyFontEjsTemplateContent = `
+    <!-- fonts preload -->
+${preloadFilesFont
+    .map(
+    (file) => {
+        return `${genLinkLineByFile(file)}`
+    }
+    )
+    .join("\n")}
+`
+
+fs.writeFileSync(path.join(__dirname, "themes/redefine/layout/_partials/preload-scripts.ejs"), onlyFontEjsTemplateContent)
