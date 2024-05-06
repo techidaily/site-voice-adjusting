@@ -1,6 +1,6 @@
-# TechiDaily
+# Voice Adjusting Site
 
-Welcome to [https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
+Welcome to [https://voice-adjusting.techidaily.com](https://voice-adjusting.techidaily.com)
 
 ## Publish
 
