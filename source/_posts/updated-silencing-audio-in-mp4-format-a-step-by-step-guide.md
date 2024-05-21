@@ -1,7 +1,7 @@
 ---
 title: Updated Silencing Audio in MP4 Format A Step-by-Step Guide
-date: 2024-05-05T05:31:40.049Z
-updated: 2024-05-06T05:31:40.049Z
+date: 2024-05-20T01:48:40.132Z
+updated: 2024-05-21T01:48:40.132Z
 tags: 
   - audio editing software
   - audio editing
@@ -1063,4 +1063,5 @@ You can find video files on all kinds of online social media platforms. These ar
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-add-font-effects-to-videos/"><u>Updated 2024 Approved How to Add Font Effects to Videos</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-oppo-a79-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Oppo A79 5G?</u></a></li>
 </ul></div>
+
 

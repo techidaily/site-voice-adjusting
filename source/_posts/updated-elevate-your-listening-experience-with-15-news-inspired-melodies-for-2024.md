@@ -1222,3 +1222,4 @@ Follow @Shanoon Cox
 <li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Honor 70 Lite 5G? | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: Updated Elevating and Dimming Audio in Audacity A Step-by-Step Approach
-date: 2024-05-05T05:20:47.624Z
-updated: 2024-05-06T05:20:47.624Z
+date: 2024-05-20T01:48:05.781Z
+updated: 2024-05-21T01:48:05.781Z
 tags: 
   - audio editing software
   - audio editing
@@ -1137,4 +1137,5 @@ The article above talked in detail about 5 interesting voice changers for phone 
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Motorola Edge 2023? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-facebook-video-like-a-pro-aspect-ratio-secrets-revealed/"><u>Updated 2024 Approved Facebook Video Like a Pro Aspect Ratio Secrets Revealed</u></a></li>
 </ul></div>
+
 

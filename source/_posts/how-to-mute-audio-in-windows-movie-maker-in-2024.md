@@ -1,7 +1,7 @@
 ---
 title: How to Mute Audio in Windows Movie Maker, In 2024
-date: 2024-05-05T05:25:04.710Z
-updated: 2024-05-06T05:25:04.710Z
+date: 2024-05-20T01:48:21.228Z
+updated: 2024-05-21T01:48:21.228Z
 tags: 
   - audio editing software
   - audio editing
@@ -1119,4 +1119,5 @@ For macOS 10.12 or later
 <li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-android-essentials-must-have-apps-from-google-play/"><u>New 2024 Approved Android Essentials Must-Have Apps From Google Play</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Infinix Note 30 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

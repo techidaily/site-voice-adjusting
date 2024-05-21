@@ -1,7 +1,7 @@
 ---
 title: How to Add Audio in After Effects
-date: 2024-05-05T05:08:06.081Z
-updated: 2024-05-06T05:08:06.081Z
+date: 2024-05-20T01:47:28.652Z
+updated: 2024-05-21T01:47:28.652Z
 tags: 
   - audio editing software
   - audio editing
@@ -1280,4 +1280,5 @@ You may want to extract drums from your favorite songs for various reasons. Mayb
 <li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-samsung-galaxy-a05s-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Samsung Galaxy A05s without Them Knowing | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-realme-c67-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Realme C67 5G Mirror Screen to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

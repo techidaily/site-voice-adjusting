@@ -1,7 +1,7 @@
 ---
 title: Updated Exploring Soundscape Inclusions of Brass Ensemble Noises
-date: 2024-05-05T05:22:45.327Z
-updated: 2024-05-06T05:22:45.327Z
+date: 2024-05-20T01:48:11.863Z
+updated: 2024-05-21T01:48:11.863Z
 tags: 
   - audio editing software
   - audio editing
@@ -909,4 +909,5 @@ For macOS 10.12 or later
 <li><a href="https://ai-editing-video.techidaily.com/updated-introduction-to-luts-their-overview-and-benefits/"><u>Updated Introduction to LUTs Their Overview and Benefits</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-what-you-should-know-about-speech-to-text-technology/"><u>New In 2024, What You Should Know About Speech-to-Text Technology</u></a></li>
 </ul></div>
+
 

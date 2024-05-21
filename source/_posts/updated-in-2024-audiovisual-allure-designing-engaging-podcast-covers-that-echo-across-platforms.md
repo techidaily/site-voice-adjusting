@@ -1300,3 +1300,4 @@ For macOS 10.12 or later
 <li><a href="https://iphone-transfer.techidaily.com/easy-methods-how-to-transfer-pictures-from-apple-iphone-12-pro-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Easy Methods How To Transfer Pictures From Apple iPhone 12 Pro to PC | Dr.fone</u></a></li>
 </ul></div>
 
+

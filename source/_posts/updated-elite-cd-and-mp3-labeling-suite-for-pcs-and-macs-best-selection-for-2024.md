@@ -926,3 +926,4 @@ For macOS 10.12 or later
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-mini-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 mini To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: Updated Dynamic Sound Mixing Implementing Audio Ducking Techniques to Subtly Reduce Background Tracks
-date: 2024-05-05T05:20:11.799Z
-updated: 2024-05-06T05:20:11.799Z
+date: 2024-05-20T01:48:03.945Z
+updated: 2024-05-21T01:48:03.945Z
 tags: 
   - audio editing software
   - audio editing
@@ -1407,4 +1407,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://techidaily.com/how-to-factory-reset-vivo-x100-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo X100 Pro in 5 Easy Ways | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-do-you-want-to-experiment-with-various-sky-backgrounds-for-your-footage-learn-about-sky-replacement-after-effects-in-this-article-with-a-step-/"><u>2024 Approved Do You Want to Experiment with Various Sky Backgrounds for Your Footage? Learn About Sky Replacement After Effects in This Article with a Step-by-Step Guide</u></a></li>
 </ul></div>
+
 

@@ -1237,3 +1237,4 @@ The voice recorder software is the need of the hour as they help manipulate the 
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-samsung-galaxy-xcover-6-pro-tactical-edition-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Samsung Galaxy XCover 6 Pro Tactical Edition.</u></a></li>
 </ul></div>
 
+

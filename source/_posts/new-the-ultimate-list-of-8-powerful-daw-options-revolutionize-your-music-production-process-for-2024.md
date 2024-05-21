@@ -1303,3 +1303,4 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/new-phone-aspect-ratio-vertical-definition-types-and-tips/"><u>New Phone Aspect Ratio Vertical Definition, Types and Tips</u></a></li>
 </ul></div>
 
+

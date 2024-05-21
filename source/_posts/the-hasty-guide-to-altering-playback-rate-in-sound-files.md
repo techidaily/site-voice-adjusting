@@ -1,7 +1,7 @@
 ---
 title: The Hasty Guide to Altering Playback Rate in Sound Files
-date: 2024-05-05T05:12:17.127Z
-updated: 2024-05-06T05:12:17.127Z
+date: 2024-05-20T01:47:38.694Z
+updated: 2024-05-21T01:47:38.694Z
 tags: 
   - audio editing software
   - audio editing
@@ -2062,4 +2062,5 @@ Follow @Liza Brown
 <li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-samsung-galaxy-a23-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Samsung Galaxy A23 5G Device</u></a></li>
 <li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Oppo Find X6 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

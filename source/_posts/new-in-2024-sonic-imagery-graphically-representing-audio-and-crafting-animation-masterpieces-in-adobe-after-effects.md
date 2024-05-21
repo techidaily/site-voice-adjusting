@@ -989,3 +989,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-video-apps.techidaily.com/updated-10-essential-aspect-ratio-resizer-tools-you-need-for-2024/"><u>Updated 10 Essential Aspect Ratio Resizer Tools You Need for 2024</u></a></li>
 </ul></div>
 
+

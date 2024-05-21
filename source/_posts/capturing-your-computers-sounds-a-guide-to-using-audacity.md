@@ -1,7 +1,7 @@
 ---
 title: Capturing Your Computers Sounds A Guide to Using Audacity
-date: 2024-05-05T05:08:41.388Z
-updated: 2024-05-06T05:08:41.388Z
+date: 2024-05-20T01:47:30.105Z
+updated: 2024-05-21T01:47:30.105Z
 tags: 
   - audio editing software
   - audio editing
@@ -1403,4 +1403,5 @@ Follow @Benjamin Arango
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-t-mobile-apple-iphone-xr-online-without-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock T-Mobile Apple iPhone XR online without SIM Card?</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/updated-in-2024-cropping-like-a-pro-advanced-techniques-for-avidemux-users/"><u>Updated In 2024, Cropping Like a Pro Advanced Techniques for Avidemux Users</u></a></li>
 </ul></div>
+
 

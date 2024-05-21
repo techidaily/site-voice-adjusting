@@ -1,7 +1,7 @@
 ---
 title: Updated Methods to Manipulate Amplitude in MP3, WAV, and MPEG Files
-date: 2024-05-05T05:28:15.640Z
-updated: 2024-05-06T05:28:15.640Z
+date: 2024-05-20T01:48:30.657Z
+updated: 2024-05-21T01:48:30.657Z
 tags: 
   - audio editing software
   - audio editing
@@ -888,4 +888,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-8-plus-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone 8 Plus | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Honor X50i+ | Dr.fone</u></a></li>
 </ul></div>
+
 

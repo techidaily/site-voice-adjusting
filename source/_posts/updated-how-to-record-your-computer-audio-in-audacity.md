@@ -1,7 +1,7 @@
 ---
 title: Updated How To Record Your Computer Audio in Audacity
-date: 2024-05-05T05:24:45.870Z
-updated: 2024-05-06T05:24:45.870Z
+date: 2024-05-20T01:48:19.486Z
+updated: 2024-05-21T01:48:19.486Z
 tags: 
   - audio editing software
   - audio editing
@@ -1365,4 +1365,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-itel-s23plus-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Itel S23+? Fixed | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-oppo-a58-4g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Oppo A58 4G on Windows</u></a></li>
 </ul></div>
+
 

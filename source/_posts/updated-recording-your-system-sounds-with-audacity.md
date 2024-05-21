@@ -1,7 +1,7 @@
 ---
 title: Updated Recording Your System Sounds with Audacity
-date: 2024-05-05T05:30:38.432Z
-updated: 2024-05-06T05:30:38.432Z
+date: 2024-05-20T01:48:37.017Z
+updated: 2024-05-21T01:48:37.017Z
 tags: 
   - audio editing software
   - audio editing
@@ -1128,4 +1128,5 @@ Follow @Benjamin Arango
 <li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-top-video-editing-apps-for-mac/"><u>Updated 2024 Approved Top Video Editing Apps for Mac</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/updated-in-2024-the-best-free-online-video-flip-tools-and-services/"><u>Updated In 2024, The Best Free Online Video Flip Tools and Services</u></a></li>
 </ul></div>
+
 

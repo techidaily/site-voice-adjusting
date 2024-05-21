@@ -1278,3 +1278,4 @@ Follow @Liza Brown
 <li><a href="https://smart-video-creator.techidaily.com/new-in-2024-the-ultimate-guide-to-cropping-videos-in-avidemux-tips-and-tricks/"><u>New In 2024, The Ultimate Guide to Cropping Videos in Avidemux Tips and Tricks</u></a></li>
 </ul></div>
 
+

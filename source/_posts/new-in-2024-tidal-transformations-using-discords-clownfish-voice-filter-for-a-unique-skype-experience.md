@@ -1308,3 +1308,4 @@ When you want to extract beat from song, choosing good software will make the en
 <li><a href="https://video-creation-software.techidaily.com/updated-video-splitting-made-easy-a-step-by-step-guide-for-windows-live-movie-maker/"><u>Updated Video Splitting Made Easy A Step-by-Step Guide for Windows Live Movie Maker</u></a></li>
 </ul></div>
 
+

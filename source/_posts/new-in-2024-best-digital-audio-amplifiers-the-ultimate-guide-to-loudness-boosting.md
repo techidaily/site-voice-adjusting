@@ -1326,3 +1326,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-maximize-your-edit-10-best-free-fcpx-plugins/"><u>2024 Approved Maximize Your Edit 10 Best Free FCPX Plugins</u></a></li>
 </ul></div>
 
+

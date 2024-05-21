@@ -1213,3 +1213,4 @@ Follow @Shanoon Cox
 <li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Vivo Y100? | Dr.fone</u></a></li>
 </ul></div>
 
+

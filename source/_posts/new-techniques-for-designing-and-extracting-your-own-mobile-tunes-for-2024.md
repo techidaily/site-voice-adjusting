@@ -1259,3 +1259,4 @@ We are dealing with online businesses and online lectures at the moment. It is h
 <li><a href="https://techidaily.com/how-to-reset-itel-a05s-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Itel A05s Without the Home Button | Dr.fone</u></a></li>
 </ul></div>
 
+

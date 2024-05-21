@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering Audio Amplitude Control in Audacity
-date: 2024-05-05T05:27:00.522Z
-updated: 2024-05-06T05:27:00.522Z
+date: 2024-05-20T01:48:26.734Z
+updated: 2024-05-21T01:48:26.734Z
 tags: 
   - audio editing software
   - audio editing
@@ -1240,4 +1240,5 @@ For macOS 10.12 or later
 <li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-top-online-resources-to-blur-image-backgrounds-for-free/"><u>2024 Approved Top Online Resources to Blur Image Backgrounds for Free</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Edit Audio in Avidemux
-date: 2024-05-05T05:24:55.783Z
-updated: 2024-05-06T05:24:55.783Z
+date: 2024-05-20T01:48:20.755Z
+updated: 2024-05-21T01:48:20.755Z
 tags: 
   - audio editing software
   - audio editing
@@ -1344,4 +1344,5 @@ Follow @Benjamin Arango
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-add-camera-shake-to-video-in-adobe-after-effects/"><u>New In 2024, Add Camera Shake to Video in Adobe After Effects</u></a></li>
 <li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-oppo-reno-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Oppo Reno 8T | Dr.fone</u></a></li>
 </ul></div>
+
 

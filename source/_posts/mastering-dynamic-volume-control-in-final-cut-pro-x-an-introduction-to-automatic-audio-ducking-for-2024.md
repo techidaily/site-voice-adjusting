@@ -1,7 +1,7 @@
 ---
 title: Mastering Dynamic Volume Control in Final Cut Pro X An Introduction to Automatic Audio Ducking for 2024
-date: 2024-05-05T05:27:12.952Z
-updated: 2024-05-06T05:27:12.952Z
+date: 2024-05-20T01:48:27.387Z
+updated: 2024-05-21T01:48:27.387Z
 tags: 
   - audio editing software
   - audio editing
@@ -1490,4 +1490,5 @@ For macOS 10.12 or later
 <li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-samsung-galaxy-s23-ultra-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Samsung Galaxy S23 Ultra Current Location of a Mobile Number | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/1713948833955-in-2024-as-a-designer-color-is-the-most-powerful-and-the-most-diverse-tool-at-your-disposal-here-are-ten-matching-color-combinations-to-get-you-started-on-y/"><u>In 2024, As a Designer, Color Is the Most Powerful and the Most Diverse Tool at Your Disposal. Here Are Ten Matching Color Combinations to Get You Started on Your Next Project</u></a></li>
 </ul></div>
+
 

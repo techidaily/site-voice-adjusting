@@ -1130,3 +1130,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-video-tools.techidaily.com/new-top-rated-video-luminance-adjustment-apps/"><u>New Top-Rated Video Luminance Adjustment Apps</u></a></li>
 </ul></div>
 
+

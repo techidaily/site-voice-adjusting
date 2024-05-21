@@ -1,7 +1,7 @@
 ---
 title: Exploring the Cricket Soundscape A Guide to Field Recording
-date: 2024-05-05T05:09:51.696Z
-updated: 2024-05-06T05:09:51.696Z
+date: 2024-05-20T01:47:33.080Z
+updated: 2024-05-21T01:47:33.080Z
 tags: 
   - audio editing software
   - audio editing
@@ -1353,4 +1353,5 @@ Follow @Benjamin Arango
 <li><a href="https://video-creation-software.techidaily.com/new-video-brightness-correction-made-easy-best-editor-options/"><u>New Video Brightness Correction Made Easy Best Editor Options</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-apple-iphone-14-pro-max-location-on-skout-drfone-by-drfone-virtual-ios/"><u>How to Change Apple iPhone 14 Pro Max Location on Skout | Dr.fone</u></a></li>
 </ul></div>
+
 

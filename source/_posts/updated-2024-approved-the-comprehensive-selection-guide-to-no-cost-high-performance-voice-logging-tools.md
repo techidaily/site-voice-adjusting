@@ -1328,3 +1328,4 @@ For macOS 10.12 or later
 <li><a href="https://video-ai-editor.techidaily.com/the-math-behind-it-calculating-pixel-aspect-ratio-for-2024/"><u>The Math Behind It Calculating Pixel Aspect Ratio for 2024</u></a></li>
 </ul></div>
 
+

@@ -2066,3 +2066,4 @@ Follow @Shanoon Cox
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-quickly-turn-any-video-into-a-paper-rip-effect/"><u>New In 2024, Quickly Turn Any Video Into a Paper Rip Effect</u></a></li>
 </ul></div>
 
+

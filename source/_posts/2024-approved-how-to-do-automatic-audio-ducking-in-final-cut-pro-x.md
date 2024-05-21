@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Do Automatic Audio Ducking in Final Cut Pro X
-date: 2024-05-05T05:16:19.267Z
-updated: 2024-05-06T05:16:19.267Z
+date: 2024-05-20T01:47:50.852Z
+updated: 2024-05-21T01:47:50.852Z
 tags: 
   - audio editing software
   - audio editing
@@ -1323,4 +1323,5 @@ For macOS 10.12 or later
 <li><a href="https://android-frp.techidaily.com/how-can-we-bypass-samsung-galaxy-f34-5g-frp-by-drfone-android/"><u>How Can We Bypass Samsung Galaxy F34 5G FRP?</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Realme 12 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

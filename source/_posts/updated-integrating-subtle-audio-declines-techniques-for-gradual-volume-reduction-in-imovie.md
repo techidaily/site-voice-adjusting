@@ -1,7 +1,7 @@
 ---
 title: Updated Integrating Subtle Audio Declines Techniques for Gradual Volume Reduction in iMovie
-date: 2024-05-05T05:26:05.323Z
-updated: 2024-05-06T05:26:05.323Z
+date: 2024-05-20T01:48:23.977Z
+updated: 2024-05-21T01:48:23.977Z
 tags: 
   - audio editing software
   - audio editing
@@ -1343,4 +1343,5 @@ For macOS 10.14 or later
 <li><a href="https://unlock-android.techidaily.com/unlock-your-infinix-zero-5g-2023-turbos-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Infinix Zero 5G 2023 Turbos Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-8-hd-phone-without-password-by-drfone-android/"><u>How To Unlock Infinix Smart 8 HD Phone Without Password?</u></a></li>
 </ul></div>
+
 

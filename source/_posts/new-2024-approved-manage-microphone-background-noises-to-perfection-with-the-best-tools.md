@@ -1332,3 +1332,4 @@ Numerous effects and resources.
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-the-art-of-lower-thirds-elevating-your-videos-in-final-cut-pro-x/"><u>Updated The Art of Lower Thirds Elevating Your Videos in Final Cut Pro X</u></a></li>
 </ul></div>
 
+

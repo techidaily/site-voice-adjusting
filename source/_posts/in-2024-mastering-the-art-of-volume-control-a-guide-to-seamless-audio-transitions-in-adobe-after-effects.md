@@ -1,7 +1,7 @@
 ---
 title: In 2024, Mastering the Art of Volume Control A Guide to Seamless Audio Transitions in Adobe After Effects
-date: 2024-05-05T05:27:50.030Z
-updated: 2024-05-06T05:27:50.030Z
+date: 2024-05-20T01:48:28.886Z
+updated: 2024-05-21T01:48:28.886Z
 tags: 
   - audio editing software
   - audio editing
@@ -1060,4 +1060,5 @@ There are high chances of audio sound not being in the required pitch or volume.
 <li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-want-to-clone-voices-in-real-time-explore-these-github-repositories/"><u>Updated 2024 Approved Want to Clone Voices in Real-Time? Explore These GitHub Repositories</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-easy-step-by-step-tutorial-on-creating-a-lightroom-collage/"><u>Updated In 2024, Easy Step by Step Tutorial on Creating a Lightroom Collage</u></a></li>
 </ul></div>
+
 

@@ -947,3 +947,4 @@ Having learned how and where to download bird sound effects and the ease of doin
 <li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: Updated DIY Sound Capture How to Use Audacity Free of Charge
-date: 2024-05-05T05:20:06.898Z
-updated: 2024-05-06T05:20:06.898Z
+date: 2024-05-20T01:48:03.646Z
+updated: 2024-05-21T01:48:03.646Z
 tags: 
   - audio editing software
   - audio editing
@@ -1140,4 +1140,5 @@ Follow @Liza Brown
 <li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-lava-blaze-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Lava Blaze Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-8-plus-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 8 Plus | Dr.fone</u></a></li>
 </ul></div>
+
 

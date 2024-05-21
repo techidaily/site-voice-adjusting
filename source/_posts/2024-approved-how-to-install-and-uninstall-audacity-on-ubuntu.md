@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Install and Uninstall Audacity on Ubuntu
-date: 2024-05-05T05:25:01.281Z
-updated: 2024-05-06T05:25:01.281Z
+date: 2024-05-20T01:48:21.036Z
+updated: 2024-05-21T01:48:21.036Z
 tags: 
   - audio editing software
   - audio editing
@@ -1259,4 +1259,5 @@ Follow @Liza Brown
 <li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-tecno-spark-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Tecno Spark 20 | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-8-plus-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone 8 Plus to Excel CSV & vCard Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

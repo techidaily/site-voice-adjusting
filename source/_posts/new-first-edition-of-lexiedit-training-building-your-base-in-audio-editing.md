@@ -1,7 +1,7 @@
 ---
 title: New First Edition of LexiEdit Training Building Your Base in Audio Editing
-date: 2024-05-05T05:23:18.503Z
-updated: 2024-05-06T05:23:18.503Z
+date: 2024-05-20T01:48:13.686Z
+updated: 2024-05-21T01:48:13.686Z
 tags: 
   - audio editing software
   - audio editing
@@ -1344,4 +1344,5 @@ Vimeo Video Size Ratio and other requirements to upload your video to the Vimeo 
 <li><a href="https://smart-video-creator.techidaily.com/say-goodbye-to-upside-down-videos-a-quick-fix-guide-for-2024/"><u>Say Goodbye to Upside-Down Videos A Quick Fix Guide for 2024</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-a2-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi A2 Phone without PIN</u></a></li>
 </ul></div>
+
 

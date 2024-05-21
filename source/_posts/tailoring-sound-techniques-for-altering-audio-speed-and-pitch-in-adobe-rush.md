@@ -1,7 +1,7 @@
 ---
 title: Tailoring Sound Techniques for Altering Audio Speed & Pitch in Adobe Rush
-date: 2024-05-05T05:11:57.903Z
-updated: 2024-05-06T05:11:57.903Z
+date: 2024-05-20T01:47:38.087Z
+updated: 2024-05-21T01:47:38.087Z
 tags: 
   - audio editing software
   - audio editing
@@ -997,4 +997,5 @@ Numerous effects to choose from.
 <li><a href="https://video-creation-software.techidaily.com/new-simple-yet-powerful-video-editing-programs/"><u>New Simple Yet Powerful Video Editing Programs</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/can-you-watch-mov-movies-on-samsung-galaxy-s24plus-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can you watch MOV movies on Samsung Galaxy S24+ ?</u></a></li>
 </ul></div>
+
 

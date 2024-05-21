@@ -1,7 +1,7 @@
 ---
 title: Dynamic Sound Design Modifying Audio Velocity & Frequency in Adobe Rush
-date: 2024-05-05T05:09:13.543Z
-updated: 2024-05-06T05:09:13.543Z
+date: 2024-05-20T01:47:31.278Z
+updated: 2024-05-21T01:47:31.278Z
 tags: 
   - audio editing software
   - audio editing
@@ -1005,4 +1005,5 @@ That does it for this list, but I'm sure you could think of many other great mon
 <li><a href="https://sim-unlock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-your-iphone-13-pro-max-on-metropcs-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Your iPhone 13 Pro Max on MetroPCS</u></a></li>
 <li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-realme-gt-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Realme GT 3 | Dr.fone</u></a></li>
 </ul></div>
+
 

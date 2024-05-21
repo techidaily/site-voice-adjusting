@@ -1800,3 +1800,4 @@ For macOS 10.14 or later
 <li><a href="https://phone-solutions.techidaily.com/how-can-i-play-mov-files-on-samsung-galaxy-z-fold-5-by-aiseesoft-video-converter-play-mov-on-android/"><u>How can I play .mov files on Samsung Galaxy Z Fold 5 ?</u></a></li>
 </ul></div>
 
+

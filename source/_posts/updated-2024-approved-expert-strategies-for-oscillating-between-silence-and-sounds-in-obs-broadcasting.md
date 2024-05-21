@@ -1911,3 +1911,4 @@ There are many unique features you should consider when you’re choosing the be
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-this-article-you-will-learn-how-to-record-creative-cinematic-videos-using-a-smartphone-and-edit-the-video-with-wondershare-filmora/"><u>Updated In This Article, You Will Learn How to Record Creative Cinematic Videos Using a Smartphone and Edit the Video with Wondershare Filmora</u></a></li>
 </ul></div>
 
+

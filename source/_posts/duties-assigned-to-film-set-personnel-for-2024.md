@@ -1,7 +1,7 @@
 ---
 title: Duties Assigned to Film Set Personnel for 2024
-date: 2024-05-05T05:20:11.023Z
-updated: 2024-05-06T05:20:11.023Z
+date: 2024-05-20T01:48:03.894Z
+updated: 2024-05-21T01:48:03.894Z
 tags: 
   - audio editing software
   - audio editing
@@ -1076,4 +1076,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-on-apple-iphone-7-plus-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock On Apple iPhone 7 Plus Online</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-samsung-galaxy-f54-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Samsung Galaxy F54 5G Phone Using PC | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Solemn Sonatas Classic Music Selections to Enhance Wedding Cinematography
-date: 2024-05-05T05:11:39.493Z
-updated: 2024-05-06T05:11:39.493Z
+date: 2024-05-20T01:47:37.496Z
+updated: 2024-05-21T01:47:37.496Z
 tags: 
   - audio editing software
   - audio editing
@@ -1128,4 +1128,5 @@ Follow @Liza Brown
 <li><a href="https://smart-video-creator.techidaily.com/2024-approved-mastering-fcpx-subtitles-a-comprehensive-tutorial-and-beyond/"><u>2024 Approved Mastering FCPX Subtitles A Comprehensive Tutorial and Beyond</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-infinix-note-30-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Infinix Note 30 Phone When You Forget the Password</u></a></li>
 </ul></div>
+
 

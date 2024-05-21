@@ -1342,3 +1342,4 @@ For macOS 10.12 or later
 <li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-mastering-image-proportions-a-step-by-step-ratio-guide/"><u>Updated 2024 Approved Mastering Image Proportions A Step-by-Step Ratio Guide</u></a></li>
 </ul></div>
 
+

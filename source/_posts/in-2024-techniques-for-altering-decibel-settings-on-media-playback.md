@@ -1,7 +1,7 @@
 ---
 title: In 2024, Techniques for Altering Decibel Settings on Media Playback
-date: 2024-05-05T05:33:26.564Z
-updated: 2024-05-06T05:33:26.564Z
+date: 2024-05-20T01:48:43.675Z
+updated: 2024-05-21T01:48:43.675Z
 tags: 
   - audio editing software
   - audio editing
@@ -1418,4 +1418,5 @@ Follow @Benjamin Arango
 <li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-k11x-by-fonelab-android-recover-video/"><u>How to recover old videos from your K11x</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-how-to-convert-videos-to-dvd-format-on-windows-and-mac-computers/"><u>New In 2024, How to Convert Videos to DVD Format on Windows and Mac Computers</u></a></li>
 </ul></div>
+
 

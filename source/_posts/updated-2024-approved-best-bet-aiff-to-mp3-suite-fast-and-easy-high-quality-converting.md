@@ -1351,3 +1351,4 @@ Follow @Liza Brown
 <li><a href="https://video-ai-editor.techidaily.com/mastering-final-cut-pro-how-to-flip-a-clip-in-4-simple-steps/"><u>Mastering Final Cut Pro How to Flip a Clip in 4 Simple Steps</u></a></li>
 </ul></div>
 
+

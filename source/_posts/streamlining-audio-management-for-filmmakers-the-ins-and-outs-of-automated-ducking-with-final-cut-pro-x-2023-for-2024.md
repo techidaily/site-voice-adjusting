@@ -1,7 +1,7 @@
 ---
 title: Streamlining Audio Management for Filmmakers The Ins and Outs of Automated Ducking with Final Cut Pro X 2023 for 2024
-date: 2024-05-05T05:32:58.987Z
-updated: 2024-05-06T05:32:58.987Z
+date: 2024-05-20T01:48:42.679Z
+updated: 2024-05-21T01:48:42.679Z
 tags: 
   - audio editing software
   - audio editing
@@ -1689,4 +1689,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://activate-lock.techidaily.com/top-7-icloud-activation-bypass-tools-for-your-apple-iphone-7-plus-by-drfone-ios/"><u>Top 7 iCloud Activation Bypass Tools For your Apple iPhone 7 Plus</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-14-pro-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 14 Pro Prevention & Solution</u></a></li>
 </ul></div>
+
 

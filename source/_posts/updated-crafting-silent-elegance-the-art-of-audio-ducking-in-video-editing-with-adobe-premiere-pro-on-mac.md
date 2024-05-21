@@ -1,7 +1,7 @@
 ---
 title: Updated Crafting Silent Elegance The Art of Audio Ducking in Video Editing with Adobe Premiere Pro on Mac
-date: 2024-05-05T05:18:41.440Z
-updated: 2024-05-06T05:18:41.440Z
+date: 2024-05-20T01:47:58.960Z
+updated: 2024-05-21T01:47:58.960Z
 tags: 
   - audio editing software
   - audio editing
@@ -1321,4 +1321,5 @@ Follow @Shanoon Cox
 <li><a href="https://techidaily.com/undeleted-lost-videos-from-oppo-a1-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Oppo A1 5G</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-oneplus-nord-n30-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of OnePlus Nord N30 5G? Try These Fixes</u></a></li>
 </ul></div>
+
 

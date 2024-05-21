@@ -1,7 +1,7 @@
 ---
 title: New Mastering Dynamic Volume Control in Final Cut Pro X An Introduction to Automatic Audio Ducking
-date: 2024-05-05T05:27:13.214Z
-updated: 2024-05-06T05:27:13.214Z
+date: 2024-05-20T01:48:27.425Z
+updated: 2024-05-21T01:48:27.425Z
 tags: 
   - audio editing software
   - audio editing
@@ -1272,4 +1272,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://howto.techidaily.com/why-your-infinix-note-30-pro-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Infinix Note 30 Pro Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-iphone-13-pro-max-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 13 Pro Max Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
 </ul></div>
+
 

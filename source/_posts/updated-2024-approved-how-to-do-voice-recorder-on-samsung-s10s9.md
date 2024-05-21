@@ -1715,3 +1715,4 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-rules-of-three-or-thirds-is-a-classic-trick-in-photography-and-the-result-of-video-and-photo-is-really-great-this-article-will-show-you-how-to-u/"><u>New In 2024, Rules of Three or Thirds Is a Classic Trick in Photography, and the Result of Video and Photo Is Really Great. This Article Will Show You How to Use Rule of Thirds to Make a Better Video</u></a></li>
 </ul></div>
 
+

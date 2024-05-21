@@ -1,7 +1,7 @@
 ---
 title: New Capturing Your Computers Sounds A Guide to Using Audacity
-date: 2024-05-05T05:17:36.545Z
-updated: 2024-05-06T05:17:36.545Z
+date: 2024-05-20T01:47:55.389Z
+updated: 2024-05-21T01:47:55.389Z
 tags: 
   - audio editing software
   - audio editing
@@ -1400,4 +1400,5 @@ Follow @Benjamin Arango
 <li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-best-10-online-waveform-generators-you-should-try/"><u>Updated 2024 Approved Best 10 Online Waveform Generators You Should Try</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-wav-converter-mastery-a-step-by-step-tutorial/"><u>Updated 2024 Approved Wav Converter Mastery A Step-by-Step Tutorial</u></a></li>
 </ul></div>
+
 

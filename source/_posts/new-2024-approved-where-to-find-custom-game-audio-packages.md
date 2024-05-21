@@ -1007,3 +1007,4 @@ Follow @Benjamin Arango
 <li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-samsung-galaxy-a05s-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Samsung Galaxy A05s? Tips, Tricks and Helpful Advice</u></a></li>
 </ul></div>
 
+

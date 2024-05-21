@@ -1041,3 +1041,4 @@ For macOS 10.12 or later
 <li><a href="https://video-ai-editor.techidaily.com/brightness-and-contrast-video-editors-compared/"><u>Brightness and Contrast Video Editors Compared</u></a></li>
 </ul></div>
 
+

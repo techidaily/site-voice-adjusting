@@ -1,7 +1,7 @@
 ---
 title: New From Unpolished to Perfected Leveraging AutoTune & Plugins in the Audacity Environment
-date: 2024-05-05T05:23:54.140Z
-updated: 2024-05-06T05:23:54.140Z
+date: 2024-05-20T01:48:16.069Z
+updated: 2024-05-21T01:48:16.069Z
 tags: 
   - audio editing software
   - audio editing
@@ -1633,4 +1633,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://techidaily.com/samsung-galaxy-z-flip-5-can-t-play-mp4-video-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Samsung Galaxy Z Flip 5 can't play MP4 video files</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-create-split-screen-videos-for-free-online-and-offline-editor-reviews/"><u>Updated 2024 Approved Create Split Screen Videos for Free Online and Offline Editor Reviews</u></a></li>
 </ul></div>
+
 

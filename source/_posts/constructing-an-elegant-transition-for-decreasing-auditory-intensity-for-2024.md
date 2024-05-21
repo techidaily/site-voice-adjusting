@@ -1,7 +1,7 @@
 ---
 title: Constructing an Elegant Transition for Decreasing Auditory Intensity for 2024
-date: 2024-05-05T05:18:24.570Z
-updated: 2024-05-06T05:18:24.570Z
+date: 2024-05-20T01:47:57.951Z
+updated: 2024-05-21T01:47:57.951Z
 tags: 
   - audio editing software
   - audio editing
@@ -1071,4 +1071,5 @@ Increasing the volume of a video to make the dialogues sound properly and amplif
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-change-aspect-ratio-in-fcp-from-4-3-to-16-9-and-beyond/"><u>Updated 2024 Approved Change Aspect Ratio in FCP From 4 3 to 16 9 and Beyond</u></a></li>
 <li><a href="https://review-topics.techidaily.com/recover-iphone-6-plus-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 6 Plus Data From iTunes | Dr.fone</u></a></li>
 </ul></div>
+
 

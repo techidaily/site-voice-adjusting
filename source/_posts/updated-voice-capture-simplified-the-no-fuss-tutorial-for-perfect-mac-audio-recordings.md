@@ -1490,3 +1490,4 @@ For macOS 10.12 or later
 <li><a href="https://howto.techidaily.com/how-to-restore-a-bricked-realme-12-pro-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Realme 12 Pro 5G Back to Operation | Dr.fone</u></a></li>
 </ul></div>
 
+

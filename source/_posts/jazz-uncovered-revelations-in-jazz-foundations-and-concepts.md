@@ -1,7 +1,7 @@
 ---
 title: Jazz Uncovered Revelations in Jazz Foundations and Concepts
-date: 2024-05-05T05:10:28.329Z
-updated: 2024-05-06T05:10:28.329Z
+date: 2024-05-20T01:47:35.405Z
+updated: 2024-05-21T01:47:35.405Z
 tags: 
   - audio editing software
   - audio editing
@@ -1356,4 +1356,5 @@ For macOS 10.12 or later
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-motorola-razr-40-ultra-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Motorola Razr 40 Ultra for Parents | Dr.fone</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/new-flip-it-how-to-reverse-your-tiktok-videos-like-a-pro-2023-edition-for-2024/"><u>New Flip It! How to Reverse Your TikTok Videos Like a Pro 2023 Edition for 2024</u></a></li>
 </ul></div>
+
 

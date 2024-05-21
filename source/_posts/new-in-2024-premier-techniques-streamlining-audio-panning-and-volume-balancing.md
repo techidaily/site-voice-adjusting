@@ -1122,3 +1122,4 @@ Follow @Liza Brown
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-nokia-c22-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Nokia C22 to iPad | Dr.fone</u></a></li>
 </ul></div>
 
+

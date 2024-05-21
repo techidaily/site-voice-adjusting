@@ -1,7 +1,7 @@
 ---
 title: Audacity Tutorial Boost or Mute Your Sound Effectively for 2024
-date: 2024-05-05T05:15:23.014Z
-updated: 2024-05-06T05:15:23.014Z
+date: 2024-05-20T01:47:48.040Z
+updated: 2024-05-21T01:47:48.040Z
 tags: 
   - audio editing software
   - audio editing
@@ -2106,4 +2106,5 @@ Simply upload your audio recording, then choose the Auto Transcribe option. You 
 <li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-sony-xperia-1-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Sony Xperia 1 V | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-hardware-drivers-with-windows-device-manager-on-windows-11-by-drivereasy-guide/"><u>How to identify some outdated hardware drivers with Windows Device Manager on Windows 11</u></a></li>
 </ul></div>
+
 

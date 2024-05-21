@@ -1952,3 +1952,4 @@ For macOS 10.14 or later
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-aspect-ratio-conversion-in-final-cut-pro-a-quick-and-easy-guide/"><u>Updated 2024 Approved Aspect Ratio Conversion in Final Cut Pro A Quick and Easy Guide</u></a></li>
 </ul></div>
 
+

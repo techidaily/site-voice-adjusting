@@ -1,7 +1,7 @@
 ---
 title: The Art of Audio Zoning Implementing Ducking Effects for Clear Soundscapes
-date: 2024-05-05T05:12:01.841Z
-updated: 2024-05-06T05:12:01.841Z
+date: 2024-05-20T01:47:38.219Z
+updated: 2024-05-21T01:47:38.219Z
 tags: 
   - audio editing software
   - audio editing
@@ -1429,4 +1429,5 @@ We are dealing with online businesses and online lectures at the moment. It is h
 <li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-13-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 13 Pro Max without Passcode or Face ID</u></a></li>
 <li><a href="https://howto.techidaily.com/why-is-my-vivo-s17t-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Vivo S17t Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
+
 

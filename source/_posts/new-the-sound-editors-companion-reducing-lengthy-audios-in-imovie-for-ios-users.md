@@ -1390,3 +1390,4 @@ For macOS 10.12 or later
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-3-ways-to-export-contacts-from-apple-iphone-12-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 3 Ways to Export Contacts from Apple iPhone 12 to Excel CSV & vCard Easily | Dr.fone</u></a></li>
 </ul></div>
 
+

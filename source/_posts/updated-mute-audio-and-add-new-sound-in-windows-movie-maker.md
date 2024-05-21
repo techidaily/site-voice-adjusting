@@ -1,7 +1,7 @@
 ---
 title: Updated Mute Audio and Add New Sound in Windows Movie Maker
-date: 2024-05-05T05:28:35.314Z
-updated: 2024-05-06T05:28:35.314Z
+date: 2024-05-20T01:48:31.411Z
+updated: 2024-05-21T01:48:31.411Z
 tags: 
   - audio editing software
   - audio editing
@@ -1113,4 +1113,5 @@ Thus, you had an interesting discussion about the availability of fart sounds in
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-unleash-your-creativity-top-10-free-video-editing-apps-for-ubuntu/"><u>In 2024, Unleash Your Creativity Top 10 Free Video Editing Apps for Ubuntu</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-13-mini-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 13 mini</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering OBS Audio Levels Techniques for Dynamic Ducking and Lifting for 2024
-date: 2024-05-05T05:27:24.866Z
-updated: 2024-05-06T05:27:24.866Z
+date: 2024-05-20T01:48:27.905Z
+updated: 2024-05-21T01:48:27.905Z
 tags: 
   - audio editing software
   - audio editing
@@ -1693,4 +1693,5 @@ With all these details, you can clear all your doubts or confusion, such as - ho
 <li><a href="https://ai-video-tools.techidaily.com/2024-approved-yosemite-video-editing-101-a-beginners-tutorial-for-mac-os-x/"><u>2024 Approved Yosemite Video Editing 101 A Beginners Tutorial for Mac OS X</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/resolve-your-iphone-12-pro-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your iPhone 12 Pro Keeps Asking for Outlook Password</u></a></li>
 </ul></div>
+
 

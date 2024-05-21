@@ -1420,3 +1420,4 @@ For macOS 10.12 or later
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-infinix-hot-40-pro-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Infinix Hot 40 Pro Without Power Button | Dr.fone</u></a></li>
 </ul></div>
 
+

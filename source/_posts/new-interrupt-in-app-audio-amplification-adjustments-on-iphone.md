@@ -1,7 +1,7 @@
 ---
 title: New Interrupt In-App Audio Amplification Adjustments on iPhone
-date: 2024-05-05T05:26:06.905Z
-updated: 2024-05-06T05:26:06.905Z
+date: 2024-05-20T01:48:23.997Z
+updated: 2024-05-21T01:48:23.997Z
 tags: 
   - audio editing software
   - audio editing
@@ -1509,4 +1509,5 @@ For macOS 10.12 or later
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-realme-c33-2023-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Realme C33 2023 Phone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-vivo-v30-pro-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Vivo V30 Pro Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
 </ul></div>
+
 

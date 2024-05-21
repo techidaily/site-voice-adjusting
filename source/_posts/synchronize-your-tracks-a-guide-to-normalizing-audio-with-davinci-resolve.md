@@ -1,7 +1,7 @@
 ---
 title: Synchronize Your Tracks A Guide to Normalizing Audio with DaVinci Resolve
-date: 2024-05-05T05:11:55.289Z
-updated: 2024-05-06T05:11:55.289Z
+date: 2024-05-20T01:47:38.034Z
+updated: 2024-05-21T01:47:38.034Z
 tags: 
   - audio editing software
   - audio editing
@@ -1107,4 +1107,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-your-apple-iphone-7-display-drfone-by-drfone-ios/"><u>How to Screen Mirror your Apple iPhone 7 Display? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-11x-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on 11X 5G</u></a></li>
 </ul></div>
+
 

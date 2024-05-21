@@ -1309,3 +1309,4 @@ For macOS 10.12 or later
 <li><a href="https://fix-guide.techidaily.com/nubia-red-magic-8s-proplus-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nubia Red Magic 8S Pro+ Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 
+

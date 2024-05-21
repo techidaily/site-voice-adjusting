@@ -1,7 +1,7 @@
 ---
 title: New Behind the Lens Understanding the Indispensable Roles of Crew Members in Filming
-date: 2024-05-05T05:16:35.951Z
-updated: 2024-05-06T05:16:35.951Z
+date: 2024-05-20T01:47:51.527Z
+updated: 2024-05-21T01:47:51.527Z
 tags: 
   - audio editing software
   - audio editing
@@ -1449,4 +1449,5 @@ For macOS 10.12 or later
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-guide-to-using-luts-perfectly-in-final-cut-pro/"><u>Updated 2024 Approved Guide To Using Luts Perfectly in Final Cut Pro</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/the-best-mac-video-editing-tools-for-beginners-a-comprehensive-guide-for-2024/"><u>The Best Mac Video Editing Tools for Beginners A Comprehensive Guide for 2024</u></a></li>
 </ul></div>
+
 

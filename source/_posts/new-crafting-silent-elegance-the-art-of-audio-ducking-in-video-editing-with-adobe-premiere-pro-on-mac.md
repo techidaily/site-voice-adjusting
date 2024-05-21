@@ -1,7 +1,7 @@
 ---
 title: New Crafting Silent Elegance The Art of Audio Ducking in Video Editing with Adobe Premiere Pro on Mac
-date: 2024-05-05T05:18:41.175Z
-updated: 2024-05-06T05:18:41.175Z
+date: 2024-05-20T01:47:58.955Z
+updated: 2024-05-21T01:47:58.955Z
 tags: 
   - audio editing software
   - audio editing
@@ -1349,4 +1349,5 @@ For macOS 10.12 or later
 <li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/new-in-2024-optimal-video-size-for-instagram-a-complete-guide/"><u>New In 2024, Optimal Video Size for Instagram A Complete Guide</u></a></li>
 </ul></div>
+
 

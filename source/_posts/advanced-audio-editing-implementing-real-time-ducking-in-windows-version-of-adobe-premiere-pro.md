@@ -1,7 +1,7 @@
 ---
 title: Advanced Audio Editing Implementing Real-Time Ducking in Windows Version of Adobe Premiere Pro
-date: 2024-05-05T05:08:08.895Z
-updated: 2024-05-06T05:08:08.895Z
+date: 2024-05-20T01:47:28.740Z
+updated: 2024-05-21T01:47:28.740Z
 tags: 
   - audio editing software
   - audio editing
@@ -1306,4 +1306,5 @@ Follow @Liza Brown
 <li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Samsung Galaxy F54 5G | Dr.fone</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/new-in-2024-fast-forward-your-videos-the-ultimate-time-lapse-creation-tutorial/"><u>New In 2024, Fast Forward Your Videos The Ultimate Time Lapse Creation Tutorial</u></a></li>
 </ul></div>
+
 

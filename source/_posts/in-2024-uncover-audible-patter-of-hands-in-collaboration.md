@@ -1691,3 +1691,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-vdieo-software.techidaily.com/new-from-beginner-to-pro-mastering-jump-cuts-in-fcpx/"><u>New From Beginner to Pro Mastering Jump Cuts in FCPX</u></a></li>
 </ul></div>
 
+

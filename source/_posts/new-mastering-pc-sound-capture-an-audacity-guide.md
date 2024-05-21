@@ -1,7 +1,7 @@
 ---
 title: New Mastering PC Sound Capture An Audacity Guide
-date: 2024-05-05T05:27:25.125Z
-updated: 2024-05-06T05:27:25.125Z
+date: 2024-05-20T01:48:27.909Z
+updated: 2024-05-21T01:48:27.909Z
 tags: 
   - audio editing software
   - audio editing
@@ -724,4 +724,5 @@ Wondershare Filmora has all the options to denoise audio or save a video's vocal
 <li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Gionee F3 Pro | Dr.fone</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/new-windows-live-movie-maker-tutorial-creating-stunning-slow-motion-videos/"><u>New Windows Live Movie Maker Tutorial Creating Stunning Slow Motion Videos</u></a></li>
 </ul></div>
+
 

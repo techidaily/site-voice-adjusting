@@ -1,7 +1,7 @@
 ---
 title: Progressive Audio Fade-Out Effects in Adobe Rushs 2023 Update
-date: 2024-05-05T05:11:18.893Z
-updated: 2024-05-06T05:11:18.893Z
+date: 2024-05-20T01:47:36.779Z
+updated: 2024-05-21T01:47:36.779Z
 tags: 
   - audio editing software
   - audio editing
@@ -1154,4 +1154,5 @@ Follow @Benjamin Arango
 <li><a href="https://smart-video-editing.techidaily.com/updated-slow-motion-video-playback-on-vlc-a-beginners-guide-for-2024/"><u>Updated Slow Motion Video Playback on VLC A Beginners Guide for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-introduction-to-the-best-cinematic-luts-in-the-market-for-2024/"><u>New Introduction to The Best Cinematic LUTs in The Market for 2024</u></a></li>
 </ul></div>
+
 

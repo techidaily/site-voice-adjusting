@@ -857,3 +857,4 @@ There are high chances of audio sound not being in the required pitch or volume.
 <li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-guide-to-facebook-video-cover-size-and-dimensions/"><u>Updated The Ultimate Guide to Facebook Video Cover Size and Dimensions</u></a></li>
 </ul></div>
 
+

@@ -1059,3 +1059,4 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-htc-u23-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on HTC U23?</u></a></li>
 </ul></div>
 
+

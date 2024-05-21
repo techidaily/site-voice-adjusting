@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Setting Up Lame MP3 Support in Audacity
-date: 2024-05-05T05:31:33.765Z
-updated: 2024-05-06T05:31:33.765Z
+date: 2024-05-20T01:48:39.883Z
+updated: 2024-05-21T01:48:39.883Z
 tags: 
   - audio editing software
   - audio editing
@@ -1207,4 +1207,5 @@ Follow @Liza Brown
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-from-iphone-13-mini-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud From iPhone 13 mini Smoothly</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-huawei-nova-y91-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Huawei Nova Y91 Without Power Button | Dr.fone</u></a></li>
 </ul></div>
+
 

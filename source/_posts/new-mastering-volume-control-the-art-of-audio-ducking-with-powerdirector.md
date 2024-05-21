@@ -1,7 +1,7 @@
 ---
 title: New Mastering Volume Control The Art of Audio Ducking with PowerDirector
-date: 2024-05-05T05:27:58.113Z
-updated: 2024-05-06T05:27:58.113Z
+date: 2024-05-20T01:48:29.361Z
+updated: 2024-05-21T01:48:29.361Z
 tags: 
   - audio editing software
   - audio editing
@@ -1530,4 +1530,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-editing-video.techidaily.com/new-4-simple-methods-for-making-a-high-quality-recap-video-for-2024/"><u>New 4 Simple Methods for Making a High-Quality Recap Video for 2024</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-honor-magic-5-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Honor Magic 5 Pro Phones with/without a PC</u></a></li>
 </ul></div>
+
 

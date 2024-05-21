@@ -1,7 +1,7 @@
 ---
 title: From Recording to Broadcast Creating Professional Podcasts in Audacity
-date: 2024-05-05T05:10:02.882Z
-updated: 2024-05-06T05:10:02.882Z
+date: 2024-05-20T01:47:33.895Z
+updated: 2024-05-21T01:47:33.895Z
 tags: 
   - audio editing software
   - audio editing
@@ -1437,4 +1437,5 @@ Numerous effects to choose from.
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-oneplus-11-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track OnePlus 11 5G Location | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/how-does-sonys-sandq-feature-help-recording-slow-motion-video-for-2024/"><u>How Does Sonys S&Q Feature Help Recording Slow-Motion Video for 2024</u></a></li>
 </ul></div>
+
 

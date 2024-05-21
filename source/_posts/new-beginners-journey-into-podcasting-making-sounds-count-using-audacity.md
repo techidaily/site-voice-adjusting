@@ -1,7 +1,7 @@
 ---
 title: New Beginners Journey Into Podcasting Making Sounds Count Using Audacity
-date: 2024-05-05T05:16:35.690Z
-updated: 2024-05-06T05:16:35.690Z
+date: 2024-05-20T01:47:51.513Z
+updated: 2024-05-21T01:47:51.513Z
 tags: 
   - audio editing software
   - audio editing
@@ -1984,4 +1984,5 @@ Follow @Benjamin Arango
 <li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-apple-iphone-13-pro-max-in-3-ways-drfone-by-drfone-virtual-ios/"><u>In 2024, Edit and Send Fake Location on Telegram For your Apple iPhone 13 Pro Max in 3 Ways | Dr.fone</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-unlock-pro-level-videos-top-free-online-video-editing-tools/"><u>Updated In 2024, Unlock Pro-Level Videos Top Free Online Video Editing Tools</u></a></li>
 </ul></div>
+
 

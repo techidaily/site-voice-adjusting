@@ -1503,3 +1503,4 @@ Overall, make sure you read the pros and cons attached to using each method so y
 <li><a href="https://howto.techidaily.com/why-your-infinix-smart-8-pro-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Infinix Smart 8 Pro Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 
+

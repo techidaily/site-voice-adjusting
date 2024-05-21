@@ -1,7 +1,7 @@
 ---
 title: In 2024, Creating a Diminuendo Effect in iMovie Audio Tracks
-date: 2024-05-05T05:18:45.150Z
-updated: 2024-05-06T05:18:45.150Z
+date: 2024-05-20T01:47:59.136Z
+updated: 2024-05-21T01:47:59.136Z
 tags: 
   - audio editing software
   - audio editing
@@ -1092,4 +1092,5 @@ Vimeo Video Size Ratio and other requirements to upload your video to the Vimeo 
 <li><a href="https://smart-video-creator.techidaily.com/new-mavericks-movie-maker-how-to-create-stunning-videos/"><u>New Mavericks Movie Maker How to Create Stunning Videos</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-samsung-galaxy-a15-5g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Samsung Galaxy A15 5G Location | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New Crafting Professional Productions Techniques of Audio Ducking and Fading with PowerDirectorutility
-date: 2024-05-05T05:18:39.856Z
-updated: 2024-05-06T05:18:39.856Z
+date: 2024-05-20T01:47:58.838Z
+updated: 2024-05-21T01:47:58.838Z
 tags: 
   - audio editing software
   - audio editing
@@ -1184,4 +1184,5 @@ Follow @Benjamin Arango
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-mac-users-install-lumafusion-or-find-equivalent-video-editors/"><u>Updated In 2024, Mac Users Install Lumafusion or Find Equivalent Video Editors</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-top-rated-free-whiteboard-animation-software-for-pc-for-2024/"><u>Updated Top-Rated Free Whiteboard Animation Software for PC for 2024</u></a></li>
 </ul></div>
+
 

@@ -1322,3 +1322,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-zte-blade-a73-5g-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the ZTE Blade A73 5G password or pattern lock</u></a></li>
 </ul></div>
 
+

@@ -1950,3 +1950,4 @@ For macOS 10.14 or later
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-note-30i-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Infinix Note 30i to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
 </ul></div>
 
+

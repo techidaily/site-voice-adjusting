@@ -1204,3 +1204,4 @@ For macOS 10.12 or later
 <li><a href="https://video-content-creator.techidaily.com/updated-unleash-your-creativity-how-to-edit-gopro-videos-on-mac/"><u>Updated Unleash Your Creativity How to Edit GoPro Videos on Mac</u></a></li>
 </ul></div>
 
+

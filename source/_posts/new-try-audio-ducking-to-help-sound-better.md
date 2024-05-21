@@ -1,7 +1,7 @@
 ---
 title: New Try Audio Ducking to Help Sound Better
-date: 2024-05-05T05:15:31.979Z
-updated: 2024-05-06T05:15:31.979Z
+date: 2024-05-20T01:47:48.424Z
+updated: 2024-05-21T01:47:48.424Z
 tags: 
   - audio editing software
   - audio editing
@@ -994,4 +994,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-driven-video-production.techidaily.com/new-how-to-stabilize-shaky-videos-in-after-effects-3-ways/"><u>New How to Stabilize Shaky Videos in After Effects 3 Ways</u></a></li>
 <li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-lava-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Lava</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New Mastering Audacity A Comprehensive Guide to Podcast Production
-date: 2024-05-05T05:26:59.486Z
-updated: 2024-05-06T05:26:59.486Z
+date: 2024-05-20T01:48:26.697Z
+updated: 2024-05-21T01:48:26.697Z
 tags: 
   - audio editing software
   - audio editing
@@ -1381,4 +1381,5 @@ The traditional ways of recording audio have gone obsolete now. The Android and 
 <li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Sony Xperia 10 V | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-vivo-v27-pro-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Vivo V27 Pro</u></a></li>
 </ul></div>
+
 

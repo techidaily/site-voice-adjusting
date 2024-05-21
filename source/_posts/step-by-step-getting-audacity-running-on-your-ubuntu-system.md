@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Getting Audacity Running on Your Ubuntu System
-date: 2024-05-05T05:11:46.854Z
-updated: 2024-05-06T05:11:46.854Z
+date: 2024-05-20T01:47:37.767Z
+updated: 2024-05-21T01:47:37.767Z
 tags: 
   - audio editing software
   - audio editing
@@ -1148,4 +1148,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-oneplus-11r-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For OnePlus 11R? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/undelete-lost-pictures-from-yuva-2-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Yuva 2.</u></a></li>
 </ul></div>
+
 

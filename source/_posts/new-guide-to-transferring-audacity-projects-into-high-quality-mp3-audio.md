@@ -1,7 +1,7 @@
 ---
 title: New Guide to Transferring Audacity Projects Into High-Quality MP3 Audio
-date: 2024-05-05T05:24:09.265Z
-updated: 2024-05-06T05:24:09.265Z
+date: 2024-05-20T01:48:17.012Z
+updated: 2024-05-21T01:48:17.012Z
 tags: 
   - audio editing software
   - audio editing
@@ -1041,4 +1041,5 @@ You may want to extract drums from your favorite songs for various reasons. Mayb
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-cross-platform-video-editing-made-easy-a-chromebook-users-guide/"><u>2024 Approved Cross-Platform Video Editing Made Easy A Chromebook Users Guide</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-2-ways-to-fade-in-text-in-premiere-pro-for-2024/"><u>Updated 2 Ways to Fade in Text in Premiere Pro for 2024</u></a></li>
 </ul></div>
+
 

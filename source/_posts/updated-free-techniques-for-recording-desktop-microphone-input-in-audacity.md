@@ -1,7 +1,7 @@
 ---
 title: Updated Free Techniques for Recording Desktop Microphone Input in Audacity
-date: 2024-05-05T05:23:32.521Z
-updated: 2024-05-06T05:23:32.521Z
+date: 2024-05-20T01:48:14.790Z
+updated: 2024-05-21T01:48:14.790Z
 tags: 
   - audio editing software
   - audio editing
@@ -1278,4 +1278,5 @@ Numerous effects, footage and audio.
 <li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-motorola-moto-g-stylus-5g-2023-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Motorola Moto G Stylus 5G (2023) Pattern Lock Screen</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-oppo-reno-10-5g-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Oppo Reno 10 5G Phone</u></a></li>
 </ul></div>
+
 

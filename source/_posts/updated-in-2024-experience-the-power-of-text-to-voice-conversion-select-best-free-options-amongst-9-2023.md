@@ -1167,3 +1167,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://video-ai-editor.techidaily.com/pixel-perfect-calculating-aspect-ratios-with-ease/"><u>Pixel Perfect Calculating Aspect Ratios with Ease</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: How To Normalize Audio In DaVinci Resolve
-date: 2024-05-05T05:11:04.501Z
-updated: 2024-05-06T05:11:04.501Z
+date: 2024-05-20T01:47:36.403Z
+updated: 2024-05-21T01:47:36.403Z
 tags: 
   - audio editing software
   - audio editing
@@ -1193,4 +1193,5 @@ Follow @Benjamin Arango
 <li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/updated-ditch-sony-vegas-explore-the-best-video-editing-alternatives-for-windows/"><u>Updated Ditch Sony Vegas Explore the Best Video Editing Alternatives for Windows</u></a></li>
 </ul></div>
+
 

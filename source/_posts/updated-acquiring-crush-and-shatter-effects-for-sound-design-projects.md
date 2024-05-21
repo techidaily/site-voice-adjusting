@@ -1,7 +1,7 @@
 ---
 title: Updated Acquiring Crush and Shatter Effects for Sound Design Projects
-date: 2024-05-05T05:14:35.984Z
-updated: 2024-05-06T05:14:35.984Z
+date: 2024-05-20T01:47:45.285Z
+updated: 2024-05-21T01:47:45.285Z
 tags: 
   - audio editing software
   - audio editing
@@ -1967,4 +1967,5 @@ Follow @Benjamin Arango
 <li><a href="https://techidaily.com/undelete-lost-pictures-from-poco-x6-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Poco X6.</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/new-top-10-intro-design-websites-to-take-your-content-to-next-level/"><u>New Top 10 Intro Design Websites to Take Your Content to Next Level</u></a></li>
 </ul></div>
+
 

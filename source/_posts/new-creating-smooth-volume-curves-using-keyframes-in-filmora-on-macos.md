@@ -1,7 +1,7 @@
 ---
 title: New Creating Smooth Volume Curves Using Keyframes in Filmora on macOS
-date: 2024-05-05T05:18:46.209Z
-updated: 2024-05-06T05:18:46.209Z
+date: 2024-05-20T01:47:59.206Z
+updated: 2024-05-21T01:47:59.206Z
 tags: 
   - audio editing software
   - audio editing
@@ -1256,4 +1256,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://smart-video-creator.techidaily.com/2024-approved-unleash-your-creativity-gopro-video-editing-on-mac-made-easy/"><u>2024 Approved Unleash Your Creativity GoPro Video Editing on Mac Made Easy</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-honor-magic-6-lite-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Honor Magic 6 Lite</u></a></li>
 </ul></div>
+
 

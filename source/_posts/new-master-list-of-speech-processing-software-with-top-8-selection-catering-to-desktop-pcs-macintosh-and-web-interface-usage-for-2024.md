@@ -1704,3 +1704,4 @@ Follow @Liza Brown
 <li><a href="https://techidaily.com/how-to-soft-reset-tecno-spark-10-4g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Tecno Spark 10 4G phone? | Dr.fone</u></a></li>
 </ul></div>
 
+

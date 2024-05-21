@@ -1,7 +1,7 @@
 ---
 title: New The Art of Timbre Control Lowering Song Intensity Preserving Pitch Integrity
-date: 2024-05-05T05:33:54.746Z
-updated: 2024-05-06T05:33:54.746Z
+date: 2024-05-20T01:48:44.401Z
+updated: 2024-05-21T01:48:44.401Z
 tags: 
   - audio editing software
   - audio editing
@@ -1369,4 +1369,5 @@ For macOS 10.12 or later
 <li><a href="https://iphone-transfer.techidaily.com/transfer-your-apple-iphone-12-mini-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>Transfer your Apple iPhone 12 mini Apps to New iPhone | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-iphone-13-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your iPhone 13</u></a></li>
 </ul></div>
+
 

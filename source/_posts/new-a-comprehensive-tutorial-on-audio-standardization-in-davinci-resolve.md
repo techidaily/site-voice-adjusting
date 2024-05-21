@@ -1,7 +1,7 @@
 ---
 title: New A Comprehensive Tutorial on Audio Standardization in DaVinci Resolve
-date: 2024-05-05T05:14:10.063Z
-updated: 2024-05-06T05:14:10.063Z
+date: 2024-05-20T01:47:43.415Z
+updated: 2024-05-21T01:47:43.415Z
 tags: 
   - audio editing software
   - audio editing
@@ -991,4 +991,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://video-content-creator.techidaily.com/new-top-15-adobe-premiere-plugins-for-effects-and-transitions-for-2024/"><u>New Top 15 Adobe Premiere Plugins for Effects and Transitions for 2024</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-honor-x50-gt-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Honor X50 GT</u></a></li>
 </ul></div>
+
 

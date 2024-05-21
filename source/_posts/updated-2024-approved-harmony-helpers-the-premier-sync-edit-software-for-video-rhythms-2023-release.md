@@ -1382,3 +1382,4 @@ For macOS 10.12 or later
 <li><a href="https://phone-solutions.techidaily.com/failed-to-play-hevc-files-on-galaxy-a25-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Failed to play HEVC files on Galaxy A25 5G</u></a></li>
 </ul></div>
 
+

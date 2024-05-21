@@ -1272,3 +1272,4 @@ Follow @Benjamin Arango
 <li><a href="https://smart-video-creator.techidaily.com/new-mastering-fcp-audio-a-step-by-step-guide-for-video-editors/"><u>New Mastering FCP Audio A Step-by-Step Guide for Video Editors</u></a></li>
 </ul></div>
 
+

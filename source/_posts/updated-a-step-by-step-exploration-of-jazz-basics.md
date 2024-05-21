@@ -1,7 +1,7 @@
 ---
 title: Updated A Step-by-Step Exploration of Jazz Basics
-date: 2024-05-05T05:14:19.734Z
-updated: 2024-05-06T05:14:19.734Z
+date: 2024-05-20T01:47:44.290Z
+updated: 2024-05-21T01:47:44.290Z
 tags: 
   - audio editing software
   - audio editing
@@ -1360,4 +1360,5 @@ For macOS 10.12 or later
 <li><a href="https://screen-mirror.techidaily.com/in-2024-things-you-must-know-for-screen-mirroring-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>In 2024, Things You Must Know for Screen Mirroring Apple iPhone 6s Plus | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-oppo-reno-11-pro-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Oppo Reno 11 Pro 5G Phone</u></a></li>
 </ul></div>
+
 

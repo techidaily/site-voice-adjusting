@@ -1,7 +1,7 @@
 ---
 title: How to Change Volume in Media Files
-date: 2024-05-05T05:08:42.679Z
-updated: 2024-05-06T05:08:42.679Z
+date: 2024-05-20T01:47:30.163Z
+updated: 2024-05-21T01:47:30.163Z
 tags: 
   - audio editing software
   - audio editing
@@ -1044,4 +1044,5 @@ Follow @Liza Brown
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-iphone-xs-max-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID from iPhone XS Max</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

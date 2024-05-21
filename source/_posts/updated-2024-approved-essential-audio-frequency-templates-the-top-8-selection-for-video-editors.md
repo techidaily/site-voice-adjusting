@@ -1216,3 +1216,4 @@ Follow @Benjamin Arango
 <li><a href="https://smart-video-creator.techidaily.com/new-resize-and-refine-image-aspect-ratio-for-2024/"><u>New Resize and Refine Image Aspect Ratio for 2024</u></a></li>
 </ul></div>
 
+

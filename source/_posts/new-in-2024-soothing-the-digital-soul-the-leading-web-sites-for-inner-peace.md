@@ -1470,3 +1470,4 @@ For macOS 10.12 or later
 <li><a href="https://smart-video-editing.techidaily.com/new-in-2024-quickly-calculate-aspect-ratios-the-best-online-resources/"><u>New In 2024, Quickly Calculate Aspect Ratios The Best Online Resources</u></a></li>
 </ul></div>
 
+

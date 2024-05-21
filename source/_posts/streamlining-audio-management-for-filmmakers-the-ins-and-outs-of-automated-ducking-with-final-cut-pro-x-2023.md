@@ -1,7 +1,7 @@
 ---
 title: Streamlining Audio Management for Filmmakers The Ins and Outs of Automated Ducking with Final Cut Pro X 2023
-date: 2024-05-05T05:11:51.869Z
-updated: 2024-05-06T05:11:51.869Z
+date: 2024-05-20T01:47:37.953Z
+updated: 2024-05-21T01:47:37.953Z
 tags: 
   - audio editing software
   - audio editing
@@ -1405,4 +1405,5 @@ Follow @Benjamin Arango
 <li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/updated-easy-video-editing-best-free-tools-for-starters-desktoponlinemobile-for-2024/"><u>Updated Easy Video Editing Best Free Tools for Starters Desktop/Online/Mobile for 2024</u></a></li>
 </ul></div>
+
 

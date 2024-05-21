@@ -1,7 +1,7 @@
 ---
 title: A Comprehensive Guide to Adobe Auditions Tools and Functionalities
-date: 2024-05-05T05:07:58.892Z
-updated: 2024-05-06T05:07:58.892Z
+date: 2024-05-20T01:47:28.513Z
+updated: 2024-05-21T01:47:28.513Z
 tags: 
   - audio editing software
   - audio editing
@@ -1180,4 +1180,5 @@ So, in this article, we learned one or two things about normalizing volumes and 
 <li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-best-5-udemy-subtitle-translator-auto-translation/"><u>Updated In 2024, Best 5 Udemy Subtitle Translator (Auto Translation)</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-is-it-possible-to-use-miracast-with-apple-iphone-xs-max-drfone-by-drfone-ios/"><u>In 2024, Is it Possible to Use Miracast with Apple iPhone XS Max? | Dr.fone</u></a></li>
 </ul></div>
+
 

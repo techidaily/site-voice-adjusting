@@ -1,7 +1,7 @@
 ---
 title: Elevating and Dimming Audio in Audacity A Step-by-Step Approach
-date: 2024-05-05T05:09:24.452Z
-updated: 2024-05-06T05:09:24.452Z
+date: 2024-05-20T01:47:31.528Z
+updated: 2024-05-21T01:47:31.528Z
 tags: 
   - audio editing software
   - audio editing
@@ -1303,4 +1303,5 @@ After reading this article, pranking your friends and speaking with a unique voi
 <li><a href="https://howto.techidaily.com/what-to-do-when-honor-x7b-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Honor X7b Has Black Screen of Death? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-poco-c65-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Poco C65 Screen Mirroring App | Dr.fone</u></a></li>
 </ul></div>
+
 

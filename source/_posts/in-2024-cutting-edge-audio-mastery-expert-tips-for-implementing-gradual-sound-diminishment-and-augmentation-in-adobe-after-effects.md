@@ -1,7 +1,7 @@
 ---
 title: In 2024, Cutting-Edge Audio Mastery Expert Tips for Implementing Gradual Sound Diminishment & Augmentation in Adobe After Effects
-date: 2024-05-05T05:18:57.839Z
-updated: 2024-05-06T05:18:57.839Z
+date: 2024-05-20T01:48:00.255Z
+updated: 2024-05-21T01:48:00.255Z
 tags: 
   - audio editing software
   - audio editing
@@ -1409,4 +1409,5 @@ Follow @Benjamin Arango
 <li><a href="https://ai-video.techidaily.com/step-by-step-guide-how-to-translate-tiktok-videos/"><u>Step-by-step Guide How to Translate TikTok Videos</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-ultimate-stop-motion-animation-guide-software-options-and-tutorials/"><u>2024 Approved Ultimate Stop Motion Animation Guide Software Options and Tutorials</u></a></li>
 </ul></div>
+
 

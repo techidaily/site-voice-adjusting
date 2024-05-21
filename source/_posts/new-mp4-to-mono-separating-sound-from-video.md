@@ -1,7 +1,7 @@
 ---
 title: New MP4 to Mono Separating Sound From Video
-date: 2024-05-05T05:28:27.949Z
-updated: 2024-05-06T05:28:27.949Z
+date: 2024-05-20T01:48:31.181Z
+updated: 2024-05-21T01:48:31.181Z
 tags: 
   - audio editing software
   - audio editing
@@ -1200,4 +1200,5 @@ Whether you will start a Horror Game among Friends or plan to have some scary vi
 <li><a href="https://video-content-creator.techidaily.com/2024-approved-save-big-on-final-cut-pro-explore-our-exclusive-education-offer/"><u>2024 Approved Save Big on Final Cut Pro Explore Our Exclusive Education Offer</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-mini-with-imei-code-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 mini with IMEI Code?</u></a></li>
 </ul></div>
+
 

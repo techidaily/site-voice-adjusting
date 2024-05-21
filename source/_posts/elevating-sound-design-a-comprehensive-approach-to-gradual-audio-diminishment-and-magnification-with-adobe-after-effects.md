@@ -1,7 +1,7 @@
 ---
 title: Elevating Sound Design A Comprehensive Approach to Gradual Audio Diminishment and Magnification with Adobe After Effects
-date: 2024-05-05T05:09:25.494Z
-updated: 2024-05-06T05:09:25.494Z
+date: 2024-05-20T01:47:31.572Z
+updated: 2024-05-21T01:47:31.572Z
 tags: 
   - audio editing software
   - audio editing
@@ -1262,4 +1262,5 @@ Thus, you had an interesting discussion about the availability of fart sounds in
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-poco-x6-pro-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Poco X6 Pro Unlock Without Password</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-vivo-y56-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Vivo Y56 5G Phone Screen?</u></a></li>
 </ul></div>
+
 

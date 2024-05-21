@@ -1,7 +1,7 @@
 ---
 title: Beginners Journey Into Freeware Audio Capture with Audacity
-date: 2024-05-05T05:08:29.762Z
-updated: 2024-05-06T05:08:29.762Z
+date: 2024-05-20T01:47:29.360Z
+updated: 2024-05-21T01:47:29.360Z
 tags: 
   - audio editing software
   - audio editing
@@ -1501,4 +1501,5 @@ For macOS 10.12 or later
 <li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-tecno-phantom-v-flip-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Tecno Phantom V Flip PC | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/learn-to-merge-clips-in-davinci-resolve-simple-steps/"><u>Learn to Merge Clips in DaVinci Resolve Simple Steps</u></a></li>
 </ul></div>
+
 

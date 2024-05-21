@@ -2747,3 +2747,4 @@ Follow @Benjamin Arango
 <li><a href="https://video-creation-software.techidaily.com/new-retro-revival-simple-steps-to-achieve-a-vhs-look-in-fcp/"><u>New Retro Revival Simple Steps to Achieve a VHS Look in FCP</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: Dynamic Sound Mixing Implementing Audio Ducking Techniques to Subtly Reduce Background Tracks
-date: 2024-05-05T05:09:13.802Z
-updated: 2024-05-06T05:09:13.802Z
+date: 2024-05-20T01:47:31.280Z
+updated: 2024-05-21T01:47:31.280Z
 tags: 
   - audio editing software
   - audio editing
@@ -1293,4 +1293,5 @@ For macOS 10.12 or later
 <li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-realme-11x-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Realme 11X 5G? Fixed | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/vivo-y55s-5g-2023-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y55s 5G (2023) Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
 </ul></div>
+
 

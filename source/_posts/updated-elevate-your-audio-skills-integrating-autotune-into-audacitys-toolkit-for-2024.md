@@ -836,3 +836,4 @@ Follow @Benjamin Arango
 <li><a href="https://animation-videos.techidaily.com/what-wikipedia-wont-tell-you-about-character-rigging/"><u>What Wikipedia Wont Tell You About Character Rigging</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: Video Podcast Everything You Need to Know
-date: 2024-05-05T05:13:18.826Z
-updated: 2024-05-06T05:13:18.826Z
+date: 2024-05-20T01:47:40.428Z
+updated: 2024-05-21T01:47:40.428Z
 tags: 
   - audio editing software
   - audio editing
@@ -1540,4 +1540,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://smart-video-creator.techidaily.com/new-in-2024-unleash-your-creative-potential-the-best-pro-audio-editing-tools/"><u>New In 2024, Unleash Your Creative Potential The Best Pro Audio Editing Tools</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-video-editing-showdown-virtualdub-vs-its-top-competitors/"><u>In 2024, Video Editing Showdown Virtualdub Vs. Its Top Competitors</u></a></li>
 </ul></div>
+
 

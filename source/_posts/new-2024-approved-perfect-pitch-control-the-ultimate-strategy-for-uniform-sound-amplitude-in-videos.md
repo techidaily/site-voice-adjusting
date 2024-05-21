@@ -1447,3 +1447,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-color-correction-basics-s-log-footage/"><u>Updated In 2024, Color Correction Basics (S-LOG Footage)</u></a></li>
 </ul></div>
 
+

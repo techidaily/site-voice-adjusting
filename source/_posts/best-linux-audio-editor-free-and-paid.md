@@ -1,7 +1,7 @@
 ---
 title: Best Linux Audio Editor Free & Paid
-date: 2024-05-05T05:08:33.375Z
-updated: 2024-05-06T05:08:33.375Z
+date: 2024-05-20T01:47:29.539Z
+updated: 2024-05-21T01:47:29.539Z
 tags: 
   - audio editing software
   - audio editing
@@ -1473,4 +1473,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-topics.techidaily.com/new-what-is-ai-voice-text-to-speech/"><u>New What Is AI Voice Text to Speech?</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-poco-x6-pro-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Poco X6 Pro to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

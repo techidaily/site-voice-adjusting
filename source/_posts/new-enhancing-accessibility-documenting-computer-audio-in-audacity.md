@@ -1,7 +1,7 @@
 ---
 title: New Enhancing Accessibility Documenting Computer Audio in Audacity
-date: 2024-05-05T05:21:09.511Z
-updated: 2024-05-06T05:21:09.511Z
+date: 2024-05-20T01:48:06.809Z
+updated: 2024-05-21T01:48:06.809Z
 tags: 
   - audio editing software
   - audio editing
@@ -901,4 +901,5 @@ We have come forward with great resources to download soft background music for 
 <li><a href="https://meme-emoji.techidaily.com/updated-in-2024-10-best-free-websites-to-watch-cartoons-online/"><u>Updated In 2024, 10 Best Free Websites to Watch Cartoons Online</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-from-novice-to-pro-expert-advice-on-youtub/"><u>Updated 2024 Approved From Novice to Pro Expert Advice on YouTub</u></a></li>
 </ul></div>
+
 

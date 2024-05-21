@@ -1175,3 +1175,4 @@ For macOS 10.12 or later
 <li><a href="https://review-topics.techidaily.com/identify-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>Identify malfunctioning hardware drivers with Windows Device Manager on Windows 10 & 7</u></a></li>
 </ul></div>
 
+

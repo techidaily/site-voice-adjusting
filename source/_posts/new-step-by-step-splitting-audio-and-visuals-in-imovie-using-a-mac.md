@@ -1,7 +1,7 @@
 ---
 title: New Step-by-Step Splitting Audio and Visuals in iMovie Using a Mac
-date: 2024-05-05T05:32:38.968Z
-updated: 2024-05-06T05:32:38.968Z
+date: 2024-05-20T01:48:42.138Z
+updated: 2024-05-21T01:48:42.138Z
 tags: 
   - audio editing software
   - audio editing
@@ -1413,4 +1413,5 @@ For macOS 10.12 or later
 <li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-6-plus-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone 6 Plus? Heres the Best Fixes</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-moto-g-stylus-2023-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Moto G Stylus (2023) ?</u></a></li>
 </ul></div>
+
 

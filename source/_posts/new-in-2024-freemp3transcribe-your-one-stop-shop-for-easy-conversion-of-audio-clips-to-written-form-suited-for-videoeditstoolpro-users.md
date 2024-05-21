@@ -1182,3 +1182,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-editing-video.techidaily.com/new-land-into-the-thrill-of-creating-stunning-gifs-with-ezgif/"><u>New Land Into the Thrill of Creating Stunning GIFs with Ezgif</u></a></li>
 </ul></div>
 
+

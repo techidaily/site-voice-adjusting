@@ -1,7 +1,7 @@
 ---
 title: The Ins and Outs of Anime Localization From Translation to Sound Design
-date: 2024-05-05T05:12:17.650Z
-updated: 2024-05-06T05:12:17.650Z
+date: 2024-05-20T01:47:38.702Z
+updated: 2024-05-21T01:47:38.702Z
 tags: 
   - audio editing software
   - audio editing
@@ -1410,4 +1410,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-apple-iphone-14-and-android-phones-by-drfone-ios/"><u>Top IMEI Unlokers for Apple iPhone 14 and Android Phones</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-vivo-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Vivo Lock Screen Clock in Seconds</u></a></li>
 </ul></div>
+
 

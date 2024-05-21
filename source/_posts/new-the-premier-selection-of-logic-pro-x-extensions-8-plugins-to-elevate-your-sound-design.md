@@ -1497,3 +1497,4 @@ Follow @Benjamin Arango
 <li><a href="https://ai-video-editing.techidaily.com/how-to-add-text-in-adobe-rush/"><u>How to Add Text in Adobe Rush</u></a></li>
 </ul></div>
 
+

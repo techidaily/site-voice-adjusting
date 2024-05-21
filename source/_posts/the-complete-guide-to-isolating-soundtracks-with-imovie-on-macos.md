@@ -1,7 +1,7 @@
 ---
 title: The Complete Guide to Isolating Soundtracks with iMovie on macOS
-date: 2024-05-05T05:12:06.581Z
-updated: 2024-05-06T05:12:06.581Z
+date: 2024-05-20T01:47:38.363Z
+updated: 2024-05-21T01:47:38.363Z
 tags: 
   - audio editing software
   - audio editing
@@ -961,4 +961,5 @@ Pexels allows you to use its images for personal and commercial reasons if you a
 <li><a href="https://ai-voice-clone.techidaily.com/new-google-translate-video-a-complete-guide-to-translate-video-with-google-for-2024/"><u>New Google Translate Video A Complete Guide To Translate Video With Google for 2024</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-14-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 14 | Dr.fone</u></a></li>
 </ul></div>
+
 

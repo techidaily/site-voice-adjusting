@@ -1,7 +1,7 @@
 ---
 title: New Mastering Sound A Guide to Advanced Editing Techniques with Sony Vegas
-date: 2024-05-05T05:27:32.380Z
-updated: 2024-05-06T05:27:32.380Z
+date: 2024-05-20T01:48:28.164Z
+updated: 2024-05-21T01:48:28.164Z
 tags: 
   - audio editing software
   - audio editing
@@ -1681,4 +1681,5 @@ Filmora is a video editing program that's simple enough for beginners but powerf
 <li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-iphone-6s-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For iPhone 6s</u></a></li>
 <li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-samsung-galaxy-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Samsung Galaxy S23 | Dr.fone</u></a></li>
 </ul></div>
+
 

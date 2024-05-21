@@ -1,7 +1,7 @@
 ---
 title: Updated Crafting Crisp Audio A Detailed Guide to De-Emphasizing Vocals in Adobe Audition Tracks
-date: 2024-05-05T05:18:36.687Z
-updated: 2024-05-06T05:18:36.687Z
+date: 2024-05-20T01:47:58.700Z
+updated: 2024-05-21T01:47:58.700Z
 tags: 
   - audio editing software
   - audio editing
@@ -1159,4 +1159,5 @@ Numerous effects to choose from.
 <li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-iphone-11-pro-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From iPhone 11 Pro? 7 Mehtods You Cant-Miss</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-y200-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Y200</u></a></li>
 </ul></div>
+
 

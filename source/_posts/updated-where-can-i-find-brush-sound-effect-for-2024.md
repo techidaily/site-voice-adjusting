@@ -1273,3 +1273,4 @@ For macOS 10.12 or later
 <li><a href="https://video-content-creator.techidaily.com/new-fcpx-jump-cut-mastery-elevate-your-video-editing-skills-for-2024/"><u>New FCPX Jump Cut Mastery Elevate Your Video Editing Skills for 2024</u></a></li>
 </ul></div>
 
+

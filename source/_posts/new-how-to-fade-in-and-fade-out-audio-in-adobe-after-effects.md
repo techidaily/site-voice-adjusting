@@ -1,7 +1,7 @@
 ---
 title: New How to Fade In and Fade Out Audio in Adobe After Effects
-date: 2024-05-05T05:24:58.929Z
-updated: 2024-05-06T05:24:58.929Z
+date: 2024-05-20T01:48:20.884Z
+updated: 2024-05-21T01:48:20.884Z
 tags: 
   - audio editing software
   - audio editing
@@ -962,4 +962,5 @@ Boosting the volume of an MP3 audio file is no more an esoteric task. You do not
 <li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-iphone-12-mini-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock On your iPhone 12 mini</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Vivo V30 | Dr.fone</u></a></li>
 </ul></div>
+
 

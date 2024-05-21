@@ -1273,3 +1273,4 @@ Follow @Benjamin Arango
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-therere-two-ways-to-create-the-ken-burns-effect-in-final-cut-pro-using-the-automated-ken-burns-effect-tools-or-keyframes-check-this-article-to-find-/"><u>In 2024, Therere Two Ways to Create the Ken Burns Effect in Final Cut Pro Using the Automated Ken Burns Effect Tools or Keyframes. Check This Article to Find Out How-To</u></a></li>
 </ul></div>
 
+

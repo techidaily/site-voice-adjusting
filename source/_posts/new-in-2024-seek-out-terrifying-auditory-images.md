@@ -1801,3 +1801,4 @@ For macOS 10.12 or later
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-tecno-pova-6-pro-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Tecno Pova 6 Pro 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
 </ul></div>
 
+

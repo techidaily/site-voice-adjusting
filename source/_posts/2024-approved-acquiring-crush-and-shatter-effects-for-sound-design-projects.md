@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Acquiring Crush and Shatter Effects for Sound Design Projects
-date: 2024-05-05T05:14:35.724Z
-updated: 2024-05-06T05:14:35.724Z
+date: 2024-05-20T01:47:45.257Z
+updated: 2024-05-21T01:47:45.257Z
 tags: 
   - audio editing software
   - audio editing
@@ -1223,4 +1223,5 @@ You may want to extract drums from your favorite songs for various reasons. Mayb
 <li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-tecno-pop-8-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Tecno Pop 8 Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Samsung Galaxy M34 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New Audio Ducking in Adobe Premiere Pro on Win
-date: 2024-05-05T05:15:32.244Z
-updated: 2024-05-06T05:15:32.244Z
+date: 2024-05-20T01:47:48.433Z
+updated: 2024-05-21T01:47:48.433Z
 tags: 
   - audio editing software
   - audio editing
@@ -1389,4 +1389,5 @@ For macOS 10.12 or later
 <li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-narzo-60-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Narzo 60 5G without backup.</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/unleash-your-creativity-top-10-free-video-editing-software-for-ubuntu-users-for-2024/"><u>Unleash Your Creativity Top 10 Free Video Editing Software for Ubuntu Users for 2024</u></a></li>
 </ul></div>
+
 

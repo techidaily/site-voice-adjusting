@@ -1554,3 +1554,4 @@ For macOS 10.12 or later
 <li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-infinix-hot-40-pro-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Infinix Hot 40 Pro to iPhone Easily | Dr.fone</u></a></li>
 </ul></div>
 
+

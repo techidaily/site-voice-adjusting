@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Modifying Sound Intensity in Audacity
-date: 2024-05-05T05:12:34.768Z
-updated: 2024-05-06T05:12:34.768Z
+date: 2024-05-20T01:47:39.054Z
+updated: 2024-05-21T01:47:39.054Z
 tags: 
   - audio editing software
   - audio editing
@@ -1996,4 +1996,5 @@ Thus, you had an enlightening discussion on the best ways to download the moan s
 <li><a href="https://screen-mirror.techidaily.com/best-3-zte-nubia-z60-ultra-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 ZTE Nubia Z60 Ultra Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-lava-yuva-3-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Lava Yuva 3 Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 </ul></div>
+
 

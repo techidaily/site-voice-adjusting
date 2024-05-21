@@ -1238,3 +1238,4 @@ Follow @Shanoon Cox
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-are-you-looking-to-make-transparent-background-in-canva-then-you-can-learn-about-it-in-this-article/"><u>2024 Approved Are You Looking to Make Transparent Background in Canva Then You Can Learn About It in This Article</u></a></li>
 </ul></div>
 
+

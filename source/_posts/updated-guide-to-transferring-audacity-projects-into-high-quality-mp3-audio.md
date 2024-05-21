@@ -1,7 +1,7 @@
 ---
 title: Updated Guide to Transferring Audacity Projects Into High-Quality MP3 Audio
-date: 2024-05-05T05:24:09.524Z
-updated: 2024-05-06T05:24:09.524Z
+date: 2024-05-20T01:48:17.016Z
+updated: 2024-05-21T01:48:17.016Z
 tags: 
   - audio editing software
   - audio editing
@@ -1067,4 +1067,5 @@ For macOS 10.12 or later
 <li><a href="https://ai-video-editing.techidaily.com/camtasia-vs-captivate-which-is-better-for-2024/"><u>Camtasia Vs Captivate Which Is Better for 2024</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On HTC U23 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New Sculpting the Visual Narrative A Composers Approach to Transition Craftsmanship
-date: 2024-05-05T05:31:16.775Z
-updated: 2024-05-06T05:31:16.775Z
+date: 2024-05-20T01:48:39.137Z
+updated: 2024-05-21T01:48:39.137Z
 tags: 
   - audio editing software
   - audio editing
@@ -1083,4 +1083,5 @@ For macOS 10.14 or later
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-7-plus-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 7 Plus without Passcode or Face ID | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-asus-rog-phone-8-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Asus ROG Phone 8 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Mute Audio in Windows Movie Maker?
-date: 2024-05-05T05:10:16.904Z
-updated: 2024-05-06T05:10:16.904Z
+date: 2024-05-20T01:47:35.037Z
+updated: 2024-05-21T01:47:35.037Z
 tags: 
   - audio editing software
   - audio editing
@@ -1561,4 +1561,5 @@ Numerous effects to choose from.
 <li><a href="https://ai-video-apps.techidaily.com/new-we-are-here-to-take-you-to-the-tour-of-the-easiest-video-editing-software-that-would-promise-a-professional-looking-end-product-in-ten-minutes-and-some-/"><u>New We Are Here to Take You to the Tour of the Easiest Video Editing Software that Would Promise a Professional Looking End-Product in Ten Minutes and some Basic Editing Terms You Should Know for 2024</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-oppo-k11-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Oppo K11 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
 </ul></div>
+
 

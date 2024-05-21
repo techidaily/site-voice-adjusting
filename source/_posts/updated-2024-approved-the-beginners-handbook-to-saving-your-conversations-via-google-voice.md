@@ -1302,3 +1302,4 @@ For macOS 10.12 or later
 <li><a href="https://video-ai-editor.techidaily.com/new-in-2024-the-art-of-audio-fading-2-pro-tips-for-final-cut-pro-users/"><u>New In 2024, The Art of Audio Fading 2 Pro Tips for Final Cut Pro Users</u></a></li>
 </ul></div>
 
+

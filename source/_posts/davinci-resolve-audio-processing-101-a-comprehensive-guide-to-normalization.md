@@ -1,7 +1,7 @@
 ---
 title: DaVinci Resolve Audio Processing 101 A Comprehensive Guide to Normalization
-date: 2024-05-05T05:08:59.530Z
-updated: 2024-05-06T05:08:59.530Z
+date: 2024-05-20T01:47:30.690Z
+updated: 2024-05-21T01:47:30.690Z
 tags: 
   - audio editing software
   - audio editing
@@ -1358,4 +1358,5 @@ The voice recorder software is the need of the hour as they help manipulate the 
 <li><a href="https://fix-guide.techidaily.com/realme-gt-5-pro-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme GT 5 Pro Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-asus-rog-phone-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Asus ROG Phone 8 | Dr.fone</u></a></li>
 </ul></div>
+
 

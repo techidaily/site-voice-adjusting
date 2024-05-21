@@ -2050,3 +2050,4 @@ For macOS 10.14 or later
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-this-blog-post-shows-how-to-create-an-eye-catching-paper-rip-effect-for-your-videos-using-wondershare-filmora-with-these-easy-to-follow-st/"><u>New 2024 Approved This Blog Post Shows How to Create an Eye-Catching Paper Rip Effect for Your Videos Using Wondershare Filmora with These Easy-to-Follow Steps</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: Updated How to Add Audio in After Effects
-date: 2024-05-05T05:14:37.805Z
-updated: 2024-05-06T05:14:37.805Z
+date: 2024-05-20T01:47:45.389Z
+updated: 2024-05-21T01:47:45.389Z
 tags: 
   - audio editing software
   - audio editing
@@ -1249,4 +1249,5 @@ Numerous effects and resources.
 <li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-poco-c55-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Poco C55? | Dr.fone</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-simplify-video-editing-on-mac-mkvtoolnix-review/"><u>Updated 2024 Approved Simplify Video Editing on Mac MKVtoolnix Review</u></a></li>
 </ul></div>
+
 

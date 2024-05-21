@@ -1,7 +1,7 @@
 ---
 title: New Echo the Quietude Expert Guide to Muting Audio in iPhone Videos
-date: 2024-05-05T05:20:17.243Z
-updated: 2024-05-06T05:20:17.243Z
+date: 2024-05-20T01:48:04.265Z
+updated: 2024-05-21T01:48:04.265Z
 tags: 
   - audio editing software
   - audio editing
@@ -1514,4 +1514,5 @@ Follow @Benjamin Arango
 <li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-iphone-7-plus-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock iPhone 7 Plus After Forgetting the Passcode? | Dr.fone</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/top-5-free-tools-to-merge-mov-videos-for-2024/"><u>Top 5 Free Tools to Merge MOV Videos for 2024</u></a></li>
 </ul></div>
+
 

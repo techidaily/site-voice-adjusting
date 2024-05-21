@@ -1340,3 +1340,4 @@ Follow @Benjamin Arango
 <li><a href="https://techidaily.com/how-do-i-reset-my-infinix-smart-8-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Infinix Smart 8 Phone without technical knowledge? | Dr.fone</u></a></li>
 </ul></div>
 
+

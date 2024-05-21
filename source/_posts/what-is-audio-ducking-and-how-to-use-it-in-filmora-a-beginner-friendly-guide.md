@@ -1,7 +1,7 @@
 ---
 title: What Is Audio Ducking and How to Use It in Filmora A Beginner-Friendly Guide
-date: 2024-05-05T05:13:24.526Z
-updated: 2024-05-06T05:13:24.526Z
+date: 2024-05-20T01:47:40.698Z
+updated: 2024-05-21T01:47:40.698Z
 tags: 
   - audio editing software
   - audio editing
@@ -1393,4 +1393,5 @@ For macOS 10.12 or later
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, List of Pokémon Go Joysticks On Apple iPhone 13 Pro | Dr.fone</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-download-vllo-for-mac-and-uncover-its-competitors/"><u>New 2024 Approved Download VLLO for Mac and Uncover Its Competitors</u></a></li>
 </ul></div>
+
 

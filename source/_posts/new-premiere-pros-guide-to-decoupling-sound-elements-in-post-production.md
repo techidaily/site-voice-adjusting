@@ -1,7 +1,7 @@
 ---
 title: New Premiere Pros Guide to Decoupling Sound Elements in Post-Production
-date: 2024-05-05T05:29:57.365Z
-updated: 2024-05-06T05:29:57.365Z
+date: 2024-05-20T01:48:35.158Z
+updated: 2024-05-21T01:48:35.158Z
 tags: 
   - audio editing software
   - audio editing
@@ -1078,4 +1078,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-xiaomi-redmi-note-12r-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Xiaomi Redmi Note 12R Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/2024-approved-transform-your-text-into-engaging-audio-files/"><u>2024 Approved Transform Your Text Into Engaging Audio Files</u></a></li>
 </ul></div>
+
 

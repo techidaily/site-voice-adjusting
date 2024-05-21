@@ -1,7 +1,7 @@
 ---
 title: Updated How to Do Voice Recorder on Samsung S10/S9?
-date: 2024-05-05T05:24:54.999Z
-updated: 2024-05-06T05:24:54.999Z
+date: 2024-05-20T01:48:20.718Z
+updated: 2024-05-21T01:48:20.718Z
 tags: 
   - audio editing software
   - audio editing
@@ -1295,4 +1295,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://howto.techidaily.com/why-your-asus-rog-phone-8-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Asus ROG Phone 8 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/home-button-not-working-on-infinix-hot-30-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Infinix Hot 30 5G? Here Are Real Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

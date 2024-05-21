@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Capturing Your Computers Sounds A Guide to Using Audacity
-date: 2024-05-05T05:17:36.284Z
-updated: 2024-05-06T05:17:36.284Z
+date: 2024-05-20T01:47:55.372Z
+updated: 2024-05-21T01:47:55.372Z
 tags: 
   - audio editing software
   - audio editing
@@ -1984,4 +1984,5 @@ For macOS 10.14 or later
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-se-2022-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone SE (2022) | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-factory-unlock-your-telstra-apple-iphone-8-by-drfone-ios/"><u>In 2024, How To Factory Unlock Your Telstra Apple iPhone 8</u></a></li>
 </ul></div>
+
 

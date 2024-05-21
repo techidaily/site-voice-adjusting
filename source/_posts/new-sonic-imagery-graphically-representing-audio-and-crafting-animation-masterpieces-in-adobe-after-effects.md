@@ -1,7 +1,7 @@
 ---
 title: New Sonic Imagery Graphically Representing Audio & Crafting Animation Masterpieces in Adobe After Effects
-date: 2024-05-05T05:32:04.706Z
-updated: 2024-05-06T05:32:04.706Z
+date: 2024-05-20T01:48:41.028Z
+updated: 2024-05-21T01:48:41.028Z
 tags: 
   - audio editing software
   - audio editing
@@ -1266,4 +1266,5 @@ For macOS 10.12 or later
 <li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-poco-f5-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Poco F5 5G Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-how-to-create-cooking-video-intro-and-end-screen-for-youtube-channel-for-2024/"><u>Updated How to Create Cooking Video Intro and End Screen for YouTube Channel for 2024</u></a></li>
 </ul></div>
+
 

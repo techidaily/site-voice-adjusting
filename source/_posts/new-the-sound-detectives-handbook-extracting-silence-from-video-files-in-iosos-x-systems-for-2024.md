@@ -1392,3 +1392,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-vdieo-software.techidaily.com/new-free-and-premium-glitch-effect-video-editors-for-pc-and-mac/"><u>New Free and Premium Glitch Effect Video Editors for PC and Mac</u></a></li>
 </ul></div>
 
+

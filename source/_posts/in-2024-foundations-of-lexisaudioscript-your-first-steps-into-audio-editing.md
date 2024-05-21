@@ -1,7 +1,7 @@
 ---
 title: In 2024, Foundations of LexisAudioScript Your First Steps Into Audio Editing
-date: 2024-05-05T05:23:19.540Z
-updated: 2024-05-06T05:23:19.540Z
+date: 2024-05-20T01:48:13.763Z
+updated: 2024-05-21T01:48:13.763Z
 tags: 
   - audio editing software
   - audio editing
@@ -1523,4 +1523,5 @@ All in all, Audacity does an excellent job at audio editing. If you simply need 
 <li><a href="https://fake-location.techidaily.com/how-to-fix-gionee-f3-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Gionee F3 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Honor Play 40C | Dr.fone</u></a></li>
 </ul></div>
+
 

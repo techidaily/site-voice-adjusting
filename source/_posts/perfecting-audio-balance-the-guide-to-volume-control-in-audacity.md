@@ -1,7 +1,7 @@
 ---
 title: Perfecting Audio Balance The Guide to Volume Control in Audacity
-date: 2024-05-05T05:11:09.711Z
-updated: 2024-05-06T05:11:09.711Z
+date: 2024-05-20T01:47:36.588Z
+updated: 2024-05-21T01:47:36.588Z
 tags: 
   - audio editing software
   - audio editing
@@ -1490,4 +1490,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-shooting-videos-in-high-resolutions-can-help-you-create-visually-impressive-content-your-followers-on-social-media-are-going-to-adore-in-thi/"><u>Updated In 2024, Shooting Videos in High Resolutions Can Help You Create Visually Impressive Content Your Followers on Social Media Are Going to Adore. In This Article We Are Going to Take You Through the 10 Best Vid</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-honor-x50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Honor X50? | Dr.fone</u></a></li>
 </ul></div>
+
 

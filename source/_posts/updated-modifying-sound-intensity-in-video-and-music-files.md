@@ -1,7 +1,7 @@
 ---
 title: Updated Modifying Sound Intensity in Video and Music Files
-date: 2024-05-05T05:28:18.776Z
-updated: 2024-05-06T05:28:18.776Z
+date: 2024-05-20T01:48:30.785Z
+updated: 2024-05-21T01:48:30.785Z
 tags: 
   - audio editing software
   - audio editing
@@ -1348,4 +1348,5 @@ Follow @Shanoon Cox
 <li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-itel-p40-by-drfone-android/"><u>How to Show Wi-Fi Password on Itel P40</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/is-it-possible-to-use-miracast-with-apple-iphone-14-drfone-by-drfone-ios/"><u>Is it Possible to Use Miracast with Apple iPhone 14? | Dr.fone</u></a></li>
 </ul></div>
+
 

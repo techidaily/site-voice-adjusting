@@ -1,7 +1,7 @@
 ---
 title: New Sourcing Authentic Glass Fracture Sounds for Filmmaking
-date: 2024-05-05T05:32:24.553Z
-updated: 2024-05-06T05:32:24.553Z
+date: 2024-05-20T01:48:41.694Z
+updated: 2024-05-21T01:48:41.694Z
 tags: 
   - audio editing software
   - audio editing
@@ -1044,4 +1044,5 @@ Follow @Benjamin Arango
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-infinix-hot-30-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Infinix Hot 30 5G System Crash Issue | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-realme-gt-neo-5-se-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Realme GT Neo 5 SE for Parents | Dr.fone</u></a></li>
 </ul></div>
+
 

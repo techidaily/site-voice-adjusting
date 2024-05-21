@@ -1,7 +1,7 @@
 ---
 title: Find Glass Breaking Sound Effect for 2024
-date: 2024-05-05T05:24:03.781Z
-updated: 2024-05-06T05:24:03.781Z
+date: 2024-05-20T01:48:16.530Z
+updated: 2024-05-21T01:48:16.530Z
 tags: 
   - audio editing software
   - audio editing
@@ -1512,4 +1512,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://video-ai-editor.techidaily.com/get-creative-with-these-top-vignette-apps-for-mobile-phones/"><u>Get Creative with These Top Vignette Apps for Mobile Phones</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-add-subtitles-to-videos-with-kapwing/"><u>Updated 2024 Approved How to Add Subtitles to Videos With Kapwing</u></a></li>
 </ul></div>
+
 

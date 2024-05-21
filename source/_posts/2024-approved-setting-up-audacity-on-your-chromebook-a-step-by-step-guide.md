@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Setting Up Audacity on Your Chromebook A Step-by-Step Guide
-date: 2024-05-05T05:31:33.505Z
-updated: 2024-05-06T05:31:33.505Z
+date: 2024-05-20T01:48:39.879Z
+updated: 2024-05-21T01:48:39.879Z
 tags: 
   - audio editing software
   - audio editing
@@ -1510,4 +1510,5 @@ Follow @Benjamin Arango
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-motorola-edge-40-pro-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Motorola Edge 40 Pro Phone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-poco-by-drfone-android/"><u>Full Guide to Unlock Your Poco</u></a></li>
 </ul></div>
+
 

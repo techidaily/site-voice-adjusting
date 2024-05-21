@@ -1,7 +1,7 @@
 ---
 title: Installing Lame Encoder on Audacity A Step-by-Step Guide
-date: 2024-05-05T05:10:25.717Z
-updated: 2024-05-06T05:10:25.717Z
+date: 2024-05-20T01:47:35.362Z
+updated: 2024-05-21T01:47:35.362Z
 tags: 
   - audio editing software
   - audio editing
@@ -1171,4 +1171,5 @@ If you are worried about a Chrome audio recorder, then this article must help yo
 <li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-samsung-galaxy-f14-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Samsung Galaxy F14 5G | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo G2 | Dr.fone</u></a></li>
 </ul></div>
+
 

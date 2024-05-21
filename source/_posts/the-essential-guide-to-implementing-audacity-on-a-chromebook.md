@@ -1,7 +1,7 @@
 ---
 title: The Essential Guide to Implementing Audacity on a Chromebook
-date: 2024-05-05T05:12:11.857Z
-updated: 2024-05-06T05:12:11.857Z
+date: 2024-05-20T01:47:38.509Z
+updated: 2024-05-21T01:47:38.509Z
 tags: 
   - audio editing software
   - audio editing
@@ -1224,4 +1224,5 @@ Follow @Liza Brown
 <li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-infinix-smart-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Infinix Smart 8 | Dr.fone</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/new-the-ultimate-guide-to-online-vertical-video-editors-for-2024/"><u>New The Ultimate Guide to Online Vertical Video Editors for 2024</u></a></li>
 </ul></div>
+
 

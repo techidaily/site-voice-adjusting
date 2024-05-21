@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Enhancing Accessibility Documenting Computer Audio in Audacity
-date: 2024-05-05T05:21:09.251Z
-updated: 2024-05-06T05:21:09.251Z
+date: 2024-05-20T01:48:06.805Z
+updated: 2024-05-21T01:48:06.805Z
 tags: 
   - audio editing software
   - audio editing
@@ -1949,4 +1949,5 @@ Follow @Liza Brown
 <li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-xiaomi-redmi-12-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Xiaomi Redmi 12</u></a></li>
 <li><a href="https://ai-topics.techidaily.com/updated-what-is-an-ai-headshot-generator-for-2024/"><u>Updated What Is an AI Headshot Generator for 2024</u></a></li>
 </ul></div>
+
 

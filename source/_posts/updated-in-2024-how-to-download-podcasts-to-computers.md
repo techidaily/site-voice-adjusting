@@ -1507,3 +1507,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-easy-steps-to-add-miniature-effect-to-videos/"><u>New In 2024, Easy Steps to Add Miniature Effect to Videos</u></a></li>
 </ul></div>
 
+

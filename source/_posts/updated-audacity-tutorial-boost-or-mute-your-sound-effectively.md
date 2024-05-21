@@ -1,7 +1,7 @@
 ---
 title: Updated Audacity Tutorial Boost or Mute Your Sound Effectively
-date: 2024-05-05T05:15:23.277Z
-updated: 2024-05-06T05:15:23.277Z
+date: 2024-05-20T01:47:48.045Z
+updated: 2024-05-21T01:47:48.045Z
 tags: 
   - audio editing software
   - audio editing
@@ -1753,4 +1753,5 @@ For macOS 10.14 or later
 <li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Infinix Note 30 Pro | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-v30-pro-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo V30 Pro Device</u></a></li>
 </ul></div>
+
 

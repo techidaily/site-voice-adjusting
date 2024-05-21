@@ -1,7 +1,7 @@
 ---
 title: Capturing Sounds on the Go A Guide to Free Audio Recording with Audacity
-date: 2024-05-05T05:08:40.615Z
-updated: 2024-05-06T05:08:40.615Z
+date: 2024-05-20T01:47:30.082Z
+updated: 2024-05-21T01:47:30.082Z
 tags: 
   - audio editing software
   - audio editing
@@ -1362,4 +1362,5 @@ All the MP3 music mixers explored in this article are ideal for sound mixing. Th
 <li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-samsung-galaxy-a14-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Samsung Galaxy A14 5G FRP Without Computer</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/new-video-editing-showdown-virtualdub-vs-its-top-competitors-for-2024/"><u>New Video Editing Showdown Virtualdub Vs. Its Top Competitors for 2024</u></a></li>
 </ul></div>
+
 

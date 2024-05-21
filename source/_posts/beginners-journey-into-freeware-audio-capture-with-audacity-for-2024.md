@@ -1,7 +1,7 @@
 ---
 title: Beginners Journey Into Freeware Audio Capture with Audacity for 2024
-date: 2024-05-05T05:16:35.428Z
-updated: 2024-05-06T05:16:35.428Z
+date: 2024-05-20T01:47:51.498Z
+updated: 2024-05-21T01:47:51.498Z
 tags: 
   - audio editing software
   - audio editing
@@ -1362,4 +1362,5 @@ Let us conclude the article with the assumption that this article was helpful to
 <li><a href="https://video-ai-editor.techidaily.com/the-ultimate-guide-to-customizing-linkedin-video-thumbnail-dimensions/"><u>The Ultimate Guide to Customizing LinkedIn Video Thumbnail Dimensions</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-reset-your-xiaomi-mix-fold-3-lock-screen-password-by-drfone-android/"><u>How to Reset your Xiaomi Mix Fold 3 Lock Screen Password</u></a></li>
 </ul></div>
+
 

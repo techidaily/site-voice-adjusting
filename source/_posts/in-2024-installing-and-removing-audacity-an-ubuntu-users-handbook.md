@@ -1,7 +1,7 @@
 ---
 title: In 2024, Installing and Removing Audacity An Ubuntu Users Handbook
-date: 2024-05-05T05:25:59.004Z
-updated: 2024-05-06T05:25:59.004Z
+date: 2024-05-20T01:48:23.726Z
+updated: 2024-05-21T01:48:23.726Z
 tags: 
   - audio editing software
   - audio editing
@@ -1519,4 +1519,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-htc-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on HTC ?</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-samsung-galaxy-s24-ultra-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Samsung Galaxy S24 Ultra to Other Android Devices Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

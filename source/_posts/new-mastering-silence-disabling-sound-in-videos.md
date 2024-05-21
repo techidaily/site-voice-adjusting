@@ -1,7 +1,7 @@
 ---
 title: New Mastering Silence Disabling Sound in Videos
-date: 2024-05-05T05:27:29.277Z
-updated: 2024-05-06T05:27:29.277Z
+date: 2024-05-20T01:48:28.036Z
+updated: 2024-05-21T01:48:28.036Z
 tags: 
   - audio editing software
   - audio editing
@@ -1183,4 +1183,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://fix-guide.techidaily.com/how-to-change-honor-x9a-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Honor X9a Location on Skout | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-sony-xperia-5-v-by-drfone-android/"><u>Full Guide to Unlock Your Sony Xperia 5 V</u></a></li>
 </ul></div>
+
 

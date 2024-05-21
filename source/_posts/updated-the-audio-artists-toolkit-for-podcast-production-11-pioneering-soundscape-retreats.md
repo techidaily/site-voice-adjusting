@@ -1,7 +1,7 @@
 ---
 title: Updated The Audio Artists Toolkit for Podcast Production 11 Pioneering Soundscape Retreats
-date: 2024-05-05T05:33:56.291Z
-updated: 2024-05-06T05:33:56.291Z
+date: 2024-05-20T01:48:44.512Z
+updated: 2024-05-21T01:48:44.512Z
 tags: 
   - audio editing software
   - audio editing
@@ -1613,4 +1613,5 @@ Follow @Liza Brown
 <li><a href="https://ai-video-editing.techidaily.com/1713954207629-new-top-gif-to-mp4-converters-for-2024/"><u>New | Top GIF to MP4 Converters for 2024</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-12plus-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Realme 12+ 5G Phone without PIN</u></a></li>
 </ul></div>
+
 

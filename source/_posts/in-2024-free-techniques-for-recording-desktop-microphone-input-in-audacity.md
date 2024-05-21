@@ -1,7 +1,7 @@
 ---
 title: In 2024, Free Techniques for Recording Desktop Microphone Input in Audacity
-date: 2024-05-05T05:23:32.265Z
-updated: 2024-05-06T05:23:32.265Z
+date: 2024-05-20T01:48:14.786Z
+updated: 2024-05-21T01:48:14.786Z
 tags: 
   - audio editing software
   - audio editing
@@ -1129,4 +1129,5 @@ Filmora can help you create professional-like montage videos that flow well. The
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-8-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 8 Lock Screen with Notifications?</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-avi-file-trimming-and-splitting-simplified-a-2023-update-for-2024/"><u>Updated AVI File Trimming and Splitting Simplified A 2023 Update for 2024</u></a></li>
 </ul></div>
+
 

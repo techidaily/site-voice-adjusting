@@ -1,7 +1,7 @@
 ---
 title: The AutoTune Plugin Companion for Advanced Sound Editing on Audacity
-date: 2024-05-05T05:12:05.267Z
-updated: 2024-05-06T05:12:05.267Z
+date: 2024-05-20T01:47:38.288Z
+updated: 2024-05-21T01:47:38.288Z
 tags: 
   - audio editing software
   - audio editing
@@ -1070,4 +1070,5 @@ Follow @Shanoon Cox
 <li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Vivo Y28 5G | Dr.fone</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-free-gif-looping-software-for-animated-fun-2023-review/"><u>New 2024 Approved Free GIF Looping Software for Animated Fun 2023 Review</u></a></li>
 </ul></div>
+
 

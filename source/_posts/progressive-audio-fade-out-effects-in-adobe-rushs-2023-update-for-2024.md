@@ -1,7 +1,7 @@
 ---
 title: Progressive Audio Fade-Out Effects in Adobe Rushs 2023 Update for 2024
-date: 2024-05-05T05:30:14.233Z
-updated: 2024-05-06T05:30:14.233Z
+date: 2024-05-20T01:48:36.014Z
+updated: 2024-05-21T01:48:36.014Z
 tags: 
   - audio editing software
   - audio editing
@@ -958,4 +958,5 @@ For macOS 10.12 or later
 <li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-motorola-moto-g34-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Motorola Moto G34 5G FRP Locks</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Tecno Pova 5? | Dr.fone</u></a></li>
 </ul></div>
+
 

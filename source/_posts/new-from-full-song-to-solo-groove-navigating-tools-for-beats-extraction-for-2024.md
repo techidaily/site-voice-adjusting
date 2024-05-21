@@ -1198,3 +1198,4 @@ Thus, in this article, you had a better understanding of how to add background m
 <li><a href="https://techidaily.com/how-to-easily-hard-reset-my-tecno-spark-10c-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Tecno Spark 10C | Dr.fone</u></a></li>
 </ul></div>
 
+

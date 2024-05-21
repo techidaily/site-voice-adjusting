@@ -1455,3 +1455,4 @@ Follow @Benjamin Arango
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-create-custom-lower-thirds-in-filmora/"><u>New In 2024, How to Create Custom Lower Thirds in Filmora</u></a></li>
 </ul></div>
 
+

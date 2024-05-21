@@ -1533,3 +1533,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-video-editing.techidaily.com/updated-detailed-tutorial-to-crop-videos-using-openshot-in-2024/"><u>Updated Detailed Tutorial to Crop Videos Using Openshot, In 2024</u></a></li>
 </ul></div>
 
+

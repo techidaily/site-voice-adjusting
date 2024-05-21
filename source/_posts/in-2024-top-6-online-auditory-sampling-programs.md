@@ -844,3 +844,4 @@ After reading this article, pranking your friends and speaking with a unique voi
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-motorola-moto-g04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Motorola Moto G04 | Dr.fone</u></a></li>
 </ul></div>
 
+

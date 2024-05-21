@@ -1,7 +1,7 @@
 ---
 title: Updated Audio Balance Simplified Normalizing Sound in DaVinci Resolve
-date: 2024-05-05T05:15:28.280Z
-updated: 2024-05-06T05:15:28.280Z
+date: 2024-05-20T01:47:48.252Z
+updated: 2024-05-21T01:47:48.252Z
 tags: 
   - audio editing software
   - audio editing
@@ -1340,4 +1340,5 @@ Be careful to utilize adequate windscreens on your microphones, mainly when reco
 <li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/the-bright-side-of-video-editing-top-editors/"><u>The Bright Side of Video Editing Top Editors</u></a></li>
 </ul></div>
+
 

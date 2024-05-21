@@ -2530,3 +2530,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 to other iPhone devices? | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: The Sound Detectives Handbook Extracting Silence From Video Files in iOS/OS X Systems
-date: 2024-05-05T05:12:26.591Z
-updated: 2024-05-06T05:12:26.591Z
+date: 2024-05-20T01:47:38.896Z
+updated: 2024-05-21T01:47:38.896Z
 tags: 
   - audio editing software
   - audio editing
@@ -1626,4 +1626,5 @@ Different platforms are available for high-quality sound effects for podcast sho
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-cut-out-the-middleman-7-free-video-trimmers-with-no-watermark-for-2024/"><u>Updated Cut Out the Middleman 7 Free Video Trimmers with No Watermark for 2024</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-the-best-of-the-web-vertical-video-editors/"><u>2024 Approved The Best of the Web Vertical Video Editors</u></a></li>
 </ul></div>
+
 

@@ -1559,3 +1559,4 @@ For macOS 10.12 or later
 <li><a href="https://smart-video-creator.techidaily.com/new-ditch-windows-10-photos-discover-the-best-photo-editing-alternatives/"><u>New Ditch Windows 10 Photos Discover the Best Photo Editing Alternatives</u></a></li>
 </ul></div>
 
+

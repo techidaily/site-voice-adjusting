@@ -1058,3 +1058,4 @@ Follow @Liza Brown
 <li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-image-ratio-handbook-calculation-adjustment-and-best-practices/"><u>New 2024 Approved The Image Ratio Handbook Calculation, Adjustment, and Best Practices</u></a></li>
 </ul></div>
 
+

@@ -1474,3 +1474,4 @@ For macOS 10.14 or later
 <li><a href="https://techidaily.com/how-to-soft-reset-vivo-y27-4g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo Y27 4G phone? | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: New Mastering the Art of Volume Control A Guide to Seamless Audio Transitions in Adobe After Effects
-date: 2024-05-05T05:27:50.290Z
-updated: 2024-05-06T05:27:50.290Z
+date: 2024-05-20T01:48:28.889Z
+updated: 2024-05-21T01:48:28.889Z
 tags: 
   - audio editing software
   - audio editing
@@ -1162,4 +1162,5 @@ Let us conclude the article with the assumption that this article was helpful to
 <li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-free-video-editing-software-top-picks-beginners/"><u>New 2024 Approved Free Video Editing Software Top Picks Beginners</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-vivo-v27-pro-easily-by-drfone-android/"><u>In 2024, How To Unlock a Vivo V27 Pro Easily?</u></a></li>
 </ul></div>
+
 

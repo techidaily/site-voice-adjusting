@@ -896,3 +896,4 @@ Basically, it's easy to **remove sound from video windows 10**. You can use the 
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-learn-how-to-use-face-tracking-in-after-effects-to-quickly-mask-out-faces-animate-objects-on-faces-and-more/"><u>Updated 2024 Approved Learn How to Use Face Tracking in After Effects to Quickly Mask Out Faces, Animate Objects on Faces, and More</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Introduction to Jazz Fundamental Concepts and Techniques
-date: 2024-05-05T05:26:07.428Z
-updated: 2024-05-06T05:26:07.428Z
+date: 2024-05-20T01:48:24.052Z
+updated: 2024-05-21T01:48:24.052Z
 tags: 
   - audio editing software
   - audio editing
@@ -1633,4 +1633,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-realme-c51-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Realme C51 | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-samsung-galaxy-a05s-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Samsung Galaxy A05s</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Online Audio Enhancement A Step-by-Step Guide to Adjusting Speed & Pitch
-date: 2024-05-05T05:11:05.019Z
-updated: 2024-05-06T05:11:05.019Z
+date: 2024-05-20T01:47:36.428Z
+updated: 2024-05-21T01:47:36.428Z
 tags: 
   - audio editing software
   - audio editing
@@ -1791,4 +1791,5 @@ Follow @Liza Brown
 <li><a href="https://animation-videos.techidaily.com/new-in-2024-best-15-classics-animated-cartoon-movies/"><u>New In 2024, Best 15 Classics Animated Cartoon Movies</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-youtube-to-mp3-converter-tutorial-for-beginners/"><u>Updated The Ultimate YouTube to MP3 Converter Tutorial for Beginners</u></a></li>
 </ul></div>
+
 

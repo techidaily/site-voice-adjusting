@@ -695,3 +695,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-best-practices-for-creating-phone-aspect-ratio-vertical-on-your-smartphone/"><u>New 2024 Approved Best Practices for Creating Phone Aspect Ratio Vertical on Your Smartphone</u></a></li>
 </ul></div>
 
+

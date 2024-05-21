@@ -1298,3 +1298,4 @@ For macOS 10.12 or later
 <li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-infinix-hot-40-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Infinix Hot 40? | Dr.fone</u></a></li>
 </ul></div>
 
+

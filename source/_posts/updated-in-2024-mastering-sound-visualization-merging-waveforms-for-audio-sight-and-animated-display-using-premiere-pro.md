@@ -1134,3 +1134,4 @@ Follow @Benjamin Arango
 <li><a href="https://ai-vdieo-software.techidaily.com/new-from-4-3-to-16-9-changing-aspect-ratio-in-final-cut-pro-made-easy/"><u>New From 4 3 to 16 9 Changing Aspect Ratio in Final Cut Pro Made Easy</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: First Edition of LexiEdit Training Building Your Base in Audio Editing for 2024
-date: 2024-05-05T05:23:18.241Z
-updated: 2024-05-06T05:23:18.241Z
+date: 2024-05-20T01:48:13.671Z
+updated: 2024-05-21T01:48:13.671Z
 tags: 
   - audio editing software
   - audio editing
@@ -1736,4 +1736,5 @@ Follow @Benjamin Arango
 <li><a href="https://ai-video-tools.techidaily.com/new-in-2024-a-beginners-guide-to-installing-kinemaster-on-mac-computers/"><u>New In 2024, A Beginners Guide to Installing KineMaster on Mac Computers</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-top-rated-2d-animation-programs-for-beginners-and-pros/"><u>In 2024, Best Top-Rated 2D Animation Programs for Beginners and Pros</u></a></li>
 </ul></div>
+
 

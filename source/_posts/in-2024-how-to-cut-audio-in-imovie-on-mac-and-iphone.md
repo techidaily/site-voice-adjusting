@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Cut Audio in iMovie on Mac & iPhone?
-date: 2024-05-05T05:24:54.218Z
-updated: 2024-05-06T05:24:54.218Z
+date: 2024-05-20T01:48:20.690Z
+updated: 2024-05-21T01:48:20.690Z
 tags: 
   - audio editing software
   - audio editing
@@ -1313,4 +1313,5 @@ The Audio Studio of Sound Forge lets the user record, edit, restore, and master 
 <li><a href="https://change-location.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/iphone-11-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>iPhone 11 Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
 </ul></div>
+
 

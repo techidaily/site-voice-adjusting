@@ -1,7 +1,7 @@
 ---
 title: The Uncharted Territory of Jazz Music Fundamentals
-date: 2024-05-05T05:12:41.065Z
-updated: 2024-05-06T05:12:41.065Z
+date: 2024-05-20T01:47:39.283Z
+updated: 2024-05-21T01:47:39.283Z
 tags: 
   - audio editing software
   - audio editing
@@ -1423,4 +1423,5 @@ Numerous effects to choose from.
 <li><a href="https://ios-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>Best Pokemons for PVP Matches in Pokemon Go For Apple iPhone 8 Plus | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-infinix-smart-7-hd-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Infinix Smart 7 HD Users</u></a></li>
 </ul></div>
+
 

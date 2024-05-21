@@ -2357,3 +2357,4 @@ For macOS 10.14 or later
 <li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-anatomy-of-great-lower-thirds-a-guide-for-fcpx-editors/"><u>Updated 2024 Approved The Anatomy of Great Lower Thirds A Guide for FCPX Editors</u></a></li>
 </ul></div>
 
+

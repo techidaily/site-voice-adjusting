@@ -1102,3 +1102,4 @@ For macOS 10.12 or later
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-s24-ultra-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Samsung Galaxy S24 Ultra to Laptop Without USB | Dr.fone</u></a></li>
 </ul></div>
 
+

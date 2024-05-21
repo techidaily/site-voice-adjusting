@@ -1,7 +1,7 @@
 ---
 title: Audio Editing Techniques for MP4 Files
-date: 2024-05-05T05:08:19.180Z
-updated: 2024-05-06T05:08:19.180Z
+date: 2024-05-20T01:47:28.992Z
+updated: 2024-05-21T01:47:28.992Z
 tags: 
   - audio editing software
   - audio editing
@@ -923,4 +923,5 @@ The voice recorder software is the need of the hour as they help manipulate the 
 <li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-iphone-xr-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On iPhone XR? Heres the Best Fixes</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/new-2024-approved-samples-of-cartoon-character-face/"><u>New 2024 Approved Samples of Cartoon Character Face</u></a></li>
 </ul></div>
+
 

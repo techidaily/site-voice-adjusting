@@ -1208,3 +1208,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-top-5-tips-to-freeze-frame-in-after-effects/"><u>In 2024, Top 5 Tips to Freeze-Frame in After Effects</u></a></li>
 </ul></div>
 
+

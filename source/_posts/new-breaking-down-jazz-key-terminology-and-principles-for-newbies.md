@@ -1,7 +1,7 @@
 ---
 title: New Breaking Down Jazz Key Terminology and Principles for Newbies
-date: 2024-05-05T05:17:23.277Z
-updated: 2024-05-06T05:17:23.277Z
+date: 2024-05-20T01:47:54.202Z
+updated: 2024-05-21T01:47:54.202Z
 tags: 
   - audio editing software
   - audio editing
@@ -1097,4 +1097,5 @@ Additionally, we explored the pricing plan of MAGIX Samplitude Pro X and its var
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-12-mini-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 12 mini? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/new-video-editing-for-mac-yosemite-a-step-by-step-tutorial-for-2024/"><u>New Video Editing for Mac Yosemite A Step-by-Step Tutorial for 2024</u></a></li>
 </ul></div>
+
 

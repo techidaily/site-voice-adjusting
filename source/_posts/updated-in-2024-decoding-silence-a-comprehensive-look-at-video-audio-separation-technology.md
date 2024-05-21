@@ -1307,3 +1307,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-vdieo-software.techidaily.com/in-this-article-i-will-show-you-how-to-change-the-shape-of-a-video-in-3-different-ways-with-filmora/"><u>In This Article, I Will Show You How to Change the Shape of a Video in 3 Different Ways with Filmora</u></a></li>
 </ul></div>
 
+

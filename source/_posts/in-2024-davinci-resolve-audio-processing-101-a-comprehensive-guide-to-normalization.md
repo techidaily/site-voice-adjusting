@@ -1,7 +1,7 @@
 ---
 title: In 2024, DaVinci Resolve Audio Processing 101 A Comprehensive Guide to Normalization
-date: 2024-05-05T05:19:09.991Z
-updated: 2024-05-06T05:19:09.991Z
+date: 2024-05-20T01:48:00.796Z
+updated: 2024-05-21T01:48:00.796Z
 tags: 
   - audio editing software
   - audio editing
@@ -1121,4 +1121,5 @@ Follow @Liza Brown
 <li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-run-lumafusion-on-mac-download-and-alternative-options/"><u>Updated 2024 Approved Run Lumafusion on Mac Download and Alternative Options</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-oneplus-ace-2-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from OnePlus Ace 2 Pro FRP Bypass</u></a></li>
 </ul></div>
+
 

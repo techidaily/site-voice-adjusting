@@ -1,7 +1,7 @@
 ---
 title: Achieving Audio Equilibrium Methods for Adjusting Sound Pressure Levels with VLC
-date: 2024-05-05T05:08:03.510Z
-updated: 2024-05-06T05:08:03.510Z
+date: 2024-05-20T01:47:28.588Z
+updated: 2024-05-21T01:47:28.588Z
 tags: 
   - audio editing software
   - audio editing
@@ -939,4 +939,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-video-editing.techidaily.com/new-the-best-peter-mckinnon-luts-for-perfect-video-editing-for-2024/"><u>New The Best Peter McKinnon LUTs for Perfect Video Editing for 2024</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Oppo A2? | Dr.fone</u></a></li>
 </ul></div>
+
 

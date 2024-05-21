@@ -1,7 +1,7 @@
 ---
 title: Audacity Tutorial Boost or Mute Your Sound Effectively
-date: 2024-05-05T05:08:17.123Z
-updated: 2024-05-06T05:08:17.123Z
+date: 2024-05-20T01:47:28.935Z
+updated: 2024-05-21T01:47:28.935Z
 tags: 
   - audio editing software
   - audio editing
@@ -2327,4 +2327,5 @@ For macOS 10.14 or later
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-mastering-text-to-speech-proven-conversion-strategies/"><u>2024 Approved Mastering Text-to-Speech Proven Conversion Strategies</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/effortless-video-editing-microsoft-video-editor-for-windows-users-for-2024/"><u>Effortless Video Editing Microsoft Video Editor for Windows Users for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering the Art of Audio Modulation Speed & Pitch Online Guide
-date: 2024-05-05T05:27:40.693Z
-updated: 2024-05-06T05:27:40.693Z
+date: 2024-05-20T01:48:28.532Z
+updated: 2024-05-21T01:48:28.532Z
 tags: 
   - audio editing software
   - audio editing
@@ -1165,4 +1165,5 @@ For macOS 10.12 or later
 <li><a href="https://video-content-creator.techidaily.com/new-this-article-introduces-some-of-the-best-video-apps-for-editing-vertical-videos/"><u>New This Article Introduces some of the Best Video Apps for Editing Vertical Videos</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-tips-for-learning-graphics-animation/"><u>Updated Tips for Learning Graphics Animation</u></a></li>
 </ul></div>
+
 

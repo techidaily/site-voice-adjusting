@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Fade In and Fade Out Audio in Adobe After Effects
-date: 2024-05-05T05:24:58.665Z
-updated: 2024-05-06T05:24:58.665Z
+date: 2024-05-20T01:48:20.880Z
+updated: 2024-05-21T01:48:20.880Z
 tags: 
   - audio editing software
   - audio editing
@@ -1264,4 +1264,5 @@ Follow @Benjamin Arango
 <li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-f04-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy F04 Phones with/without a PC</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-can-nokia-130-musicmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Nokia 130 MusicMirror Share to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

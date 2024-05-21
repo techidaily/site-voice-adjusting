@@ -1,7 +1,7 @@
 ---
 title: Adjusting Decibels Fine-Tuning Sound on Audacity
-date: 2024-05-05T05:08:08.380Z
-updated: 2024-05-06T05:08:08.380Z
+date: 2024-05-20T01:47:28.715Z
+updated: 2024-05-21T01:47:28.715Z
 tags: 
   - audio editing software
   - audio editing
@@ -1411,4 +1411,5 @@ To have a healthy and happy life, you should enjoy the little moments. In the sa
 <li><a href="https://bypass-frp.techidaily.com/easy-guide-to-infinix-smart-8-plus-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Infinix Smart 8 Plus FRP Bypass With Best Methods</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-realme-11x-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Realme 11X 5G</u></a></li>
 </ul></div>
+
 

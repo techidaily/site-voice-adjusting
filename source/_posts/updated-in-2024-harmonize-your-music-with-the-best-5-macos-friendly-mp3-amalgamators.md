@@ -975,3 +975,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-x-the-art-of-freeze-frames-and-slow-motion-storytelling/"><u>Final Cut Pro X The Art of Freeze Frames and Slow Motion Storytelling</u></a></li>
 </ul></div>
 
+

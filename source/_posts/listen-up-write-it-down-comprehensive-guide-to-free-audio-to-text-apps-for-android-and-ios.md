@@ -1,7 +1,7 @@
 ---
 title: Listen Up, Write It Down Comprehensive Guide to Free Audio-to-Text Apps for Android and iOS
-date: 2024-05-05T05:10:32.494Z
-updated: 2024-05-06T05:10:32.494Z
+date: 2024-05-20T01:47:35.489Z
+updated: 2024-05-21T01:47:35.489Z
 tags: 
   - audio editing software
   - audio editing
@@ -997,4 +997,5 @@ For macOS 10.12 or later
 <li><a href="https://techidaily.com/is-your-oneplus-nord-ce-3-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your OnePlus Nord CE 3 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-infinix-note-30-vip-racing-edition-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Infinix Note 30 VIP Racing Edition</u></a></li>
 </ul></div>
+
 

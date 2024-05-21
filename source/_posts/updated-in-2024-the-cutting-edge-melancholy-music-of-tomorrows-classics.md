@@ -2161,3 +2161,4 @@ Follow @Shanoon Cox
 <li><a href="https://ai-editing-video.techidaily.com/top-5-tips-to-freeze-frame-in-after-effects/"><u>Top 5 Tips to Freeze-Frame in After Effects</u></a></li>
 </ul></div>
 
+

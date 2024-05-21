@@ -1515,3 +1515,4 @@ Overall, make sure you read the pros and cons attached to using each method so y
 <li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-realme-11x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Realme 11X 5G | Dr.fone</u></a></li>
 </ul></div>
 
+

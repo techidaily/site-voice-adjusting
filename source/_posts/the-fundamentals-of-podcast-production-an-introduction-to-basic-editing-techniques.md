@@ -1,7 +1,7 @@
 ---
 title: The Fundamentals of Podcast Production An Introduction to Basic Editing Techniques
-date: 2024-05-05T05:12:15.280Z
-updated: 2024-05-06T05:12:15.280Z
+date: 2024-05-20T01:47:38.645Z
+updated: 2024-05-21T01:47:38.645Z
 tags: 
   - audio editing software
   - audio editing
@@ -1098,4 +1098,5 @@ For macOS 10.12 or later
 <li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Motorola Razr 40 | Dr.fone</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-add-a-touch-of-pro-best-bokeh-effect-apps-for-iphone-and-android/"><u>Updated 2024 Approved Add a Touch of Pro Best Bokeh Effect Apps for iPhone and Android</u></a></li>
 </ul></div>
+
 

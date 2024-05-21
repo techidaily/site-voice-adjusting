@@ -1,7 +1,7 @@
 ---
 title: Pinpoint Skull-Cracking Explosion Sound
-date: 2024-05-05T05:11:10.495Z
-updated: 2024-05-06T05:11:10.495Z
+date: 2024-05-20T01:47:36.599Z
+updated: 2024-05-21T01:47:36.599Z
 tags: 
   - audio editing software
   - audio editing
@@ -1576,4 +1576,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://video-creation-software.techidaily.com/updated-elevate-your-sound-the-10-most-powerful-audio-editing-software-for-2024/"><u>Updated Elevate Your Sound The 10 Most Powerful Audio Editing Software for 2024</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/new-loop-videos-like-a-pro-best-free-video-repeater-software-for-2024/"><u>New Loop Videos Like a Pro Best Free Video Repeater Software for 2024</u></a></li>
 </ul></div>
+
 

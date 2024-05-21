@@ -1195,3 +1195,4 @@ Using Wondershare Filmora can help you create better quality gifs with sound. Th
 <li><a href="https://techidaily.com/how-to-hard-reset-motorola-defy-2-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Motorola Defy 2 Without Password | Dr.fone</u></a></li>
 </ul></div>
 
+

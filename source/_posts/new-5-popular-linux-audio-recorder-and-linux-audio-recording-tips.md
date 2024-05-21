@@ -1,7 +1,7 @@
 ---
 title: New 5 Popular Linux Audio Recorder and Linux Audio Recording Tips
-date: 2024-05-05T05:13:53.672Z
-updated: 2024-05-06T05:13:53.672Z
+date: 2024-05-20T01:47:42.622Z
+updated: 2024-05-21T01:47:42.622Z
 tags: 
   - audio editing software
   - audio editing
@@ -1585,4 +1585,5 @@ Thus, you had a detailed discussion about **Audio ducking**. Choose the applicat
 <li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-samsung-galaxy-s24-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-honor-90-gtmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Honor 90 GTMirror Share to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: The Art of Concealing the Boundaries Between Sounds with Fades
-date: 2024-05-05T05:12:02.627Z
-updated: 2024-05-06T05:12:02.627Z
+date: 2024-05-20T01:47:38.228Z
+updated: 2024-05-21T01:47:38.228Z
 tags: 
   - audio editing software
   - audio editing
@@ -1008,4 +1008,5 @@ Follow @Benjamin Arango
 <li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-apple-iphone-8-plus-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On Apple iPhone 8 Plus? 5 Tips You Must Know</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Lava Yuva 3 | Dr.fone</u></a></li>
 </ul></div>
+
 

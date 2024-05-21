@@ -1,7 +1,7 @@
 ---
 title: Updated Framing Moments with Notes Composers and Clip Assembly in Filmography
-date: 2024-05-05T05:23:20.579Z
-updated: 2024-05-06T05:23:20.579Z
+date: 2024-05-20T01:48:13.868Z
+updated: 2024-05-21T01:48:13.868Z
 tags: 
   - audio editing software
   - audio editing
@@ -2130,4 +2130,5 @@ Follow @Benjamin Arango
 <li><a href="https://smart-video-creator.techidaily.com/in-2024-unlock-your-dvds-a-beginners-guide-to-converting-to-digital-video-formats/"><u>In 2024, Unlock Your DVDs A Beginners Guide to Converting to Digital Video Formats</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/every-compositor-should-know-the-trick-of-color-match-in-after-effects/"><u>Every Compositor Should Know The Trick of Color Match in After Effects</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Dynamic Sound Design Modifying Audio Velocity & Frequency in Adobe Rush
-date: 2024-05-05T05:20:11.282Z
-updated: 2024-05-06T05:20:11.282Z
+date: 2024-05-20T01:48:03.899Z
+updated: 2024-05-21T01:48:03.899Z
 tags: 
   - audio editing software
   - audio editing
@@ -1938,4 +1938,5 @@ Follow @Benjamin Arango
 <li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-motorola-moto-g24-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Motorola Moto G24</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-bend-reality-with-these-10-glitch-art-video-editing-apps-for-ios-and-android/"><u>Updated 2024 Approved Bend Reality with These 10 Glitch Art Video Editing Apps for iOS and Android</u></a></li>
 </ul></div>
+
 

@@ -1132,3 +1132,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-video-editing.techidaily.com/updated-how-to-change-the-speed-of-video-in-davinci-resolve-in-2024/"><u>Updated How to Change the Speed of Video in DaVinci Resolve, In 2024</u></a></li>
 </ul></div>
 
+

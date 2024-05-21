@@ -1391,3 +1391,4 @@ Follow @Benjamin Arango
 <li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-infinix-hot-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Infinix Hot 30i | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1852,3 +1852,4 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://ai-video-editing.techidaily.com/new-video-editors-use-transitions-to-tie-their-shots-and-clips-together-into-a-cohesive-polished-program-learn-the-best-method-to-create-a-smooth-cut-transi/"><u>New Video Editors Use Transitions to Tie Their Shots and Clips Together Into a Cohesive, Polished Program. Learn the Best Method to Create a Smooth Cut Transition Effect</u></a></li>
 </ul></div>
 
+

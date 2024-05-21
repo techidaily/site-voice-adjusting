@@ -2231,3 +2231,4 @@ For macOS 10.12 or later
 <li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Oppo Reno 10 5G? | Dr.fone</u></a></li>
 </ul></div>
 
+

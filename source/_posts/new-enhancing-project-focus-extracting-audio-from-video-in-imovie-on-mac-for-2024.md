@@ -1348,3 +1348,4 @@ So, this article listed how to add audio to video in Premiere Pro via a step-by-
 <li><a href="https://smart-video-creator.techidaily.com/wav-converter-essentials-a-step-by-step-tutorial/"><u>Wav Converter Essentials A Step-by-Step Tutorial</u></a></li>
 </ul></div>
 
+

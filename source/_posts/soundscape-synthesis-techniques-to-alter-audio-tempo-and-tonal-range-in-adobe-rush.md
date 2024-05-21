@@ -1,7 +1,7 @@
 ---
 title: Soundscape Synthesis Techniques to Alter Audio Tempo & Tonal Range in Adobe Rush
-date: 2024-05-05T05:11:43.435Z
-updated: 2024-05-06T05:11:43.435Z
+date: 2024-05-20T01:47:37.628Z
+updated: 2024-05-21T01:47:37.628Z
 tags: 
   - audio editing software
   - audio editing
@@ -1022,4 +1022,5 @@ Follow @Benjamin Arango
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-edge-40-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Edge 40?</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Sony Xperia 10 V? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New How to Convert AIFF to MP3
-date: 2024-05-05T05:18:27.461Z
-updated: 2024-05-06T05:18:27.461Z
+date: 2024-05-20T01:47:58.139Z
+updated: 2024-05-21T01:47:58.139Z
 tags: 
   - audio editing software
   - audio editing
@@ -1111,4 +1111,5 @@ Follow @Benjamin Arango
 <li><a href="https://ai-editing-video.techidaily.com/new-what-is-ai-composite-video-app-and-ai-composite-video-tutorial-for-2024/"><u>New What Is AI Composite Video App and AI Composite Video Tutorial for 2024</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Come up With the Best Pokemon Team On Apple iPhone 6s? | Dr.fone</u></a></li>
 </ul></div>
+
 

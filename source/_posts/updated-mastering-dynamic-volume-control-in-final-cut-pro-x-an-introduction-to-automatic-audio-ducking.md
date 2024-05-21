@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering Dynamic Volume Control in Final Cut Pro X An Introduction to Automatic Audio Ducking
-date: 2024-05-05T05:27:13.476Z
-updated: 2024-05-06T05:27:13.476Z
+date: 2024-05-20T01:48:27.444Z
+updated: 2024-05-21T01:48:27.444Z
 tags: 
   - audio editing software
   - audio editing
@@ -1443,4 +1443,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://smart-video-creator.techidaily.com/2024-approved-video-perfection-top-5-free-apps-for-image-stabilization-on-android/"><u>2024 Approved Video Perfection Top 5 Free Apps for Image Stabilization on Android</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-itel-p40-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Itel P40 Phone Password Using Emergency Call</u></a></li>
 </ul></div>
+
 

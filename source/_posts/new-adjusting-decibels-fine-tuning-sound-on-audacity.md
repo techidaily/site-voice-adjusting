@@ -1,7 +1,7 @@
 ---
 title: New Adjusting Decibels Fine-Tuning Sound on Audacity
-date: 2024-05-05T05:14:44.864Z
-updated: 2024-05-06T05:14:44.864Z
+date: 2024-05-20T01:47:45.759Z
+updated: 2024-05-21T01:47:45.759Z
 tags: 
   - audio editing software
   - audio editing
@@ -1253,4 +1253,5 @@ Follow @Liza Brown
 <li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-xiaomi-redmi-k70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Xiaomi Redmi K70 | Dr.fone</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/updated-in-2024-10-industry-leading-audio-editing-solutions-for-professionals/"><u>Updated In 2024, 10 Industry-Leading Audio Editing Solutions for Professionals</u></a></li>
 </ul></div>
+
 

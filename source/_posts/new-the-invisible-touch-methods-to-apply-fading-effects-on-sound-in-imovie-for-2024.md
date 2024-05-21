@@ -1241,3 +1241,4 @@ For macOS 10.12 or later
 <li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-huawei-nova-y71-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Huawei Nova Y71 | Dr.fone</u></a></li>
 </ul></div>
 
+

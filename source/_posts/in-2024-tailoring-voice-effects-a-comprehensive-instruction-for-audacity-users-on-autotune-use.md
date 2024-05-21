@@ -1,7 +1,7 @@
 ---
 title: In 2024, Tailoring Voice Effects A Comprehensive Instruction for Audacity Users on Autotune Use
-date: 2024-05-05T05:33:22.934Z
-updated: 2024-05-06T05:33:22.934Z
+date: 2024-05-20T01:48:43.554Z
+updated: 2024-05-21T01:48:43.554Z
 tags: 
   - audio editing software
   - audio editing
@@ -1290,4 +1290,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-galaxy-m54-5g-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Galaxy M54 5G</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-what-are-differences-between-2d-and-3d-animation-for-2024/"><u>Updated What Are Differences Between 2D And 3D Animation for 2024</u></a></li>
 </ul></div>
+
 

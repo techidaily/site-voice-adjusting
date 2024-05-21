@@ -1696,3 +1696,4 @@ For macOS 10.12 or later
 <li><a href="https://techidaily.com/hard-reset-samsung-galaxy-a15-4g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy A15 4G in 3 Efficient Ways | Dr.fone</u></a></li>
 </ul></div>
 
+

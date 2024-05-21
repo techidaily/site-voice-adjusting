@@ -795,3 +795,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-easy-steps-to-add-miniature-effect-to-videos/"><u>2024 Approved Easy Steps to Add Miniature Effect to Videos</u></a></li>
 </ul></div>
 
+

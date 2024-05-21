@@ -1,7 +1,7 @@
 ---
 title: The Art of Timbre Control Lowering Song Intensity Preserving Pitch Integrity
-date: 2024-05-05T05:12:04.477Z
-updated: 2024-05-06T05:12:04.477Z
+date: 2024-05-20T01:47:38.278Z
+updated: 2024-05-21T01:47:38.278Z
 tags: 
   - audio editing software
   - audio editing
@@ -1644,4 +1644,5 @@ For macOS 10.12 or later
 <li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-how-to-flip-a-video-online-for-free-top-methods/"><u>Updated In 2024, How to Flip a Video Online for Free Top Methods</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/updated-in-2024-the-ultimate-list-10-free-android-video-editing-apps-with-no-watermark/"><u>Updated In 2024, The Ultimate List 10 Free Android Video Editing Apps with No Watermark</u></a></li>
 </ul></div>
+
 

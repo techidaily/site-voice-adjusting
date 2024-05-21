@@ -1946,3 +1946,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-driven-video-production.techidaily.com/tiktok-resolution-and-aspect-ratio-everything-you-need-to-know/"><u>TikTok Resolution and Aspect Ratio Everything You Need to Know</u></a></li>
 </ul></div>
 
+

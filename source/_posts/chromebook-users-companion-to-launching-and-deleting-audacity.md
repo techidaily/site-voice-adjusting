@@ -1,7 +1,7 @@
 ---
 title: Chromebook Users Companion to Launching and Deleting Audacity
-date: 2024-05-05T05:08:45.261Z
-updated: 2024-05-06T05:08:45.261Z
+date: 2024-05-20T01:47:30.245Z
+updated: 2024-05-21T01:47:30.245Z
 tags: 
   - audio editing software
   - audio editing
@@ -1474,4 +1474,5 @@ Numerous effects, footage and audio.
 <li><a href="https://smart-video-editing.techidaily.com/the-ultimate-list-5-best-photo-slideshow-software-for-beginners-for-2024/"><u>The Ultimate List 5 Best Photo Slideshow Software for Beginners for 2024</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-make-it-a-gif-28-video-conversion-tool-recommendations/"><u>Updated In 2024, Make It a GIF 28 Video Conversion Tool Recommendations</u></a></li>
 </ul></div>
+
 

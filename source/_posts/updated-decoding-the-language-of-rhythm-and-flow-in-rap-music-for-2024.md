@@ -2511,3 +2511,4 @@ For macOS 10.14 or later
 <li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v10-document-with-digital-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.0 document with digital signature software</u></a></li>
 </ul></div>
 
+

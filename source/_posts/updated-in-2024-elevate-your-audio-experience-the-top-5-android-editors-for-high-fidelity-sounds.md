@@ -2241,3 +2241,4 @@ Follow @Benjamin Arango
 <li><a href="https://ai-video-editing.techidaily.com/updated-steps-to-add-subtitles-in-canva-for-2024/"><u>Updated Steps to Add Subtitles in Canva for 2024</u></a></li>
 </ul></div>
 
+

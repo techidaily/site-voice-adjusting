@@ -1680,3 +1680,4 @@ For macOS 10.12 or later
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-sony-xperia-5-v-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Sony Xperia 5 V Without Volume Buttons | Dr.fone</u></a></li>
 </ul></div>
 
+
