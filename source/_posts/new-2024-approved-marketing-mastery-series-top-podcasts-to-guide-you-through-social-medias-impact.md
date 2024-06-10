@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Marketing Mastery Series Top Podcasts to Guide You Through Social Medias Impact
-date: 2024-05-05T05:56:32.388Z
-updated: 2024-05-06T05:56:32.388Z
+date: 2024-06-09T19:00:07.124Z
+updated: 2024-06-10T19:00:07.124Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Marketing Mastery Series Top Podcasts to Guide You Through Social Medias Impact
 excerpt: This Article Describes New 2024 Approved Marketing Mastery Series Top Podcasts to Guide You Through Social Medias Impact
 keywords: the essential guide to mastering your auditory projects using twistedwave,marketing mastery series top podcasts to guide you through social medias impact,Learn the exact marketing secrets with the ten best social media podcasts,essential guide mastering audio capture on your mac with top 5 tricks,mac audio enthusiasts guide to selecting the optimal mp3 trimmer software,innovative insights a curated list s pivotal social media and marketing podcasts,innovative pop music harmonies a 2024 guidebook to perfecting visual media soundscapes
-thumbnail: https://www.lifewire.com/thmb/M6MEEf2A7TVTzphPjYFZQ34ewjs=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/man-attaching-action-camera-to-chest-664655587-5c8c2559c9e77c0001ac184b.jpg
+thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2bf2f2b4b3c5585601cba7b98.jpg
 ---
 
 ## "Marketing Mastery Series: Top Podcasts to Guide You Through Social Media's Impact "

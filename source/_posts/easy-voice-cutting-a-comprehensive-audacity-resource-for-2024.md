@@ -1,7 +1,7 @@
 ---
 title: Easy Voice Cutting A Comprehensive Audacity Resource for 2024
-date: 2024-05-20T01:48:04.070Z
-updated: 2024-05-21T01:48:04.070Z
+date: 2024-06-09T19:00:20.533Z
+updated: 2024-06-10T19:00:20.533Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Easy Voice Cutting A Comprehensive Audacity Resource for 2024
 excerpt: This Article Describes Easy Voice Cutting A Comprehensive Audacity Resource for 2024
 keywords: pitch control made easy a comprehensive guide to altering voices with audacity,tailoring voice effects a comprehensive instruction for audacity users on autotune use,easy voice cutting a comprehensive audacity resource,enhance your speaking style with av voice changers a comprehensive guide,mastering vocaroo a comprehensive guide for voice capture techniques,automating your voice a comprehensive audacity autotune installation and usage manual,mastering iphone voice recording a comprehensive tutorial
-thumbnail: https://www.lifewire.com/thmb/UCCJI6MO1FwbR0mTqx5aB-FS3_0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-add-tiktok-filters-and-effects-f3c195b2fe1449cb8b2906eea3305b22.jpg
+thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2f2b7f6dd74a2f0921700773.jpg
 ---
 
 ## Easy Voice Cutting: A Comprehensive Audacity Resource

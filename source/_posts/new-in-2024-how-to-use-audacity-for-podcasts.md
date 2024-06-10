@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Use Audacity for Podcasts
-date: 2024-05-05T05:54:43.987Z
-updated: 2024-05-06T05:54:43.987Z
+date: 2024-06-09T19:00:24.561Z
+updated: 2024-06-10T19:00:24.561Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, How to Use Audacity for Podcasts
 excerpt: This Article Describes New In 2024, How to Use Audacity for Podcasts
 keywords: how to use autotune in audacity with plugins for free,how to install use autotune in audacity,how to use audacity for podcasts,we introduce everything about audacity for podcasts.,how to use auto tune plugin audacity,the ultimate audacity tutorial for modern podcasters,how to download install lame for audacity
-thumbnail: https://www.lifewire.com/thmb/RWcl_Joktvj_rmr9ViWUZrsB7e4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/homepod-hero-5a79bc226bf06900378a7e1a.jpg
+thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f898253edd18111f294ce2b839027.jpg
 ---
 
 ## How to Use Audacity for Podcasts

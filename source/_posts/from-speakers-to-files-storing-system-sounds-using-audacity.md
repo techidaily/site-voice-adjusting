@@ -1,7 +1,7 @@
 ---
 title: From Speakers to Files Storing System Sounds Using Audacity
-date: 2024-05-20T01:49:57.444Z
-updated: 2024-05-21T01:49:57.444Z
+date: 2024-06-09T18:59:56.385Z
+updated: 2024-06-10T18:59:56.385Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes From Speakers to Files Storing System Sounds Using Audacity
 excerpt: This Article Describes From Speakers to Files Storing System Sounds Using Audacity
 keywords: capturing your computers sounds a guide to using audacity,from silence to storytelling leveraging audacity podcast creation,mastering the art of deleting percussive sounds from audio tracks,recording your system sounds with audacity,from silence to symphony adding soundtracks to kinemaster,from speakers to files storing system sounds using audacity,from zero to done first steps in using audacity with ubuntu
-thumbnail: https://www.lifewire.com/thmb/Wnjr5d8PWtLhZKZOlT7PSsWhqZ8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YoungAsianmanusinglaptopandreadingnewspaperonplane-59960904685fbe00103478bd.jpg
+thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c63be7c3be4720f86eba5080f.jpg
 ---
 
 ## From Speakers to Files: Storing System Sounds Using Audacity

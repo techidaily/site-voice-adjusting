@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved The Modern Guide to Implementing Decay in Sound Tracks
-date: 2024-05-05T06:06:15.834Z
-updated: 2024-05-06T06:06:15.834Z
+date: 2024-06-09T18:59:57.691Z
+updated: 2024-06-10T18:59:57.691Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved The Modern Guide to Implementing Decay in Sound Tracks
 excerpt: This Article Describes Updated 2024 Approved The Modern Guide to Implementing Decay in Sound Tracks
 keywords: the ultimate guide to modifying sound intensity in audacity,the complete guide to isolating soundtracks with imovie on macos,the modern guide to integrating visuals with sound audio enhancement,embedding soundtracks in mkv format a comprehensive guide for the 2023 update,the hasty guide to altering playback rate in sound files,the modern guide to implementing decay in sound tracks,reimagining soundscapes a detailed guide to audio track replacement in video production
-thumbnail: https://www.lifewire.com/thmb/bUgwWBmVwo2R1WJT-qkM52ppdCc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ipad-pro-pencil-56a533763df78cf77286e0e0.png
+thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99199e876bd020898984fe0d1.png
 ---
 
 ## "The Modern Guide to Implementing Decay in Sound Tracks"

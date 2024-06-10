@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Increase or Decrease Audio Volume in Audacity?
-date: 2024-05-05T05:54:25.813Z
-updated: 2024-05-06T05:54:25.813Z
+date: 2024-06-09T18:59:56.940Z
+updated: 2024-06-10T18:59:56.940Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, How to Increase or Decrease Audio Volume in Audacity?
 excerpt: This Article Describes New In 2024, How to Increase or Decrease Audio Volume in Audacity?
 keywords: I will show you how to increase or decrease the audio volume in Audacity step by step.,tuning in smoothly learning to adjust audio volumes on audacity,accelerating audio on windows the leading 10 tools for immediate volume increase 2023 guide,how to increase decrease volume audacity,how to record your computer audio in audacity,how to adjust audio volume in audacity,perfecting audio balance the guide to volume control in audacity
-thumbnail: https://www.lifewire.com/thmb/A1hfnW-9b0eVXXkLwD_6ei9mr2I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AE-lock-572ece975f9b58c34c0a2492.jpg
+thumbnail: https://thmb.techidaily.com/e086106512b2e9d753e081998408f58f33739fa1f0e7070951ebc50a7e45bfdb.jpg
 ---
 
 ## How to Increase or Decrease Audio Volume in Audacity?

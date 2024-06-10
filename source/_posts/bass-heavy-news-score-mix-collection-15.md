@@ -1,7 +1,7 @@
 ---
 title: Bass-Heavy News Score Mix, Collection #15
-date: 2024-05-20T01:47:29.291Z
-updated: 2024-05-21T01:47:29.291Z
+date: 2024-06-09T19:00:08.987Z
+updated: 2024-06-10T19:00:08.987Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Bass-Heavy News Score Mix, Collection #15
 excerpt: This Article Describes Bass-Heavy News Score Mix, Collection #15
 keywords: a curated collection of 15 dynamic news music pieces,unmissable online music collection,unmissable collection the ultimate playlist of song recorders,crafting a timeless collection the top 15 rock songs,bass heavy news score mix collection 15,natures chirp collection in mp3 format,15 nice collection of news background music
-thumbnail: https://www.lifewire.com/thmb/Xyb0vuGu9TpKbUdQlZdFVVUv0Bc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HotelTransylvaniaTransformania-71f0792728254936864ad509c847c73c.jpg
+thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4aedd9106177497020dbae72.jpg
 ---
 
 ## "Bass-Heavy News Score Mix, Collection #15"

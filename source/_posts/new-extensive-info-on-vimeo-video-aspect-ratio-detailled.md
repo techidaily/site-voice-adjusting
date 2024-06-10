@@ -1,7 +1,7 @@
 ---
 title: New Extensive Info on Vimeo Video - Aspect Ratio Detailled
-date: 2024-05-20T01:48:12.581Z
-updated: 2024-05-21T01:48:12.581Z
+date: 2024-06-09T19:00:12.839Z
+updated: 2024-06-10T19:00:12.839Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Extensive Info on Vimeo Video - Aspect Ratio Detailled
 excerpt: This Article Describes New Extensive Info on Vimeo Video - Aspect Ratio Detailled
 keywords: comprehensive vimeo video breakdown including aspect ratio,decoding vimeos video dimensions a complete perspective on aspect ratios,extensive info on vimeo video aspect ratio detailled,detailed vimeo video overview featuring aspect ratio,vimeo video profile aspect ratio specified,full screen vimeo video details with aspect ratio information,detailed vimeo video data sheet with emphasis on aspect ratio information
-thumbnail: https://www.lifewire.com/thmb/TKoUz7zi8lw5cyOA93bOwDLfNYs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the_room-56cc7f225f9b5879cc590941.png
+thumbnail: https://thmb.techidaily.com/468b7a50fb837089e10cec38dd44fa01aaab4078b704b313fd2f69558ac117bb.png
 ---
 
 ## Extensive Info on Vimeo Video - Aspect Ratio Detailled

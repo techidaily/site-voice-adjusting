@@ -1,7 +1,7 @@
 ---
 title: Methods to Manipulate Amplitude in MP3, WAV, and MPEG Files for 2024
-date: 2024-05-20T01:48:30.655Z
-updated: 2024-05-21T01:48:30.655Z
+date: 2024-06-09T19:00:12.476Z
+updated: 2024-06-10T19:00:12.476Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Methods to Manipulate Amplitude in MP3, WAV, and MPEG Files for 2024
 excerpt: This Article Describes Methods to Manipulate Amplitude in MP3, WAV, and MPEG Files for 2024
 keywords: methods to manipulate amplitude in mp3 wav and mpeg files,audio fading implementing the latest 2023 methods and trends,the complete guide to audio manipulation in avidemux 2023 edition,crafting the ideal playlist advanced methods for editing and enhancing mp3 files,efficient methods for turning whatsapp audio into mp3 files in minutes,audio palette for videos curating and fine tuning melodies in filmora,the ultimate fix it manual strategies and methods for correcting deformed audio
-thumbnail: https://www.lifewire.com/thmb/8ROImJcMy0nz5unlY1bdTJLi7tk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dns-wordcloud-lifewire-2-0c92c02113cb4832870891ac0e13ccbc.png
+thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de65b71eab7da2ab3371e3a0f.png
 ---
 
 ## Methods to Manipulate Amplitude in MP3, WAV, and MPEG Files

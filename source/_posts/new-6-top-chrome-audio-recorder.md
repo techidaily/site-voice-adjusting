@@ -1,7 +1,7 @@
 ---
 title: New 6 Top Chrome Audio Recorder
-date: 2024-05-20T01:47:42.799Z
-updated: 2024-05-21T01:47:42.799Z
+date: 2024-06-09T19:00:04.093Z
+updated: 2024-06-10T19:00:04.093Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 6 Top Chrome Audio Recorder
 excerpt: This Article Describes New 6 Top Chrome Audio Recorder
 keywords: chrome audio recording leaders the top 6 innovative microphones to watch,chrome audio recorder,chromecast to the future exploring popular audio recorders,6 top chrome audio recorder,linux audio recorder,online free audio recorder,chrome audio capture
-thumbnail: https://www.lifewire.com/thmb/is45Yw-eZ0hbBH1GVSPPw-e8Duo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-smart-tv-lifestyle-alt-5c89160046e0fb00013365c2.jpg
+thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879ccd1eca0b9ed1b9c559e12d9.jpg
 ---
 
 ## 6 Top Chrome Audio Recorder

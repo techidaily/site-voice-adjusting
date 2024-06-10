@@ -1,7 +1,7 @@
 ---
 title: Methods for Designing Audio Gradual Reduction Effect
-date: 2024-05-20T01:47:36.014Z
-updated: 2024-05-21T01:47:36.014Z
+date: 2024-06-09T19:00:15.389Z
+updated: 2024-06-10T19:00:15.389Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Methods for Designing Audio Gradual Reduction Effect
 excerpt: This Article Describes Methods for Designing Audio Gradual Reduction Effect
 keywords: methods for diminishing delay effects in audio production,integrating subtle audio declines techniques for gradual volume reduction in imovie,the audacity advantage effective methods for quieting audio distractions,audiophiles manual advanced methods for rectifying sound distortion in videos,techniques for reducing digital audio file sizes,harmonizing sight and sound effective methods for audio pairing in android video production,methods for designing audio gradual reduction effect
-thumbnail: https://www.lifewire.com/thmb/4J2iVgv99e0e6zd-RILzsk4gPzo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1134410016-75c4b547097941299e55dceeef4b764c.jpg
+thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2219e90738423fb3fbbee898.jpg
 ---
 
 ## Methods for Designing Audio Gradual Reduction Effect

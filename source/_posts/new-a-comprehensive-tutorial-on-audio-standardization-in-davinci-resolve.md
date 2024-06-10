@@ -1,7 +1,7 @@
 ---
 title: New A Comprehensive Tutorial on Audio Standardization in DaVinci Resolve
-date: 2024-05-20T01:47:43.415Z
-updated: 2024-05-21T01:47:43.415Z
+date: 2024-06-09T19:00:13.317Z
+updated: 2024-06-10T19:00:13.317Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New A Comprehensive Tutorial on Audio Standardization in DaVinci Resolve
 excerpt: This Article Describes New A Comprehensive Tutorial on Audio Standardization in DaVinci Resolve
 keywords: a comprehensive tutorial on audio standardization in davinci resolve,imovie for newbies a comprehensive tutorial on adding audio,mastering audio levels comprehensive tutorial on normalization techniques in vlc,the path to precision sound step by step audio normalization in davinci resolve,mastering audio normalization with davinci resolve an in depth tutorial,sound cleanup a comprehensive tutorial on removing drums from audio files,davinci resolve audio processing 101 a comprehensive guide to normalization
-thumbnail: https://www.lifewire.com/thmb/qNtT0Vit1jn8RftUFX6Xcsv5x4o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-best-texting-apps-for-android-tablets-in-2023-a5a6329d6b744167acf0a02f6a413ff2.jpg
+thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee45db635b3f848c5daefbda2.jpg
 ---
 
 ## A Comprehensive Tutorial on Audio Standardization in DaVinci Resolve

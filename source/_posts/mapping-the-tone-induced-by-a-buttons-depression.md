@@ -1,7 +1,7 @@
 ---
 title: Mapping the Tone Induced by a Buttons Depression
-date: 2024-05-20T01:47:35.545Z
-updated: 2024-05-21T01:47:35.545Z
+date: 2024-06-09T19:00:18.862Z
+updated: 2024-06-10T19:00:18.862Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Mapping the Tone Induced by a Buttons Depression
 excerpt: This Article Describes Mapping the Tone Induced by a Buttons Depression
 keywords: determining the tactile auditory feedback on button interaction,capturing the sonic imprint of pressing a buttons,no loudness left behind a comprehensive guide to audio cutting in imovie,mapping the tone induced by a buttons depression,stepping through sound decline a step by step approach to audio fade outs,identifying the auditory response of a pressed button,the premier guide to cutting edge audio masking tech apps online sites
-thumbnail: https://www.lifewire.com/thmb/eYqxG8EorGAmKcW0zOiG4PnWFkw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/homeweatherstation-34f9e9a9aaf64446a8f21ff05991c079.jpg
+thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2903fa4cfebcaa0c3ca3de95.jpg
 ---
 
 ## Mapping the Tone Induced by a Button's Depression

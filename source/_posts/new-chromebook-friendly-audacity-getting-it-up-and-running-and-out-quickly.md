@@ -1,7 +1,7 @@
 ---
 title: New Chromebook-Friendly Audacity Getting It Up and Running (And Out) Quickly
-date: 2024-05-20T01:47:55.915Z
-updated: 2024-05-21T01:47:55.915Z
+date: 2024-06-09T18:59:57.892Z
+updated: 2024-06-10T18:59:57.892Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Chromebook-Friendly Audacity Getting It Up and Running (And Out) Quickly
 excerpt: This Article Describes New Chromebook-Friendly Audacity Getting It Up and Running (And Out) Quickly
 keywords: mastering audio editing software how to get audacity up and running,setting up and disabling audacity for enhanced sound editing on your chromebook,step by step adding and eliminating audacity from chromebooks,chromebook users companion to launching and deleting audacity,chromebook friendly audacity getting it up and running and out quickly,audacity on chromebooks a comprehensive guide to getting it running or taking it off,setting up audacity on your chromebook a step by step guide
-thumbnail: https://www.lifewire.com/thmb/reiA5q9g7RC-d0IhGypCqLpbhbY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-turn-on-microphone-on-an-android-phone-5184530-372d01459baa44978ef72242d007992a.jpg
+thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323a0faabfa25ea26bfdcf4c13.jpg
 ---
 
 ## "Chromebook-Friendly Audacity: Getting It Up and Running (And Out) Quickly"

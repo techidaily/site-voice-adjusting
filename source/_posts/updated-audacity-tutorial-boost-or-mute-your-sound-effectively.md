@@ -1,7 +1,7 @@
 ---
 title: Updated Audacity Tutorial Boost or Mute Your Sound Effectively
-date: 2024-05-20T01:47:48.045Z
-updated: 2024-05-21T01:47:48.045Z
+date: 2024-06-09T18:59:57.616Z
+updated: 2024-06-10T18:59:57.616Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Audacity Tutorial Boost or Mute Your Sound Effectively
 excerpt: This Article Describes Updated Audacity Tutorial Boost or Mute Your Sound Effectively
 keywords: perfecting sound quality adding lame to your audacity setup,step by step tutorial incorporating autotune plugins into your audacity projects,audacity tutorial boost or mute your sound effectively,unlocking audio potential using audacity effectively for your podcasts,the ultimate tutorial computer sound recordings with audacity,cost effective mac sound editor software,audacity automation implementing auto tune effectively in your projects
-thumbnail: https://www.lifewire.com/thmb/2zy8MTQaG4uUA0T7RXXxi-EpxMA=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps5controller-0d702b25f7fa47b482999811cfc7af39.jpg
+thumbnail: https://thmb.techidaily.com/36cb4ddf3fc78c71836e11f4a803426f35040ec4e34c37b6c57cca04ad1d4891.jpg
 ---
 
 ## Audacity Tutorial: Boost or Mute Your Sound Effectively

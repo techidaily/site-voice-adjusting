@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Acquiring Crush and Shatter Effects for Sound Design Projects
-date: 2024-05-20T01:47:45.257Z
-updated: 2024-05-21T01:47:45.257Z
+date: 2024-06-09T19:00:03.158Z
+updated: 2024-06-10T19:00:03.158Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Acquiring Crush and Shatter Effects for Sound Design Projects
 excerpt: This Article Describes 2024 Approved Acquiring Crush and Shatter Effects for Sound Design Projects
 keywords: uncovering theaters of distress acquiring scream effects for media projects,exploring advanced sound design 2024s top 4 apps for mac enthusiasts,animation enthusiasts choice top 8 downloaded sound effects for your projects,directory for acquiring cat sound effects in audio format,Here we have selected 10 best nature sound effects apps for relaxing and sleeping.,acquiring crush and shatter effects for sound design projects,harmonizing sight and sound effective methods for audio pairing in android video production
-thumbnail: https://www.lifewire.com/thmb/CewnPdEDUshSU0PnqqyQxiaIaFw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-language-exchange-websites-1357059-d87c92dbdba3429dbf17d51ba313b1ff.png
+thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b827af6bb095b68b19082ca48f.png
 ---
 
 ## Acquiring Crush and Shatter Effects for Sound Design Projects

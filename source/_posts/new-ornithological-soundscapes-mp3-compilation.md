@@ -1,7 +1,7 @@
 ---
 title: New Ornithological Soundscapes MP3 Compilation
-date: 2024-05-20T01:48:32.790Z
-updated: 2024-05-21T01:48:32.790Z
+date: 2024-06-09T19:00:10.359Z
+updated: 2024-06-10T19:00:10.359Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Ornithological Soundscapes MP3 Compilation
 excerpt: This Article Describes New Ornithological Soundscapes MP3 Compilation
 keywords: ornithological soundscapes mp3 compilation,compilation of websites offering ridiculous sounds,electronic cat call compilation,compilation of websites offering feline inspired mp3 sounds,top locations for accessing cat themed mp3 sounds,essential mp3 transcription solutions a compilation,canine howl amalgam sounds effects compilation
-thumbnail: https://www.lifewire.com/thmb/KrjxcoVkV9vT3cQ3C-URm7mlpcM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-917461864-7141ebd3ec944ce6a431b8d485cc9cdb.jpg
+thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed46c02973b8fefdc10e6507c.jpg
 ---
 
 ## Ornithological Soundscapes MP3 Compilation

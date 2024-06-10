@@ -1,7 +1,7 @@
 ---
 title: How to Change Audio Speed and Pitch in Adobe Rush
-date: 2024-05-20T01:50:04.085Z
-updated: 2024-05-21T01:50:04.085Z
+date: 2024-06-09T19:00:11.219Z
+updated: 2024-06-10T19:00:11.219Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes How to Change Audio Speed and Pitch in Adobe Rush
 excerpt: This Article Describes How to Change Audio Speed and Pitch in Adobe Rush
 keywords: how to change audio speed easily,tailoring sound techniques for altering audio speed pitch in adobe rush,mastering audio manipulation speed and pitch adjustments in adobe rush,how to change audio speed in adobe rush,how to fade in out audio in adobe rush,how to change audio speed and pitch online,how to change audio speed
-thumbnail: https://www.lifewire.com/thmb/UgZFn1LjdiPD7yj2MRRWCGpAQWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/d-link-default-password-list-2619152-d6281a924f45426f879c8707220ce92d.png
+thumbnail: https://thmb.techidaily.com/8383b1955265d208bd65863f99fa93e0506dbf01fc1cf31d37490fb679a3c33d.png
 ---
 
 ## The Soundsmith's Playbook: Speeding Up and Lowering the Notes in Adobe Rush
