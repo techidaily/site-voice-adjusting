@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Top 8 Dictation Software for Windows, Mac and Online-2023 List
-date: 2024-05-05T05:44:49.292Z
-updated: 2024-05-06T05:44:49.292Z
+date: 2024-06-18T17:41:36.222Z
+updated: 2024-06-19T17:41:36.222Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Top 8 Dictation Software for Windows, Mac and Online-2023 List
 excerpt: This Article Describes Updated 2024 Approved Top 8 Dictation Software for Windows, Mac and Online-2023 List
 keywords: top 10 audio editing software for windows and mac 2024 edition,the essential list 8 premier music production software options for mac os and windows,state of the art sound nullification suite for video files windowsmac and online applications 2024 release,premier top 10 audio manipulation software for windows and mac users,top 8 dictation software for windows mac and online,8 best voice recognition software for windows mac and online,discover the unbeatable selection of cost free audio editing applications for windowsmac updated list 2023
-thumbnail: https://www.lifewire.com/thmb/RHk5CzUskZEHtVQS5Kba30nHhvY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-kindle-unlimited-worth-it-fda01dceb923406a8524c64d2b72693e.jpg
+thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc218886423e579644f1092e23638fe5.jpg
 ---
 
 ## Top 8 Dictation Software for Windows, Mac and Online-2023 List
@@ -490,7 +490,7 @@ For macOS 10.12 or later
 
 You must know about voice changers, and you must have used them at some point in life. You can modify your voice, change the pitch and tone of your voice with voice changers. The question here is, do you have any idea about Skype Voice Changer? Certain voice changers work best with Skype. If you are ready to know about the top 5 voice changers for Skype, then let's get started.
 
-### 1\. [Voicemeeter](https://vb-audio.com/Voicemeeter/)
+### 1\. Voicemeeter
 
 Voicemeeter is more of a pitch changer rather than a voice-changing tool. It has a virtual audio mixing device. The interface is simple and easy to use as compared to the different facilities provided by the tool. It allows the user to record conferences or interviews for post-production. Voicemeeter is the only tool that is a Virtual Mixer. It is capable of managing every audio source and audio point.
 
@@ -502,7 +502,7 @@ Voicemeeter is more of a pitch changer rather than a voice-changing tool. It has
 * Voicemeeter can manage and mix multiple sources of audio. These audios can be from the same device or different devices and also from different applications.
 * It supports almost all kinds of audio interfaces. These interfaces include WaveRT, ASIO, KS, MME, WASAPI, and Direct-XS.
 
-### 2\. [Voxal Voice Changer](https://www.nchsoftware.com/voicechanger/index.html)
+### 2\. Voxal Voice Changer
 
 Voxal Voice Changer is another top-of-the-line tool for voice changing. It allows the users to change the audio into female voice along with alien, echo, robot voices, and much more. Professionals use Voxal Voice Changer for pro-level content creation and audio changing for videos as well. It allows changing the sound of pre-recorded audio alongside providing the facility to record and change the voice.
 
@@ -514,7 +514,7 @@ Voxal Voice Changer is another top-of-the-line tool for voice changing. It allow
 * Not only video calling or virtual meetings, the tool allows you to use it in games and also in other existing applications.
 * The virtual after effects library is a huge advantage of Voxal Voice Changer, among other tools. Despite being this efficient, it only takes minimal space in the CPU.
 
-### 3\. [Skype Voice Changer](https://skypevoicechanger.net/)
+### 3\. Skype Voice Changer
 
 Skype Voice Changer is practical voice-changing software that is very rich with unique features. One significant advantage of using this voice changer is its real-time effects. It offers a wide variety of sound effects that include deep voice, echo, chipmunk, robot, and many others.
 
@@ -528,7 +528,7 @@ The voice-changing software is very powerful because of the features it offers. 
 * Skype Voice Changeralso allows you to use pre-recorded sounds in your Skype calls. You can play real-time sounds like sad trombone, sheep, etc., and have fun.
 * With different sound effects, you can change your voice. The software lets you preview the sound effects before you make a call.
 
-### 4\. [AV Voice Changer](https://www.audio4fun.com/voice-changer.htm)
+### 4\. AV Voice Changer
 
 AV Voice Changer offers a free trial for Windows users. This is an advanced-level tool making it different from others. AV Voice Changer enables the users to change their voice from one form to a completely different form. This feature will change the user's experience of video calls or virtual meetings.
 
@@ -540,7 +540,7 @@ AV Voice Changer offers a free trial for Windows users. This is an advanced-leve
 * The tool has more than 17 non-human voice effects. This feature makes it a unique tool among the other tools with high-tech.
 * AV Voice Changer enables the user to edit the audio files, change the volume or quality. It also allows making them more feminine or manly.
 
-### 5\. [VoiceMod](https://www.voicemod.net/)
+### 5\. VoiceMod
 
 VoiceMod is an extravagant voice-changing tool. It allows the user to use Voice Lab that gives access to 15 voice effects. It is Windows supported 64-bit tool. VoiceMod is a voice pitch morphing tool that also has library access for fictional and real voice effects. Also, there are funny sounds to make conversations funny and cooler. It supports MP3 and WAV formats.
 
@@ -602,7 +602,7 @@ For macOS 10.12 or later
 
 You must know about voice changers, and you must have used them at some point in life. You can modify your voice, change the pitch and tone of your voice with voice changers. The question here is, do you have any idea about Skype Voice Changer? Certain voice changers work best with Skype. If you are ready to know about the top 5 voice changers for Skype, then let's get started.
 
-### 1\. [Voicemeeter](https://vb-audio.com/Voicemeeter/)
+### 1\. Voicemeeter
 
 Voicemeeter is more of a pitch changer rather than a voice-changing tool. It has a virtual audio mixing device. The interface is simple and easy to use as compared to the different facilities provided by the tool. It allows the user to record conferences or interviews for post-production. Voicemeeter is the only tool that is a Virtual Mixer. It is capable of managing every audio source and audio point.
 
@@ -614,7 +614,7 @@ Voicemeeter is more of a pitch changer rather than a voice-changing tool. It has
 * Voicemeeter can manage and mix multiple sources of audio. These audios can be from the same device or different devices and also from different applications.
 * It supports almost all kinds of audio interfaces. These interfaces include WaveRT, ASIO, KS, MME, WASAPI, and Direct-XS.
 
-### 2\. [Voxal Voice Changer](https://www.nchsoftware.com/voicechanger/index.html)
+### 2\. Voxal Voice Changer
 
 Voxal Voice Changer is another top-of-the-line tool for voice changing. It allows the users to change the audio into female voice along with alien, echo, robot voices, and much more. Professionals use Voxal Voice Changer for pro-level content creation and audio changing for videos as well. It allows changing the sound of pre-recorded audio alongside providing the facility to record and change the voice.
 
@@ -626,7 +626,7 @@ Voxal Voice Changer is another top-of-the-line tool for voice changing. It allow
 * Not only video calling or virtual meetings, the tool allows you to use it in games and also in other existing applications.
 * The virtual after effects library is a huge advantage of Voxal Voice Changer, among other tools. Despite being this efficient, it only takes minimal space in the CPU.
 
-### 3\. [Skype Voice Changer](https://skypevoicechanger.net/)
+### 3\. Skype Voice Changer
 
 Skype Voice Changer is practical voice-changing software that is very rich with unique features. One significant advantage of using this voice changer is its real-time effects. It offers a wide variety of sound effects that include deep voice, echo, chipmunk, robot, and many others.
 
@@ -640,7 +640,7 @@ The voice-changing software is very powerful because of the features it offers. 
 * Skype Voice Changeralso allows you to use pre-recorded sounds in your Skype calls. You can play real-time sounds like sad trombone, sheep, etc., and have fun.
 * With different sound effects, you can change your voice. The software lets you preview the sound effects before you make a call.
 
-### 4\. [AV Voice Changer](https://www.audio4fun.com/voice-changer.htm)
+### 4\. AV Voice Changer
 
 AV Voice Changer offers a free trial for Windows users. This is an advanced-level tool making it different from others. AV Voice Changer enables the users to change their voice from one form to a completely different form. This feature will change the user's experience of video calls or virtual meetings.
 
@@ -652,7 +652,7 @@ AV Voice Changer offers a free trial for Windows users. This is an advanced-leve
 * The tool has more than 17 non-human voice effects. This feature makes it a unique tool among the other tools with high-tech.
 * AV Voice Changer enables the user to edit the audio files, change the volume or quality. It also allows making them more feminine or manly.
 
-### 5\. [VoiceMod](https://www.voicemod.net/)
+### 5\. VoiceMod
 
 VoiceMod is an extravagant voice-changing tool. It allows the user to use Voice Lab that gives access to 15 voice effects. It is Windows supported 64-bit tool. VoiceMod is a voice pitch morphing tool that also has library access for fictional and real voice effects. Also, there are funny sounds to make conversations funny and cooler. It supports MP3 and WAV formats.
 
@@ -714,7 +714,7 @@ For macOS 10.12 or later
 
 You must know about voice changers, and you must have used them at some point in life. You can modify your voice, change the pitch and tone of your voice with voice changers. The question here is, do you have any idea about Skype Voice Changer? Certain voice changers work best with Skype. If you are ready to know about the top 5 voice changers for Skype, then let's get started.
 
-### 1\. [Voicemeeter](https://vb-audio.com/Voicemeeter/)
+### 1\. Voicemeeter
 
 Voicemeeter is more of a pitch changer rather than a voice-changing tool. It has a virtual audio mixing device. The interface is simple and easy to use as compared to the different facilities provided by the tool. It allows the user to record conferences or interviews for post-production. Voicemeeter is the only tool that is a Virtual Mixer. It is capable of managing every audio source and audio point.
 
@@ -726,7 +726,7 @@ Voicemeeter is more of a pitch changer rather than a voice-changing tool. It has
 * Voicemeeter can manage and mix multiple sources of audio. These audios can be from the same device or different devices and also from different applications.
 * It supports almost all kinds of audio interfaces. These interfaces include WaveRT, ASIO, KS, MME, WASAPI, and Direct-XS.
 
-### 2\. [Voxal Voice Changer](https://www.nchsoftware.com/voicechanger/index.html)
+### 2\. Voxal Voice Changer
 
 Voxal Voice Changer is another top-of-the-line tool for voice changing. It allows the users to change the audio into female voice along with alien, echo, robot voices, and much more. Professionals use Voxal Voice Changer for pro-level content creation and audio changing for videos as well. It allows changing the sound of pre-recorded audio alongside providing the facility to record and change the voice.
 
@@ -738,7 +738,7 @@ Voxal Voice Changer is another top-of-the-line tool for voice changing. It allow
 * Not only video calling or virtual meetings, the tool allows you to use it in games and also in other existing applications.
 * The virtual after effects library is a huge advantage of Voxal Voice Changer, among other tools. Despite being this efficient, it only takes minimal space in the CPU.
 
-### 3\. [Skype Voice Changer](https://skypevoicechanger.net/)
+### 3\. Skype Voice Changer
 
 Skype Voice Changer is practical voice-changing software that is very rich with unique features. One significant advantage of using this voice changer is its real-time effects. It offers a wide variety of sound effects that include deep voice, echo, chipmunk, robot, and many others.
 
@@ -752,7 +752,7 @@ The voice-changing software is very powerful because of the features it offers. 
 * Skype Voice Changeralso allows you to use pre-recorded sounds in your Skype calls. You can play real-time sounds like sad trombone, sheep, etc., and have fun.
 * With different sound effects, you can change your voice. The software lets you preview the sound effects before you make a call.
 
-### 4\. [AV Voice Changer](https://www.audio4fun.com/voice-changer.htm)
+### 4\. AV Voice Changer
 
 AV Voice Changer offers a free trial for Windows users. This is an advanced-level tool making it different from others. AV Voice Changer enables the users to change their voice from one form to a completely different form. This feature will change the user's experience of video calls or virtual meetings.
 
@@ -764,7 +764,7 @@ AV Voice Changer offers a free trial for Windows users. This is an advanced-leve
 * The tool has more than 17 non-human voice effects. This feature makes it a unique tool among the other tools with high-tech.
 * AV Voice Changer enables the user to edit the audio files, change the volume or quality. It also allows making them more feminine or manly.
 
-### 5\. [VoiceMod](https://www.voicemod.net/)
+### 5\. VoiceMod
 
 VoiceMod is an extravagant voice-changing tool. It allows the user to use Voice Lab that gives access to 15 voice effects. It is Windows supported 64-bit tool. VoiceMod is a voice pitch morphing tool that also has library access for fictional and real voice effects. Also, there are funny sounds to make conversations funny and cooler. It supports MP3 and WAV formats.
 
@@ -826,7 +826,7 @@ For macOS 10.12 or later
 
 You must know about voice changers, and you must have used them at some point in life. You can modify your voice, change the pitch and tone of your voice with voice changers. The question here is, do you have any idea about Skype Voice Changer? Certain voice changers work best with Skype. If you are ready to know about the top 5 voice changers for Skype, then let's get started.
 
-### 1\. [Voicemeeter](https://vb-audio.com/Voicemeeter/)
+### 1\. Voicemeeter
 
 Voicemeeter is more of a pitch changer rather than a voice-changing tool. It has a virtual audio mixing device. The interface is simple and easy to use as compared to the different facilities provided by the tool. It allows the user to record conferences or interviews for post-production. Voicemeeter is the only tool that is a Virtual Mixer. It is capable of managing every audio source and audio point.
 
@@ -838,7 +838,7 @@ Voicemeeter is more of a pitch changer rather than a voice-changing tool. It has
 * Voicemeeter can manage and mix multiple sources of audio. These audios can be from the same device or different devices and also from different applications.
 * It supports almost all kinds of audio interfaces. These interfaces include WaveRT, ASIO, KS, MME, WASAPI, and Direct-XS.
 
-### 2\. [Voxal Voice Changer](https://www.nchsoftware.com/voicechanger/index.html)
+### 2\. Voxal Voice Changer
 
 Voxal Voice Changer is another top-of-the-line tool for voice changing. It allows the users to change the audio into female voice along with alien, echo, robot voices, and much more. Professionals use Voxal Voice Changer for pro-level content creation and audio changing for videos as well. It allows changing the sound of pre-recorded audio alongside providing the facility to record and change the voice.
 
@@ -850,7 +850,7 @@ Voxal Voice Changer is another top-of-the-line tool for voice changing. It allow
 * Not only video calling or virtual meetings, the tool allows you to use it in games and also in other existing applications.
 * The virtual after effects library is a huge advantage of Voxal Voice Changer, among other tools. Despite being this efficient, it only takes minimal space in the CPU.
 
-### 3\. [Skype Voice Changer](https://skypevoicechanger.net/)
+### 3\. Skype Voice Changer
 
 Skype Voice Changer is practical voice-changing software that is very rich with unique features. One significant advantage of using this voice changer is its real-time effects. It offers a wide variety of sound effects that include deep voice, echo, chipmunk, robot, and many others.
 
@@ -864,7 +864,7 @@ The voice-changing software is very powerful because of the features it offers. 
 * Skype Voice Changeralso allows you to use pre-recorded sounds in your Skype calls. You can play real-time sounds like sad trombone, sheep, etc., and have fun.
 * With different sound effects, you can change your voice. The software lets you preview the sound effects before you make a call.
 
-### 4\. [AV Voice Changer](https://www.audio4fun.com/voice-changer.htm)
+### 4\. AV Voice Changer
 
 AV Voice Changer offers a free trial for Windows users. This is an advanced-level tool making it different from others. AV Voice Changer enables the users to change their voice from one form to a completely different form. This feature will change the user's experience of video calls or virtual meetings.
 
@@ -876,7 +876,7 @@ AV Voice Changer offers a free trial for Windows users. This is an advanced-leve
 * The tool has more than 17 non-human voice effects. This feature makes it a unique tool among the other tools with high-tech.
 * AV Voice Changer enables the user to edit the audio files, change the volume or quality. It also allows making them more feminine or manly.
 
-### 5\. [VoiceMod](https://www.voicemod.net/)
+### 5\. VoiceMod
 
 VoiceMod is an extravagant voice-changing tool. It allows the user to use Voice Lab that gives access to 15 voice effects. It is Windows supported 64-bit tool. VoiceMod is a voice pitch morphing tool that also has library access for fictional and real voice effects. Also, there are funny sounds to make conversations funny and cooler. It supports MP3 and WAV formats.
 
@@ -944,23 +944,23 @@ This article is a hub to learn about various Skype Voice Changer. We have shared
 
 ## 5 of the Best Backwards music videos
 
-### [1\. Forward by Messe Kopp](https://www.youtube.com/watch?v=X6jprOZ29wY)
+### 1\. Forward by Messe Kopp
 
  This video was created by Messe Kopp and it is a perfect example of how backwards video techniques have evolved over recent years. It uses all the things that you would normally see in a backwards video and it really is a great video as well. You will also find that the backwards technique adds a complete new dynamic to the video as well so it really is interesting to watch. On top of this, the song is great and the whole scene works really well so you can already start to see how the backwards technique is becoming more and more prominent in today's industry.
 
-### [2\. 2 Guys, 600 Pillows](https://www.youtube.com/watch?v=01TL9bUWr6I)
+### 2\. 2 Guys, 600 Pillows
 
  Have you ever wondered what 600 pillows look like? Well now you know. The guys start by throwing pillows onto the bed and the great thing is that it is all in reverse. On top of this, it also shows the guys jump onto the pillows and the entire scene is reversed. The song that is played over the video is also great when you take a look at the way it is filmed so why not give it a watch for yourself to see the great filming styles that are present.
 
-### [3\. Tongue Tied](https://www.youtube.com/watch?v=1x1wjGKHjBI)
+### 3\. Tongue Tied
 
  This video is by a band called GroupLove and it was directed by Jordan Bahat. The video starts with a comical opening and after a few seconds you can start to see the backwards filming style. He starts by running backwards and before you know it, there are some wrestlers in masks following him. This video has plenty of things to show you and the effects are well and truly fantastic.
 
-### [4. Drop](https://www.youtube.com/watch?v=wQlvSpPuWdo)
+### 4. Drop
 
  This is called the Drop Video and it is by a group called the Pharcyde. Spike Jonze directed this and he came up with the idea for it as well. It has a very similar style to the first video and it is all filmed in the street. The group perform plenty of dance moves and this continues to add to the style and interest that this video has to offer.
 
-### [5\. Rivers](https://www.youtube.com/watch?v=vt50B772Fcg)
+### 5\. Rivers
 
  This video was done by a group called Small Feet and it really does have a lot to offer, from start to finish. Even though this video made it to number 5 on the list, doesn't mean that it isn't interesting. It was directed by Oskar Wrango and it uses nature in an attempt to tell the story of the song. This is unlike the videos that have been mentioned before and it certainly delivers an interesting result.
 
@@ -982,23 +982,23 @@ Follow @Liza Brown
 
 ## 5 of the Best Backwards music videos
 
-### [1\. Forward by Messe Kopp](https://www.youtube.com/watch?v=X6jprOZ29wY)
+### 1\. Forward by Messe Kopp
 
  This video was created by Messe Kopp and it is a perfect example of how backwards video techniques have evolved over recent years. It uses all the things that you would normally see in a backwards video and it really is a great video as well. You will also find that the backwards technique adds a complete new dynamic to the video as well so it really is interesting to watch. On top of this, the song is great and the whole scene works really well so you can already start to see how the backwards technique is becoming more and more prominent in today's industry.
 
-### [2\. 2 Guys, 600 Pillows](https://www.youtube.com/watch?v=01TL9bUWr6I)
+### 2\. 2 Guys, 600 Pillows
 
  Have you ever wondered what 600 pillows look like? Well now you know. The guys start by throwing pillows onto the bed and the great thing is that it is all in reverse. On top of this, it also shows the guys jump onto the pillows and the entire scene is reversed. The song that is played over the video is also great when you take a look at the way it is filmed so why not give it a watch for yourself to see the great filming styles that are present.
 
-### [3\. Tongue Tied](https://www.youtube.com/watch?v=1x1wjGKHjBI)
+### 3\. Tongue Tied
 
  This video is by a band called GroupLove and it was directed by Jordan Bahat. The video starts with a comical opening and after a few seconds you can start to see the backwards filming style. He starts by running backwards and before you know it, there are some wrestlers in masks following him. This video has plenty of things to show you and the effects are well and truly fantastic.
 
-### [4. Drop](https://www.youtube.com/watch?v=wQlvSpPuWdo)
+### 4. Drop
 
  This is called the Drop Video and it is by a group called the Pharcyde. Spike Jonze directed this and he came up with the idea for it as well. It has a very similar style to the first video and it is all filmed in the street. The group perform plenty of dance moves and this continues to add to the style and interest that this video has to offer.
 
-### [5\. Rivers](https://www.youtube.com/watch?v=vt50B772Fcg)
+### 5\. Rivers
 
  This video was done by a group called Small Feet and it really does have a lot to offer, from start to finish. Even though this video made it to number 5 on the list, doesn't mean that it isn't interesting. It was directed by Oskar Wrango and it uses nature in an attempt to tell the story of the song. This is unlike the videos that have been mentioned before and it certainly delivers an interesting result.
 
@@ -1020,23 +1020,23 @@ Follow @Liza Brown
 
 ## 5 of the Best Backwards music videos
 
-### [1\. Forward by Messe Kopp](https://www.youtube.com/watch?v=X6jprOZ29wY)
+### 1\. Forward by Messe Kopp
 
  This video was created by Messe Kopp and it is a perfect example of how backwards video techniques have evolved over recent years. It uses all the things that you would normally see in a backwards video and it really is a great video as well. You will also find that the backwards technique adds a complete new dynamic to the video as well so it really is interesting to watch. On top of this, the song is great and the whole scene works really well so you can already start to see how the backwards technique is becoming more and more prominent in today's industry.
 
-### [2\. 2 Guys, 600 Pillows](https://www.youtube.com/watch?v=01TL9bUWr6I)
+### 2\. 2 Guys, 600 Pillows
 
  Have you ever wondered what 600 pillows look like? Well now you know. The guys start by throwing pillows onto the bed and the great thing is that it is all in reverse. On top of this, it also shows the guys jump onto the pillows and the entire scene is reversed. The song that is played over the video is also great when you take a look at the way it is filmed so why not give it a watch for yourself to see the great filming styles that are present.
 
-### [3\. Tongue Tied](https://www.youtube.com/watch?v=1x1wjGKHjBI)
+### 3\. Tongue Tied
 
  This video is by a band called GroupLove and it was directed by Jordan Bahat. The video starts with a comical opening and after a few seconds you can start to see the backwards filming style. He starts by running backwards and before you know it, there are some wrestlers in masks following him. This video has plenty of things to show you and the effects are well and truly fantastic.
 
-### [4. Drop](https://www.youtube.com/watch?v=wQlvSpPuWdo)
+### 4. Drop
 
  This is called the Drop Video and it is by a group called the Pharcyde. Spike Jonze directed this and he came up with the idea for it as well. It has a very similar style to the first video and it is all filmed in the street. The group perform plenty of dance moves and this continues to add to the style and interest that this video has to offer.
 
-### [5\. Rivers](https://www.youtube.com/watch?v=vt50B772Fcg)
+### 5\. Rivers
 
  This video was done by a group called Small Feet and it really does have a lot to offer, from start to finish. Even though this video made it to number 5 on the list, doesn't mean that it isn't interesting. It was directed by Oskar Wrango and it uses nature in an attempt to tell the story of the song. This is unlike the videos that have been mentioned before and it certainly delivers an interesting result.
 
@@ -1058,23 +1058,23 @@ Follow @Liza Brown
 
 ## 5 of the Best Backwards music videos
 
-### [1\. Forward by Messe Kopp](https://www.youtube.com/watch?v=X6jprOZ29wY)
+### 1\. Forward by Messe Kopp
 
  This video was created by Messe Kopp and it is a perfect example of how backwards video techniques have evolved over recent years. It uses all the things that you would normally see in a backwards video and it really is a great video as well. You will also find that the backwards technique adds a complete new dynamic to the video as well so it really is interesting to watch. On top of this, the song is great and the whole scene works really well so you can already start to see how the backwards technique is becoming more and more prominent in today's industry.
 
-### [2\. 2 Guys, 600 Pillows](https://www.youtube.com/watch?v=01TL9bUWr6I)
+### 2\. 2 Guys, 600 Pillows
 
  Have you ever wondered what 600 pillows look like? Well now you know. The guys start by throwing pillows onto the bed and the great thing is that it is all in reverse. On top of this, it also shows the guys jump onto the pillows and the entire scene is reversed. The song that is played over the video is also great when you take a look at the way it is filmed so why not give it a watch for yourself to see the great filming styles that are present.
 
-### [3\. Tongue Tied](https://www.youtube.com/watch?v=1x1wjGKHjBI)
+### 3\. Tongue Tied
 
  This video is by a band called GroupLove and it was directed by Jordan Bahat. The video starts with a comical opening and after a few seconds you can start to see the backwards filming style. He starts by running backwards and before you know it, there are some wrestlers in masks following him. This video has plenty of things to show you and the effects are well and truly fantastic.
 
-### [4. Drop](https://www.youtube.com/watch?v=wQlvSpPuWdo)
+### 4. Drop
 
  This is called the Drop Video and it is by a group called the Pharcyde. Spike Jonze directed this and he came up with the idea for it as well. It has a very similar style to the first video and it is all filmed in the street. The group perform plenty of dance moves and this continues to add to the style and interest that this video has to offer.
 
-### [5\. Rivers](https://www.youtube.com/watch?v=vt50B772Fcg)
+### 5\. Rivers
 
  This video was done by a group called Small Feet and it really does have a lot to offer, from start to finish. Even though this video made it to number 5 on the list, doesn't mean that it isn't interesting. It was directed by Oskar Wrango and it uses nature in an attempt to tell the story of the song. This is unlike the videos that have been mentioned before and it certainly delivers an interesting result.
 

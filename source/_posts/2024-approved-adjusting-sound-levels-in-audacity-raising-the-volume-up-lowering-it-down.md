@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Adjusting Sound Levels in Audacity Raising the Volume Up, Lowering It Down
-date: 2024-05-05T06:13:13.407Z
-updated: 2024-05-06T06:13:13.407Z
+date: 2024-06-18T17:41:30.818Z
+updated: 2024-06-19T17:41:30.818Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Adjusting Sound Levels in Audacity Raising the Volume Up, Lowering It Down
 excerpt: This Article Describes 2024 Approved Adjusting Sound Levels in Audacity Raising the Volume Up, Lowering It Down
 keywords: ensuring uniformity in volume levels using davinci resolves tools,cutting the chatter a guide to isolating and removing vocals in music productions using audacity,eliminating the noise a step by step approach to clearer sound editing in audacity,adjusting decibels fine tuning sound on audacity,mastering sound levels adjusting volume on audacity,tuning in smoothly learning to adjust audio volumes on audacity,adjusting sound levels in audacity raising the volume up lowering it down
-thumbnail: https://www.lifewire.com/thmb/5tD-_gpIrKxGqi4E54Dp4SLyqMY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/On-Line-Job-Search-aa2565e859bd43a2aa34dfa1537dbd50.jpg
+thumbnail: https://thmb.techidaily.com/51dee520b6548ad713de001f9d872ff359ce7157fc9657d20a61cd8374fcc9ae.jpg
 ---
 
 ## Adjusting Sound Levels in Audacity: Raising the Volume Up, Lowering It Down

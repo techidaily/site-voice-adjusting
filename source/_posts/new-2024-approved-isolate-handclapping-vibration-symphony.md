@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Isolate Handclapping Vibration Symphony
-date: 2024-05-05T05:55:48.023Z
-updated: 2024-05-06T05:55:48.023Z
+date: 2024-06-18T17:41:45.288Z
+updated: 2024-06-19T17:41:45.288Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Isolate Handclapping Vibration Symphony
 excerpt: This Article Describes New 2024 Approved Isolate Handclapping Vibration Symphony
 keywords: isolating shattered pane resonance,pinnacle mac sound segregation technology new 2024 improvements,ultimate singing amp and sound modification toolkit 2024 edition,a symphony in one merging audio files for a unified videography narrative,cutting edge sound isolation for video content a comprehensive overview of techniques,eliminating sound an easy method to mute video on iphone,isolate handclapping vibration symphony
-thumbnail: https://www.lifewire.com/thmb/tJAkAFLn8PgYLDdSxKT4QReLsyg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macOS-Sonoma-Banner-fe4ffda2caaf4040b81ae0b66f2d6dc0.jpg
+thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc319264524a7b728bfe67ef7f7.jpg
 ---
 
 ## Isolate Handclapping Vibration Symphony
@@ -109,13 +109,13 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-![ Import Clapping Sound Effects](https://images.wondershare.com/filmora/guide/import-media-file-to-filmora-1.jpg)
+![Import Clapping Sound Effects](https://images.wondershare.com/filmora/guide/import-media-file-to-filmora-1.jpg)
 
 ##### Step 2 Detach Audio Track
 
 If your imported video is also attached with audio and is useless, you should proceed with the detachment process. It will help you delete existing audio from the video and afterward, you can add the audio file as per your video creation plan.
 
-![ Detach Audio From Video](https://images.wondershare.com/filmora/guide/find-detach-option1.jpg)
+![Detach Audio From Video](https://images.wondershare.com/filmora/guide/find-detach-option1.jpg)
 
 ##### Step 3 Audio Keyframing
 
@@ -137,9 +137,7 @@ After all these things, now your video file is ready to export and use it as you
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -238,13 +236,13 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-![ Import Clapping Sound Effects](https://images.wondershare.com/filmora/guide/import-media-file-to-filmora-1.jpg)
+![Import Clapping Sound Effects](https://images.wondershare.com/filmora/guide/import-media-file-to-filmora-1.jpg)
 
 ##### Step 2 Detach Audio Track
 
 If your imported video is also attached with audio and is useless, you should proceed with the detachment process. It will help you delete existing audio from the video and afterward, you can add the audio file as per your video creation plan.
 
-![ Detach Audio From Video](https://images.wondershare.com/filmora/guide/find-detach-option1.jpg)
+![Detach Audio From Video](https://images.wondershare.com/filmora/guide/find-detach-option1.jpg)
 
 ##### Step 3 Audio Keyframing
 
@@ -266,9 +264,7 @@ After all these things, now your video file is ready to export and use it as you
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -367,13 +363,13 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-![ Import Clapping Sound Effects](https://images.wondershare.com/filmora/guide/import-media-file-to-filmora-1.jpg)
+![Import Clapping Sound Effects](https://images.wondershare.com/filmora/guide/import-media-file-to-filmora-1.jpg)
 
 ##### Step 2 Detach Audio Track
 
 If your imported video is also attached with audio and is useless, you should proceed with the detachment process. It will help you delete existing audio from the video and afterward, you can add the audio file as per your video creation plan.
 
-![ Detach Audio From Video](https://images.wondershare.com/filmora/guide/find-detach-option1.jpg)
+![Detach Audio From Video](https://images.wondershare.com/filmora/guide/find-detach-option1.jpg)
 
 ##### Step 3 Audio Keyframing
 
@@ -395,9 +391,7 @@ After all these things, now your video file is ready to export and use it as you
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -496,13 +490,13 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-![ Import Clapping Sound Effects](https://images.wondershare.com/filmora/guide/import-media-file-to-filmora-1.jpg)
+![Import Clapping Sound Effects](https://images.wondershare.com/filmora/guide/import-media-file-to-filmora-1.jpg)
 
 ##### Step 2 Detach Audio Track
 
 If your imported video is also attached with audio and is useless, you should proceed with the detachment process. It will help you delete existing audio from the video and afterward, you can add the audio file as per your video creation plan.
 
-![ Detach Audio From Video](https://images.wondershare.com/filmora/guide/find-detach-option1.jpg)
+![Detach Audio From Video](https://images.wondershare.com/filmora/guide/find-detach-option1.jpg)
 
 ##### Step 3 Audio Keyframing
 
@@ -524,9 +518,7 @@ After all these things, now your video file is ready to export and use it as you
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -636,7 +628,7 @@ Step 3: From the ‘Voice Chat’ section, move to the ‘Voice Chat Input Devic
 
 Although you get a lot of cool features from MorphVOX Voice Changer, there are some other nice voice changers as well that could be used. Let’s share some of them with you:
 
-### [Voxal Voice Changer](https://www.nchsoftware.com/voicechanger/index.html)
+### Voxal Voice Changer
 
 Are you looking for a nice voice changer? Voxal Voice Changer might be your answer. The real-time voice changer has a library that users can access. The library has multiple voices that you can use as per choices, such as a robot, male and female voices, alien voice effects, and others.
 
@@ -644,7 +636,7 @@ Voxal Voice Changer is compatible with multiple social media platforms as well a
 
 ![voxal voice changer](https://images.wondershare.com/filmora/article-images/2022/morphvox-voice-changer-7.jpg)
 
-### [Voicemod](https://www.voicemod.net/)
+### Voicemod
 
 What can be a good alternative for MorphVOX Voice Changer? Voicemod is an interesting choice against MorphVOX because it is a real-time voice changer that allows multiple platforms to use custom sound effects. It provides access to various games like Valorant, Fortnite, and many more.
 
@@ -652,7 +644,7 @@ Voicemod has a simple yet attractive interface and is compatible with Windows. V
 
 ![voicemod sound changer](https://images.wondershare.com/filmora/article-images/2022/morphvox-voice-changer-8.jpg)
 
-### [AV Voice Changer](https://www.audio4fun.com/voice-changer.htm)
+### AV Voice Changer
 
 AV Voice Changer can also be used to compensate for the features performed by Morphox Voice changer. It has a built-in voice recorder. This makes the consumer's work less complex as you record what you want to edit. You can upload a pre-recorded sound and edit it afterward. AV Voice Changer is not only compatible with games but also with other social media platforms.
 
@@ -750,7 +742,7 @@ Step 3: From the ‘Voice Chat’ section, move to the ‘Voice Chat Input Devic
 
 Although you get a lot of cool features from MorphVOX Voice Changer, there are some other nice voice changers as well that could be used. Let’s share some of them with you:
 
-### [Voxal Voice Changer](https://www.nchsoftware.com/voicechanger/index.html)
+### Voxal Voice Changer
 
 Are you looking for a nice voice changer? Voxal Voice Changer might be your answer. The real-time voice changer has a library that users can access. The library has multiple voices that you can use as per choices, such as a robot, male and female voices, alien voice effects, and others.
 
@@ -758,7 +750,7 @@ Voxal Voice Changer is compatible with multiple social media platforms as well a
 
 ![voxal voice changer](https://images.wondershare.com/filmora/article-images/2022/morphvox-voice-changer-7.jpg)
 
-### [Voicemod](https://www.voicemod.net/)
+### Voicemod
 
 What can be a good alternative for MorphVOX Voice Changer? Voicemod is an interesting choice against MorphVOX because it is a real-time voice changer that allows multiple platforms to use custom sound effects. It provides access to various games like Valorant, Fortnite, and many more.
 
@@ -766,7 +758,7 @@ Voicemod has a simple yet attractive interface and is compatible with Windows. V
 
 ![voicemod sound changer](https://images.wondershare.com/filmora/article-images/2022/morphvox-voice-changer-8.jpg)
 
-### [AV Voice Changer](https://www.audio4fun.com/voice-changer.htm)
+### AV Voice Changer
 
 AV Voice Changer can also be used to compensate for the features performed by Morphox Voice changer. It has a built-in voice recorder. This makes the consumer's work less complex as you record what you want to edit. You can upload a pre-recorded sound and edit it afterward. AV Voice Changer is not only compatible with games but also with other social media platforms.
 
@@ -864,7 +856,7 @@ Step 3: From the ‘Voice Chat’ section, move to the ‘Voice Chat Input Devic
 
 Although you get a lot of cool features from MorphVOX Voice Changer, there are some other nice voice changers as well that could be used. Let’s share some of them with you:
 
-### [Voxal Voice Changer](https://www.nchsoftware.com/voicechanger/index.html)
+### Voxal Voice Changer
 
 Are you looking for a nice voice changer? Voxal Voice Changer might be your answer. The real-time voice changer has a library that users can access. The library has multiple voices that you can use as per choices, such as a robot, male and female voices, alien voice effects, and others.
 
@@ -872,7 +864,7 @@ Voxal Voice Changer is compatible with multiple social media platforms as well a
 
 ![voxal voice changer](https://images.wondershare.com/filmora/article-images/2022/morphvox-voice-changer-7.jpg)
 
-### [Voicemod](https://www.voicemod.net/)
+### Voicemod
 
 What can be a good alternative for MorphVOX Voice Changer? Voicemod is an interesting choice against MorphVOX because it is a real-time voice changer that allows multiple platforms to use custom sound effects. It provides access to various games like Valorant, Fortnite, and many more.
 
@@ -880,7 +872,7 @@ Voicemod has a simple yet attractive interface and is compatible with Windows. V
 
 ![voicemod sound changer](https://images.wondershare.com/filmora/article-images/2022/morphvox-voice-changer-8.jpg)
 
-### [AV Voice Changer](https://www.audio4fun.com/voice-changer.htm)
+### AV Voice Changer
 
 AV Voice Changer can also be used to compensate for the features performed by Morphox Voice changer. It has a built-in voice recorder. This makes the consumer's work less complex as you record what you want to edit. You can upload a pre-recorded sound and edit it afterward. AV Voice Changer is not only compatible with games but also with other social media platforms.
 
@@ -978,7 +970,7 @@ Step 3: From the ‘Voice Chat’ section, move to the ‘Voice Chat Input Devic
 
 Although you get a lot of cool features from MorphVOX Voice Changer, there are some other nice voice changers as well that could be used. Let’s share some of them with you:
 
-### [Voxal Voice Changer](https://www.nchsoftware.com/voicechanger/index.html)
+### Voxal Voice Changer
 
 Are you looking for a nice voice changer? Voxal Voice Changer might be your answer. The real-time voice changer has a library that users can access. The library has multiple voices that you can use as per choices, such as a robot, male and female voices, alien voice effects, and others.
 
@@ -986,7 +978,7 @@ Voxal Voice Changer is compatible with multiple social media platforms as well a
 
 ![voxal voice changer](https://images.wondershare.com/filmora/article-images/2022/morphvox-voice-changer-7.jpg)
 
-### [Voicemod](https://www.voicemod.net/)
+### Voicemod
 
 What can be a good alternative for MorphVOX Voice Changer? Voicemod is an interesting choice against MorphVOX because it is a real-time voice changer that allows multiple platforms to use custom sound effects. It provides access to various games like Valorant, Fortnite, and many more.
 
@@ -994,7 +986,7 @@ Voicemod has a simple yet attractive interface and is compatible with Windows. V
 
 ![voicemod sound changer](https://images.wondershare.com/filmora/article-images/2022/morphvox-voice-changer-8.jpg)
 
-### [AV Voice Changer](https://www.audio4fun.com/voice-changer.htm)
+### AV Voice Changer
 
 AV Voice Changer can also be used to compensate for the features performed by Morphox Voice changer. It has a built-in voice recorder. This makes the consumer's work less complex as you record what you want to edit. You can upload a pre-recorded sound and edit it afterward. AV Voice Changer is not only compatible with games but also with other social media platforms.
 
@@ -1038,23 +1030,23 @@ For macOS 10.12 or later
 
 ## 5 of the Best Backwards music videos
 
-### [1\. Forward by Messe Kopp](https://www.youtube.com/watch?v=X6jprOZ29wY)
+### 1\. Forward by Messe Kopp
 
  This video was created by Messe Kopp and it is a perfect example of how backwards video techniques have evolved over recent years. It uses all the things that you would normally see in a backwards video and it really is a great video as well. You will also find that the backwards technique adds a complete new dynamic to the video as well so it really is interesting to watch. On top of this, the song is great and the whole scene works really well so you can already start to see how the backwards technique is becoming more and more prominent in today's industry.
 
-### [2\. 2 Guys, 600 Pillows](https://www.youtube.com/watch?v=01TL9bUWr6I)
+### 2\. 2 Guys, 600 Pillows
 
  Have you ever wondered what 600 pillows look like? Well now you know. The guys start by throwing pillows onto the bed and the great thing is that it is all in reverse. On top of this, it also shows the guys jump onto the pillows and the entire scene is reversed. The song that is played over the video is also great when you take a look at the way it is filmed so why not give it a watch for yourself to see the great filming styles that are present.
 
-### [3\. Tongue Tied](https://www.youtube.com/watch?v=1x1wjGKHjBI)
+### 3\. Tongue Tied
 
  This video is by a band called GroupLove and it was directed by Jordan Bahat. The video starts with a comical opening and after a few seconds you can start to see the backwards filming style. He starts by running backwards and before you know it, there are some wrestlers in masks following him. This video has plenty of things to show you and the effects are well and truly fantastic.
 
-### [4. Drop](https://www.youtube.com/watch?v=wQlvSpPuWdo)
+### 4. Drop
 
  This is called the Drop Video and it is by a group called the Pharcyde. Spike Jonze directed this and he came up with the idea for it as well. It has a very similar style to the first video and it is all filmed in the street. The group perform plenty of dance moves and this continues to add to the style and interest that this video has to offer.
 
-### [5\. Rivers](https://www.youtube.com/watch?v=vt50B772Fcg)
+### 5\. Rivers
 
  This video was done by a group called Small Feet and it really does have a lot to offer, from start to finish. Even though this video made it to number 5 on the list, doesn't mean that it isn't interesting. It was directed by Oskar Wrango and it uses nature in an attempt to tell the story of the song. This is unlike the videos that have been mentioned before and it certainly delivers an interesting result.
 
@@ -1076,23 +1068,23 @@ Follow @Liza Brown
 
 ## 5 of the Best Backwards music videos
 
-### [1\. Forward by Messe Kopp](https://www.youtube.com/watch?v=X6jprOZ29wY)
+### 1\. Forward by Messe Kopp
 
  This video was created by Messe Kopp and it is a perfect example of how backwards video techniques have evolved over recent years. It uses all the things that you would normally see in a backwards video and it really is a great video as well. You will also find that the backwards technique adds a complete new dynamic to the video as well so it really is interesting to watch. On top of this, the song is great and the whole scene works really well so you can already start to see how the backwards technique is becoming more and more prominent in today's industry.
 
-### [2\. 2 Guys, 600 Pillows](https://www.youtube.com/watch?v=01TL9bUWr6I)
+### 2\. 2 Guys, 600 Pillows
 
  Have you ever wondered what 600 pillows look like? Well now you know. The guys start by throwing pillows onto the bed and the great thing is that it is all in reverse. On top of this, it also shows the guys jump onto the pillows and the entire scene is reversed. The song that is played over the video is also great when you take a look at the way it is filmed so why not give it a watch for yourself to see the great filming styles that are present.
 
-### [3\. Tongue Tied](https://www.youtube.com/watch?v=1x1wjGKHjBI)
+### 3\. Tongue Tied
 
  This video is by a band called GroupLove and it was directed by Jordan Bahat. The video starts with a comical opening and after a few seconds you can start to see the backwards filming style. He starts by running backwards and before you know it, there are some wrestlers in masks following him. This video has plenty of things to show you and the effects are well and truly fantastic.
 
-### [4. Drop](https://www.youtube.com/watch?v=wQlvSpPuWdo)
+### 4. Drop
 
  This is called the Drop Video and it is by a group called the Pharcyde. Spike Jonze directed this and he came up with the idea for it as well. It has a very similar style to the first video and it is all filmed in the street. The group perform plenty of dance moves and this continues to add to the style and interest that this video has to offer.
 
-### [5\. Rivers](https://www.youtube.com/watch?v=vt50B772Fcg)
+### 5\. Rivers
 
  This video was done by a group called Small Feet and it really does have a lot to offer, from start to finish. Even though this video made it to number 5 on the list, doesn't mean that it isn't interesting. It was directed by Oskar Wrango and it uses nature in an attempt to tell the story of the song. This is unlike the videos that have been mentioned before and it certainly delivers an interesting result.
 
@@ -1114,23 +1106,23 @@ Follow @Liza Brown
 
 ## 5 of the Best Backwards music videos
 
-### [1\. Forward by Messe Kopp](https://www.youtube.com/watch?v=X6jprOZ29wY)
+### 1\. Forward by Messe Kopp
 
  This video was created by Messe Kopp and it is a perfect example of how backwards video techniques have evolved over recent years. It uses all the things that you would normally see in a backwards video and it really is a great video as well. You will also find that the backwards technique adds a complete new dynamic to the video as well so it really is interesting to watch. On top of this, the song is great and the whole scene works really well so you can already start to see how the backwards technique is becoming more and more prominent in today's industry.
 
-### [2\. 2 Guys, 600 Pillows](https://www.youtube.com/watch?v=01TL9bUWr6I)
+### 2\. 2 Guys, 600 Pillows
 
  Have you ever wondered what 600 pillows look like? Well now you know. The guys start by throwing pillows onto the bed and the great thing is that it is all in reverse. On top of this, it also shows the guys jump onto the pillows and the entire scene is reversed. The song that is played over the video is also great when you take a look at the way it is filmed so why not give it a watch for yourself to see the great filming styles that are present.
 
-### [3\. Tongue Tied](https://www.youtube.com/watch?v=1x1wjGKHjBI)
+### 3\. Tongue Tied
 
  This video is by a band called GroupLove and it was directed by Jordan Bahat. The video starts with a comical opening and after a few seconds you can start to see the backwards filming style. He starts by running backwards and before you know it, there are some wrestlers in masks following him. This video has plenty of things to show you and the effects are well and truly fantastic.
 
-### [4. Drop](https://www.youtube.com/watch?v=wQlvSpPuWdo)
+### 4. Drop
 
  This is called the Drop Video and it is by a group called the Pharcyde. Spike Jonze directed this and he came up with the idea for it as well. It has a very similar style to the first video and it is all filmed in the street. The group perform plenty of dance moves and this continues to add to the style and interest that this video has to offer.
 
-### [5\. Rivers](https://www.youtube.com/watch?v=vt50B772Fcg)
+### 5\. Rivers
 
  This video was done by a group called Small Feet and it really does have a lot to offer, from start to finish. Even though this video made it to number 5 on the list, doesn't mean that it isn't interesting. It was directed by Oskar Wrango and it uses nature in an attempt to tell the story of the song. This is unlike the videos that have been mentioned before and it certainly delivers an interesting result.
 
@@ -1152,23 +1144,23 @@ Follow @Liza Brown
 
 ## 5 of the Best Backwards music videos
 
-### [1\. Forward by Messe Kopp](https://www.youtube.com/watch?v=X6jprOZ29wY)
+### 1\. Forward by Messe Kopp
 
  This video was created by Messe Kopp and it is a perfect example of how backwards video techniques have evolved over recent years. It uses all the things that you would normally see in a backwards video and it really is a great video as well. You will also find that the backwards technique adds a complete new dynamic to the video as well so it really is interesting to watch. On top of this, the song is great and the whole scene works really well so you can already start to see how the backwards technique is becoming more and more prominent in today's industry.
 
-### [2\. 2 Guys, 600 Pillows](https://www.youtube.com/watch?v=01TL9bUWr6I)
+### 2\. 2 Guys, 600 Pillows
 
  Have you ever wondered what 600 pillows look like? Well now you know. The guys start by throwing pillows onto the bed and the great thing is that it is all in reverse. On top of this, it also shows the guys jump onto the pillows and the entire scene is reversed. The song that is played over the video is also great when you take a look at the way it is filmed so why not give it a watch for yourself to see the great filming styles that are present.
 
-### [3\. Tongue Tied](https://www.youtube.com/watch?v=1x1wjGKHjBI)
+### 3\. Tongue Tied
 
  This video is by a band called GroupLove and it was directed by Jordan Bahat. The video starts with a comical opening and after a few seconds you can start to see the backwards filming style. He starts by running backwards and before you know it, there are some wrestlers in masks following him. This video has plenty of things to show you and the effects are well and truly fantastic.
 
-### [4. Drop](https://www.youtube.com/watch?v=wQlvSpPuWdo)
+### 4. Drop
 
  This is called the Drop Video and it is by a group called the Pharcyde. Spike Jonze directed this and he came up with the idea for it as well. It has a very similar style to the first video and it is all filmed in the street. The group perform plenty of dance moves and this continues to add to the style and interest that this video has to offer.
 
-### [5\. Rivers](https://www.youtube.com/watch?v=vt50B772Fcg)
+### 5\. Rivers
 
  This video was done by a group called Small Feet and it really does have a lot to offer, from start to finish. Even though this video made it to number 5 on the list, doesn't mean that it isn't interesting. It was directed by Oskar Wrango and it uses nature in an attempt to tell the story of the song. This is unlike the videos that have been mentioned before and it certainly delivers an interesting result.
 
