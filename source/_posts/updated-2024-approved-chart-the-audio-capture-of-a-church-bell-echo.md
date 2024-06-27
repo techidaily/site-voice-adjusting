@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Chart the Audio Capture of a Church Bell Echo
-date: 2024-05-05T05:45:50.933Z
-updated: 2024-05-06T05:45:50.933Z
+date: 2024-06-26T12:39:09.358Z
+updated: 2024-06-27T12:39:09.358Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Chart the Audio Capture of a Church Bell Echo
 excerpt: This Article Describes Updated 2024 Approved Chart the Audio Capture of a Church Bell Echo
 keywords: harmony of the wild selecting the very best ios android nature audio apps,chart the audio capture of a church bell echo,leading android audio capturing apps the ultimate list of top 10,the most trusted pc audio capture software ranked top 10 choices,the premier chrome based sound capture applications of the current year,top 10 no cost audio capture software for pc users updated edition 2024 edition,the ultimate list of affordable android speech capture and audio recording tools
-thumbnail: https://www.lifewire.com/thmb/vIq8aJ1XOE0Q97nXhFUuoQCZpKI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/youtube-s-free-streaming-movies-and-tv-shows-1357439-ddbc3cf482e24a539c67009c07310ae1.png
+thumbnail: https://thmb.techidaily.com/be42a9800526c31b5bfdef3ed18cce59bd7b3192524b647f6f87b51df7e044d8.png
 ---
 
 ## Chart the Audio Capture of a Church Bell Echo
@@ -72,9 +72,7 @@ If you have FL Studio and 3xOSC plugin then you can easily create bell sounds mp
 
 ![vol subtab](https://images.wondershare.com/filmora/article-images/2022/01/bell-sound-7.jpg)
 
-**Step 3:** Next, you need to click on the “TNS” button (Tension) to edit the envelope line shapes a bit. We need to lower the tension level of Decay to add sharper “drop” from the Decay to Sustain. This will make the bell sound sharper for you. Also lower the tension level between Sustain and Release so that it doesn’t let the long Release to be too dominant
-
-![tns button](https://images.wondershare.com/filmora/article-images/2022/01/bell-sound-8.jpg)
+**Step 3:** Next, you need to click on the “TNS” button (Tension) to edit the envelope line shapes a bit. We need to lower the tension level of Decay to add sharper “drop” from the Decay to Sustain. This will make the bell sound sharper for you. Also lower the tension level between Sustain and Release so that it doesn’t let the long Release to be too dominant ![tns button](https://images.wondershare.com/filmora/article-images/2022/01/bell-sound-8.jpg)
 
 **Step 4:** Finally, you need to add that spacious depth and color to the sound via Fruity Reeverb. So, you can assign the 3xOsc to a free mixer track and drop a Fruity Reeverb to its effect slot. You need to set it like – “Color to Warmer (all the way to right – to make the reverb sound less metallic), Decay to 7 sec (long Decay time is the key here to make the bell sound huge and atmospheric), HighDamping to OFF and Reverb level to 24%”.
 
@@ -121,9 +119,7 @@ For Win 7 or later (64-bit)
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
-For macOS 10.12 or later
-
-![add music](https://images.wondershare.com/filmora/article-images/2022/01/applause-effect-3.png)
+For macOS 10.12 or later ![add music](https://images.wondershare.com/filmora/article-images/2022/01/applause-effect-3.png)
 
 **Step 2:** Now you can navigate over the video you imported to Filmora, then tap on the sign ‘+’on it alternatively; you can drag down to the timeline the media file.
 
@@ -135,9 +131,7 @@ For macOS 10.12 or later
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -193,9 +187,7 @@ If you have FL Studio and 3xOSC plugin then you can easily create bell sounds mp
 
 ![vol subtab](https://images.wondershare.com/filmora/article-images/2022/01/bell-sound-7.jpg)
 
-**Step 3:** Next, you need to click on the “TNS” button (Tension) to edit the envelope line shapes a bit. We need to lower the tension level of Decay to add sharper “drop” from the Decay to Sustain. This will make the bell sound sharper for you. Also lower the tension level between Sustain and Release so that it doesn’t let the long Release to be too dominant
-
-![tns button](https://images.wondershare.com/filmora/article-images/2022/01/bell-sound-8.jpg)
+**Step 3:** Next, you need to click on the “TNS” button (Tension) to edit the envelope line shapes a bit. We need to lower the tension level of Decay to add sharper “drop” from the Decay to Sustain. This will make the bell sound sharper for you. Also lower the tension level between Sustain and Release so that it doesn’t let the long Release to be too dominant ![tns button](https://images.wondershare.com/filmora/article-images/2022/01/bell-sound-8.jpg)
 
 **Step 4:** Finally, you need to add that spacious depth and color to the sound via Fruity Reeverb. So, you can assign the 3xOsc to a free mixer track and drop a Fruity Reeverb to its effect slot. You need to set it like – “Color to Warmer (all the way to right – to make the reverb sound less metallic), Decay to 7 sec (long Decay time is the key here to make the bell sound huge and atmospheric), HighDamping to OFF and Reverb level to 24%”.
 
@@ -242,9 +234,7 @@ For Win 7 or later (64-bit)
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
-For macOS 10.12 or later
-
-![add music](https://images.wondershare.com/filmora/article-images/2022/01/applause-effect-3.png)
+For macOS 10.12 or later ![add music](https://images.wondershare.com/filmora/article-images/2022/01/applause-effect-3.png)
 
 **Step 2:** Now you can navigate over the video you imported to Filmora, then tap on the sign ‘+’on it alternatively; you can drag down to the timeline the media file.
 
@@ -256,9 +246,7 @@ For macOS 10.12 or later
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -314,9 +302,7 @@ If you have FL Studio and 3xOSC plugin then you can easily create bell sounds mp
 
 ![vol subtab](https://images.wondershare.com/filmora/article-images/2022/01/bell-sound-7.jpg)
 
-**Step 3:** Next, you need to click on the “TNS” button (Tension) to edit the envelope line shapes a bit. We need to lower the tension level of Decay to add sharper “drop” from the Decay to Sustain. This will make the bell sound sharper for you. Also lower the tension level between Sustain and Release so that it doesn’t let the long Release to be too dominant
-
-![tns button](https://images.wondershare.com/filmora/article-images/2022/01/bell-sound-8.jpg)
+**Step 3:** Next, you need to click on the “TNS” button (Tension) to edit the envelope line shapes a bit. We need to lower the tension level of Decay to add sharper “drop” from the Decay to Sustain. This will make the bell sound sharper for you. Also lower the tension level between Sustain and Release so that it doesn’t let the long Release to be too dominant ![tns button](https://images.wondershare.com/filmora/article-images/2022/01/bell-sound-8.jpg)
 
 **Step 4:** Finally, you need to add that spacious depth and color to the sound via Fruity Reeverb. So, you can assign the 3xOsc to a free mixer track and drop a Fruity Reeverb to its effect slot. You need to set it like – “Color to Warmer (all the way to right – to make the reverb sound less metallic), Decay to 7 sec (long Decay time is the key here to make the bell sound huge and atmospheric), HighDamping to OFF and Reverb level to 24%”.
 
@@ -363,9 +349,7 @@ For Win 7 or later (64-bit)
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
-For macOS 10.12 or later
-
-![add music](https://images.wondershare.com/filmora/article-images/2022/01/applause-effect-3.png)
+For macOS 10.12 or later ![add music](https://images.wondershare.com/filmora/article-images/2022/01/applause-effect-3.png)
 
 **Step 2:** Now you can navigate over the video you imported to Filmora, then tap on the sign ‘+’on it alternatively; you can drag down to the timeline the media file.
 
@@ -377,9 +361,7 @@ For macOS 10.12 or later
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -435,9 +417,7 @@ If you have FL Studio and 3xOSC plugin then you can easily create bell sounds mp
 
 ![vol subtab](https://images.wondershare.com/filmora/article-images/2022/01/bell-sound-7.jpg)
 
-**Step 3:** Next, you need to click on the “TNS” button (Tension) to edit the envelope line shapes a bit. We need to lower the tension level of Decay to add sharper “drop” from the Decay to Sustain. This will make the bell sound sharper for you. Also lower the tension level between Sustain and Release so that it doesn’t let the long Release to be too dominant
-
-![tns button](https://images.wondershare.com/filmora/article-images/2022/01/bell-sound-8.jpg)
+**Step 3:** Next, you need to click on the “TNS” button (Tension) to edit the envelope line shapes a bit. We need to lower the tension level of Decay to add sharper “drop” from the Decay to Sustain. This will make the bell sound sharper for you. Also lower the tension level between Sustain and Release so that it doesn’t let the long Release to be too dominant ![tns button](https://images.wondershare.com/filmora/article-images/2022/01/bell-sound-8.jpg)
 
 **Step 4:** Finally, you need to add that spacious depth and color to the sound via Fruity Reeverb. So, you can assign the 3xOsc to a free mixer track and drop a Fruity Reeverb to its effect slot. You need to set it like – “Color to Warmer (all the way to right – to make the reverb sound less metallic), Decay to 7 sec (long Decay time is the key here to make the bell sound huge and atmospheric), HighDamping to OFF and Reverb level to 24%”.
 
@@ -484,9 +464,7 @@ For Win 7 or later (64-bit)
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
-For macOS 10.12 or later
-
-![add music](https://images.wondershare.com/filmora/article-images/2022/01/applause-effect-3.png)
+For macOS 10.12 or later ![add music](https://images.wondershare.com/filmora/article-images/2022/01/applause-effect-3.png)
 
 **Step 2:** Now you can navigate over the video you imported to Filmora, then tap on the sign ‘+’on it alternatively; you can drag down to the timeline the media file.
 
@@ -498,9 +476,7 @@ For macOS 10.12 or later
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 

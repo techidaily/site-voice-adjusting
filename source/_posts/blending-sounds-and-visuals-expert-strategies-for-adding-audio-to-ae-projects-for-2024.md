@@ -1,7 +1,7 @@
 ---
 title: Blending Sounds and Visuals Expert Strategies for Adding Audio to AE Projects for 2024
-date: 2024-06-18T17:41:39.630Z
-updated: 2024-06-19T17:41:39.630Z
+date: 2024-06-26T12:39:16.346Z
+updated: 2024-06-27T12:39:16.346Z
 tags: 
   - audio editing software
   - audio editing
@@ -16,9 +16,7 @@ thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c
 
 ## Blending Sounds and Visuals: Expert Strategies for Adding Audio to AE Projects
 
-# How to Add Audio in After Effects
-
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+# How to Add Audio in After Effects ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
 
@@ -32,9 +30,7 @@ Working with audio files in Adobe After Effects would be challenging since it is
 
 1\. Start the program and open a new project.
 
-2\. Import the files in the project panel. Mute the video sound if neccesary
-
-![add audio in after effects](https://images.wondershare.com/filmora/article-images/add-audio-in-after-effects.jpg)
+2\. Import the files in the project panel. Mute the video sound if neccesary ![add audio in after effects](https://images.wondershare.com/filmora/article-images/add-audio-in-after-effects.jpg)
 
 3\. Import the audio file to the project file as well (that is required to be added).
 
@@ -126,9 +122,7 @@ Working with audio files in Adobe After Effects would be challenging since it is
 
 1\. Start the program and open a new project.
 
-2\. Import the files in the project panel. Mute the video sound if neccesary
-
-![add audio in after effects](https://images.wondershare.com/filmora/article-images/add-audio-in-after-effects.jpg)
+2\. Import the files in the project panel. Mute the video sound if neccesary ![add audio in after effects](https://images.wondershare.com/filmora/article-images/add-audio-in-after-effects.jpg)
 
 3\. Import the audio file to the project file as well (that is required to be added).
 
@@ -220,9 +214,7 @@ Working with audio files in Adobe After Effects would be challenging since it is
 
 1\. Start the program and open a new project.
 
-2\. Import the files in the project panel. Mute the video sound if neccesary
-
-![add audio in after effects](https://images.wondershare.com/filmora/article-images/add-audio-in-after-effects.jpg)
+2\. Import the files in the project panel. Mute the video sound if neccesary ![add audio in after effects](https://images.wondershare.com/filmora/article-images/add-audio-in-after-effects.jpg)
 
 3\. Import the audio file to the project file as well (that is required to be added).
 
@@ -314,9 +306,7 @@ Working with audio files in Adobe After Effects would be challenging since it is
 
 1\. Start the program and open a new project.
 
-2\. Import the files in the project panel. Mute the video sound if neccesary
-
-![add audio in after effects](https://images.wondershare.com/filmora/article-images/add-audio-in-after-effects.jpg)
+2\. Import the files in the project panel. Mute the video sound if neccesary ![add audio in after effects](https://images.wondershare.com/filmora/article-images/add-audio-in-after-effects.jpg)
 
 3\. Import the audio file to the project file as well (that is required to be added).
 
@@ -468,7 +458,7 @@ To quicken your editing process, Filmora provides templates that suits your vide
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -536,7 +526,7 @@ To quicken your editing process, Filmora provides templates that suits your vide
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -604,7 +594,7 @@ To quicken your editing process, Filmora provides templates that suits your vide
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -672,7 +662,7 @@ To quicken your editing process, Filmora provides templates that suits your vide
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
