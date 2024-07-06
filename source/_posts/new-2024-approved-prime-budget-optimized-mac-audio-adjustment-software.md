@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Prime Budget-Optimized Mac Audio Adjustment Software
-date: 2024-05-05T06:00:22.095Z
-updated: 2024-05-06T06:00:22.095Z
+date: 2024-07-05T19:44:20.690Z
+updated: 2024-07-06T19:44:20.690Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Prime Budget-Optimized Mac Audio Adjustment Software
 excerpt: This Article Describes New 2024 Approved Prime Budget-Optimized Mac Audio Adjustment Software
 keywords: master list of prime audio time reverse software ranked for desktop laptop and smartphone use,mastered audio separation software for mac enhanced 2024 edition,top 11 budget friendly audio enhancement software options for your pc and mac,top 10 audio editing software for windows and mac 2024 edition,the unlimited soundscape best budget friendly audio mixer software ranked,ultimate guided audio level adjustment software,prime budget optimized mac audio adjustment software
-thumbnail: https://www.lifewire.com/thmb/sx5hd7He1vcpR0KajATX8cwq3zM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Twitter-and-X-4c4103f6bc3c42e0b7197b60a50317ca.jpg
+thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f8bcbe092ec793162bb9610d.jpg
 ---
 
 ## Prime Budget-Optimized Mac Audio Adjustment Software
@@ -78,7 +78,7 @@ Once you have edited the audio file and you are completely satisfied, then it's 
 
 Do you know any good yet cheat MP3 editors for Mac? Although the market has a lot of MP3 editors, it’s hard to find a good one. For this reason, we are here to help and guide you. The following section of this article will talk about 3 free and cheap MP3 editors, Mac. Let’s get started!
 
-### 1\. [Audacity](https://www.audacityteam.org/)
+### 1\. Audacity
 
 This MP3 editor Mac is reliable for both the users of Mac as well as for Windows. Audacity allows you the usage of sequential undo or redo options. This option allows you to go back and forth to any step in the MP3 audio editing session. Along with that, cut, copy, paste and delete options are also available.
 
@@ -92,7 +92,7 @@ Audacity provides an 'Envelop tool'. It allows the user to fade the volume up or
 * It provides various options for input file formats, including MP3, WAV, and others. Along with recording in the software, you can edit audio files as well.
 * Audacity provides Sync-Lock Track technology. It enables you to keep track of the labels and keep them synchronized.
 
-### 2\. [WavePad](https://www.nch.com.au/wavepad/index.html)
+### 2\. WavePad
 
 Are you ready to learn about WavePad? The MP3 audio editor is free for Mac users. It has a fine interface that can be used easily. WavePad allows the user to record new files in the app alongside editing the existing files. It enables you to process the MP3 audio files in batch, which means that up to a thousand files can be edited at once.
 
@@ -106,7 +106,7 @@ It provides a multi-track MP3 audio mixer that is famous among its users. WavePa
 * WavePad supports all kinds of audio and music formats. These formats include MP3 and others like FLAC, OGG, real audio, GSM.
 * It allows the audio after-effects like an amplifier, normalizer and equalizer, reverb and echo, and much more.
 
-### 3\. [Apple GarageBand](https://www.apple.com/mac/garageband/)
+### 3\. Apple GarageBand
 
 Apple GarageBand is the built-in MP3 audio editor of the MacBook with an innovative and modern design that is easy to learn and implement. GarageBand is Apple audio creation studio with built-in audio optimization features. It has a sound library of its own that is easily accessible to the user. Moreover, users can self-record the audio if needed through built-in options.
 
@@ -186,7 +186,7 @@ Once you have edited the audio file and you are completely satisfied, then it's 
 
 Do you know any good yet cheat MP3 editors for Mac? Although the market has a lot of MP3 editors, it’s hard to find a good one. For this reason, we are here to help and guide you. The following section of this article will talk about 3 free and cheap MP3 editors, Mac. Let’s get started!
 
-### 1\. [Audacity](https://www.audacityteam.org/)
+### 1\. Audacity
 
 This MP3 editor Mac is reliable for both the users of Mac as well as for Windows. Audacity allows you the usage of sequential undo or redo options. This option allows you to go back and forth to any step in the MP3 audio editing session. Along with that, cut, copy, paste and delete options are also available.
 
@@ -200,7 +200,7 @@ Audacity provides an 'Envelop tool'. It allows the user to fade the volume up or
 * It provides various options for input file formats, including MP3, WAV, and others. Along with recording in the software, you can edit audio files as well.
 * Audacity provides Sync-Lock Track technology. It enables you to keep track of the labels and keep them synchronized.
 
-### 2\. [WavePad](https://www.nch.com.au/wavepad/index.html)
+### 2\. WavePad
 
 Are you ready to learn about WavePad? The MP3 audio editor is free for Mac users. It has a fine interface that can be used easily. WavePad allows the user to record new files in the app alongside editing the existing files. It enables you to process the MP3 audio files in batch, which means that up to a thousand files can be edited at once.
 
@@ -214,7 +214,7 @@ It provides a multi-track MP3 audio mixer that is famous among its users. WavePa
 * WavePad supports all kinds of audio and music formats. These formats include MP3 and others like FLAC, OGG, real audio, GSM.
 * It allows the audio after-effects like an amplifier, normalizer and equalizer, reverb and echo, and much more.
 
-### 3\. [Apple GarageBand](https://www.apple.com/mac/garageband/)
+### 3\. Apple GarageBand
 
 Apple GarageBand is the built-in MP3 audio editor of the MacBook with an innovative and modern design that is easy to learn and implement. GarageBand is Apple audio creation studio with built-in audio optimization features. It has a sound library of its own that is easily accessible to the user. Moreover, users can self-record the audio if needed through built-in options.
 
@@ -294,7 +294,7 @@ Once you have edited the audio file and you are completely satisfied, then it's 
 
 Do you know any good yet cheat MP3 editors for Mac? Although the market has a lot of MP3 editors, it’s hard to find a good one. For this reason, we are here to help and guide you. The following section of this article will talk about 3 free and cheap MP3 editors, Mac. Let’s get started!
 
-### 1\. [Audacity](https://www.audacityteam.org/)
+### 1\. Audacity
 
 This MP3 editor Mac is reliable for both the users of Mac as well as for Windows. Audacity allows you the usage of sequential undo or redo options. This option allows you to go back and forth to any step in the MP3 audio editing session. Along with that, cut, copy, paste and delete options are also available.
 
@@ -308,7 +308,7 @@ Audacity provides an 'Envelop tool'. It allows the user to fade the volume up or
 * It provides various options for input file formats, including MP3, WAV, and others. Along with recording in the software, you can edit audio files as well.
 * Audacity provides Sync-Lock Track technology. It enables you to keep track of the labels and keep them synchronized.
 
-### 2\. [WavePad](https://www.nch.com.au/wavepad/index.html)
+### 2\. WavePad
 
 Are you ready to learn about WavePad? The MP3 audio editor is free for Mac users. It has a fine interface that can be used easily. WavePad allows the user to record new files in the app alongside editing the existing files. It enables you to process the MP3 audio files in batch, which means that up to a thousand files can be edited at once.
 
@@ -322,7 +322,7 @@ It provides a multi-track MP3 audio mixer that is famous among its users. WavePa
 * WavePad supports all kinds of audio and music formats. These formats include MP3 and others like FLAC, OGG, real audio, GSM.
 * It allows the audio after-effects like an amplifier, normalizer and equalizer, reverb and echo, and much more.
 
-### 3\. [Apple GarageBand](https://www.apple.com/mac/garageband/)
+### 3\. Apple GarageBand
 
 Apple GarageBand is the built-in MP3 audio editor of the MacBook with an innovative and modern design that is easy to learn and implement. GarageBand is Apple audio creation studio with built-in audio optimization features. It has a sound library of its own that is easily accessible to the user. Moreover, users can self-record the audio if needed through built-in options.
 
@@ -402,7 +402,7 @@ Once you have edited the audio file and you are completely satisfied, then it's 
 
 Do you know any good yet cheat MP3 editors for Mac? Although the market has a lot of MP3 editors, it’s hard to find a good one. For this reason, we are here to help and guide you. The following section of this article will talk about 3 free and cheap MP3 editors, Mac. Let’s get started!
 
-### 1\. [Audacity](https://www.audacityteam.org/)
+### 1\. Audacity
 
 This MP3 editor Mac is reliable for both the users of Mac as well as for Windows. Audacity allows you the usage of sequential undo or redo options. This option allows you to go back and forth to any step in the MP3 audio editing session. Along with that, cut, copy, paste and delete options are also available.
 
@@ -416,7 +416,7 @@ Audacity provides an 'Envelop tool'. It allows the user to fade the volume up or
 * It provides various options for input file formats, including MP3, WAV, and others. Along with recording in the software, you can edit audio files as well.
 * Audacity provides Sync-Lock Track technology. It enables you to keep track of the labels and keep them synchronized.
 
-### 2\. [WavePad](https://www.nch.com.au/wavepad/index.html)
+### 2\. WavePad
 
 Are you ready to learn about WavePad? The MP3 audio editor is free for Mac users. It has a fine interface that can be used easily. WavePad allows the user to record new files in the app alongside editing the existing files. It enables you to process the MP3 audio files in batch, which means that up to a thousand files can be edited at once.
 
@@ -430,7 +430,7 @@ It provides a multi-track MP3 audio mixer that is famous among its users. WavePa
 * WavePad supports all kinds of audio and music formats. These formats include MP3 and others like FLAC, OGG, real audio, GSM.
 * It allows the audio after-effects like an amplifier, normalizer and equalizer, reverb and echo, and much more.
 
-### 3\. [Apple GarageBand](https://www.apple.com/mac/garageband/)
+### 3\. Apple GarageBand
 
 Apple GarageBand is the built-in MP3 audio editor of the MacBook with an innovative and modern design that is easy to learn and implement. GarageBand is Apple audio creation studio with built-in audio optimization features. It has a sound library of its own that is easily accessible to the user. Moreover, users can self-record the audio if needed through built-in options.
 
@@ -534,7 +534,7 @@ Audacity is the bread and butter for individuals who adore a crisp audio quality
 ![noise reduction in audacity](https://images.wondershare.com/filmora/article-images/2022/04/how-to-fix-distorted-audio-3.png)
 
 1. Now, click on Noise Profile, and Audacity will know what to filter out.
-2. Next, select the entire audio and open the Noise Reduction Window again ( Effect > Noise Reduction ). Then, set the values to suit your preferences.
+2. Next, select the entire audio and open the Noise Reduction Window again (Effect > Noise Reduction). Then, set the values to suit your preferences.
 3. Hit preview to check the audio, then the Click OK button.
 
 If the audio is still distorted, apply the filter again. Don't overdo the process numerous times to ensure your audio is not degraded, making the voice sound robotic and tinny.
@@ -699,7 +699,7 @@ Audacity is the bread and butter for individuals who adore a crisp audio quality
 ![noise reduction in audacity](https://images.wondershare.com/filmora/article-images/2022/04/how-to-fix-distorted-audio-3.png)
 
 1. Now, click on Noise Profile, and Audacity will know what to filter out.
-2. Next, select the entire audio and open the Noise Reduction Window again ( Effect > Noise Reduction ). Then, set the values to suit your preferences.
+2. Next, select the entire audio and open the Noise Reduction Window again (Effect > Noise Reduction). Then, set the values to suit your preferences.
 3. Hit preview to check the audio, then the Click OK button.
 
 If the audio is still distorted, apply the filter again. Don't overdo the process numerous times to ensure your audio is not degraded, making the voice sound robotic and tinny.
@@ -864,7 +864,7 @@ Audacity is the bread and butter for individuals who adore a crisp audio quality
 ![noise reduction in audacity](https://images.wondershare.com/filmora/article-images/2022/04/how-to-fix-distorted-audio-3.png)
 
 1. Now, click on Noise Profile, and Audacity will know what to filter out.
-2. Next, select the entire audio and open the Noise Reduction Window again ( Effect > Noise Reduction ). Then, set the values to suit your preferences.
+2. Next, select the entire audio and open the Noise Reduction Window again (Effect > Noise Reduction). Then, set the values to suit your preferences.
 3. Hit preview to check the audio, then the Click OK button.
 
 If the audio is still distorted, apply the filter again. Don't overdo the process numerous times to ensure your audio is not degraded, making the voice sound robotic and tinny.
@@ -1029,7 +1029,7 @@ Audacity is the bread and butter for individuals who adore a crisp audio quality
 ![noise reduction in audacity](https://images.wondershare.com/filmora/article-images/2022/04/how-to-fix-distorted-audio-3.png)
 
 1. Now, click on Noise Profile, and Audacity will know what to filter out.
-2. Next, select the entire audio and open the Noise Reduction Window again ( Effect > Noise Reduction ). Then, set the values to suit your preferences.
+2. Next, select the entire audio and open the Noise Reduction Window again (Effect > Noise Reduction). Then, set the values to suit your preferences.
 3. Hit preview to check the audio, then the Click OK button.
 
 If the audio is still distorted, apply the filter again. Don't overdo the process numerous times to ensure your audio is not degraded, making the voice sound robotic and tinny.
@@ -1184,7 +1184,7 @@ For both Windows and Mac, the procedures for recording audio from a microphone a
 
 **Step 5:** With the mouse over any recording area, click the **Delete** button to cut out any portion of it quickly. Click **Ctrl + A**, then **Delete** to erase whatever you've just saved. Alternatively, press the **X** button to delete the track completely.
 
-![remove unwanted clip in audacity  ](https://images.wondershare.com/filmora/article-images/remove-unwanted-audio-clip-audacity.jpg)
+![remove unwanted clip in audacity](https://images.wondershare.com/filmora/article-images/remove-unwanted-audio-clip-audacity.jpg)
 
 ## Part 2: How to Record Sounds Playing on Your Computer Using Audacity On Windows?
 
@@ -1194,15 +1194,15 @@ Unlike Mac, Windows makes it simple to capture audio from a movie or media file 
 
 **Step 1:** To use MME as your audio host, go to **Tracks** in the **Add New** tab in **Stereo Track** and create a new file.
 
-![record playing sound with audacity ](https://images.wondershare.com/filmora/article-images/record-playing-computer-sound-audacity.jpg)
+![record playing sound with audacity](https://images.wondershare.com/filmora/article-images/record-playing-computer-sound-audacity.jpg)
 
 **Step 2:** Change the **Audio Host** (to the left of **Recording Device**) to **MME**—this is the standard setting, so you might not have to change anything.
 
-![change audio host in audacity ](https://images.wondershare.com/filmora/article-images/change-audio-host-audacity.jpg)
+![change audio host in audacity](https://images.wondershare.com/filmora/article-images/change-audio-host-audacity.jpg)
 
 **Step 3:** Choose desired option from the **Recording Device** dropdown menu. Based on your configuration, this might be referred to as **Wave Out** or **Loopback**. When you're uncertain, try it out.
 
-![choose audio recording device in audacity ](https://images.wondershare.com/filmora/article-images/choose-recording-device-audacity.jpg)
+![choose audio recording device in audacity](https://images.wondershare.com/filmora/article-images/choose-recording-device-audacity.jpg)
 
 **Step 4:** To record your audio source, click **Record**, then play it back.
 
@@ -1212,7 +1212,7 @@ WASAPI provides higher-resolution digital recordings. If capturing audio from an
 
 **Step 1:** Convert the **Audio Host** from **MME** to **Windows WASAPI** after creating a fresh **Stereo Track**.
 
-![  audacity change host ](https://images.wondershare.com/filmora/article-images/audacity-use-windows-wasapi-host.jpg)
+![audacity change host](https://images.wondershare.com/filmora/article-images/audacity-use-windows-wasapi-host.jpg)
 
 **Step 2:** Switch the **Recording Device** to **Speaker (loopback).** To display the entire label, you might have to slide the toolbar's knobs outwards. Begin recording by pressing the **red dot** and then listen to the audio source. **Audacity** will capture the audio even if your PC is muted.
 
@@ -1232,15 +1232,15 @@ If you have installed Filmora already, you can use it to record the sound playin
 
 **Step 1:** Luanch Filmora, and then click the Record button and select **Record PC Screen**.
 
-![ filmora mac record pc  screen ](https://images.wondershare.com/filmora/article-images/filmora-mac-record-pc-screen.jpg)
+![filmora mac record pc  screen](https://images.wondershare.com/filmora/article-images/filmora-mac-record-pc-screen.jpg)
 
 **Step 2:** Set up the recording settings based on the need. Since we’re going to record the playing audio from the Mac computer, select Microphone and System Audio On and click the Red button to start.
 
-![ filmora mac record pc  screen ](https://images.wondershare.com/filmora/article-images/set-up-filmora-mac-screen-record.jpg)
+![filmora mac record pc  screen](https://images.wondershare.com/filmora/article-images/set-up-filmora-mac-screen-record.jpg)
 
 **Step 3:** Now you have a screen captured video with sound included. Since we need th audio only, we can attache the [audio from the video](https://tools.techidaily.com/wondershare/filmora/download/) first and then do some editing such as adding fade in and fade out effect, or remove unwanted audio clip.
 
-![ filmora   detach audio ](https://images.wondershare.com/filmora/article-images/detach-audio-from-video-to-get-computer-audio.jpg)
+![filmora   detach audio](https://images.wondershare.com/filmora/article-images/detach-audio-from-video-to-get-computer-audio.jpg)
 
 ## Part 4: How to Set up Audacity to Record as Schedule?
 
@@ -1248,7 +1248,7 @@ A streaming video recorder or cassette can be used to arrange a recording. All o
 
 **Step 1:** By definition, the recording's **Start Date and Time** are set to the present time. It will begin recording on the present day and hour by default when you don't alter it. There is no default setting for the **End Date and Time**. You must either choose a date and time to determine the end time.
 
-![audacity schedule recording ](https://images.wondershare.com/filmora/article-images/audacity-set-start-end-schedule.jpg)
+![audacity schedule recording](https://images.wondershare.com/filmora/article-images/audacity-set-start-end-schedule.jpg)
 
 **Step 2:** There is a **Checkbox** to **Save** the work immediately. By **Ticking** the option, you may choose the path or **Folder** where the file will be saved when the recording is finished.
 
@@ -1288,7 +1288,7 @@ For both Windows and Mac, the procedures for recording audio from a microphone a
 
 **Step 5:** With the mouse over any recording area, click the **Delete** button to cut out any portion of it quickly. Click **Ctrl + A**, then **Delete** to erase whatever you've just saved. Alternatively, press the **X** button to delete the track completely.
 
-![remove unwanted clip in audacity  ](https://images.wondershare.com/filmora/article-images/remove-unwanted-audio-clip-audacity.jpg)
+![remove unwanted clip in audacity](https://images.wondershare.com/filmora/article-images/remove-unwanted-audio-clip-audacity.jpg)
 
 ## Part 2: How to Record Sounds Playing on Your Computer Using Audacity On Windows?
 
@@ -1298,15 +1298,15 @@ Unlike Mac, Windows makes it simple to capture audio from a movie or media file 
 
 **Step 1:** To use MME as your audio host, go to **Tracks** in the **Add New** tab in **Stereo Track** and create a new file.
 
-![record playing sound with audacity ](https://images.wondershare.com/filmora/article-images/record-playing-computer-sound-audacity.jpg)
+![record playing sound with audacity](https://images.wondershare.com/filmora/article-images/record-playing-computer-sound-audacity.jpg)
 
 **Step 2:** Change the **Audio Host** (to the left of **Recording Device**) to **MME**—this is the standard setting, so you might not have to change anything.
 
-![change audio host in audacity ](https://images.wondershare.com/filmora/article-images/change-audio-host-audacity.jpg)
+![change audio host in audacity](https://images.wondershare.com/filmora/article-images/change-audio-host-audacity.jpg)
 
 **Step 3:** Choose desired option from the **Recording Device** dropdown menu. Based on your configuration, this might be referred to as **Wave Out** or **Loopback**. When you're uncertain, try it out.
 
-![choose audio recording device in audacity ](https://images.wondershare.com/filmora/article-images/choose-recording-device-audacity.jpg)
+![choose audio recording device in audacity](https://images.wondershare.com/filmora/article-images/choose-recording-device-audacity.jpg)
 
 **Step 4:** To record your audio source, click **Record**, then play it back.
 
@@ -1316,7 +1316,7 @@ WASAPI provides higher-resolution digital recordings. If capturing audio from an
 
 **Step 1:** Convert the **Audio Host** from **MME** to **Windows WASAPI** after creating a fresh **Stereo Track**.
 
-![  audacity change host ](https://images.wondershare.com/filmora/article-images/audacity-use-windows-wasapi-host.jpg)
+![audacity change host](https://images.wondershare.com/filmora/article-images/audacity-use-windows-wasapi-host.jpg)
 
 **Step 2:** Switch the **Recording Device** to **Speaker (loopback).** To display the entire label, you might have to slide the toolbar's knobs outwards. Begin recording by pressing the **red dot** and then listen to the audio source. **Audacity** will capture the audio even if your PC is muted.
 
@@ -1336,15 +1336,15 @@ If you have installed Filmora already, you can use it to record the sound playin
 
 **Step 1:** Luanch Filmora, and then click the Record button and select **Record PC Screen**.
 
-![ filmora mac record pc  screen ](https://images.wondershare.com/filmora/article-images/filmora-mac-record-pc-screen.jpg)
+![filmora mac record pc  screen](https://images.wondershare.com/filmora/article-images/filmora-mac-record-pc-screen.jpg)
 
 **Step 2:** Set up the recording settings based on the need. Since we’re going to record the playing audio from the Mac computer, select Microphone and System Audio On and click the Red button to start.
 
-![ filmora mac record pc  screen ](https://images.wondershare.com/filmora/article-images/set-up-filmora-mac-screen-record.jpg)
+![filmora mac record pc  screen](https://images.wondershare.com/filmora/article-images/set-up-filmora-mac-screen-record.jpg)
 
 **Step 3:** Now you have a screen captured video with sound included. Since we need th audio only, we can attache the [audio from the video](https://tools.techidaily.com/wondershare/filmora/download/) first and then do some editing such as adding fade in and fade out effect, or remove unwanted audio clip.
 
-![ filmora   detach audio ](https://images.wondershare.com/filmora/article-images/detach-audio-from-video-to-get-computer-audio.jpg)
+![filmora   detach audio](https://images.wondershare.com/filmora/article-images/detach-audio-from-video-to-get-computer-audio.jpg)
 
 ## Part 4: How to Set up Audacity to Record as Schedule?
 
@@ -1352,7 +1352,7 @@ A streaming video recorder or cassette can be used to arrange a recording. All o
 
 **Step 1:** By definition, the recording's **Start Date and Time** are set to the present time. It will begin recording on the present day and hour by default when you don't alter it. There is no default setting for the **End Date and Time**. You must either choose a date and time to determine the end time.
 
-![audacity schedule recording ](https://images.wondershare.com/filmora/article-images/audacity-set-start-end-schedule.jpg)
+![audacity schedule recording](https://images.wondershare.com/filmora/article-images/audacity-set-start-end-schedule.jpg)
 
 **Step 2:** There is a **Checkbox** to **Save** the work immediately. By **Ticking** the option, you may choose the path or **Folder** where the file will be saved when the recording is finished.
 
@@ -1392,7 +1392,7 @@ For both Windows and Mac, the procedures for recording audio from a microphone a
 
 **Step 5:** With the mouse over any recording area, click the **Delete** button to cut out any portion of it quickly. Click **Ctrl + A**, then **Delete** to erase whatever you've just saved. Alternatively, press the **X** button to delete the track completely.
 
-![remove unwanted clip in audacity  ](https://images.wondershare.com/filmora/article-images/remove-unwanted-audio-clip-audacity.jpg)
+![remove unwanted clip in audacity](https://images.wondershare.com/filmora/article-images/remove-unwanted-audio-clip-audacity.jpg)
 
 ## Part 2: How to Record Sounds Playing on Your Computer Using Audacity On Windows?
 
@@ -1402,15 +1402,15 @@ Unlike Mac, Windows makes it simple to capture audio from a movie or media file 
 
 **Step 1:** To use MME as your audio host, go to **Tracks** in the **Add New** tab in **Stereo Track** and create a new file.
 
-![record playing sound with audacity ](https://images.wondershare.com/filmora/article-images/record-playing-computer-sound-audacity.jpg)
+![record playing sound with audacity](https://images.wondershare.com/filmora/article-images/record-playing-computer-sound-audacity.jpg)
 
 **Step 2:** Change the **Audio Host** (to the left of **Recording Device**) to **MME**—this is the standard setting, so you might not have to change anything.
 
-![change audio host in audacity ](https://images.wondershare.com/filmora/article-images/change-audio-host-audacity.jpg)
+![change audio host in audacity](https://images.wondershare.com/filmora/article-images/change-audio-host-audacity.jpg)
 
 **Step 3:** Choose desired option from the **Recording Device** dropdown menu. Based on your configuration, this might be referred to as **Wave Out** or **Loopback**. When you're uncertain, try it out.
 
-![choose audio recording device in audacity ](https://images.wondershare.com/filmora/article-images/choose-recording-device-audacity.jpg)
+![choose audio recording device in audacity](https://images.wondershare.com/filmora/article-images/choose-recording-device-audacity.jpg)
 
 **Step 4:** To record your audio source, click **Record**, then play it back.
 
@@ -1420,7 +1420,7 @@ WASAPI provides higher-resolution digital recordings. If capturing audio from an
 
 **Step 1:** Convert the **Audio Host** from **MME** to **Windows WASAPI** after creating a fresh **Stereo Track**.
 
-![  audacity change host ](https://images.wondershare.com/filmora/article-images/audacity-use-windows-wasapi-host.jpg)
+![audacity change host](https://images.wondershare.com/filmora/article-images/audacity-use-windows-wasapi-host.jpg)
 
 **Step 2:** Switch the **Recording Device** to **Speaker (loopback).** To display the entire label, you might have to slide the toolbar's knobs outwards. Begin recording by pressing the **red dot** and then listen to the audio source. **Audacity** will capture the audio even if your PC is muted.
 
@@ -1440,15 +1440,15 @@ If you have installed Filmora already, you can use it to record the sound playin
 
 **Step 1:** Luanch Filmora, and then click the Record button and select **Record PC Screen**.
 
-![ filmora mac record pc  screen ](https://images.wondershare.com/filmora/article-images/filmora-mac-record-pc-screen.jpg)
+![filmora mac record pc  screen](https://images.wondershare.com/filmora/article-images/filmora-mac-record-pc-screen.jpg)
 
 **Step 2:** Set up the recording settings based on the need. Since we’re going to record the playing audio from the Mac computer, select Microphone and System Audio On and click the Red button to start.
 
-![ filmora mac record pc  screen ](https://images.wondershare.com/filmora/article-images/set-up-filmora-mac-screen-record.jpg)
+![filmora mac record pc  screen](https://images.wondershare.com/filmora/article-images/set-up-filmora-mac-screen-record.jpg)
 
 **Step 3:** Now you have a screen captured video with sound included. Since we need th audio only, we can attache the [audio from the video](https://tools.techidaily.com/wondershare/filmora/download/) first and then do some editing such as adding fade in and fade out effect, or remove unwanted audio clip.
 
-![ filmora   detach audio ](https://images.wondershare.com/filmora/article-images/detach-audio-from-video-to-get-computer-audio.jpg)
+![filmora   detach audio](https://images.wondershare.com/filmora/article-images/detach-audio-from-video-to-get-computer-audio.jpg)
 
 ## Part 4: How to Set up Audacity to Record as Schedule?
 
@@ -1456,7 +1456,7 @@ A streaming video recorder or cassette can be used to arrange a recording. All o
 
 **Step 1:** By definition, the recording's **Start Date and Time** are set to the present time. It will begin recording on the present day and hour by default when you don't alter it. There is no default setting for the **End Date and Time**. You must either choose a date and time to determine the end time.
 
-![audacity schedule recording ](https://images.wondershare.com/filmora/article-images/audacity-set-start-end-schedule.jpg)
+![audacity schedule recording](https://images.wondershare.com/filmora/article-images/audacity-set-start-end-schedule.jpg)
 
 **Step 2:** There is a **Checkbox** to **Save** the work immediately. By **Ticking** the option, you may choose the path or **Folder** where the file will be saved when the recording is finished.
 
@@ -1496,7 +1496,7 @@ For both Windows and Mac, the procedures for recording audio from a microphone a
 
 **Step 5:** With the mouse over any recording area, click the **Delete** button to cut out any portion of it quickly. Click **Ctrl + A**, then **Delete** to erase whatever you've just saved. Alternatively, press the **X** button to delete the track completely.
 
-![remove unwanted clip in audacity  ](https://images.wondershare.com/filmora/article-images/remove-unwanted-audio-clip-audacity.jpg)
+![remove unwanted clip in audacity](https://images.wondershare.com/filmora/article-images/remove-unwanted-audio-clip-audacity.jpg)
 
 ## Part 2: How to Record Sounds Playing on Your Computer Using Audacity On Windows?
 
@@ -1506,15 +1506,15 @@ Unlike Mac, Windows makes it simple to capture audio from a movie or media file 
 
 **Step 1:** To use MME as your audio host, go to **Tracks** in the **Add New** tab in **Stereo Track** and create a new file.
 
-![record playing sound with audacity ](https://images.wondershare.com/filmora/article-images/record-playing-computer-sound-audacity.jpg)
+![record playing sound with audacity](https://images.wondershare.com/filmora/article-images/record-playing-computer-sound-audacity.jpg)
 
 **Step 2:** Change the **Audio Host** (to the left of **Recording Device**) to **MME**—this is the standard setting, so you might not have to change anything.
 
-![change audio host in audacity ](https://images.wondershare.com/filmora/article-images/change-audio-host-audacity.jpg)
+![change audio host in audacity](https://images.wondershare.com/filmora/article-images/change-audio-host-audacity.jpg)
 
 **Step 3:** Choose desired option from the **Recording Device** dropdown menu. Based on your configuration, this might be referred to as **Wave Out** or **Loopback**. When you're uncertain, try it out.
 
-![choose audio recording device in audacity ](https://images.wondershare.com/filmora/article-images/choose-recording-device-audacity.jpg)
+![choose audio recording device in audacity](https://images.wondershare.com/filmora/article-images/choose-recording-device-audacity.jpg)
 
 **Step 4:** To record your audio source, click **Record**, then play it back.
 
@@ -1524,7 +1524,7 @@ WASAPI provides higher-resolution digital recordings. If capturing audio from an
 
 **Step 1:** Convert the **Audio Host** from **MME** to **Windows WASAPI** after creating a fresh **Stereo Track**.
 
-![  audacity change host ](https://images.wondershare.com/filmora/article-images/audacity-use-windows-wasapi-host.jpg)
+![audacity change host](https://images.wondershare.com/filmora/article-images/audacity-use-windows-wasapi-host.jpg)
 
 **Step 2:** Switch the **Recording Device** to **Speaker (loopback).** To display the entire label, you might have to slide the toolbar's knobs outwards. Begin recording by pressing the **red dot** and then listen to the audio source. **Audacity** will capture the audio even if your PC is muted.
 
@@ -1544,15 +1544,15 @@ If you have installed Filmora already, you can use it to record the sound playin
 
 **Step 1:** Luanch Filmora, and then click the Record button and select **Record PC Screen**.
 
-![ filmora mac record pc  screen ](https://images.wondershare.com/filmora/article-images/filmora-mac-record-pc-screen.jpg)
+![filmora mac record pc  screen](https://images.wondershare.com/filmora/article-images/filmora-mac-record-pc-screen.jpg)
 
 **Step 2:** Set up the recording settings based on the need. Since we’re going to record the playing audio from the Mac computer, select Microphone and System Audio On and click the Red button to start.
 
-![ filmora mac record pc  screen ](https://images.wondershare.com/filmora/article-images/set-up-filmora-mac-screen-record.jpg)
+![filmora mac record pc  screen](https://images.wondershare.com/filmora/article-images/set-up-filmora-mac-screen-record.jpg)
 
 **Step 3:** Now you have a screen captured video with sound included. Since we need th audio only, we can attache the [audio from the video](https://tools.techidaily.com/wondershare/filmora/download/) first and then do some editing such as adding fade in and fade out effect, or remove unwanted audio clip.
 
-![ filmora   detach audio ](https://images.wondershare.com/filmora/article-images/detach-audio-from-video-to-get-computer-audio.jpg)
+![filmora   detach audio](https://images.wondershare.com/filmora/article-images/detach-audio-from-video-to-get-computer-audio.jpg)
 
 ## Part 4: How to Set up Audacity to Record as Schedule?
 
@@ -1560,7 +1560,7 @@ A streaming video recorder or cassette can be used to arrange a recording. All o
 
 **Step 1:** By definition, the recording's **Start Date and Time** are set to the present time. It will begin recording on the present day and hour by default when you don't alter it. There is no default setting for the **End Date and Time**. You must either choose a date and time to determine the end time.
 
-![audacity schedule recording ](https://images.wondershare.com/filmora/article-images/audacity-set-start-end-schedule.jpg)
+![audacity schedule recording](https://images.wondershare.com/filmora/article-images/audacity-set-start-end-schedule.jpg)
 
 **Step 2:** There is a **Checkbox** to **Save** the work immediately. By **Ticking** the option, you may choose the path or **Folder** where the file will be saved when the recording is finished.
 

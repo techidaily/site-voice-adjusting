@@ -1,7 +1,7 @@
 ---
 title: New Learn How to Record Your Calls with Google Voice for 2024
-date: 2024-05-05T05:53:20.973Z
-updated: 2024-05-06T05:53:20.973Z
+date: 2024-07-05T19:44:12.422Z
+updated: 2024-07-06T19:44:12.422Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Learn How to Record Your Calls with Google Voice for 2024
 excerpt: This Article Describes New Learn How to Record Your Calls with Google Voice for 2024
 keywords: how to make your voice deeper with filmora,but selecting a good voice changer can be tough for you. For this reason,recording google voice calls techniques for smartphones desktops,5 top audio tools to master recording your voice with ease,unveiling the new era of voice alteration tools tailored for google meet 2024 guide,how to record a call with google voice on phone desktop,the complete beginners guide to voice recording on your computer with audacity
-thumbnail: https://www.lifewire.com/thmb/WSLZcqxwmXkq850tQOgpRjODDjE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/football-referee-signaling-touchdown-in-stadium-599944339-5a84cb9e875db900367df025.jpg
+thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b85a4b94012ab008856dbcd1d.jpg
 ---
 
 ## Learn How to Record Your Calls with Google Voice
@@ -479,7 +479,7 @@ Lastly, export the file when you are satisfied with all the edits. For that, hit
 
 Are there some other tools to extract sound from video? Well, yes. We have mentioned earlier that the market is full of amazing sound extractors. The following section of this article will walk you through 4 popular sound extractors. We will share online as well as offline tools for both Windows and Mac. Should we start?
 
-### 1\. [VLC](https://www.videolan.org/vlc/)
+### 1\. VLC
 
 The first software to be discussed is VLC Media Player. The software is very popular because of the wide range of features and functionalities you get from it. VLC is a free and open-source media player. The software has no spyware, no user tracking, and no ads. It is compatible with all platforms. You can run it on Windows, Mac, Linux, Unix, Mac OS X, iOS, Android, and others.
 
@@ -487,7 +487,7 @@ Moreover, the media player can play everything. For instance, files, DVDs, Audio
 
 ![vlc interface](https://images.wondershare.com/filmora/article-images/2022/extract-sound-from-video-5.jpg)
 
-### 2\. [Audacity](https://www.audacityteam.org/)
+### 2\. Audacity
 
 The next sound extractor for Windows and Mac that we are about to discuss is Audacity. This is again an open-source, free audio software. It has easy to use interface with a multi-track recorder as well as an editor. Are you a Linux user? Don't worry; the audio software works like magic on Linux, macOS, Windows, and other operating systems. With Audacity, importing, editing, and combining sound files is very easy.
 
@@ -495,7 +495,7 @@ The software helps you to record live audio or playback from your computers. Do 
 
 ![audacity editor](https://images.wondershare.com/filmora/article-images/2022/extract-sound-from-video-6.jpg)
 
-### 3\. [Audio Extractor](https://audio-extractor.net/)
+### 3\. Audio Extractor
 
 The last online sound extractor that we are about to share is Audio Extractor. The tool is very easy to use and understand. Audio Extractor has a self-explanatory interface. The tools’ interface guides the users about the next step.
 
@@ -561,7 +561,7 @@ Lastly, export the file when you are satisfied with all the edits. For that, hit
 
 Are there some other tools to extract sound from video? Well, yes. We have mentioned earlier that the market is full of amazing sound extractors. The following section of this article will walk you through 4 popular sound extractors. We will share online as well as offline tools for both Windows and Mac. Should we start?
 
-### 1\. [VLC](https://www.videolan.org/vlc/)
+### 1\. VLC
 
 The first software to be discussed is VLC Media Player. The software is very popular because of the wide range of features and functionalities you get from it. VLC is a free and open-source media player. The software has no spyware, no user tracking, and no ads. It is compatible with all platforms. You can run it on Windows, Mac, Linux, Unix, Mac OS X, iOS, Android, and others.
 
@@ -569,7 +569,7 @@ Moreover, the media player can play everything. For instance, files, DVDs, Audio
 
 ![vlc interface](https://images.wondershare.com/filmora/article-images/2022/extract-sound-from-video-5.jpg)
 
-### 2\. [Audacity](https://www.audacityteam.org/)
+### 2\. Audacity
 
 The next sound extractor for Windows and Mac that we are about to discuss is Audacity. This is again an open-source, free audio software. It has easy to use interface with a multi-track recorder as well as an editor. Are you a Linux user? Don't worry; the audio software works like magic on Linux, macOS, Windows, and other operating systems. With Audacity, importing, editing, and combining sound files is very easy.
 
@@ -577,7 +577,7 @@ The software helps you to record live audio or playback from your computers. Do 
 
 ![audacity editor](https://images.wondershare.com/filmora/article-images/2022/extract-sound-from-video-6.jpg)
 
-### 3\. [Audio Extractor](https://audio-extractor.net/)
+### 3\. Audio Extractor
 
 The last online sound extractor that we are about to share is Audio Extractor. The tool is very easy to use and understand. Audio Extractor has a self-explanatory interface. The tools’ interface guides the users about the next step.
 
@@ -643,7 +643,7 @@ Lastly, export the file when you are satisfied with all the edits. For that, hit
 
 Are there some other tools to extract sound from video? Well, yes. We have mentioned earlier that the market is full of amazing sound extractors. The following section of this article will walk you through 4 popular sound extractors. We will share online as well as offline tools for both Windows and Mac. Should we start?
 
-### 1\. [VLC](https://www.videolan.org/vlc/)
+### 1\. VLC
 
 The first software to be discussed is VLC Media Player. The software is very popular because of the wide range of features and functionalities you get from it. VLC is a free and open-source media player. The software has no spyware, no user tracking, and no ads. It is compatible with all platforms. You can run it on Windows, Mac, Linux, Unix, Mac OS X, iOS, Android, and others.
 
@@ -651,7 +651,7 @@ Moreover, the media player can play everything. For instance, files, DVDs, Audio
 
 ![vlc interface](https://images.wondershare.com/filmora/article-images/2022/extract-sound-from-video-5.jpg)
 
-### 2\. [Audacity](https://www.audacityteam.org/)
+### 2\. Audacity
 
 The next sound extractor for Windows and Mac that we are about to discuss is Audacity. This is again an open-source, free audio software. It has easy to use interface with a multi-track recorder as well as an editor. Are you a Linux user? Don't worry; the audio software works like magic on Linux, macOS, Windows, and other operating systems. With Audacity, importing, editing, and combining sound files is very easy.
 
@@ -659,7 +659,7 @@ The software helps you to record live audio or playback from your computers. Do 
 
 ![audacity editor](https://images.wondershare.com/filmora/article-images/2022/extract-sound-from-video-6.jpg)
 
-### 3\. [Audio Extractor](https://audio-extractor.net/)
+### 3\. Audio Extractor
 
 The last online sound extractor that we are about to share is Audio Extractor. The tool is very easy to use and understand. Audio Extractor has a self-explanatory interface. The tools’ interface guides the users about the next step.
 
@@ -725,7 +725,7 @@ Lastly, export the file when you are satisfied with all the edits. For that, hit
 
 Are there some other tools to extract sound from video? Well, yes. We have mentioned earlier that the market is full of amazing sound extractors. The following section of this article will walk you through 4 popular sound extractors. We will share online as well as offline tools for both Windows and Mac. Should we start?
 
-### 1\. [VLC](https://www.videolan.org/vlc/)
+### 1\. VLC
 
 The first software to be discussed is VLC Media Player. The software is very popular because of the wide range of features and functionalities you get from it. VLC is a free and open-source media player. The software has no spyware, no user tracking, and no ads. It is compatible with all platforms. You can run it on Windows, Mac, Linux, Unix, Mac OS X, iOS, Android, and others.
 
@@ -733,7 +733,7 @@ Moreover, the media player can play everything. For instance, files, DVDs, Audio
 
 ![vlc interface](https://images.wondershare.com/filmora/article-images/2022/extract-sound-from-video-5.jpg)
 
-### 2\. [Audacity](https://www.audacityteam.org/)
+### 2\. Audacity
 
 The next sound extractor for Windows and Mac that we are about to discuss is Audacity. This is again an open-source, free audio software. It has easy to use interface with a multi-track recorder as well as an editor. Are you a Linux user? Don't worry; the audio software works like magic on Linux, macOS, Windows, and other operating systems. With Audacity, importing, editing, and combining sound files is very easy.
 
@@ -741,7 +741,7 @@ The software helps you to record live audio or playback from your computers. Do 
 
 ![audacity editor](https://images.wondershare.com/filmora/article-images/2022/extract-sound-from-video-6.jpg)
 
-### 3\. [Audio Extractor](https://audio-extractor.net/)
+### 3\. Audio Extractor
 
 The last online sound extractor that we are about to share is Audio Extractor. The tool is very easy to use and understand. Audio Extractor has a self-explanatory interface. The tools’ interface guides the users about the next step.
 
@@ -807,7 +807,7 @@ For both Windows and Mac, the procedures for recording audio from a microphone a
 
 **Step 5:** With the mouse over any recording area, click the **Delete** button to cut out any portion of it quickly. Click **Ctrl + A**, then **Delete** to erase whatever you've just saved. Alternatively, press the **X** button to delete the track completely.
 
-![remove unwanted clip in audacity  ](https://images.wondershare.com/filmora/article-images/remove-unwanted-audio-clip-audacity.jpg)
+![remove unwanted clip in audacity](https://images.wondershare.com/filmora/article-images/remove-unwanted-audio-clip-audacity.jpg)
 
 ## Part 2: How to Record Sounds Playing on Your Computer Using Audacity On Windows?
 
@@ -817,15 +817,15 @@ Unlike Mac, Windows makes it simple to capture audio from a movie or media file 
 
 **Step 1:** To use MME as your audio host, go to **Tracks** in the **Add New** tab in **Stereo Track** and create a new file.
 
-![record playing sound with audacity ](https://images.wondershare.com/filmora/article-images/record-playing-computer-sound-audacity.jpg)
+![record playing sound with audacity](https://images.wondershare.com/filmora/article-images/record-playing-computer-sound-audacity.jpg)
 
 **Step 2:** Change the **Audio Host** (to the left of **Recording Device**) to **MME**—this is the standard setting, so you might not have to change anything.
 
-![change audio host in audacity ](https://images.wondershare.com/filmora/article-images/change-audio-host-audacity.jpg)
+![change audio host in audacity](https://images.wondershare.com/filmora/article-images/change-audio-host-audacity.jpg)
 
 **Step 3:** Choose desired option from the **Recording Device** dropdown menu. Based on your configuration, this might be referred to as **Wave Out** or **Loopback**. When you're uncertain, try it out.
 
-![choose audio recording device in audacity ](https://images.wondershare.com/filmora/article-images/choose-recording-device-audacity.jpg)
+![choose audio recording device in audacity](https://images.wondershare.com/filmora/article-images/choose-recording-device-audacity.jpg)
 
 **Step 4:** To record your audio source, click **Record**, then play it back.
 
@@ -835,7 +835,7 @@ WASAPI provides higher-resolution digital recordings. If capturing audio from an
 
 **Step 1:** Convert the **Audio Host** from **MME** to **Windows WASAPI** after creating a fresh **Stereo Track**.
 
-![  audacity change host ](https://images.wondershare.com/filmora/article-images/audacity-use-windows-wasapi-host.jpg)
+![audacity change host](https://images.wondershare.com/filmora/article-images/audacity-use-windows-wasapi-host.jpg)
 
 **Step 2:** Switch the **Recording Device** to **Speaker (loopback).** To display the entire label, you might have to slide the toolbar's knobs outwards. Begin recording by pressing the **red dot** and then listen to the audio source. **Audacity** will capture the audio even if your PC is muted.
 
@@ -855,15 +855,15 @@ If you have installed Filmora already, you can use it to record the sound playin
 
 **Step 1:** Luanch Filmora, and then click the Record button and select **Record PC Screen**.
 
-![ filmora mac record pc  screen ](https://images.wondershare.com/filmora/article-images/filmora-mac-record-pc-screen.jpg)
+![filmora mac record pc  screen](https://images.wondershare.com/filmora/article-images/filmora-mac-record-pc-screen.jpg)
 
 **Step 2:** Set up the recording settings based on the need. Since we’re going to record the playing audio from the Mac computer, select Microphone and System Audio On and click the Red button to start.
 
-![ filmora mac record pc  screen ](https://images.wondershare.com/filmora/article-images/set-up-filmora-mac-screen-record.jpg)
+![filmora mac record pc  screen](https://images.wondershare.com/filmora/article-images/set-up-filmora-mac-screen-record.jpg)
 
 **Step 3:** Now you have a screen captured video with sound included. Since we need th audio only, we can attache the [audio from the video](https://tools.techidaily.com/wondershare/filmora/download/) first and then do some editing such as adding fade in and fade out effect, or remove unwanted audio clip.
 
-![ filmora   detach audio ](https://images.wondershare.com/filmora/article-images/detach-audio-from-video-to-get-computer-audio.jpg)
+![filmora   detach audio](https://images.wondershare.com/filmora/article-images/detach-audio-from-video-to-get-computer-audio.jpg)
 
 ## Part 4: How to Set up Audacity to Record as Schedule?
 
@@ -871,7 +871,7 @@ A streaming video recorder or cassette can be used to arrange a recording. All o
 
 **Step 1:** By definition, the recording's **Start Date and Time** are set to the present time. It will begin recording on the present day and hour by default when you don't alter it. There is no default setting for the **End Date and Time**. You must either choose a date and time to determine the end time.
 
-![audacity schedule recording ](https://images.wondershare.com/filmora/article-images/audacity-set-start-end-schedule.jpg)
+![audacity schedule recording](https://images.wondershare.com/filmora/article-images/audacity-set-start-end-schedule.jpg)
 
 **Step 2:** There is a **Checkbox** to **Save** the work immediately. By **Ticking** the option, you may choose the path or **Folder** where the file will be saved when the recording is finished.
 
@@ -911,7 +911,7 @@ For both Windows and Mac, the procedures for recording audio from a microphone a
 
 **Step 5:** With the mouse over any recording area, click the **Delete** button to cut out any portion of it quickly. Click **Ctrl + A**, then **Delete** to erase whatever you've just saved. Alternatively, press the **X** button to delete the track completely.
 
-![remove unwanted clip in audacity  ](https://images.wondershare.com/filmora/article-images/remove-unwanted-audio-clip-audacity.jpg)
+![remove unwanted clip in audacity](https://images.wondershare.com/filmora/article-images/remove-unwanted-audio-clip-audacity.jpg)
 
 ## Part 2: How to Record Sounds Playing on Your Computer Using Audacity On Windows?
 
@@ -921,15 +921,15 @@ Unlike Mac, Windows makes it simple to capture audio from a movie or media file 
 
 **Step 1:** To use MME as your audio host, go to **Tracks** in the **Add New** tab in **Stereo Track** and create a new file.
 
-![record playing sound with audacity ](https://images.wondershare.com/filmora/article-images/record-playing-computer-sound-audacity.jpg)
+![record playing sound with audacity](https://images.wondershare.com/filmora/article-images/record-playing-computer-sound-audacity.jpg)
 
 **Step 2:** Change the **Audio Host** (to the left of **Recording Device**) to **MME**—this is the standard setting, so you might not have to change anything.
 
-![change audio host in audacity ](https://images.wondershare.com/filmora/article-images/change-audio-host-audacity.jpg)
+![change audio host in audacity](https://images.wondershare.com/filmora/article-images/change-audio-host-audacity.jpg)
 
 **Step 3:** Choose desired option from the **Recording Device** dropdown menu. Based on your configuration, this might be referred to as **Wave Out** or **Loopback**. When you're uncertain, try it out.
 
-![choose audio recording device in audacity ](https://images.wondershare.com/filmora/article-images/choose-recording-device-audacity.jpg)
+![choose audio recording device in audacity](https://images.wondershare.com/filmora/article-images/choose-recording-device-audacity.jpg)
 
 **Step 4:** To record your audio source, click **Record**, then play it back.
 
@@ -939,7 +939,7 @@ WASAPI provides higher-resolution digital recordings. If capturing audio from an
 
 **Step 1:** Convert the **Audio Host** from **MME** to **Windows WASAPI** after creating a fresh **Stereo Track**.
 
-![  audacity change host ](https://images.wondershare.com/filmora/article-images/audacity-use-windows-wasapi-host.jpg)
+![audacity change host](https://images.wondershare.com/filmora/article-images/audacity-use-windows-wasapi-host.jpg)
 
 **Step 2:** Switch the **Recording Device** to **Speaker (loopback).** To display the entire label, you might have to slide the toolbar's knobs outwards. Begin recording by pressing the **red dot** and then listen to the audio source. **Audacity** will capture the audio even if your PC is muted.
 
@@ -959,15 +959,15 @@ If you have installed Filmora already, you can use it to record the sound playin
 
 **Step 1:** Luanch Filmora, and then click the Record button and select **Record PC Screen**.
 
-![ filmora mac record pc  screen ](https://images.wondershare.com/filmora/article-images/filmora-mac-record-pc-screen.jpg)
+![filmora mac record pc  screen](https://images.wondershare.com/filmora/article-images/filmora-mac-record-pc-screen.jpg)
 
 **Step 2:** Set up the recording settings based on the need. Since we’re going to record the playing audio from the Mac computer, select Microphone and System Audio On and click the Red button to start.
 
-![ filmora mac record pc  screen ](https://images.wondershare.com/filmora/article-images/set-up-filmora-mac-screen-record.jpg)
+![filmora mac record pc  screen](https://images.wondershare.com/filmora/article-images/set-up-filmora-mac-screen-record.jpg)
 
 **Step 3:** Now you have a screen captured video with sound included. Since we need th audio only, we can attache the [audio from the video](https://tools.techidaily.com/wondershare/filmora/download/) first and then do some editing such as adding fade in and fade out effect, or remove unwanted audio clip.
 
-![ filmora   detach audio ](https://images.wondershare.com/filmora/article-images/detach-audio-from-video-to-get-computer-audio.jpg)
+![filmora   detach audio](https://images.wondershare.com/filmora/article-images/detach-audio-from-video-to-get-computer-audio.jpg)
 
 ## Part 4: How to Set up Audacity to Record as Schedule?
 
@@ -975,7 +975,7 @@ A streaming video recorder or cassette can be used to arrange a recording. All o
 
 **Step 1:** By definition, the recording's **Start Date and Time** are set to the present time. It will begin recording on the present day and hour by default when you don't alter it. There is no default setting for the **End Date and Time**. You must either choose a date and time to determine the end time.
 
-![audacity schedule recording ](https://images.wondershare.com/filmora/article-images/audacity-set-start-end-schedule.jpg)
+![audacity schedule recording](https://images.wondershare.com/filmora/article-images/audacity-set-start-end-schedule.jpg)
 
 **Step 2:** There is a **Checkbox** to **Save** the work immediately. By **Ticking** the option, you may choose the path or **Folder** where the file will be saved when the recording is finished.
 
@@ -1015,7 +1015,7 @@ For both Windows and Mac, the procedures for recording audio from a microphone a
 
 **Step 5:** With the mouse over any recording area, click the **Delete** button to cut out any portion of it quickly. Click **Ctrl + A**, then **Delete** to erase whatever you've just saved. Alternatively, press the **X** button to delete the track completely.
 
-![remove unwanted clip in audacity  ](https://images.wondershare.com/filmora/article-images/remove-unwanted-audio-clip-audacity.jpg)
+![remove unwanted clip in audacity](https://images.wondershare.com/filmora/article-images/remove-unwanted-audio-clip-audacity.jpg)
 
 ## Part 2: How to Record Sounds Playing on Your Computer Using Audacity On Windows?
 
@@ -1025,15 +1025,15 @@ Unlike Mac, Windows makes it simple to capture audio from a movie or media file 
 
 **Step 1:** To use MME as your audio host, go to **Tracks** in the **Add New** tab in **Stereo Track** and create a new file.
 
-![record playing sound with audacity ](https://images.wondershare.com/filmora/article-images/record-playing-computer-sound-audacity.jpg)
+![record playing sound with audacity](https://images.wondershare.com/filmora/article-images/record-playing-computer-sound-audacity.jpg)
 
 **Step 2:** Change the **Audio Host** (to the left of **Recording Device**) to **MME**—this is the standard setting, so you might not have to change anything.
 
-![change audio host in audacity ](https://images.wondershare.com/filmora/article-images/change-audio-host-audacity.jpg)
+![change audio host in audacity](https://images.wondershare.com/filmora/article-images/change-audio-host-audacity.jpg)
 
 **Step 3:** Choose desired option from the **Recording Device** dropdown menu. Based on your configuration, this might be referred to as **Wave Out** or **Loopback**. When you're uncertain, try it out.
 
-![choose audio recording device in audacity ](https://images.wondershare.com/filmora/article-images/choose-recording-device-audacity.jpg)
+![choose audio recording device in audacity](https://images.wondershare.com/filmora/article-images/choose-recording-device-audacity.jpg)
 
 **Step 4:** To record your audio source, click **Record**, then play it back.
 
@@ -1043,7 +1043,7 @@ WASAPI provides higher-resolution digital recordings. If capturing audio from an
 
 **Step 1:** Convert the **Audio Host** from **MME** to **Windows WASAPI** after creating a fresh **Stereo Track**.
 
-![  audacity change host ](https://images.wondershare.com/filmora/article-images/audacity-use-windows-wasapi-host.jpg)
+![audacity change host](https://images.wondershare.com/filmora/article-images/audacity-use-windows-wasapi-host.jpg)
 
 **Step 2:** Switch the **Recording Device** to **Speaker (loopback).** To display the entire label, you might have to slide the toolbar's knobs outwards. Begin recording by pressing the **red dot** and then listen to the audio source. **Audacity** will capture the audio even if your PC is muted.
 
@@ -1063,15 +1063,15 @@ If you have installed Filmora already, you can use it to record the sound playin
 
 **Step 1:** Luanch Filmora, and then click the Record button and select **Record PC Screen**.
 
-![ filmora mac record pc  screen ](https://images.wondershare.com/filmora/article-images/filmora-mac-record-pc-screen.jpg)
+![filmora mac record pc  screen](https://images.wondershare.com/filmora/article-images/filmora-mac-record-pc-screen.jpg)
 
 **Step 2:** Set up the recording settings based on the need. Since we’re going to record the playing audio from the Mac computer, select Microphone and System Audio On and click the Red button to start.
 
-![ filmora mac record pc  screen ](https://images.wondershare.com/filmora/article-images/set-up-filmora-mac-screen-record.jpg)
+![filmora mac record pc  screen](https://images.wondershare.com/filmora/article-images/set-up-filmora-mac-screen-record.jpg)
 
 **Step 3:** Now you have a screen captured video with sound included. Since we need th audio only, we can attache the [audio from the video](https://tools.techidaily.com/wondershare/filmora/download/) first and then do some editing such as adding fade in and fade out effect, or remove unwanted audio clip.
 
-![ filmora   detach audio ](https://images.wondershare.com/filmora/article-images/detach-audio-from-video-to-get-computer-audio.jpg)
+![filmora   detach audio](https://images.wondershare.com/filmora/article-images/detach-audio-from-video-to-get-computer-audio.jpg)
 
 ## Part 4: How to Set up Audacity to Record as Schedule?
 
@@ -1079,7 +1079,7 @@ A streaming video recorder or cassette can be used to arrange a recording. All o
 
 **Step 1:** By definition, the recording's **Start Date and Time** are set to the present time. It will begin recording on the present day and hour by default when you don't alter it. There is no default setting for the **End Date and Time**. You must either choose a date and time to determine the end time.
 
-![audacity schedule recording ](https://images.wondershare.com/filmora/article-images/audacity-set-start-end-schedule.jpg)
+![audacity schedule recording](https://images.wondershare.com/filmora/article-images/audacity-set-start-end-schedule.jpg)
 
 **Step 2:** There is a **Checkbox** to **Save** the work immediately. By **Ticking** the option, you may choose the path or **Folder** where the file will be saved when the recording is finished.
 
@@ -1119,7 +1119,7 @@ For both Windows and Mac, the procedures for recording audio from a microphone a
 
 **Step 5:** With the mouse over any recording area, click the **Delete** button to cut out any portion of it quickly. Click **Ctrl + A**, then **Delete** to erase whatever you've just saved. Alternatively, press the **X** button to delete the track completely.
 
-![remove unwanted clip in audacity  ](https://images.wondershare.com/filmora/article-images/remove-unwanted-audio-clip-audacity.jpg)
+![remove unwanted clip in audacity](https://images.wondershare.com/filmora/article-images/remove-unwanted-audio-clip-audacity.jpg)
 
 ## Part 2: How to Record Sounds Playing on Your Computer Using Audacity On Windows?
 
@@ -1129,15 +1129,15 @@ Unlike Mac, Windows makes it simple to capture audio from a movie or media file 
 
 **Step 1:** To use MME as your audio host, go to **Tracks** in the **Add New** tab in **Stereo Track** and create a new file.
 
-![record playing sound with audacity ](https://images.wondershare.com/filmora/article-images/record-playing-computer-sound-audacity.jpg)
+![record playing sound with audacity](https://images.wondershare.com/filmora/article-images/record-playing-computer-sound-audacity.jpg)
 
 **Step 2:** Change the **Audio Host** (to the left of **Recording Device**) to **MME**—this is the standard setting, so you might not have to change anything.
 
-![change audio host in audacity ](https://images.wondershare.com/filmora/article-images/change-audio-host-audacity.jpg)
+![change audio host in audacity](https://images.wondershare.com/filmora/article-images/change-audio-host-audacity.jpg)
 
 **Step 3:** Choose desired option from the **Recording Device** dropdown menu. Based on your configuration, this might be referred to as **Wave Out** or **Loopback**. When you're uncertain, try it out.
 
-![choose audio recording device in audacity ](https://images.wondershare.com/filmora/article-images/choose-recording-device-audacity.jpg)
+![choose audio recording device in audacity](https://images.wondershare.com/filmora/article-images/choose-recording-device-audacity.jpg)
 
 **Step 4:** To record your audio source, click **Record**, then play it back.
 
@@ -1147,7 +1147,7 @@ WASAPI provides higher-resolution digital recordings. If capturing audio from an
 
 **Step 1:** Convert the **Audio Host** from **MME** to **Windows WASAPI** after creating a fresh **Stereo Track**.
 
-![  audacity change host ](https://images.wondershare.com/filmora/article-images/audacity-use-windows-wasapi-host.jpg)
+![audacity change host](https://images.wondershare.com/filmora/article-images/audacity-use-windows-wasapi-host.jpg)
 
 **Step 2:** Switch the **Recording Device** to **Speaker (loopback).** To display the entire label, you might have to slide the toolbar's knobs outwards. Begin recording by pressing the **red dot** and then listen to the audio source. **Audacity** will capture the audio even if your PC is muted.
 
@@ -1167,15 +1167,15 @@ If you have installed Filmora already, you can use it to record the sound playin
 
 **Step 1:** Luanch Filmora, and then click the Record button and select **Record PC Screen**.
 
-![ filmora mac record pc  screen ](https://images.wondershare.com/filmora/article-images/filmora-mac-record-pc-screen.jpg)
+![filmora mac record pc  screen](https://images.wondershare.com/filmora/article-images/filmora-mac-record-pc-screen.jpg)
 
 **Step 2:** Set up the recording settings based on the need. Since we’re going to record the playing audio from the Mac computer, select Microphone and System Audio On and click the Red button to start.
 
-![ filmora mac record pc  screen ](https://images.wondershare.com/filmora/article-images/set-up-filmora-mac-screen-record.jpg)
+![filmora mac record pc  screen](https://images.wondershare.com/filmora/article-images/set-up-filmora-mac-screen-record.jpg)
 
 **Step 3:** Now you have a screen captured video with sound included. Since we need th audio only, we can attache the [audio from the video](https://tools.techidaily.com/wondershare/filmora/download/) first and then do some editing such as adding fade in and fade out effect, or remove unwanted audio clip.
 
-![ filmora   detach audio ](https://images.wondershare.com/filmora/article-images/detach-audio-from-video-to-get-computer-audio.jpg)
+![filmora   detach audio](https://images.wondershare.com/filmora/article-images/detach-audio-from-video-to-get-computer-audio.jpg)
 
 ## Part 4: How to Set up Audacity to Record as Schedule?
 
@@ -1183,7 +1183,7 @@ A streaming video recorder or cassette can be used to arrange a recording. All o
 
 **Step 1:** By definition, the recording's **Start Date and Time** are set to the present time. It will begin recording on the present day and hour by default when you don't alter it. There is no default setting for the **End Date and Time**. You must either choose a date and time to determine the end time.
 
-![audacity schedule recording ](https://images.wondershare.com/filmora/article-images/audacity-set-start-end-schedule.jpg)
+![audacity schedule recording](https://images.wondershare.com/filmora/article-images/audacity-set-start-end-schedule.jpg)
 
 **Step 2:** There is a **Checkbox** to **Save** the work immediately. By **Ticking** the option, you may choose the path or **Folder** where the file will be saved when the recording is finished.
 

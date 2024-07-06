@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Modifying Sound Intensity in Video and Music Files
-date: 2024-05-05T05:58:13.908Z
-updated: 2024-05-06T05:58:13.908Z
+date: 2024-07-05T19:44:17.832Z
+updated: 2024-07-06T19:44:17.832Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Modifying Sound Intensity in Video and Music Files
 excerpt: This Article Describes New In 2024, Modifying Sound Intensity in Video and Music Files
 keywords: techniques for silencing background music in videos,dynamic sound design modifying audio velocity frequency in adobe rush,advanced methods for silencing background music in videos,best digital methods for silencing unwanted sound in recorded music,the musicians manual to individualizing sound files,the ultimate guide to modifying sound intensity in audacity,modifying sound intensity in video and music files
-thumbnail: https://www.lifewire.com/thmb/bUgwWBmVwo2R1WJT-qkM52ppdCc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ipad-pro-pencil-56a533763df78cf77286e0e0.png
+thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99199e876bd020898984fe0d1.png
 ---
 
 ## Modifying Sound Intensity in Video and Music Files
