@@ -1,7 +1,7 @@
 ---
 title: In 2024, Stop Background Noises & Add Exclusive Audio Selections in Movie Maker for Windows
-date: 2024-06-09T19:01:02.499Z
-updated: 2024-06-10T19:01:02.499Z
+date: 2024-07-22T09:12:50.572Z
+updated: 2024-07-23T09:12:50.572Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 
 # How to Mute Audio in Windows Movie Maker?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -38,6 +41,9 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 
 **Step 1:** In order to start editing a video, you must first import it into Windows Movie Maker. Click on the **Add Videos and Photos** icon in the software's **Home tab** and proceed to select the clip you'd like to mute.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-interface.jpg)
 
  Click on the **Open** button in the Add Videos and Photos window and your clip will be imported into the software.
@@ -52,12 +58,18 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 
  Drag the slider all the way to the left to mute the audio. Click the **Play button** in the preview window to make sure that video's sound is muted.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Adding a New Audio Clip to a Video
 
  Windows Movie Maker also lets you replace the existing audio clip with a new one. Once again, this process is easy and it can be completed in a few steps.
 
 **Step 1:** After you've muted the audio, click on the **Add Music icon,** that is located next to the Add Photos and Videos icon in the Home tab.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![ Windows Movie Maker Audio Editing]( https://images.wondershare.com/filmora/article-images/add-music-windows-movie-maker.jpg)
 
  A drop-down menu will appear offering you to select music from an online source or to import an audio file from your computer. Moreover, you can select the starting point of the song you're importing so you don't have to adjust the position of the audio file in your project manually.
@@ -84,12 +96,18 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 
  If you want to add a new audio clip to your project and replace the old one, you should select the existing audio file and press the delete button on your keyboard. You can then drag and drop the new audio file to the timeline from the software's Media Bin, or the **Music tab**, in case you decide to use songs featured in Filmora's music library. You can cut, trim or adjust the start and end position of the audio file or use some of the audio effects the software offers. When done, click on the **Export** button and select the output format that is most suitable for the project you're working on.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 **Conclusion**
 
  Videos that have poor sound quality won't impress anyone, but you shouldn't worry because muting or replacing audio files is a task that requires almost no effort. Windows Movie Maker can be used to quickly mute an audio file, but if you want to have access to more professional audio editing tools using Wondershare Filmora is a much better option. What's your favorite method of replacing audio files in videos? Leave a comment and let us know.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -106,3 +124,56 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-navigating-backward-image-hunt-on-the-worlds-largest-social-site/"><u>[New] In 2024, Navigating Backward Image Hunt on the World's Largest Social Site</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-melody-meets-discovering-crossfade-magic/"><u>[New] The Melody Meets  Discovering Crossfade Magic</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-top-8-youtube-to-avi-convertors-explained/"><u>[New] Top 8 YouTube-to-AVI Convertors Explained</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-unlock-full-potential-of-your-zoom-sessions-with-obs/"><u>[Updated] 2024 Approved  Unlock Full Potential of Your Zoom Sessions With OBS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-is-m1-suitability-for-professional-editing-confirmed/"><u>[Updated] Is M1 Suitability for Professional Editing Confirmed?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-ultimate-guide-11-seo-strategies-for-youtube-video-ranking/"><u>[Updated] Ultimate Guide  11 SEO Strategies for YouTube Video Ranking</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hidden-methods-for-dodging-digital-study-vids/"><u>2024 Approved  Hidden Methods for Dodging Digital Study Vids</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-is-your-channels-income-regular-via-youtube/"><u>2024 Approved  Is Your Channel's Income Regular via YouTube?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfect-your-iphone-writings-and-movies-with-optimal-tools/"><u>2024 Approved  Perfect Your iPhone' Writings & Movies With Optimal Tools</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-how-to-record-voice-on-mac-easy-to-use-guide/"><u>2024 Approved How to Record Voice on Mac? Easy-to-Use Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-how-to-reduce-background-noise-using-imovie-an-overview/"><u>2024 Approved How to Reduce Background Noise Using iMovie An Overview</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-how-to-remove-audio-from-video-on-windows-10-free-and-no-download-ways/"><u>2024 Approved How to Remove Audio From Video on Windows 10? Free and No-Download Ways</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-removing-audio-from-video-online-5-ways/"><u>2024 Approved Removing Audio From Video Online 5 Ways</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/final-cut-pro-aspect-ratio-settings-a-beginners-guide-for-2024/"><u>Final Cut Pro Aspect Ratio Settings A Beginners Guide for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-lava-yuva-2-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Lava Yuva 2 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-iphone-se-2020-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On iPhone SE (2020) without Password?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-oppo-reno-9a-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Oppo Reno 9A For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-tecno-phantom-v-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/how-to-record-audio-on-powerpoint-guideline-for-windows-and-mac-for-2024/"><u>How to Record Audio on PowerPoint? Guideline for Windows and Mac for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/how-to-reduce-background-noise-using-imovie-an-overview-for-2024/"><u>How to Reduce Background Noise Using iMovie An Overview for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/how-to-remove-audio-from-a-video-in-imovie-for-2024/"><u>How to Remove Audio From a Video in iMovie for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/how-to-remove-background-noise-in-audio-wondershare-filmora-tutorial-for-2024/"><u>How To Remove Background Noise In Audio Wondershare Filmora Tutorial for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-your-drivers-in-windows-11-by-drivereasy-guide/"><u>How to use Device Manager to reinstall your drivers in Windows 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabled-apple-iphone-15-how-to-unlock-a-disabled-apple-iphone-15-drfone-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone 15 How to Unlock a Disabled Apple iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-how-to-record-audio-on-powerpoint-guideline-for-windows-and-mac/"><u>In 2024, How to Record Audio on PowerPoint? Guideline for Windows and Mac</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-how-to-record-voice-on-iphone-step-by-step-guide/"><u>In 2024, How to Record Voice on iPhone? Step by Step Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-how-to-remove-audio-from-avi/"><u>In 2024, How to Remove Audio From AVI</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-how-to-remove-audio-from-mkv/"><u>In 2024, How to Remove Audio From MKV</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-how-to-remove-audio-from-mov-files-on-windowsmac/"><u>In 2024, How to Remove Audio From MOV Files on Windows/Mac</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-how-to-remove-background-music-from-video/"><u>In 2024, How to Remove Background Music From Video?</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-how-to-remove-drums-from-songs-online/"><u>In 2024, How to Remove Drums From Songs Online</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-se-by-phone-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone SE by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-unlocking-the-power-of-videos-to-drive-fb-traffic/"><u>In 2024, Unlocking the Power of Videos to Drive FB Traffic</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-unveiling-the-top-6-tiktok-to-mp3-converters-free/"><u>In 2024, Unveiling the Top 6 TikTok-to-MP3 Converters - FREE</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/learn-to-record-sound-proficiently-apowersofts-tutorial-and-its-4-alternate-tools/"><u>Learn to Record Sound Proficiently Apowersofts Tutorial and Its 4 Alternate Tools</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-how-to-record-audio-on-powerpoint-guideline-for-windows-and-mac/"><u>New How to Record Audio on PowerPoint? Guideline for Windows and Mac</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-how-to-record-on-garageband-step-by-step-guide/"><u>New How to Record on GarageBand? Step by Step Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-how-to-record-voice-on-iphone-step-by-step-guide/"><u>New How to Record Voice on iPhone? Step by Step Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-how-to-record-voice-on-mac-easy-to-use-guide/"><u>New How to Record Voice on Mac? Easy-to-Use Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-how-to-reduce-audio-noise-with-the-right-tools-offlineonline/"><u>New How To Reduce Audio Noise With The Right Tools (Offline/Online)</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-how-to-remove-audio-from-a-video-in-imovie/"><u>New How to Remove Audio From a Video in iMovie?</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-how-to-remove-audio-from-mkv/"><u>New How to Remove Audio From MKV</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-how-to-remove-audio-from-mov-files-on-windowsmac/"><u>New How to Remove Audio From MOV Files on Windows/Mac</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/streamer-soundscape-the-top-5-headset-guidebook-for-2024/"><u>Streamer Soundscape  The Top 5 Headset Guidebook for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-ultimate-guide-to-remove-background-music-in-audacity-for-2024/"><u>The Ultimate Guide To Remove Background Music In Audacity for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-video-formats-which-is-more-effective-av1-or-vp9-for-2024/"><u>Understanding Video Formats  Which Is More Effective, AV1 or VP9 for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-how-to-record-audio-on-powerpoint-guideline-for-windows-and-mac/"><u>Updated How to Record Audio on PowerPoint? Guideline for Windows and Mac</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-how-to-record-voice-on-iphone-step-by-step-guide/"><u>Updated How to Record Voice on iPhone? Step by Step Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-how-to-remove-audio-from-avi/"><u>Updated How to Remove Audio From AVI</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-how-to-remove-audio-seamlessly-a-windows-10-users-handbook-for-sound-free-vids-free-of-charge/"><u>Updated How to Remove Audio Seamlessly A Windows 10 Users Handbook for Sound-Free Vids (Free of Charge)</u></a></li>
+</ul></div>
