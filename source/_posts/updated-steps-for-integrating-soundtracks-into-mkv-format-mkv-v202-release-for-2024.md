@@ -1,7 +1,7 @@
 ---
 title: Updated Steps for Integrating Soundtracks Into MKV Format (MKV v2.0.2 Release) for 2024
-date: 2024-08-10T02:45:35.909Z
-updated: 2024-08-11T02:45:35.909Z
+date: 2024-09-04T06:09:16.094Z
+updated: 2024-09-05T06:09:16.094Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d5
 
 # How to Add Audio to MKV
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -37,10 +34,6 @@ _How to add a .mka audio track to a .mkv video? Is there a simple step-by-step? 
 
  Download and install Wondershare Filmora first. Once run it, click the “Import” button to load both the video and audio files. You can also directly drag and drop the media files to the program.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![remove audio from mkv](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
 
 #### 2 Add audio to MKV
@@ -49,30 +42,18 @@ _How to add a .mka audio track to a .mkv video? Is there a simple step-by-step? 
 
  Besides adding an audio file, you can also use Wondershare Filmora (originally Wondershare Video Editor) to record and add your own voiceover. To do this, simply click the “Record” button on the toolbar and record the voiceover in the Record Audio window. Click the red button to get started and “OK” to save it and return to the main interface. The recorded voiceover will then appear in the audio track. Then adjust its position, volume, etc., just like any audio files.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove audio track from mkv](https://images.wondershare.com/images/multimedia/video-editor/audio-detach.jpg)
 
 #### 3 Export the new MKV file
 
  After adding audio, click “Play” to preview and listen to the new file. Then click “Create” to export your MKV file. Here are various choices for you: export the video to various video formats, convert the video to play on different mobile devices, upload the video to YouTube instantly or burn video to DVD disc. Select a desired output way and hit “Create” to start exporting the video file with the added audio.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![remove audio from mkv file](https://images.wondershare.com/images/multimedia/video-editor/video-editor-output.jpg)
 
  Learn more about Wondershare Filmora:
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -157,3 +138,9 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
