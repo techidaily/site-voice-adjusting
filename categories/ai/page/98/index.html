@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"voice-adjusting.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -632,71 +689,71 @@
                     <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='08-10'>
                 
                     
-                        <a href="/new-mastering-podcast-accessibility-10-exemplary-cost-free-ios-apps-for-2024/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">New Mastering Podcast Accessibility 10 Exemplary Cost-Free iOS Apps for 2024</span>
+                        <a href="/new-in-2024-visual-harmony-in-audio-a-step-by-step-guide-for-creative-composers-photo-sonics-updated-edition/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">New In 2024, Visual Harmony in Audio A Step-by-Step Guide for Creative Composers Photo Sonics, Updated Edition</span>
                         </a>
                     
               
                 
                     
-                        <a href="/new-in-2024-learn-to-embed-songs-in-your-videos-without-investment/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">New In 2024, Learn to Embed Songs in Your Videos Without Investment</span>
+                        <a href="/new-in-2024-refinement-of-music-files-on-mac-a-look-at-the-most-acclaimed-mp3-editors/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">New In 2024, Refinement of Music Files on Mac A Look at the Most Acclaimed MP3 Editors</span>
                         </a>
                     
               
                 
                     
-                        <a href="/new-explore-the-best-8-audio-editing-platforms-available-for-mac-and-pc-users-for-2024/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">New Explore the Best 8 Audio Editing Platforms Available for Mac &amp; PC Users for 2024</span>
+                        <a href="/new-omegle-uncovered-delving-into-internet-based-social-sessions-security-landscape-for-2024/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">New Omegle Uncovered Delving Into Internet-Based Social Sessions Security Landscape for 2024</span>
                         </a>
                     
               
                 
                     
-                        <a href="/new-exploring-the-leading-10-cost-effective-podcast-production-applications/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">New Exploring the Leading 10 Cost-Effective Podcast Production Applications</span>
+                        <a href="/new-in-2024-the-ultimate-guide-10-leading-audio-to-text-transcription-applications-freepaid/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">New In 2024, The Ultimate Guide 10 Leading Audio-to-Text Transcription Applications (Free/Paid)</span>
                         </a>
                     
               
                 
                     
-                        <a href="/new-deciphering-the-unheard-advanced-audio-separation-techniques-for-digital-videos-for-2024/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">New Deciphering the Unheard Advanced Audio Separation Techniques for Digital Videos for 2024</span>
+                        <a href="/new-in-2024-the-beat-makers-playbook-ranking-the-top-8-daw-applications-for-contemporary-urban-music/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">New In 2024, The Beat Makers Playbook Ranking the Top 8 DAW Applications for Contemporary Urban Music</span>
                         </a>
                     
               
                 
                     
-                        <a href="/new-achieving-sonic-clarity-overcoming-hiss-and-other-unwanted-noises-in-audio-tracks/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">New Achieving Sonic Clarity Overcoming Hiss and Other Unwanted Noises in Audio Tracks</span>
+                        <a href="/new-harmony-hunters-excellent-ios-and-android-apps-that-help-identify-tracks-effortlessly/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">New Harmony Hunters Excellent iOS and Android Apps That Help Identify Tracks Effortlessly</span>
                         </a>
                     
               
                 
                     
-                        <a href="/new-in-2024-disable-incoming-audio-cues-and-import-fresh-audiovisual-components-via-windows-moviemaker-software/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">New In 2024, Disable Incoming Audio Cues &amp; Import Fresh Audiovisual Components via Windows Moviemaker Software</span>
+                        <a href="/new-exploring-the-best-dawn-and-rise-of-browser-based-daws-top-10-selection/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">New Exploring the Best Dawn and Rise of Browser-Based DAWs Top 10 Selection</span>
                         </a>
                     
               
                 
                     
-                        <a href="/new-2024-approved-reentry-guide-regaining-access-on-omegle-after-a-ban/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">New 2024 Approved Reentry Guide Regaining Access on Omegle After a Ban</span>
+                        <a href="/new-discover-the-best-no-cost-internet-accessible-daw-platforms-for-todays-audio-engineers/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">New Discover the Best No-Cost, Internet-Accessible DAW Platforms for Todays Audio Engineers</span>
                         </a>
                     
               
                 
                     
-                        <a href="/new-efficient-cost-effective-steps-to-convert-voices-to-text-comprehensive-guide-for-2024/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">New Efficient, Cost-Effective Steps to Convert Voices to Text Comprehensive Guide for 2024</span>
+                        <a href="/new-perfecting-auditory-aesthetics-in-video-production/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">New Perfecting Auditory Aesthetics in Video Production</span>
                         </a>
                     
               
                 
                     
-                        <a href="/new-siri-voice-changer-how-to-change-siri-voice-for-2024/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">New Siri Voice Changer How to Change Siri Voice for 2024</span>
+                        <a href="/new-2024-approved-top-10-safe-chat-platforms-for-socializing-digitally/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">New 2024 Approved Top 10 Safe Chat Platforms for Socializing Digitally</span>
                         </a>
                     
               
