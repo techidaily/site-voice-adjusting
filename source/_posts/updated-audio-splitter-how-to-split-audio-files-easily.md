@@ -1,7 +1,7 @@
 ---
 title: Updated Audio Splitter How to Split Audio Files Easily
-date: 2024-09-04T06:09:22.229Z
-updated: 2024-09-05T06:09:22.229Z
+date: 2024-09-09T01:20:00.780Z
+updated: 2024-09-10T01:20:00.780Z
 tags: 
   - audio editing software
   - audio editing
@@ -14,6 +14,12 @@ keywords: best free online audio trimmers to trim audio easily,ai audio editing 
 thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6f572fe9945c7d91985d72b7.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Audio Splitter: How to Split Audio Files Easily
 
 You often come across audio files that we like and enjoy. An uncertain situation usually occurs when you love a small part of the audio, but the complete audio is not per your level. If you encounter any such situation, what will you do? Spend hours to find another audio? Or suffice with what you have got?
@@ -57,22 +63,16 @@ This could be done by moving to the ‘File’ tab from the top panel. A menu wi
 ![tap on import media files](https://images.wondershare.com/filmora/article-images/2022/split-audio-2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Step 3: Drag onto Timeline
 
@@ -81,324 +81,16 @@ You can locate the file from your respective device and import it to Filmora. On
 ![add audio to timeline](https://images.wondershare.com/filmora/article-images/2022/split-audio-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### Step 4: Split Audio
-
-Now comes the fun part. Once the audio file is on the timeline, you will see a play head. You need to drag the play head to the point where you want to split the audio. You will see a scissor option after dragging the play head; hit that to split audio into two parts.
-
-![click on split icon](https://images.wondershare.com/filmora/article-images/2022/split-audio-4.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### Step 5: Edit the Separated Audio
-
-You can delete the audio that you don't want by selecting it and pressing the 'Delete' button on the keyboard. In comparison, you can edit the other part of the audio. For this, double click on the audio in the timeline to open Audio Editing Window.
-
-![edit the separated audio](https://images.wondershare.com/filmora/article-images/2022/split-audio-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### Step 6: Exporting File
-
-Once you have edited the file and are satisfied, it is ready to be exported. For this, hit the ‘Export’ button, select the output format and save it on your device.
-
-![export audio file](https://images.wondershare.com/filmora/article-images/2022/split-audio-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### Split Audio after Detaching from Video
-
-As we have mentioned, sometimes you like a sound, but it is part of a video. Do you know a way to get that audio from a video? Well, yes, with Filmora, you can get your favorite audio even from videos and then split it.
-
-This could be done by using its ‘Detach Audio from Video’ feature. What this feature does is that it separates the audio from video and displays both the files separately on the timeline. You can delete the video file by selecting it and pressing 'Delete.' Whereas, by following the above-mentioned steps, you can then split the audio easily with the Filmora MP3 splitter.
-
-![detach audio from video](https://images.wondershare.com/filmora/article-images/2022/split-audio-7.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### Final Words
-
-To learn about splitting audio, nothing is better than this article. We have discussed in detail about MP3 splitter online. Also, we talked about Wondershare Filmora audio splitter, the best option for all Windows and Mac users.
-
-#### Wondershare Filmora
-
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-02 [How to Split Audio/MP3 File Online?](#part2)
-
-## Part 1\. How to Split Audio Files on Windows and Mac?
-
-Whenever you think about audio editing, [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is associated with that as the best software. The audio editor is perfect and compatible with both Windows and Mac. Wondershare Filmora never ceases to impress its users with its stunning features.
-
-The audio editor Filmora offers a wide range of features. You can add your favorite background music to your videos and change your ordinary video. Moreover, features like trimming, cutting, adjusting audio are also available.
-
-Wondershare Filmora also offers professional editing features such as its Audio Equalizer EQ, Audio Mixer, and also Audio Denoise feature. An exciting thing about Filmora audio editor is its Detach Audio feature. With this, you can Detach Audio from a video.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Another handy feature that you get from Filmora is Audio Splitter. With this, users can split audio files and extract the part that they like while deleting the other part. If you want to learn about splitting audio files on Windows and Mac with Filmora, then follow the steps below.
-
-### Step 1: Creating Project
-
-To split audio files, you firstly need to open Wondershare Filmora on your respective device. Then, you need to create a new project so that you can get started. The next step demands you to import the audio file to Filmora.
-
-![create a new filmora project](https://images.wondershare.com/filmora/article-images/2022/split-audio-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### Step 2: Importing Audio File
-
-This could be done by moving to the ‘File’ tab from the top panel. A menu will appear on the screen from which you should select 'Import Files.' Then a popup menu will show up, simply hit the ‘Import Media Files’ option.
-
-![tap on import media files](https://images.wondershare.com/filmora/article-images/2022/split-audio-2.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### Step 3: Drag onto Timeline
-
-You can locate the file from your respective device and import it to Filmora. Once the file has been imported successfully, you now have to drag and drop it onto the timeline to start splitting it.
-
-![add audio to timeline](https://images.wondershare.com/filmora/article-images/2022/split-audio-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### Step 4: Split Audio
-
-Now comes the fun part. Once the audio file is on the timeline, you will see a play head. You need to drag the play head to the point where you want to split the audio. You will see a scissor option after dragging the play head; hit that to split audio into two parts.
-
-![click on split icon](https://images.wondershare.com/filmora/article-images/2022/split-audio-4.jpg)
-
-### Step 5: Edit the Separated Audio
-
-You can delete the audio that you don't want by selecting it and pressing the 'Delete' button on the keyboard. In comparison, you can edit the other part of the audio. For this, double click on the audio in the timeline to open Audio Editing Window.
-
-![edit the separated audio](https://images.wondershare.com/filmora/article-images/2022/split-audio-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### Step 6: Exporting File
-
-Once you have edited the file and are satisfied, it is ready to be exported. For this, hit the ‘Export’ button, select the output format and save it on your device.
-
-![export audio file](https://images.wondershare.com/filmora/article-images/2022/split-audio-6.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1976998">
+<span id="1977023">
 					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### Split Audio after Detaching from Video
-
-As we have mentioned, sometimes you like a sound, but it is part of a video. Do you know a way to get that audio from a video? Well, yes, with Filmora, you can get your favorite audio even from videos and then split it.
-
-This could be done by using its ‘Detach Audio from Video’ feature. What this feature does is that it separates the audio from video and displays both the files separately on the timeline. You can delete the video file by selecting it and pressing 'Delete.' Whereas, by following the above-mentioned steps, you can then split the audio easily with the Filmora MP3 splitter.
-
-![detach audio from video](https://images.wondershare.com/filmora/article-images/2022/split-audio-7.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### Final Words
-
-To learn about splitting audio, nothing is better than this article. We have discussed in detail about MP3 splitter online. Also, we talked about Wondershare Filmora audio splitter, the best option for all Windows and Mac users.
-
-#### Wondershare Filmora
-
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
-
-02 [How to Split Audio/MP3 File Online?](#part2)
-
-## Part 1\. How to Split Audio Files on Windows and Mac?
-
-Whenever you think about audio editing, [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is associated with that as the best software. The audio editor is perfect and compatible with both Windows and Mac. Wondershare Filmora never ceases to impress its users with its stunning features.
-
-The audio editor Filmora offers a wide range of features. You can add your favorite background music to your videos and change your ordinary video. Moreover, features like trimming, cutting, adjusting audio are also available.
-
-Wondershare Filmora also offers professional editing features such as its Audio Equalizer EQ, Audio Mixer, and also Audio Denoise feature. An exciting thing about Filmora audio editor is its Detach Audio feature. With this, you can Detach Audio from a video.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Another handy feature that you get from Filmora is Audio Splitter. With this, users can split audio files and extract the part that they like while deleting the other part. If you want to learn about splitting audio files on Windows and Mac with Filmora, then follow the steps below.
-
-### Step 1: Creating Project
-
-To split audio files, you firstly need to open Wondershare Filmora on your respective device. Then, you need to create a new project so that you can get started. The next step demands you to import the audio file to Filmora.
-
-![create a new filmora project](https://images.wondershare.com/filmora/article-images/2022/split-audio-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### Step 2: Importing Audio File
-
-This could be done by moving to the ‘File’ tab from the top panel. A menu will appear on the screen from which you should select 'Import Files.' Then a popup menu will show up, simply hit the ‘Import Media Files’ option.
-
-![tap on import media files](https://images.wondershare.com/filmora/article-images/2022/split-audio-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### Step 3: Drag onto Timeline
-
-You can locate the file from your respective device and import it to Filmora. Once the file has been imported successfully, you now have to drag and drop it onto the timeline to start splitting it.
-
-![add audio to timeline](https://images.wondershare.com/filmora/article-images/2022/split-audio-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Step 4: Split Audio
 
@@ -406,6 +98,12 @@ Now comes the fun part. Once the audio file is on the timeline, you will see a p
 
 ![click on split icon](https://images.wondershare.com/filmora/article-images/2022/split-audio-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 5: Edit the Separated Audio
 
 You can delete the audio that you don't want by selecting it and pressing the 'Delete' button on the keyboard. In comparison, you can edit the other part of the audio. For this, double click on the audio in the timeline to open Audio Editing Window.
@@ -413,10 +111,16 @@ You can delete the audio that you don't want by selecting it and pressing the 'D
 ![edit the separated audio](https://images.wondershare.com/filmora/article-images/2022/split-audio-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Step 6: Exporting File
 
@@ -424,6 +128,18 @@ Once you have edited the file and are satisfied, it is ready to be exported. For
 
 ![export audio file](https://images.wondershare.com/filmora/article-images/2022/split-audio-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Split Audio after Detaching from Video
 
 As we have mentioned, sometimes you like a sound, but it is part of a video. Do you know a way to get that audio from a video? Well, yes, with Filmora, you can get your favorite audio even from videos and then split it.
@@ -446,6 +162,12 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 02 [How to Split Audio/MP3 File Online?](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. How to Split Audio Files on Windows and Mac?
 
 Whenever you think about audio editing, [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is associated with that as the best software. The audio editor is perfect and compatible with both Windows and Mac. Wondershare Filmora never ceases to impress its users with its stunning features.
@@ -464,18 +186,18 @@ For macOS 10.12 or later
 
 Another handy feature that you get from Filmora is Audio Splitter. With this, users can split audio files and extract the part that they like while deleting the other part. If you want to learn about splitting audio files on Windows and Mac with Filmora, then follow the steps below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1: Creating Project
 
 To split audio files, you firstly need to open Wondershare Filmora on your respective device. Then, you need to create a new project so that you can get started. The next step demands you to import the audio file to Filmora.
 
 ![create a new filmora project](https://images.wondershare.com/filmora/article-images/2022/split-audio-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 2: Importing Audio File
 
 This could be done by moving to the ‘File’ tab from the top panel. A menu will appear on the screen from which you should select 'Import Files.' Then a popup menu will show up, simply hit the ‘Import Media Files’ option.
@@ -488,12 +210,6 @@ You can locate the file from your respective device and import it to Filmora. On
 
 ![add audio to timeline](https://images.wondershare.com/filmora/article-images/2022/split-audio-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 <!-- affiliate ads begin -->
 <span id="1630055">
 					<video width="192" height="320" style="cursor:pointer"
@@ -513,16 +229,10 @@ Now comes the fun part. Once the audio file is on the timeline, you will see a p
 ![click on split icon](https://images.wondershare.com/filmora/article-images/2022/split-audio-4.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Step 5: Edit the Separated Audio
 
@@ -530,24 +240,18 @@ You can delete the audio that you don't want by selecting it and pressing the 'D
 
 ![edit the separated audio](https://images.wondershare.com/filmora/article-images/2022/split-audio-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 6: Exporting File
 
 Once you have edited the file and are satisfied, it is ready to be exported. For this, hit the ‘Export’ button, select the output format and save it on your device.
 
 ![export audio file](https://images.wondershare.com/filmora/article-images/2022/split-audio-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Split Audio after Detaching from Video
 
 As we have mentioned, sometimes you like a sound, but it is part of a video. Do you know a way to get that audio from a video? Well, yes, with Filmora, you can get your favorite audio even from videos and then split it.
@@ -556,12 +260,6 @@ This could be done by using its ‘Detach Audio from Video’ feature. What this
 
 ![detach audio from video](https://images.wondershare.com/filmora/article-images/2022/split-audio-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Final Words
 
 To learn about splitting audio, nothing is better than this article. We have discussed in detail about MP3 splitter online. Also, we talked about Wondershare Filmora audio splitter, the best option for all Windows and Mac users.
@@ -574,6 +272,278 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
+02 [How to Split Audio/MP3 File Online?](#part2)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 1\. How to Split Audio Files on Windows and Mac?
+
+Whenever you think about audio editing, [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is associated with that as the best software. The audio editor is perfect and compatible with both Windows and Mac. Wondershare Filmora never ceases to impress its users with its stunning features.
+
+The audio editor Filmora offers a wide range of features. You can add your favorite background music to your videos and change your ordinary video. Moreover, features like trimming, cutting, adjusting audio are also available.
+
+Wondershare Filmora also offers professional editing features such as its Audio Equalizer EQ, Audio Mixer, and also Audio Denoise feature. An exciting thing about Filmora audio editor is its Detach Audio feature. With this, you can Detach Audio from a video.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Another handy feature that you get from Filmora is Audio Splitter. With this, users can split audio files and extract the part that they like while deleting the other part. If you want to learn about splitting audio files on Windows and Mac with Filmora, then follow the steps below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 1: Creating Project
+
+To split audio files, you firstly need to open Wondershare Filmora on your respective device. Then, you need to create a new project so that you can get started. The next step demands you to import the audio file to Filmora.
+
+![create a new filmora project](https://images.wondershare.com/filmora/article-images/2022/split-audio-1.jpg)
+
+### Step 2: Importing Audio File
+
+This could be done by moving to the ‘File’ tab from the top panel. A menu will appear on the screen from which you should select 'Import Files.' Then a popup menu will show up, simply hit the ‘Import Media Files’ option.
+
+![tap on import media files](https://images.wondershare.com/filmora/article-images/2022/split-audio-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 3: Drag onto Timeline
+
+You can locate the file from your respective device and import it to Filmora. Once the file has been imported successfully, you now have to drag and drop it onto the timeline to start splitting it.
+
+![add audio to timeline](https://images.wondershare.com/filmora/article-images/2022/split-audio-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 4: Split Audio
+
+Now comes the fun part. Once the audio file is on the timeline, you will see a play head. You need to drag the play head to the point where you want to split the audio. You will see a scissor option after dragging the play head; hit that to split audio into two parts.
+
+![click on split icon](https://images.wondershare.com/filmora/article-images/2022/split-audio-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 5: Edit the Separated Audio
+
+You can delete the audio that you don't want by selecting it and pressing the 'Delete' button on the keyboard. In comparison, you can edit the other part of the audio. For this, double click on the audio in the timeline to open Audio Editing Window.
+
+![edit the separated audio](https://images.wondershare.com/filmora/article-images/2022/split-audio-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 6: Exporting File
+
+Once you have edited the file and are satisfied, it is ready to be exported. For this, hit the ‘Export’ button, select the output format and save it on your device.
+
+![export audio file](https://images.wondershare.com/filmora/article-images/2022/split-audio-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Split Audio after Detaching from Video
+
+As we have mentioned, sometimes you like a sound, but it is part of a video. Do you know a way to get that audio from a video? Well, yes, with Filmora, you can get your favorite audio even from videos and then split it.
+
+This could be done by using its ‘Detach Audio from Video’ feature. What this feature does is that it separates the audio from video and displays both the files separately on the timeline. You can delete the video file by selecting it and pressing 'Delete.' Whereas, by following the above-mentioned steps, you can then split the audio easily with the Filmora MP3 splitter.
+
+![detach audio from video](https://images.wondershare.com/filmora/article-images/2022/split-audio-7.jpg)
+
+### Final Words
+
+To learn about splitting audio, nothing is better than this article. We have discussed in detail about MP3 splitter online. Also, we talked about Wondershare Filmora audio splitter, the best option for all Windows and Mac users.
+
+#### Wondershare Filmora
+
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+02 [How to Split Audio/MP3 File Online?](#part2)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 1\. How to Split Audio Files on Windows and Mac?
+
+Whenever you think about audio editing, [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is associated with that as the best software. The audio editor is perfect and compatible with both Windows and Mac. Wondershare Filmora never ceases to impress its users with its stunning features.
+
+The audio editor Filmora offers a wide range of features. You can add your favorite background music to your videos and change your ordinary video. Moreover, features like trimming, cutting, adjusting audio are also available.
+
+Wondershare Filmora also offers professional editing features such as its Audio Equalizer EQ, Audio Mixer, and also Audio Denoise feature. An exciting thing about Filmora audio editor is its Detach Audio feature. With this, you can Detach Audio from a video.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Another handy feature that you get from Filmora is Audio Splitter. With this, users can split audio files and extract the part that they like while deleting the other part. If you want to learn about splitting audio files on Windows and Mac with Filmora, then follow the steps below.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 1: Creating Project
+
+To split audio files, you firstly need to open Wondershare Filmora on your respective device. Then, you need to create a new project so that you can get started. The next step demands you to import the audio file to Filmora.
+
+![create a new filmora project](https://images.wondershare.com/filmora/article-images/2022/split-audio-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 2: Importing Audio File
+
+This could be done by moving to the ‘File’ tab from the top panel. A menu will appear on the screen from which you should select 'Import Files.' Then a popup menu will show up, simply hit the ‘Import Media Files’ option.
+
+![tap on import media files](https://images.wondershare.com/filmora/article-images/2022/split-audio-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 3: Drag onto Timeline
+
+You can locate the file from your respective device and import it to Filmora. Once the file has been imported successfully, you now have to drag and drop it onto the timeline to start splitting it.
+
+![add audio to timeline](https://images.wondershare.com/filmora/article-images/2022/split-audio-3.jpg)
+
+### Step 4: Split Audio
+
+Now comes the fun part. Once the audio file is on the timeline, you will see a play head. You need to drag the play head to the point where you want to split the audio. You will see a scissor option after dragging the play head; hit that to split audio into two parts.
+
+![click on split icon](https://images.wondershare.com/filmora/article-images/2022/split-audio-4.jpg)
+
+### Step 5: Edit the Separated Audio
+
+You can delete the audio that you don't want by selecting it and pressing the 'Delete' button on the keyboard. In comparison, you can edit the other part of the audio. For this, double click on the audio in the timeline to open Audio Editing Window.
+
+![edit the separated audio](https://images.wondershare.com/filmora/article-images/2022/split-audio-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 6: Exporting File
+
+Once you have edited the file and are satisfied, it is ready to be exported. For this, hit the ‘Export’ button, select the output format and save it on your device.
+
+![export audio file](https://images.wondershare.com/filmora/article-images/2022/split-audio-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Split Audio after Detaching from Video
+
+As we have mentioned, sometimes you like a sound, but it is part of a video. Do you know a way to get that audio from a video? Well, yes, with Filmora, you can get your favorite audio even from videos and then split it.
+
+This could be done by using its ‘Detach Audio from Video’ feature. What this feature does is that it separates the audio from video and displays both the files separately on the timeline. You can delete the video file by selecting it and pressing 'Delete.' Whereas, by following the above-mentioned steps, you can then split the audio easily with the Filmora MP3 splitter.
+
+![detach audio from video](https://images.wondershare.com/filmora/article-images/2022/split-audio-7.jpg)
+
+### Final Words
+
+To learn about splitting audio, nothing is better than this article. We have discussed in detail about MP3 splitter online. Also, we talked about Wondershare Filmora audio splitter, the best option for all Windows and Mac users.
+
+#### Wondershare Filmora
+
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
