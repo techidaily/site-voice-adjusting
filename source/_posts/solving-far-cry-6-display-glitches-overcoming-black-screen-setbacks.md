@@ -1,7 +1,7 @@
 ---
 title: "Solving Far Cry 6 Display Glitches: Overcoming Black Screen Setbacks"
-date: 2024-09-09T01:19:58.393Z
-updated: 2024-09-10T01:19:58.393Z
+date: 2024-09-08T20:09:14.436Z
+updated: 2024-09-14T23:49:48.556Z
 tags:
   - win11
   - win10
@@ -17,12 +17,6 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/fallout-4-black-screen-1024x576.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you click Fallout 4 but see the black screen which doesn’t load anything, you must feel frustrated. Don’t worry, there are tips that can help you solve this**black screen issue** . Read on to find how…
 
 ## Try these fixes
@@ -37,12 +31,6 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Run Fallout 4 as Compatibility mode
 
  Run Fallout 4 in compatibility mode is a way to solve many problems. This Fallout 4 black screen error may be caused by the incompatibility with the system. So change the compatibility mode may help you solve the issue.
@@ -67,12 +55,6 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2019/07/NVIDIA-Geoforce-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
 ### Fix 3: Edit configuration files
@@ -92,11 +74,18 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Lower the graphics settings in the game
 
  It is possible that the game can be crashed because your graphics card cannot capable of the high settings in the game. So if you’re using an old graphics card, you can try this method to fix the problem.
@@ -105,29 +94,25 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 2. Click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4-1.jpg)
 3. Tick the**Windowed Mode** and**Borderless** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click**Advanced** . Lower the settings and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.2.jpg)
-5. Run the game to check the problem will appear or not.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+5. Run the game to check the problem will appear or not.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Disable antivirus software
 
  Some antivirus software may block some features in Minecraft so that you can encounter Unable to connect world issue. If you have installed antivirus software on your computer, you can disable it temporarily and check to see if the problem is resolved.
@@ -146,8 +131,6 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,38 +140,17 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-top-10-cheap-cameras-for-dynamic-shots/"><u>[New] Top 10 Cheap Cameras For Dynamic Shots</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-revolutionize-traffic-flows-with-innovative-facebook-video-tactics-for-2024/"><u>[Updated] Revolutionize Traffic Flows with Innovative Facebook Video Tactics for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-capture-and-keep-your-linkedin-content-with-these-6-powerful-apps/"><u>2024 Approved  Capture & Keep Your LinkedIn Content with These 6 Powerful Apps</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-gopro-hero5-black-vs-garmin-virb-ultra-30-which-one-is-better/"><u>2024 Approved  GoPro Hero5 Black VS Garmin Virb Ultra 30  Which One Is Better?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-xiaomi-redmi-note-12-pro-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Xiaomi Redmi Note 12 Pro 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/giggle-galore-curating-the-funniest-10-short-form-web-series-ideas/"><u>Giggle Galore  Curating the Funniest 10 Short-Form Web Series Ideas</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/innovate-your-live-broadcast-on-mac-with-1-5-software/"><u>Innovate Your Live Broadcast on Mac with #1-5 Software</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-easy-video-editor-for-mac-mkvtoolnix-review-and-tutorial-2023-for-2024/"><u>New Easy Video Editor for Mac MKVtoolnix Review and Tutorial 2023 for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-beginners-handbook-to-implementing-plugin-based-autotune-on-audacity-for-2024/"><u>New The Beginners Handbook to Implementing Plugin-Based Autotune on Audacity for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-modern-editors-handbook-cutting-and-mixing-in-avidemux-for-2024/"><u>New The Modern Editors Handbook Cutting and Mixing in Avidemux for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-top-10-free-audio-capture-tools-for-excellent-podcasts-updated/"><u>New Top 10 Free Audio Capture Tools for Excellent Podcasts (Updated)</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-unconventional-chat-services-excellence-list-security-functionality-and-pleasure/"><u>New Unconventional Chat Services Excellence List Security, Functionality, and Pleasure</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-voice-eradication-made-simple-a-comprehensive-guide-to-deleting-singers-from-audio-files-in-audacity/"><u>New Voice Eradication Made Simple A Comprehensive Guide to Deleting Singers From Audio Files in Audacity</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/optimizing-your-samsung-galaxy-s10s9-for-high-quality-audio-capture/"><u>Optimizing Your Samsung Galaxy S10/S9 for High-Quality Audio Capture</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/perfect-your-sound-cutting-mixing-and-mastering-with-avidemux-updated-for-2024/"><u>Perfect Your Sound Cutting, Mixing & Mastering with Avidemux Updated  for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/step-by-step-methods-to-incorporate-microphone-input-into-powerpoint-slides-windows-and-macos/"><u>Step-by-Step Methods to Incorporate Microphone Input Into PowerPoint Slides (Windows & macOS)</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/streamlining-sound-sync-how-to-implement-audio-ducking-for-dynamic-volume-control-in-powerdirector/"><u>Streamlining Sound Sync How to Implement Audio Ducking for Dynamic Volume Control in PowerDirector</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/the-complete-blueprint-to-convert-spotify-songs-into-playable-formats-for-2024/"><u>The Complete Blueprint to Convert Spotify Songs Into Playable Formats for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/top-rated-free-video-to-audio-converters-on-demand-edition/"><u>Top-Rated Free Video-to-Audio Converters On-Demand Edition</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unblock-your-asus-webcam/"><u>Unblock Your ASUS Webcam</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/unlocking-audio-potential-a-user-friendly-approach-to-track-combining-in-premiere-pro-for-2024/"><u>Unlocking Audio Potential A User-Friendly Approach to Track Combining in Premiere Pro for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-10plus-free-online-audio-to-text-converters/"><u>Updated 2024 Approved 10+ Free Online Audio to Text Converters</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-audio-synthesis-in-film-the-2023-process-of-capturing-and-adding-vocal-talent-to-visuals/"><u>Updated 2024 Approved Audio Synthesis in Film The 2023 Process of Capturing and Adding Vocal Talent to Visuals</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-beat-blend-benders-a-curated-list-of-highest-rated-audio-synchronization-editors-2023/"><u>Updated 2024 Approved Beat Blend Benders A Curated List of Highest-Rated Audio-Synchronization Editors, 2023</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-mastering-the-fast-conversion-of-whatsapp-soundtracks-into-mp3-files/"><u>Updated 2024 Approved Mastering the Fast Conversion of WhatsApp Soundtracks Into MP3 Files</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-perfecting-tone-modulation-keeping-sound-quality-intact-in-audacity/"><u>Updated 2024 Approved Perfecting Tone Modulation Keeping Sound Quality Intact in Audacity</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-tailoring-sound-techniques-for-altering-audio-speed-and-pitch-in-adobe-rush/"><u>Updated 2024 Approved Tailoring Sound Techniques for Altering Audio Speed & Pitch in Adobe Rush</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-transform-your-virtual-presence-a-look-at-the-top-5-voice-change-tools-for-google-meet/"><u>Updated 2024 Approved Transform Your Virtual Presence A Look at The Top 5 Voice Change Tools for Google Meet</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-a-comprehensive-walkthrough-to-record-audio-on-powerpoint-dual-platform-approach-for-pcs-and-macs/"><u>Updated A Comprehensive Walkthrough to Record Audio on PowerPoint Dual Platform Approach for PCs & Macs</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-bridging-audio-gaps-how-to-convert-your-mp3-playlists-to-mp4/"><u>Updated Bridging Audio Gaps How to Convert Your MP3 Playlists to MP4</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-free-and-high-quality-voice-alteration-demystified-a-step-by-step-video-voice-editors-handbook-using-filmora/"><u>Updated Free and High-Quality Voice Alteration Demystified A Step-by-Step Video Voice Editors Handbook Using Filmora</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-capturing-clarity-an-intuitive-roadmap-for-convenient-and-high-quality-podcast-recordings/"><u>Updated In 2024, Capturing Clarity An Intuitive Roadmap for Convenient and High-Quality Podcast Recordings</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-compile-of-high-quality-sound-spectrum-templates-to-elevate-video-production-2023-update/"><u>Updated In 2024, Compile of High-Quality Sound Spectrum Templates to Elevate Video Production - 2023 Update</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-decoding-youtube-stats-efficiency-with-social-blades-advanced-analysis/"><u>[New] Decoding YouTube Stats Efficiency with Social Blade's Advanced Analysis</u></a></li>
+<li><a href="https://win-best.techidaily.com/enabling-avi-file-support-in-itunes-a-step-by-step-tutorial-for-converting-video-formats/"><u>Enabling AVI File Support in iTunes - A Step-by-Step Tutorial for Converting Video Formats</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-oppo-reno-11-5g-easily-by-drfone-android/"><u>How To Unlock a Oppo Reno 11 5G Easily?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-the-full-spectrum-of-toolwiz-apps-capabilities-2023/"><u>In 2024, In Depth The Full Spectrum of Toolwiz App's Capabilities, 2023</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premier-android-storage-in-the-clouds-list/"><u>In 2024, Premier Android Storage in the Clouds List</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/lyric-purifier-toolkit-assemble-custom-music-beds-for-2024/"><u>Lyric Purifier Toolkit Assemble Custom Music Beds for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/mastering-video-sound-tips-for-optimal-audio-control-for-2024/"><u>Mastering Video Sound Tips for Optimal Audio Control for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-troubleshooting-speed-mastering-sound-integration-in-adobe-premiere-pro/"><u>New 2024 Approved Troubleshooting Speed Mastering Sound Integration in Adobe Premiere Pro</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-cutting-edge-cost-free-daw-software-options-revealed-a-beginners-guide-to-2023-for-2024/"><u>New Cutting-Edge, Cost-Free DAW Software Options Revealed A Beginners Guide to 2023 for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-online-video-reverse-software-top-picks-for-2024/"><u>New Online Video Reverse Software Top Picks for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/revolutionizing-content-with-square-shapes-for-social-media-gains/"><u>Revolutionizing Content with Square Shapes for Social Media Gains</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/your-essential-buying-guide-to-high-speed-networks-the-best-cable-and-wifi-integrated-devices-of-2024/"><u>Your Essential Buying Guide to High-Speed Networks: The Best Cable and WiFi Integrated Devices of 2024</u></a></li>
 </ul></div>
+

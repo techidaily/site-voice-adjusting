@@ -1,7 +1,7 @@
 ---
 title: Updated Silent Interludes, Harmonious Sounds Expert Techniques for Audio Ducking in Adobe Premiere Pro on a Mac Computer for 2024
-date: 2024-09-09T01:19:58.589Z
-updated: 2024-09-10T01:19:58.589Z
+date: 2024-09-10T21:39:57.262Z
+updated: 2024-09-14T16:44:21.004Z
 tags: 
   - audio editing software
   - audio editing
@@ -14,24 +14,12 @@ keywords: enhancing soundscapes advanced audio keyframe techniques in adobe prem
 thumbnail: https://thmb.techidaily.com/650f46c8db195bf984ecb592d4a15814bfd7afa085c1775706e382ffb2952424.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Silent Interludes, Harmonious Sounds: Expert Techniques for Audio Ducking in Adobe Premiere Pro on a Mac Computer
 
 # Tutorial on Audio Ducking in Adobe Premiere Pro on Mac
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Benjamin Arango
 
  Oct 26, 2023• Proven solutions
@@ -40,18 +28,6 @@ Too many times, while mixing voiceover with the background music in a video, the
 
 The best thing about Premiere Pro audio ducking is that it is an automatic process and we don’t need to put a lot of effort. To make your job easier, I’m going to let you know how to use the Adobe Premiere Pro audio ducking feature in a step by step manner in this guide.
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Use Audio Ducking to Balance Music and Voiceover in Adobe Premiere Pro on Mac?
 
 If you have been using Adobe Premiere Pro on Mac, then you would already be familiar with the wide range of editing features that it has. One of them is the Premiere Pro audio ducking option that comes inbuilt in the application. Using it, you can automatically lower the volume of the background music and amplify your dialogues.
@@ -80,24 +56,12 @@ Great! You can now preview the changes you have made and check the audio ducking
 
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
 
 As you can see, the Premiere Pro audio ducking feature can get a bit complicated if you are a beginner. Therefore, if you are looking for a simpler and more effective automatic ducking solution, then use Wondershare Filmora. This intuitive and diverse video/audio editing tool has an automatic audio ducking option that would make your job a whole lot easier.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
 
 #### Step 1: Load the Video or Audio Files on Filmora
@@ -124,60 +88,11 @@ Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-graphicgenius-suite/"><u>[New] 2024 Approved  GraphicGenius Suite</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-best-6-video-translators-to-translate-video/"><u>[New] Best 6 Video Translators to Translate Video</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-best-practices-for-secure-transfer-of-phones-camera-roll-content-to-snapchat/"><u>[New] In 2024, Best Practices for Secure Transfer of Phone's Camera Roll Content to Snapchat</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-keep-your-games-bright-solutions-for-avoiding-obs-black-screens/"><u>[New] In 2024, Keep Your Games Bright  Solutions for Avoiding OBS Black Screens</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-steps-to-form-a-fruitful-product-sponsor-linkup-on-youtube/"><u>[New] Steps to Form a Fruitful Product-Sponsor Linkup on Youtube</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-unveiling-the-secrets-to-successful-youtube-channel-earnings/"><u>[New] Unveiling the Secrets to Successful YouTube Channel Earnings</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-in-depth-viewer-tool-for-chilled-pleasures/"><u>[Updated] In 2024, In-Depth Viewer Tool for Chilled Pleasures</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-youtubes-role-in-todays-dynamic-educational-landscape/"><u>[Updated] In 2024, YouTube's Role in Today's Dynamic Educational Landscape</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-guidance-for-effortless-addition-of-youtube-playlists-to-your-site/"><u>2024 Approved  Guidance for Effortless Addition of YouTube Playlists to Your Site</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-solutions-to-decipher-muted-facebook-videos/"><u>2024 Approved  Solutions to Decipher Muted Facebook Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-motorola-g24-power-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Motorola G24 Power? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-broken-iphone-11-screen-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Data from Broken iPhone 11 Screen | Stellar</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-100-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on 100</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-mastering-silence-disabling-sound-in-videos/"><u>In 2024, Mastering Silence Disabling Sound in Videos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-supercharge-image-editing-10-must-know-pixlr-strategies/"><u>In 2024, Supercharge Image Editing  10 Must-Know Pixlr Strategies</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-vr-game-engines/"><u>In 2024, Top VR Game Engines</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/mastering-audio-book-publishing-with-ease-a-modern-guide-for-2024/"><u>Mastering Audio Book Publishing with Ease A Modern Guide for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-elite-voice-mimicry-suite-windows-and-apple-harmonization/"><u>New 2024 Approved Elite Voice Mimicry Suite - Windows & Apple Harmonization</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-from-voice-to-verse-a-novices-guide-to-creating-a-polished-podcast-masterpiece/"><u>New 2024 Approved From Voice to Verse A Novices Guide to Creating a Polished Podcast Masterpiece</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-guideline-for-beginners-about-lexis-audio-editor/"><u>New 2024 Approved Guideline for Beginners About Lexis Audio Editor</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-harmonizing-time-and-tone-the-guide-to-changing-audio-tempo-and-octave-in-adobe-rush/"><u>New 2024 Approved Harmonizing Time and Tone The Guide to Changing Audio Tempo and Octave in Adobe Rush</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-harmonizing-without-spending-the-ultimate-selection-of-no-fee-audio-mixing-programs/"><u>New 2024 Approved Harmonizing Without Spending - The Ultimate Selection of No-Fee Audio Mixing Programs</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-master-the-art-of-costless-sound-transformation-and-advanced-audio-editing-in-filmora-videos/"><u>New 2024 Approved Master the Art of Costless Sound Transformation and Advanced Audio Editing in Filmora Videos</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-premium-verses-in-motion-aes-ultimate-lyric-videos/"><u>New 2024 Approved Premium Verses in Motion AEs Ultimate Lyric Videos</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-audiovisual-beat-engineering-taking-audio-separates-for-creative-endeavors/"><u>New Audiovisual Beat Engineering Taking Audio Separates for Creative Endeavors</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-chart-topping-radio-auditory-elements/"><u>New Chart-Topping Radio Auditory Elements</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-creating-a-diminuendo-effect-in-imovie-audio-tracks/"><u>New Creating a Diminuendo Effect in iMovie Audio Tracks</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-high-definition-sound-partitioning-for-mac-new-update-for-2024/"><u>New High-Definition Sound Partitioning for Mac New Update for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-commanding-attention-techniques-for-higher-pitched-voice-in-digital-storytelling/"><u>New In 2024, Commanding Attention Techniques for Higher Pitched Voice in Digital Storytelling</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-essential-11-audio-focused-smartphone-applications/"><u>New In 2024, Essential 11 Audio-Focused Smartphone Applications</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-indicators-of-a-premium-audio-tool-suitable-for-macos-environments/"><u>New Indicators of a Premium Audio Tool Suitable for macOS Environments</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-mastering-audio-clarity-the-most-effective-noise-reduction-tools-revealed/"><u>New Mastering Audio Clarity The Most Effective Noise Reduction Tools Revealed</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-sound-cleanup-a-comprehensive-tutorial-on-removing-drums-from-audio-files-for-2024/"><u>New Sound Cleanup A Comprehensive Tutorial on Removing Drums From Audio Files for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-syncing-audio-visual-elements-modern-approaches-to-creating-unified-media-experiences/"><u>New Syncing Audio-Visual Elements Modern Approaches to Creating Unified Media Experiences</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-syncopation-spotlight-the-top-video-editing-software-for-pairing-sound-and-visuals/"><u>New Syncopation Spotlight The Top Video Editing Software for Pairing Sound and Visuals</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/propel-participation-through-tailored-story-inquiry-designs/"><u>Propel Participation Through Tailored Story Inquiry Designs</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/swiftly-delete-autoplayed-podcast-suggestions-on-spotify-for-2024/"><u>Swiftly Delete Autoplayed Podcast Suggestions on Spotify for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-9-solutions-for-troubleshooting-your-non-charging-airpods/"><u>Top 9 Solutions for Troubleshooting Your Non-Charging AirPods</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -185,3 +100,30 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-cant-see-cursor-only-sony-a6400-glitch/"><u>[New] 2024 Approved Can't See, Cursor Only - Sony A6400 Glitch</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlock-high-res-imagery-the-costless-technique/"><u>[New] Unlock High-Res Imagery The Costless Technique</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-prodigious-story-making-worlds-top-8-institutions/"><u>2024 Approved Prodigious Story Making World's Top 8 Institutions</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-top-10-most-accessible-costless-lut-tools-unveiled/"><u>2024 Approved The Top 10 Most Accessible, Costless LUT Tools Unveiled</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/beatbank-your-digital-library-of-dj-masterpieces-for-2024/"><u>BeatBank Your Digital Library of DJ Masterpieces for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-y200e-5g-by-fonelab-android-recover-video/"><u>How to recover old videos from your Y200e 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-samsung-galaxy-a23-5g-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Samsung Galaxy A23 5G.</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/how-to-smoothly-embed-facebook-live-on-your-site/"><u>How to Smoothly Embed Facebook Live on Your Site</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-innovative-applications-unveiling-the-most-advanced-11-voice-modification-solutions-on-ios-and-android-without-an-expense/"><u>In 2024, Innovative Applications Unveiling the Most Advanced 11 Voice Modification Solutions on iOS and Android Without an Expense</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-easy-path-to-pure-audio-advanced-noise-reduction-tactics-for-audacity-and-filmorapro-users/"><u>In 2024, The Easy Path to Pure Audio Advanced Noise Reduction Tactics for Audacity and FilmoraPro Users</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-essential-compilation-discovering-the-top-11-free-audio-customization-tools-for-ios-and-android-gadgets/"><u>New 2024 Approved Essential Compilation Discovering the Top 11 Free Audio Customization Tools for iOS & Android Gadgets</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-elevate-your-video-edits-mastering-the-art-of-live-audio-dampening-with-final-cut-pro-xs-autoduck-capabilities-for-2024/"><u>New Elevate Your Video Edits Mastering the Art of Live Audio Dampening with Final Cut Pro Xs AutoDuck Capabilities for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-singing-simplified-accessible-audio-enhancers-for-every-musicians-toolkit-for-2024/"><u>New Singing Simplified Accessible Audio Enhancers for Every Musicians Toolkit for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-vivo-x-fold-2-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Vivo X Fold 2 Location | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-infinix-note-30-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Infinix Note 30? Here is How | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

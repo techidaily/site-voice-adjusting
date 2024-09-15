@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Splitting Audio and Visuals in iMovie Using a Mac
-date: 2024-09-09T01:20:01.140Z
-updated: 2024-09-10T01:20:01.140Z
+date: 2024-09-11T17:05:53.143Z
+updated: 2024-09-14T18:55:53.331Z
 tags: 
   - audio editing software
   - audio editing
@@ -14,24 +14,12 @@ keywords: uniting visuals and vocals decomposing media files in imovie for macos
 thumbnail: https://thmb.techidaily.com/36cb4ddf3fc78c71836e11f4a803426f35040ec4e34c37b6c57cca04ad1d4891.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step-by-Step: Splitting Audio and Visuals in iMovie Using a Mac
 
 # How to Separate Audio from Video in iMovie on Mac?
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Liza Brown
 
  Oct 26, 2023• Proven solutions
@@ -46,18 +34,6 @@ Now let's look at how to **separate audio from video in iMovie on Mac**.
 * [**Part 2\. Separate Audio from Video on Mac with the Best Alternative to iMovie**](#part2)
 * [**Part 3\. FAQs about Separating Audio from Video in iMovie**](#part3)
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1\. How to Separate/Detach/Split Audio from Video in iMovie on Mac
 
 The iMovie program is capable of producing high-quality movies and videos. If you're dealing with a video that includes both sound and pictures, you may want to split the two at some point.
@@ -88,12 +64,6 @@ Want to extract the music file from a video clip's audio and visual tracks? Or d
 
 [![Download Filmora Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 You can make your own MP3 file of the amazing piece of music for enjoyment on the move, whether it's from a music video, TV show, or concert footage. To separate your audio from your video, follow the steps outlined below.
 
 #### Step 1\. Import your media files into Filmora
@@ -114,12 +84,6 @@ Because the audio and video tracks have been split, you may simply delete the au
 
 You should first save the split video frame or audio track to a project file on your hard disk if you wish to save it separately in a new file. Reload the project file that contains the video frame after you've finished exporting the audio track, and then export it to a new video file.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3\. FAQs about Separating Audio from Video in iMovie
 
 To learn more about separating audio from video in iMovie, you can check the FAQs below.
@@ -156,6 +120,13 @@ By clicking the play button next to the **Share** button, you may see a preview 
 
 Alternatively, you can share it directly from the app to other social media platforms. Apart from removing audio from videos, Animaker also includes other video editing tools that you'll need to modify your videos for social media and your website.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Wrap Up
 
 As seen in this instructional article, iMovie has countless amazing features as a [video editor on Mac](https://tools.techidaily.com/wondershare/filmora/download/). Separating audio from a video is one of those interesting features on iMovie.
@@ -167,70 +138,23 @@ And if iMovie can’t meet your need, don’t worry. Wondershare Filmora can be 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-historical-deep-dives-from-youtubes-most-impactful-creators/"><u>[New] 2024 Approved  Historical Deep Dives From YouTube's Most Impactful Creators</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-clarity-cutting-edge-expert-recommendations-for-8k-for-2024/"><u>[New] Clarity Cutting-Edge  Expert Recommendations for 8K for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-exploring-the-possibility-of-monthly-youtube-income-for-2024/"><u>[New] Exploring the Possibility of Monthly YouTube Income for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elevating-your-contents-presence-perfecting-youtube-thumbnails-size/"><u>[New] In 2024, Elevating Your Content's Presence  Perfecting YouTube Thumbnails Size</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-record-ppt-for-screenplay-use/"><u>[New] In 2024, Record PPT for Screenplay Use</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-magix-video-pro-x-a-deep-dive/"><u>[New] Magix Video Pro X - A Deep Dive</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-optimizing-self-filmed-content-on-youtube/"><u>[New] Optimizing Self-Filmed Content on YouTube</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pinnacle-gadgets-the-leading-smartphones-for-artists/"><u>[New] Pinnacle Gadgets  The Leading Smartphones for Artists</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-simplified-techniques-for-high-quality-webcam-videos/"><u>[New] Simplified Techniques for High-Quality Webcam Videos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-strategy-for-developing-and-managing-youtube-collaborations/"><u>[New] The Ultimate Strategy for Developing & Managing YouTube Collaborations</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-building-a-following-with-captivating-instagram-reels/"><u>[Updated] Building a Following with Captivating Instagram Reels</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-ios-snapshot-spectrum-your-quick-reference/"><u>2024 Approved  IO's Snapshot Spectrum  Your Quick Reference</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-navigating-obs-setup-for-zoom-streaming-excellence/"><u>2024 Approved  Navigating OBS Setup for Zoom Streaming Excellence</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-your-go-to-list-asmr-on-phone-platforms/"><u>2024 Approved  Your Go-To List  ASMR on Phone Platforms</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/find-your-got-ringtone-leading-online-retailers-for-2024/"><u>Find Your GoT Ringtone - Leading Online Retailers for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-evaluating-screencast-software-the-bandicamcamtasia-comparison/"><u>In 2024, Evaluating Screencast Software  The Bandicam/Camtasia Comparison</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-harmonizing-sounds-with-imagery-professional-strategies-to-boost-your-videography/"><u>In 2024, Harmonizing Sounds with Imagery Professional Strategies to Boost Your Videography</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-seamless-synergy-merging-soundtracks-with-visual-narratives-in-modern-cinema/"><u>In 2024, Seamless Synergy Merging Soundtracks with Visual Narratives in Modern Cinema</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-simple-vocal-transformation-facilities-analysis-of-capabilities-guidelines-for-usage-and-multiple-approaches/"><u>In 2024, Simple Vocal Transformation Facilities Analysis of Capabilities, Guidelines for Usage, and Multiple Approaches</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/inside-americas-favorite-non-omegle-video-chat-websites-a-current-ranking-guide-for-2024/"><u>Inside Americas Favorite Non-Omegle Video Chat Websites A Current Ranking Guide for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/mastering-your-soundtrack-a-methodical-approach-to-choosing-a-digital-audio-recorder-beyond-apowersoft/"><u>Mastering Your Soundtrack A Methodical Approach to Choosing a Digital Audio Recorder Beyond Apowersoft</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/melody-cleanse-free-your-content-from-unwanted-musical-elements-for-2024/"><u>Melody Cleanse Free Your Content From Unwanted Musical Elements for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/multilingualism-emphasizing-english/"><u>Multilingualism: Emphasizing English</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-decoding-media-a-step-by-step-approach-to-extracting-audio-from-video-content-on-pcmac-and-smartphones/"><u>New 2024 Approved Decoding Media A Step-By-Step Approach to Extracting Audio From Video Content on PC/Mac and Smartphones</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-enhancing-quicktime-videos-with-surround-sound-a-step-by-step-guide/"><u>New 2024 Approved Enhancing QuickTime Videos with Surround Sound A Step-by-Step Guide</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-subtle-soundscape-selection-for-video-creators/"><u>New 2024 Approved Subtle Soundscape Selection for Video Creators</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-beginners-guide-to-cutting-out-background-loudness-in-audacity-and-filmorapro/"><u>New 2024 Approved The Beginners Guide to Cutting Out Background Loudness in Audacity and FilmoraPro</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-ultimate-starters-manual-implementing-voicechanger-on-iphone/"><u>New 2024 Approved The Ultimate Starters Manual Implementing VoiceChanger on iPhone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-an-insightful-guide-to-determining-best-practices-for-audio-format-selection/"><u>New An Insightful Guide to Determining Best Practices for Audio Format Selection</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-auditory-balance-tips-on-reducing-unwanted-sibilance-and-whistles-for-2024/"><u>New Auditory Balance Tips on Reducing Unwanted Sibilance and Whistles for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-elevating-your-media-adding-compelling-audio-elements-to-videos/"><u>New Elevating Your Media Adding Compelling Audio Elements to Videos</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-essential-links-for-obtaining-high-quality-ding-sound-samples/"><u>New Essential Links for Obtaining High-Quality Ding Sound Samples</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-expert-techniques-for-crafting-complex-audio-edits-with-keyframes-in-premiere-pro-mac-edition/"><u>New Expert Techniques for Crafting Complex Audio Edits with Keyframes in Premiere Pro, Mac Edition</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-how-to-remove-audio-from-video-in-magix-movie-edit-pro-for-2024/"><u>New How to Remove Audio From Video in Magix Movie Edit Pro for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-disable-incoming-audio-cues-and-import-fresh-audiovisual-components-via-windows-moviemaker-software/"><u>New In 2024, Disable Incoming Audio Cues & Import Fresh Audiovisual Components via Windows Moviemaker Software</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-omegle-resurgence-overcoming-a-profile-ban-and-reconnecting-with-others/"><u>New In 2024, Omegle Resurgence Overcoming a Profile Ban and Reconnecting with Others</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-simplified-instructions-for-saving-phone-calls-on-iphone/"><u>New In 2024, Simplified Instructions for Saving Phone Calls on iPhone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-mastering-audio-extraction-removing-sound-tracks-from-video-on-ios-devices-for-2024/"><u>New Mastering Audio Extraction Removing Sound Tracks From Video on iOS Devices for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-percussive-purge-mastering-the-art-of-drum-free-music-online-for-2024/"><u>New Percussive Purge Mastering the Art of Drum-Free Music Online for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-synthetic-symphony-building-a-soundtrack-to-enhance-your-cinematic-vision/"><u>New Synthetic Symphony Building a Soundtrack to Enhance Your Cinematic Vision</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-solution-smooth-video-screenshots/"><u>Quick Solution: Smooth Video Screenshots</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/symphonic-selection-ideal-websites-for-ringtones/"><u>Symphonic Selection  Ideal Websites for Ringtones</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-tecno-pop-7-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Tecno Pop 7 Pro Reset Code | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/untangling-insta-vids-selfies-validity-questioned/"><u>Untangling Insta Vids  Selfies' Validity Questioned</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -238,3 +162,22 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-captivating-your-network-streamlining-content-via-wirecast-to-facebook/"><u>[New] 2024 Approved Captivating Your Network Streamlining Content via Wirecast to Facebook</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-giggle-factory-gratis-memo-makers-available/"><u>[New] Giggle Factory Gratis Memo Makers Available</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-mastering-editing-skills-for-professional-facebook-reels-for-2024/"><u>[New] Mastering Editing Skills for Professional Facebook Reels for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-teamwork-made-simple-the-ultimate-guide-to-8-schedulers-for-2024/"><u>[New] Teamwork Made Simple The Ultimate Guide to 8 Schedulers for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-how-to-expertly-record-and-broadcast-on-snapchat-phone/"><u>[Updated] 2024 Approved How to Expertly Record & Broadcast on Snapchat Phone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-global-leaderboard-top-subscribers-by-youtube-star/"><u>2024 Approved Global Leaderboard Top Subscribers by YouTube Star</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-photovideo-text-warping-essentials/"><u>In 2024, Photo/Video Text Warping Essentials</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/instantly-start-youtube-videos-on-your-facebook-timeline/"><u>Instantly Start YouTube Videos on Your Facebook Timeline</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/integrating-google-cast-on-amazons-firestick-for-enhanced-viewing/"><u>Integrating Google Cast on Amazon's Firestick for Enhanced Viewing</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-art-of-infusing-audio-harmonies-with-visual-narratives-at-zero-expense/"><u>New 2024 Approved The Art of Infusing Audio Harmonies with Visual Narratives at Zero Expense</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-beat-engineers-handbook-designing-sounds-for-the-silver-screen/"><u>New 2024 Approved The Beat Engineers Handbook Designing Sounds for the Silver Screen</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-a-technical-approach-to-combining-soundtracks-with-video-footage-on-mobile-devices/"><u>New A Technical Approach to Combining Soundtracks with Video Footage on Mobile Devices</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-an-insiders-look-6-exemplary-chrome-os-gadgets-for-exceptional-voice-alteration-experiences-creativesuitelumiere/"><u>New An Insiders Look 6 Exemplary Chrome OS Gadgets for Exceptional Voice Alteration Experiences - CreativeSuiteLumiere</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-mastering-gaming-the-8-best-sound-effects-available-without-a-price-tag/"><u>New Mastering Gaming The 8 Best Sound Effects Available Without a Price Tag</u></a></li>
+</ul></div>
+

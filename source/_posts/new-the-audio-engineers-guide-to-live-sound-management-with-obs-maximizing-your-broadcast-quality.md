@@ -1,7 +1,7 @@
 ---
 title: New The Audio Engineers Guide to Live Sound Management with OBS Maximizing Your Broadcast Quality
-date: 2024-09-09T01:20:01.950Z
-updated: 2024-09-10T01:20:01.950Z
+date: 2024-09-07T20:45:47.492Z
+updated: 2024-09-15T04:34:43.732Z
 tags: 
   - audio editing software
   - audio editing
@@ -14,24 +14,12 @@ keywords: streamline your sound four cutting edge methods to enhance video audio
 thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2b309e9331565432f2ce8641.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Audio Engineer's Guide to Live Sound Management with OBS: Maximizing Your Broadcast Quality
 
 # How to Balance Your Stream Sound with OBS Audio Ducking?
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Benjamin Arango
 
  Oct 26, 2023• Proven solutions
@@ -40,12 +28,6 @@ Video making or filmmaking has now come to the level where the history of imperf
 
 If you are a content creator, maybe you will be familiar with coordinating the right audio with the video. If not, it isn't a problem anymore as I have included a detailed guide of implementing **audio ducking** in a step-wise way. With primary importance to the popular software **OBS** followed by a suitable alternative, let's begin our article!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Balance Your Stream Sound with OBS Audio Ducking?
 
 **OBS** (Open Broadcaster Software) is free and open-source software reliable for Windows, Linux, and macOS 10.13+. With countless features like real video/audio capture, mixer, custom transitions, easy-to-use configurations, pre-source filters, VST plug-in support, noise suppression, and a lot more, you can accomplish audio ducking in OBS by adding a sidechain/ducking compression filter. Thus, perform OBS audio ducking in a clean manner by lowering the audio automatically once OBS detects audio on the other audio source.
@@ -83,12 +65,6 @@ Developed for the inspired, Filmora follows its unique way of ducking sound, eas
 * Perfect your audio to the video along with tons of features like an audio mixer along with options like mute, detach, split, and background removal.
 * Add voiceover, sprinkle magic with filters, detect beat, and create markers easily with Wondershare Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to use the audio ducking feature in Wondershare Filmora?
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -112,11 +88,12 @@ Select the clips with dialogue, whereby right-clicking or double-clicking on the
 On the following audio editing window, tick the "**Lower the volume of other clips**" option to reduce background music or any other media volume.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 I hope you have now come to know why **ducking sound** is a must and how well **Streamlabs OBS** and **Wondershare Filmora** carry out the job. Lastly, with the step-by-step guide to accomplish **audio ducking** with both the software, we can conclude that OBS performance is better, whereas Wondershare Filmora is the best choice in terms of interface and features!
@@ -124,79 +101,17 @@ I hope you have now come to know why **ducking sound** is a must and how well **
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-charting-a-path-to-success-exploring-15-top-youtube-beginnings/"><u>[New] In 2024, Charting a Path to Success  Exploring 15 Top YouTube Beginnings</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-unlock-screen-saving-potential-on-android-devices/"><u>[New] In 2024, Unlock Screen Saving Potential on Android Devices</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-premiere-pro-quick-fade-magic-1m/"><u>[New] Premiere Pro Quick-Fade Magic (1M)</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-prestigious-directory-free-visuals-hubs-galore-online-for-2024/"><u>[New] Prestigious Directory  FREE Visuals Hubs Galore Online for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-transforming-unboxing-into-art/"><u>[New] Transforming Unboxing Into Art</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-examining-video-sharing-platforms-the-vimeo-and-youtube-divide/"><u>[Updated] 2024 Approved  Examining Video Sharing Platforms  The Vimeo & YouTube Divide</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-facebooks-visual-storytelling-what-angle-matters-most/"><u>[Updated] 2024 Approved  Facebook's Visual Storytelling  What Angle Matters Most?</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-three-ways-to-convert-youtube-music-tracks-safely-to-mp3-format/"><u>[Updated] 2024 Approved  Three Ways to Convert YouTube Music Tracks Safely to MP3 Format</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-raw-footage-to-final-cut-youtube-and-its-equivalents-for-2024/"><u>[Updated] From Raw Footage to Final Cut  YouTube and Its Equivalents for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-constructing-coherent-youtube-video-sequences/"><u>[Updated] In 2024, Constructing Coherent YouTube Video Sequences</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-straightforward-guide-for-instagram-chat-beginners/"><u>[Updated] In 2024, The Straightforward Guide for Instagram Chat Beginners</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-magical-sound-alteration-apps-for-your-device/"><u>[Updated] Magical Sound Alteration Apps for Your Device</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-obs-timer-mastery-building-a-custom-countdown-timer-for-2024/"><u>[Updated] OBS Timer Mastery  Building a Custom Countdown Timer for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-trends-and-techniques-for-skyrocketing-youtube-views/"><u>[Updated] Trends and Techniques for Skyrocketing YouTube Views</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-auditory-tranquility-techniques-to-achieve-gentle-sound-reduction/"><u>2024 Approved Auditory Tranquility Techniques to Achieve Gentle Sound Reduction</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-discover-the-highest-rated-mp3-recorders-for-both-pc-and-mac-environments/"><u>2024 Approved Discover the Highest-Rated MP3 Recorders for Both PC and Mac Environments</u></a></li>
-<li><a href="https://extra-information.techidaily.com/boost-your-competitive-edge-with-custom-vocal-alteration-techniques-in-free-fire-gaming-no-charge/"><u>Boost Your Competitive Edge with Custom Vocal Alteration Techniques in Free Fire Gaming (No Charge!)</u></a></li>
-<li><a href="https://article-files.techidaily.com/decoding-periscope-its-features-pricing-and-registration-guide-for-2024/"><u>Decoding Periscope  Its Features, Pricing & Registration Guide for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/expert-tips-download-youtube-playlists-in-minutes/"><u>Expert Tips  Download YouTube Playlists in Minutes</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expert-zoom-and-cut-companion-for-2024/"><u>Expert Zoom and Cut Companion for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-motorola-moto-e13-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Motorola Moto E13 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-your-honor-magic-5-lite-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Honor Magic 5 Lite Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/how-to-remove-image-background-in-photopea-for-2024/"><u>How to Remove Image Background In Photopea for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-ace-2v-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Ace 2V?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-accelerated-image-viewer-in-windows-environment/"><u>In 2024, Accelerated Image Viewer in Windows Environment</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-cutting-the-chatter-a-guide-to-isolating-and-removing-vocals-in-music-productions-using-audacity/"><u>In 2024, Cutting the Chatter A Guide to Isolating and Removing Vocals in Music Productions Using Audacity</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-nokia-c210-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Nokia C210 FRP?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-infinix-note-30-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Infinix Note 30? Fixed | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-locate-audiovisual-tap-noise-representation/"><u>In 2024, Locate Audiovisual Tap Noise Representation</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-mastering-audio-clarity-simplified-techniques-for-noise-elimination-in-audacity-and-filmorapro/"><u>In 2024, Mastering Audio Clarity Simplified Techniques for Noise Elimination in Audacity & FilmoraPro</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-xiaomi-redmi-note-13-pro-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Xiaomi Redmi Note 13 Pro 5G FRP</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/instantaneous-strategies-for-silencing-auditory-ground-hum/"><u>Instantaneous Strategies for Silencing Auditory Ground Hum</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/leading-music-editor-tools-ranked-windows-and-mac-edition-top-10-for-2024/"><u>Leading Music Editor Tools Ranked Windows & Mac Edition, Top 10 for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/maximize-visibility-with-well-structured-yt-summaries-for-2024/"><u>Maximize Visibility with Well-Structured YT Summaries for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-exploring-audio-representation-displaying-sound-waves-and-adding-animated-elements-to-your-projects-in-final-cut-pro/"><u>New 2024 Approved Exploring Audio Representation Displaying Sound Waves & Adding Animated Elements to Your Projects in Final Cut Pro</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-premier-insights-into-cutting-edge-music-video-production/"><u>New 2024 Approved Premier Insights Into Cutting-Edge Music Video Production</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-a-curated-selection-of-premium-websites-offering-bgm-compilation-for-2024/"><u>New A Curated Selection of Premium Websites Offering BGM Compilation for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-audiovisual-symphony-top-tunes-to-accompany-every-style-of-video-content-for-2024/"><u>New Audiovisual Symphony Top Tunes to Accompany Every Style of Video Content for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-5-leading-digital-audio-workstation-options-for-professional-guitarists-updated/"><u>New In 2024, 5 Leading Digital Audio Workstation Options for Professional Guitarists, Updated</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-merge-tune-with-gif-rendering-in-windows-environment/"><u>New In 2024, Merge Tune With GIF Rendering in Windows Environment</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-sovereign-soundstitcher-the-ultimate-mp3-merger-for-mac-techies/"><u>New Sovereign Soundstitcher - The Ultimate MP3 Merger for Mac Techies</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-techno-tranquility-a-curated-selection-of-websites-for-a-peaceful-mental-escape/"><u>New Techno Tranquility A Curated Selection of Websites for a Peaceful Mental Escape</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-5-most-advanced-tools-for-shaping-and-sculpting-sound-for-2024/"><u>New The 5 Most Advanced Tools for Shaping and Sculpting Sound for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-best-digital-audio-trimmer-tools-of-the-future/"><u>New The Best Digital Audio Trimmer Tools of the Future</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-editors-beat-pairing-visual-sequences-with-musical-tempo-using-adobe-premiere-pro-for-2024/"><u>New The Editors Beat Pairing Visual Sequences with Musical Tempo Using Adobe Premiere Pro for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-uncover-linguistic-groan-phenomenon/"><u>New Uncover Linguistic Groan Phenomenon</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/professionals-guide-to-the-top-vocal-dampening-software-for-musicians-and-producers/"><u>Professionals Guide to the Top Vocal Dampening Software for Musicians and Producers</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/step-by-step-voice-resonance-modification-using-filmora-for-2024/"><u>Step-by-Step Voice Resonance Modification Using Filmora for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unveiling-dji-phantom-3-a-complete-technical-review/"><u>Unveiling DJI Phantom 3  A Complete Technical Review</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-the-comprehensive-technique-for-merging-diverse-auditory-elements/"><u>Updated 2024 Approved The Comprehensive Technique for Merging Diverse Auditory Elements</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-auditory-alchemy-top-15-montage-soundtracks-adapting-to-varying-visual-media/"><u>Updated Auditory Alchemy Top 15 Montage Soundtracks Adapting to Varying Visual Media</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-essential-audio-recorders-the-top-mp3-software-compatible-with-pc-and-mac-os/"><u>Updated Essential Audio Recorders The Top MP3 Software Compatible with PC & Mac OS</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-from-apple-to-your-computer-establishing-a-connection-between-airpods-and-pcs/"><u>Updated From Apple to Your Computer Establishing a Connection Between AirPods and PCs</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-comprehensive-guide-to-popular-free-comedy-audio-tracks-for-filmmakers/"><u>Updated In 2024, Comprehensive Guide to Popular Free Comedy Audio Tracks for Filmmakers</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-explore-whispered-complaint-samples/"><u>Updated In 2024, Explore Whispered Complaint Samples</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-techniques-for-transforming-your-voice-pitch-and-quality/"><u>Updated Techniques for Transforming Your Voice Pitch and Quality</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-track-down-virtual-quest-music-and-effects/"><u>Updated Track Down Virtual Quest Music and Effects</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/where-can-i-find-cricket-sound-effect-in-2024/"><u>Where Can I Find Cricket Sound Effect, In 2024</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -204,3 +119,17 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-video-showdown-determining-the-best-among-obs-and-twitch-hubs/"><u>2024 Approved Video Showdown Determining the Best Among OBS and Twitch Hubs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-guide-to-navigating-facebooks-photo-search-functionality/"><u>A Comprehensive Guide to Navigating Facebook's Photo Search Functionality</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-vivo-t2-pro-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Vivo T2 Pro 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/innovation-at-the-heart-the-evolution-of-magix-music-maker/"><u>Innovation at the Heart The Evolution of Magix Music Maker</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-ultimate-guide-to-the-top-8-advanced-speech-recognition-tools-on-various-operating-systems/"><u>New The Ultimate Guide to the Top 8 Advanced Speech-Recognition Tools on Various Operating Systems</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-virtualdub-vs-the-competition-a-comprehensive-review-and-alternative-options-for-2024/"><u>New Virtualdub Vs. The Competition A Comprehensive Review and Alternative Options for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-leading-6-tools-for-transforming-your-audio-from-mp3-to-ogg-format-available-both-offline-and-online/"><u>The Leading 6 Tools for Transforming Your Audio From MP3 to OGG Format, Available Both Offline and Online</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-6-best-free-daw-software-for-beginners-to-use-for-2024/"><u>Updated 6 Best Free DAW Software for Beginners to Use for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-breathing-life-into-your-sound-a-comprehensive-guide-to-modifying-your-natural-voice-for-2024/"><u>Updated Breathing Life Into Your Sound A Comprehensive Guide to Modifying Your Natural Voice for 2024</u></a></li>
+</ul></div>
+

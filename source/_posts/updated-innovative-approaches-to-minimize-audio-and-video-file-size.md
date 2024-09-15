@@ -1,7 +1,7 @@
 ---
 title: Updated Innovative Approaches to Minimize Audio and Video File Size
-date: 2024-09-09T01:19:55.216Z
-updated: 2024-09-10T01:19:55.216Z
+date: 2024-09-11T01:36:08.992Z
+updated: 2024-09-14T17:39:51.195Z
 tags: 
   - audio editing software
   - audio editing
@@ -30,44 +30,14 @@ thumbnail: https://thmb.techidaily.com/e05f2d33f2fefb8dc7c06028c76750542668dde01
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Lower Volume of the Media Files Step by Step Guide
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1 Add media files you want to lower volume
 
  After downloading and running this program, click “Import” to begin importing the files. This process many take several seconds depending on the size of the media file. Then the file will appear in the “User’s Album” of program. Drag the imported file to the Timeline.
 
 ![lower volume](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2 Lower volume of the media files
 
  Double click the target file and the "Editing" Window will appear. Then switch to the "Audio" column, reduce volume by dragging the volume level slider left. Don't worry if you don't get the sound right the first time. You can reset the volume by clicking the "Reset" button. After adjusting the volume, click the play icon to listen to the effect.
@@ -77,22 +47,30 @@ thumbnail: https://thmb.techidaily.com/e05f2d33f2fefb8dc7c06028c76750542668dde01
 ![how to lower volume](https://images.wondershare.com/images/multimedia/video-editor/change-volume.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 3 Save the files
 
  Then hit the “Create” icon to save the edited files. You can save your files to different formats such as WMV, MOV, AVI, MKV, MP4 or save to play on different devices such as iPhone, iPad, PSP and Zune. To do this, switch to the related tab, enter the preset settings and press "Create" to begin the export. The exported file should have the same video, but with louder audio. You can also burn the files to DVD or directly upload to YouTube if you choose.
 
 ![software to lower volume](https://images.wondershare.com/images/multimedia/video-editor/apple-device.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  See, it's so easy to lower the volume of the media files. Besides this function, this powerful video editing tool also supports trimming, cropping, adding video effects and loads more. Now just download it and explore more features of it!
 
@@ -104,59 +82,11 @@ thumbnail: https://thmb.techidaily.com/e05f2d33f2fefb8dc7c06028c76750542668dde01
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-step-up-your-gameplay-with-these-5-best-rated-ps2-android-emulators/"><u>[New] 2024 Approved  Step Up Your Gameplay with These 5 Best-Rated PS2 Android Emulators</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-improve-browser-performance-fb-vids-chrome/"><u>[New] In 2024, Improve Browser Performance  FB Vids, Chrome</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-monetize-smart-a-creative-approach-to-earning-with-vimeo/"><u>[New] In 2024, Monetize Smart  A Creative Approach to Earning with Vimeo</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-get-smart-capturing-your-screen-in-minutes/"><u>[Updated] 2024 Approved  Get Smart  Capturing Your Screen in Minutes</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-innovative-recorder-software-top-10-of-this-year/"><u>[Updated] 2024 Approved  Innovative Recorder Software  Top 10 of This Year</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-transform-your-igtv-visuals-with-updated-covers/"><u>[Updated] 2024 Approved  Transform Your IGTV Visuals with Updated Covers</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-wholesome-wheezes-your-easy-peasy-meme-manual/"><u>[Updated] In 2024, Wholesome Wheezes  Your Easy-Peasy Meme Manual</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-viral-video-conversion-turning-tweets-into-free-gifs/"><u>[Updated] Viral Video Conversion  Turning Tweets Into Free GIFs</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-tecno-spark-10-4g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-digital-pixels-at-your-command-curve-artfully/"><u>2024 Approved  Digital Pixels at Your Command  Curve Artfully</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/are-product-critiques-online-generated-income-for-2024/"><u>Are Product Critiques Online Generated Income for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-m14-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy M14 5G to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-jovial-media-grabber-critique/"><u>In 2024, Jovial Media Grabber Critique</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-meizu-21-pro-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Meizu 21 Pro</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-the-art-of-simplification-streamlining-oversized-tiktok-archives/"><u>In 2024, Mastering the Art of Simplification  Streamlining Oversized TikTok Archives</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-realme-narzo-n53-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Realme Narzo N53 Device</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/mastering-video-captioning-on-youtube-for-2024/"><u>Mastering Video Captioning on YouTube for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-insiders-guide-to-audio-recordings-using-apowersoft-and-discovering-4-comparable-software-options/"><u>New The Insiders Guide to Audio Recordings Using Apowersoft & Discovering 4 Comparable Software Options</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-ultimate-visual-blueprint-for-memorable-podcast-graphics-for-2024/"><u>New The Ultimate Visual Blueprint for Memorable Podcast Graphics for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-zero-distraction-viewing-stripping-down-your-videos-acoustic-layers-for-2024/"><u>New Zero Distraction Viewing Stripping Down Your Videos Acoustic Layers for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/pitch-perfect-cleanup-the-best-affordable-applications-for-removing-unwanted-vocals/"><u>Pitch Perfect Cleanup The Best Affordable Applications for Removing Unwanted Vocals</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/premier-7-voice-silencers-seamless-clip-editing-online-and-offline/"><u>Premier 7 Voice Silencers Seamless Clip Editing Online & Offline</u></a></li>
-<li><a href="https://change-location.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Vivo X100? | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/sculpting-silence-and-sound-advanced-techniques-of-audio-ducking-for-visual-storytellers/"><u>Sculpting Silence and Sound Advanced Techniques of Audio Ducking for Visual Storytellers</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/superior-audio-format-changer-instant-mp3-creation-with-zero-hassle/"><u>Superior Audio Format Changer Instant MP3 Creation with Zero Hassle</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/synthesizing-soundscapes-the-definitive-list-of-the-best-7-daws-to-elevate-your-guitar-experience-for-2024/"><u>Synthesizing Soundscapes The Definitive List of the Best 7 DAWs to Elevate Your Guitar Experience for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/the-beat-architect-techniques-for-isolating-and-repurposing-kernels-in-audio-for-2024/"><u>The Beat Architect Techniques for Isolating and Repurposing Kernels in Audio for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/top-10-omegle-alternative-videochat-websites/"><u>Top 10 Omegle Alternative Videochat Websites</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/top-8-downloaded-audio-tracks-capturing-natural-precipitation-sounds-for-2024/"><u>Top 8 Downloaded Audio Tracks Capturing Natural Precipitation Sounds for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-exploring-the-leading-online-video-communication-apps-beyond-omegle-top-picks/"><u>Updated 2024 Approved Exploring the Leading Online Video Communication Apps Beyond Omegle Top Picks </u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-the-ultimate-pathway-to-uniform-audio-dynamics-in-three-steps/"><u>Updated 2024 Approved The Ultimate Pathway to Uniform Audio Dynamics in Three Steps</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-a-detailed-exploration-of-top-value-free-plugins-and-their-download-sources/"><u>Updated A Detailed Exploration of Top Value Free Plugins and Their Download Sources</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-cutting-edge-mobile-audio-tools-selecting-the-top-10-for-ios-and-android-devices-updated/"><u>Updated Cutting-Edge Mobile Audio Tools Selecting the Top 10 for iOS and Android Devices - Updated</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-discovering-top-10-budget-friendly-online-digital-audio-workstations-daws-for-2024/"><u>Updated Discovering Top 10 Budget-Friendly Online Digital Audio Workstations (DAWs) for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-harmonic-reduction-lowering-beat-rate-without-shifting-pitch-spectrum/"><u>Updated Harmonic Reduction Lowering Beat Rate Without Shifting Pitch Spectrum</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-beatmaking-breakdown-top-8-digital-audio-workstations-daws-for-mac-and-pc-enthusiasts/"><u>Updated In 2024, Beatmaking Breakdown Top 8 Digital Audio Workstations (DAWs) For Mac & PC Enthusiasts</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-elevate-your-media-incorporating-music-and-dialogue-into-android-videos/"><u>Updated In 2024, Elevate Your Media Incorporating Music and Dialogue Into Android Videos</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -164,3 +94,18 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-in-depth-slomo-video-software-review-year-2024/"><u>[New] In-Depth SloMo Video Software Review - Year 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/a-deep-dive-prodigious-polarrs-editing-capabilities-for-2024/"><u>A Deep Dive Prodigious Polarr's Editing Capabilities for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/identifying-real-vs-fake-chatgpt-for-windows-a-detailed-guide/"><u>Identifying Real Vs. Fake ChatGPT for Windows - A Detailed Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-perfect-chat-harmony-how-to-download-and-tailor-whatsapp-tones/"><u>In 2024, Perfect Chat Harmony How to Download and Tailor WhatsApp Tones</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-vanguard-visuals-ideal-notebooks-for-4k-editors-needs/"><u>In 2024, Vanguard Visuals Ideal Notebooks for 4K Editors' Needs</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-top-5-effects-for-reshaping-sound-tracks/"><u>New Top 5 Effects for Reshaping Sound Tracks</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/purr-fect-tone-simulation/"><u>Purr-Fect Tone Simulation</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-mp3-kitty-acoustic-trick-for-2024/"><u>Updated MP3 Kitty Acoustic Trick for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-realme-11-pro-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Realme 11 Pro Device</u></a></li>
+</ul></div>
+
