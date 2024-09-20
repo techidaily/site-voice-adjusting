@@ -1,7 +1,7 @@
 ---
 title: "Brighten Up Your Gameplay: Fixing the Dark Mode Bug in Call of Duty: WWII on Windows!"
-date: 2024-09-10T18:22:08.385Z
-updated: 2024-09-14T19:44:13.734Z
+date: 2024-09-12T18:47:01.647Z
+updated: 2024-09-20T09:04:39.833Z
 tags:
   - win11
   - win10
@@ -76,17 +76,25 @@ OR
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-424.png)
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-425.png)  
  You can do it for free if you like, but it’s partly manual.
 
- If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ### Fix 4: Reinstall your game
 
@@ -96,13 +104,6 @@ OR
 2. Type**appwiz.cpl** , then press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
 3. Delete Call of Duty: World War II (right click this game in the list and select**Uninstall** ).
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Download the game from where you purchased it.
 5. Try playing CoD: WWII and see if this fixes your black screen issue.
@@ -127,20 +128,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-melody-meets-picture-infuse-photos-with-free-audio-content/"><u>2024 Approved Melody Meets Picture Infuse Photos with Free Audio Content</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-sync-your-style-across-ios-and-android-with-a-customized-whatsapp-sound/"><u>2024 Approved Sync Your Style Across iOS and Android with a Customized WhatsApp Sound</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-7-note-taking-tools-ultimate-guide-for-ipad-and-ipad-pro-users/"><u>Best 7 Note-Taking Tools: Ultimate Guide for iPad & iPad Pro Users</u></a></li>
-<li><a href="https://driver-install.techidaily.com/direct-download-for-enhanced-windows-graphics/"><u>Direct Download for Enhanced Windows Graphics</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-the-error-shell32dll-file-not-located-in-windows-os/"><u>Fixing the Error: 'Shell32.dll File Not Located' In Windows OS</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Nokia G42 5G? | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-audacity-automation-implementing-auto-tune-effectively-in-your-projects/"><u>In 2024, Audacity Automation Implementing Auto-Tune Effectively in Your Projects</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-craft-a-memorable-first-snap-your-shorts-thumbnail-blueprint/"><u>In 2024, Craft a Memorable First Snap Your Shorts' Thumbnail Blueprint</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/leading-choices-unveiling-the-best-eight-mobile-gaming-experiences/"><u>Leading Choices: Unveiling the Best Eight Mobile Gaming Experiences</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-to-windows-11-search-backup-procedure/"><u>Navigate to Windows 11 Search Backup Procedure</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-perfect-pitch-control-the-ultimate-strategy-for-uniform-sound-amplitude-in-videos/"><u>New In 2024, Perfect Pitch Control The Ultimate Strategy for Uniform Sound Amplitude in Videos</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-silence-your-tiktok-sounds-quick-techniques-for-a-noiseless-experience-for-2024/"><u>New Silence Your TikTok Sounds Quick Techniques for a Noiseless Experience for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-quietude-creators-guide-methods-to-extract-silence-from-mp4-mkv-avi-mov-wmv-videos/"><u>Updated In 2024, Quietude Creators Guide Methods to Extract Silence From MP4, MKV, AVI, MOV, WMV Videos</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-mp4-file-editing-removing-sound-tracks-for-2024/"><u>Updated MP4 File Editing Removing Sound Tracks for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-the-insiders-path-to-high-quality-unobtrusive-musical-pairings-for-media-creation/"><u>Updated The Insiders Path to High-Quality Unobtrusive Musical Pairings for Media Creation</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-capturewiz-windows-10s-snapshot-hero/"><u>[New] 2024 Approved CaptureWiz Windows 10'S Snapshot Hero</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-efficiently-saving-your-screen-the-dell-approach-for-2024/"><u>[New] Efficiently Saving Your Screen The Dell Approach for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtubes-secrets-integrating-text-overlays-in-your-clips/"><u>[New] YouTube's Secrets Integrating Text Overlays in Your Clips</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-social-storytelling-revolutionized-for-no-charge-for-2024/"><u>[Updated] Social Storytelling Revolutionized for No Charge for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725285074641-winx-dvd-ripper/"><u>「パワフルコピーソフト必見: 評判のWinX DVD Ripperのダウンロード方法」</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-exploring-2023s-av-voice-modification-tools-reviews-and-alternatives/"><u>2024 Approved Exploring 2023S AV Voice Modification Tools Reviews & Alternatives</u></a></li>
+<li><a href="https://article-files.techidaily.com/explore-top-5-non-samsung-360-cameras-today/"><u>Explore Top 5 Non-Samsung 360 Cameras Today</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-eliminate-microsoft-offices-error-code-0x80041015/"><u>Guide to Eliminate Microsoft Office's Error Code 0X80041015</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-navigating-retro-facebook-stories-pcmobile-guide/"><u>In 2024, Navigating Retro Facebook Stories PC/Mobile Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-where-can-i-find-dog-sound-effects/"><u>New 2024 Approved Where Can I Find Dog Sound Effects?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-windows-10s-video-creation-capabilities-for-2024/"><u>The Ultimate Guide to Windows 10'S Video Creation Capabilities for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-how-to-add-photos-to-audio/"><u>Updated 2024 Approved How to Add Photos to Audio</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-the-artisans-of-cinematic-magic-unveiling-every-roles-importance-in-movie-creation/"><u>Updated 2024 Approved The Artisans of Cinematic Magic Unveiling Every Roles Importance in Movie Creation</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Error Code 0X00001338 in Call of Duty Vanguard - Fixed Steps on Windows
-date: 2024-09-11T21:54:13.595Z
-updated: 2024-09-14T18:21:11.799Z
+date: 2024-09-13T06:16:52.747Z
+updated: 2024-09-19T21:10:22.269Z
 tags:
   - win11
   - win10
@@ -71,6 +71,13 @@ OR
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Rename the file folder
 
  A few gamers indicate renaming the modern warfare files would fix the Warzone Pacific crashing issue. Also, check MW file location and check the data folder for any corrupted files making the game unstable. You’d better back up data before trying this method. Because it will wipe all your in-game settings.
@@ -82,13 +89,6 @@ OR
 5. Launch Warzone Pacific to check if the issue persists.
 
  If this method doesn’t resolve the issue, you can restore the changes with the backup.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Change the in-game settings
 
@@ -110,27 +110,14 @@ If it fixes the issue then slowly increase your graphics settings.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-20_18-43-03.jpg)
 3. Set**View by Category** . Click**Uninstall the program** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-20_18-43-17.jpg)
 4. Find MW and Battle.net. Right-click on it and click**Unistall/Change** .  
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-20_18-44-15.jpg)
@@ -140,10 +127,16 @@ If it fixes the issue then slowly increase your graphics settings.
 8. Relaunch the game.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Repair system files
@@ -156,6 +149,14 @@ If it fixes the issue then slowly increase your graphics settings.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -182,20 +183,19 @@ If it fixes the issue then slowly increase your graphics settings.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-elevate-videography-the-right-aspect-ratio-knowledge/"><u>[New] Elevate Videography The Right Aspect Ratio Knowledge</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-ignite-your-brands-success-with-a-10-step-blueprint-for-smm-dominance-for-2024/"><u>[New] Ignite Your Brand's Success with a 10-Step Blueprint for SMM Dominance for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-conquer-video-editing-on-pclaptop-with-inshot-for-2024/"><u>[Updated] Conquer Video Editing on PC/Laptop with Inshot for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harmonizing-iphone-footage-like-a-pro/"><u>[Updated] Harmonizing iPhone Footage Like a Pro</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-top-10-windows-compatible-speech-recognition-tools/"><u>2024 Approved Top 10 Windows-Compatible Speech Recognition Tools</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-new-dimensions-of-sound-best-free-valorant-audio-alterer-revealed/"><u>2024 Approved Unlock New Dimensions of Sound Best Free Valorant Audio Alterer Revealed</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-rtx-2060-super-drivers-compatible-with-windows-11-free-download/"><u>Get Your RTX 2060 Super Drivers Compatible with Windows 11 - Free Download</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-itel-p40-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Itel P40? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-oppo-a79-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Oppo A79 5G FRP?</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-final-cut-pro-wizardry-incorporating-lifelike-audio-waveforms-and-animation-into-your-video-edits/"><u>New 2024 Approved Final Cut Pro Wizardry Incorporating Lifelike Audio Waveforms and Animation Into Your Video Edits</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-linking-your-apple-earphones-to-your-personal-computer-for-2024/"><u>New Linking Your Apple Earphones to Your Personal Computer for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-synchronizing-audio-with-visual-media-the-quicktime-method/"><u>New Synchronizing Audio with Visual Media The QuickTime Method</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-efficient-techniques-for-removing-audible-elements-from-windows-10-video-content-no-cost-involved/"><u>Updated In 2024, Efficient Techniques for Removing Audible Elements From Windows 10 Video Content (No Cost Involved)</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-silencing-audio-in-mp4-format-a-step-by-step-guide/"><u>Updated In 2024, Silencing Audio in MP4 Format A Step-by-Step Guide</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-where-can-i-find-angry-dog-bark-effect/"><u>Updated In 2024, Where Can I Find Angry Dog Bark Effect?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-cloaking-details-in-visual-data-storage/"><u>[New] Cloaking Details in Visual Data Storage</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-disabling-and-erasing-your-old-unused-linkedin-profile/"><u>[New] Disabling and Erasing Your Old, Unused LinkedIn Profile</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guidelines-to-broaden-youtube-content-area/"><u>[New] Guidelines to Broaden YouTube Content Area</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/outube-video-ranking-what-factors-affect-your-rank-for-2024/"><u>[New] YouTube Video Ranking - What Factors Affect Your Rank for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-effortlessly-turn-off-zoom-audio-a-comprehensive-guide-for-tech-savvy-users/"><u>2024 Approved Effortlessly Turn Off Zoom Audio A Comprehensive Guide for Tech-Savvy Users</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-where-can-i-find-bell-sound-effect/"><u>2024 Approved Where Can I Find Bell Sound Effect?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/crafting-a-verified-instagram-account-essential-actions-for-rapid-follower-expansion/"><u>Crafting a Verified Instagram Account Essential Actions for Rapid Follower Expansion</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-your-email-experience-with-the-release-of-thunderbird-52-from-mozilla/"><u>Enhance Your Email Experience with the Release of Thunderbird 52 From Mozilla</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-samsung-galaxy-s21-fe-5g-2023-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Samsung Galaxy S21 FE 5G (2023) Device</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-ultimate-guide-to-pre-processing-tracks-using-lame-and-audacity/"><u>In 2024, The Ultimate Guide to Pre-Processing Tracks Using Lame & Audacity</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/1714937844614-new-in-2024-how-to-add-audio-fade-in-effect/"><u>New In 2024, How to Add Audio Fade In Effect?</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/reinventing-your-avatar-a-detailed-guide-to-changing-tiktok-handle/"><u>Reinventing Your Avatar A Detailed Guide to Changing TikTok Handle</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-mastering-the-art-of-custom-ringtone-creation/"><u>Updated Mastering the Art of Custom Ringtone Creation</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/windows-best-video-conferencing-apps-2-1/"><u>Windows' Best Video Conferencing Apps, #2-#1</u></a></li>
 </ul></div>
 
