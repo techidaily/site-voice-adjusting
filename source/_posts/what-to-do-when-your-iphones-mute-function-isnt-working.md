@@ -1,7 +1,7 @@
 ---
 title: What To Do When Your iPhone's Mute Function Isn't Working
-date: 2024-09-09T19:15:04.035Z
-updated: 2024-09-14T20:03:23.198Z
+date: 2024-09-21T17:11:11.380Z
+updated: 2024-09-26T09:29:36.243Z
 tags:
   - iphone
   - apple
@@ -65,9 +65,23 @@ Close
 
 ![customizing AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![adding a new button to the AssistiveTouch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-3.jpg)
 
 ![selecting Mute action for the new AssistiveTouch button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Mute action in AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-5.jpg)
 
@@ -92,6 +106,13 @@ Close
 
  Once set up, muting and unmuting your iPhone should be even easier. Simply perform the gesture to which you've assigned the Mute action, and it'll mute the device. Repeat it again to unmute.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Mute or Unmute iPhone Using Back Tap
 
  AssistiveTouch used to be the only way to mute or unmute your iPhone when the Ring/Silent switch stopped working for the longest time. And sure, it works fine and gets the job done, but for some, it isn't aesthetically pleasing to have the button on the screen at all times.
@@ -105,6 +126,19 @@ Close
 
 ![Back Tap feature under Touch Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
  Once you're in the Back Tap accessibility menu, you can choose a couple of options:
@@ -114,27 +148,20 @@ Close
 
 ![Back Tap gesture options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-3.jpg)
 
-![setting Mute action to a Back Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-4.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![setting Mute action to a Back Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-4.jpg)
 
 Close
 
  Now, whenever you want to mute your iPhone, simply perform the double-tap or triple-tap gesture on the back of your iPhone. To unmute it, perform the same gesture again.
 
  With certain iPhone cases, especially thicker ones, you might need to tap harder for the iPhone to register your taps and trigger the action.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Broken iPhone Ring/Silent Switch? No Problem
 
@@ -155,5 +182,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/1716069383236-new-in-2024-a-stepwise-approach-for-creating-an-interactive-skype-conversation-among-users-from-multiple-operating-systems/"><u>[New] In 2024, A Stepwise Approach for Creating an Interactive Skype Conversation Among Users From Multiple Operating Systems.</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-quick-vid-overview-top-tips-and-facts-now/"><u>[New] Quick Vid Overview Top Tips & Facts Now</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-full-screen-obs-complication-overcome/"><u>[Updated] Full Screen OBS Complication Overcome</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-steams-remote-play-glitches-quick-and-easy-tips/"><u>Fixing Steam's Remote Play Glitches – Quick and Easy Tips!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/o-make-money-on-youtube/"><u>How To Make Money on YouTube</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-harness-canons-power-explore-10-basic-free-luts-and-more/"><u>In 2024, Harness Canon's Power Explore 10 Basic Free LUTs and More</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-unlocking-creative-power-in-logic-pro-x-with-these-top-8-plugins/"><u>New Unlocking Creative Power in Logic Pro X with These Top 8 Plugins</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/optimizing-flight-a-list-of-essential-drone-accessories-for-2024/"><u>Optimizing Flight A List of Essential Drone Accessories for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/removing-audio-from-video-online-5-ways-for-2024/"><u>Removing Audio From Video Online 5 Ways for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/sounds-of-success-unveiling-the-top-8-cinematic-audio-wonders-for-2024/"><u>Sounds of Success Unveiling the Top 8 Cinematic Audio Wonders for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-premier-pop-chorus-and-rhythm-compilation-for-cinematic-vignettes-for-2024/"><u>The Premier Pop Chorus and Rhythm Compilation for Cinematic Vignettes for 2024</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/top-3-livres-de-extracao-de-dvd-para-windows-1111-software-gratuitos-e-completos-baixe-agora/"><u>Top 3 Livres De Extração De DVD Para Windows 11/11: Software Gratuitos E Completos – Baixe Agora!</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-reaping-the-digital-rewards-top-10-plugin-essentials-for-streamlined-editing-workflows/"><u>Updated 2024 Approved Reaping the Digital Rewards Top 10 Plugin Essentials for Streamlined Editing Workflows</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-the-ultimate-vocal-evasion-software-catalog-essential-applications-for-singers-recording-studios-and-beyond/"><u>Updated 2024 Approved The Ultimate Vocal Evasion Software Catalog Essential Applications for Singers, Recording Studios, & Beyond</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-a-step-by-step-guide-to-crafting-professional-level-android-media-with-audio-integration/"><u>Updated In 2024, A Step-by-Step Guide to Crafting Professional-Level Android Media With Audio Integration</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-from-camera-to-computer-editing-nikon-videos-with-confidence/"><u>Updated In 2024, From Camera to Computer Editing Nikon Videos with Confidence</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solving Far Cry 6 Display Glitches: Overcoming Black Screen Setbacks"
-date: 2024-09-12T22:30:53.910Z
-updated: 2024-09-19T17:30:17.793Z
+date: 2024-09-21T18:01:22.890Z
+updated: 2024-09-26T07:05:25.504Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Run Fallout 4 as Compatibility mode
 
  Run Fallout 4 in compatibility mode is a way to solve many problems. This Fallout 4 black screen error may be caused by the incompatibility with the system. So change the compatibility mode may help you solve the issue.
@@ -40,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 3. Click **OK** then run Fallout 4 to check.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update Graphics Card Drivers
 
@@ -58,10 +72,16 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Edit configuration files
@@ -90,10 +110,10 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 3. Tick the**Windowed Mode** and**Borderless** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Click**Advanced** . Lower the settings and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.2.jpg)
@@ -127,5 +147,20 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-essential-tips-for-adding-text-on-digital-images-for-2024/"><u>[New] Essential Tips for Adding Text on Digital Images for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-rotating-reality-in-images-mastering-the-art-of-spinning-visual-content-for-maximum-impact-on-social-media-platforms/"><u>[Updated] 2024 Approved Rotating Reality in Images Mastering the Art of Spinning Visual Content for Maximum Impact on Social Media Platforms</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-dissecting-sound-forge-an-experts-guide-to-audio-mastery/"><u>2024 Approved Dissecting Sound Forge An Experts Guide to Audio Mastery</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-elevate-your-edits-pro-level-photo-color-techniques/"><u>2024 Approved Elevate Your Edits Pro-Level Photo Color Techniques</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-asus-rog-phone-7-ultimate-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Asus ROG Phone 7 Ultimate to Roku | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expedited-photographic-viewing-in-windows-10/"><u>In 2024, Expedited Photographic Viewing in Windows 10</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/inside-look-at-nhl-19-digital-play-a-game-reviewers-perspective/"><u>Inside Look at NHL '19 Digital Play: A Game Reviewer’s Perspective</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-through-digital-platforms-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Navigating Through Digital Platforms: A Guide to Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-unveiling-the-secrets-a-guide-to-7-exceptional-transition-audio-files-complimentary/"><u>New 2024 Approved Unveiling the Secrets A Guide to 7 Exceptional Transition Audio Files (Complimentary)</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-directory-of-free-non-copyrighted-background-song-sources-for-2024/"><u>New Directory of Free, Non-Copyrighted Background Song Sources for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-harmonyvoices-mastering-cross-platform-audio-synchronization-in-adobe-premiere-pro/"><u>New HarmonyVoices Mastering Cross-Platform Audio Synchronization in Adobe Premiere Pro</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/transforma-tu-video-gratuito-convertir-3gp-a-avi-sin-esfuerzo-mediante-movavi-en-linea/"><u>Transforma Tu Vídeo Gratuito: Convertir 3GP a AVI Sin Esfuerzo Mediante Movavi en Línea</u></a></li>
+</ul></div>
 

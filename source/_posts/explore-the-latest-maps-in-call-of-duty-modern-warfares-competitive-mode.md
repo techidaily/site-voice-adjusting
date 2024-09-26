@@ -1,7 +1,7 @@
 ---
 title: "Explore the Latest Maps in Call of Duty: Modern Warfare's Competitive Mode"
-date: 2024-09-19T02:56:59.569Z
-updated: 2024-09-20T03:25:09.272Z
+date: 2024-09-20T01:56:09.038Z
+updated: 2024-09-26T01:36:01.783Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ Your Modern Warfare crashing can be caused by the following issues:
 7. **[Disable Discord in-game overlay](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Change Priority](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Repair your system files](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Close all background Apps and repair your game
 
@@ -100,15 +107,22 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/texture-resolution-to-normal-or-high-1200x628.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can keep everything else on the lowest settings, except Texture Filter Anisotropic on High. Also, make sure to turn off**Sync Every Frame (V-Sync)** , which is best left off within games.
 
 Play Modern Warfare again to see if the crashing issue persists.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Scan and Repair your game
@@ -118,6 +132,13 @@ Play Modern Warfare again to see if the crashing issue persists.
  If you’re on**Steam** : go to your game library and right-click Call of Duty: Modern Warfare and select**Properties** . Then go to the**Local Files** tab and click**Verify Integrity of Game Files** .
 
  If you’re on**Blizzard Battle.net** , you can locate Modern Warfare and click**Options** \>**Scan and Repair** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Stop Overclocking
 
@@ -143,21 +164,7 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/turn-off-vertical-sync.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Try launching your game again to check if Modern Warfare crashes persist. If this doesn’t work, you can try these settings that work fine for other players on[Reddit](https://www.reddit.com/r/modernwarfare/comments/duev1r/crash%5Ffixes%5Ffor%5Fnvidia%5Fusers%5Fon%5Fpc/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Disable Discord in-game overlay
 
@@ -170,6 +177,13 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 3) Toggle off**Enable in-game overlay** .
 
  If you want to disable in-game overlay just for Call of Duty: Modern Warfare, go to the**Games Activity** tab and toggle off Call of Duty: Modern Warfare.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Change Priority
 
@@ -184,13 +198,6 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/priority.jpg)
 
  4) When prompted for permission to make changes, select**Change Priority** .
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 9\. Repair your system files
 
@@ -207,6 +214,13 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/FORTECTLOG.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Fortect** Windows Repair is tailored to your specific system and is working in a private and automatic way. It will first check hardware-related issues to identify problems, and then security issues (powered by Avira Antivirus), and finally it detects programs that crash, missing system files. Once complete, it will find a solution to your specific problem.
 
  Fortect is a trusted repair tool and it will do no harm to your PC. The best part is that you won’t need to worry about losing any programs and your personal data.
@@ -218,6 +232,13 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
  3) You’ll see the summary of detected issues on your PC. Click **Start Repair** and all the issues will be fixed automatically. (You’ll need to purchase the full version which comes with full technical support. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Option 2 – Manually
 
@@ -240,19 +261,6 @@ sfc /scannow
  3) System File Check will begin to scan all system files and repair any corrupted or missing ones it detected. This may take 3-5 minutes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) You may receive something like the following messages after the verification.
 
@@ -308,5 +316,21 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-eliminate-payment-for-cam-screen-recording-a-comparative-study/"><u>[New] In 2024, Eliminate Payment for Cam Screen Recording – A Comparative Study</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-active-screen-capture-pro-does-it-reign-supreme-for-2024/"><u>[Updated] Active Screen Capture Pro Does It Reign Supreme for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-audio-editing-techniques-for-mp4-files/"><u>2024 Approved Audio Editing Techniques for MP4 Files</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-maximum-value-in-cloud-storage-top-30-pickups-for-1tbplus/"><u>2024 Approved Maximum Value in Cloud Storage Top 30 Pickups for 1TB+</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enhance-your-broadcasts-using-manycam-the-ultimate-software-for-virtual-webcams/"><u>Enhance Your Broadcasts Using ManyCam - The Ultimate Software for Virtual Webcams</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/fullview-media-collaboration-guidebook-for-2024/"><u>FullView Media Collaboration Guidebook for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-exploring-audio-resources-for-video-game-creators/"><u>In 2024, Exploring Audio Resources for Video Game Creators</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-mastering-clean-audio-tactics-to-eradicate-background-noise/"><u>In 2024, Mastering Clean Audio Tactics to Eradicate Background Noise</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-singers-guide-to-cinematic-vocal-projection-using-filmora/"><u>In 2024, The Singers Guide to Cinematic Vocal Projection Using Filmora</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-cutting-edge-techniques-for-pitch-modification-in-audacity-keeping-the-sound-crisp/"><u>New 2024 Approved Cutting-Edge Techniques for Pitch Modification in Audacity Keeping the Sound Crisp</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-premiere-pairing-programs-ultimate-beat-match-video-editor-companion-2023/"><u>New Premiere Pairing Programs Ultimate Beat Match Video Editor Companion, 2023</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-your-speaker-performance-on-windows-117-tackling-audio-distortion-head-on/"><u>Optimizing Your Speaker Performance on Windows 11/7: Tackling Audio Distortion Head-On</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/social-media-savvy-unlock-the-secrets-of-crafting-winning-bios-on-facebook/"><u>Social Media Savvy Unlock the Secrets of Crafting Winning Bios on Facebook</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/unlocking-secrets-a-comprehensive-tutorial-on-drm-extraction-for-your-ebook-chapters-15-and-17/"><u>Unlocking Secrets: A Comprehensive Tutorial on DRM Extraction for Your eBook, Chapters 15 & 17</u></a></li>
+</ul></div>
 

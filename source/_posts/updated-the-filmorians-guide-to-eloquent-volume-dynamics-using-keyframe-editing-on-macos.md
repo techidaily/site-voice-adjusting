@@ -1,7 +1,7 @@
 ---
 title: Updated The Filmorians Guide to Eloquent Volume Dynamics Using Keyframe Editing on macOS
-date: 2024-09-17T04:50:14.285Z
-updated: 2024-09-20T06:51:48.253Z
+date: 2024-09-23T18:35:37.552Z
+updated: 2024-09-26T02:14:18.911Z
 tags: 
   - audio editing software
   - audio editing
@@ -52,6 +52,13 @@ Now, click on the keyframe icon on the left side panel, make the volume adjustme
 
 To add the second **audio keyframe**, move the playhead to the desired spot, and once done, perform step 3 again.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Modify Audio Keyframes in Filmora for Mac?
 
 Not only adding an **audio keyframe** is possible in Wondershare Filmora for Mac, but modifying or **adjust the audio** keyframe is possible as well.
@@ -78,6 +85,13 @@ If you want to lower the volume of other clips in the video, you can use the “
 
 It’s not just one, but Filmora offers five attractive choices to modify the created **audio keyframe**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: How to Fade In/Out Audio with Keyframes in Filmora for Mac?
 
 Now that you are familiar with the method to add **Filmora keyframes** for audio and modifying them, here is a particular part of how you can **fade audio with keyframes**. As it is a special effect with audio keyframe, we have framed a special session with the two methods offered by Wondershare Filmora for Mac.
@@ -96,10 +110,10 @@ Now that you are familiar with the method to add **Filmora keyframes** for audio
 * Dragging the **fade audio in the** handle at the beginning of the clip will impose the effect and set its duration automatically. Pulling the **fade audio out** handle at the end of the clip will impose the fade-out effect.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -109,10 +123,10 @@ No doubt, Wondershare Filmora is the best choice to carry over your **audio keyf
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -128,5 +142,19 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-exploring-the-unspoken-rules-of-instagram-mastery/"><u>[New] In 2024, Exploring the Unspoken Rules of Instagram Mastery</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-picture-in-picture-unveiled-your-guide-to-firefoxs-pip-for-2024/"><u>[Updated] Picture-in-Picture Unveiled Your Guide to Firefox’s PIP for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-oppo-a78-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Oppo A78 Phone When You Forget the Password</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/capture-and-save-your-beloved-vlive-performances-without-cost-learn-how-here/"><u>Capture and Save Your Beloved VLive Performances Without Cost - Learn How Here!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/clarity-in-chaos-explaining-generative-ai/"><u>Clarity in Chaos: Explaining Generative AI</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-vivo-v29-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-voice-tracking-vaults-discover-the-top-10-free-sound-resource-pages-of-today/"><u>In 2024, Voice-Tracking Vaults Discover the Top 10 Free Sound Resource Pages of Today</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/insight-into-the-progressive-developments-of-nero-waveedit/"><u>Insight Into the Progressive Developments of Nero WaveEdit</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-ultimate-list-of-8-chromebook-compatible-digital-audio-workstations-for-composers-and-producers/"><u>New 2024 Approved The Ultimate List of 8 Chromebook-Compatible Digital Audio Workstations for Composers and Producers</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-achieving-superior-sound-in-mp4-videos-a-comprehensive-guide-for-2024/"><u>New Achieving Superior Sound in MP4 Videos A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unseen-marvels-of-vr-elite-headset-comparisons/"><u>Unseen Marvels of VR Elite Headset Comparisons</u></a></li>
+</ul></div>
 

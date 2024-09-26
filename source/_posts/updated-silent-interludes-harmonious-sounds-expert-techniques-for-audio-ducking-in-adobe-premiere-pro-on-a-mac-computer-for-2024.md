@@ -1,7 +1,7 @@
 ---
 title: Updated Silent Interludes, Harmonious Sounds Expert Techniques for Audio Ducking in Adobe Premiere Pro on a Mac Computer for 2024
-date: 2024-09-16T03:56:04.954Z
-updated: 2024-09-19T16:11:50.597Z
+date: 2024-09-20T00:53:06.734Z
+updated: 2024-09-26T01:15:38.546Z
 tags: 
   - audio editing software
   - audio editing
@@ -56,11 +56,25 @@ Great! You can now preview the changes you have made and check the audio ducking
 
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
 
 As you can see, the Premiere Pro audio ducking feature can get a bit complicated if you are a beginner. Therefore, if you are looking for a simpler and more effective automatic ducking solution, then use Wondershare Filmora. This intuitive and diverse video/audio editing tool has an automatic audio ducking option that would make your job a whole lot easier.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
 
@@ -88,6 +102,13 @@ Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -101,12 +122,20 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-the-art-of-polishing-and-personalizing-drone-videos/"><u>[Updated] 2024 Approved The Art of Polishing and Personalizing Drone Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-prime-6-sleek-designs-in-virtual-houses-for-2024/"><u>[Updated] Prime 6 Sleek Designs in Virtual Houses for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-office-productivity-how-to-integrate-chatgpt-into-your-daily-routine/"><u>Boosting Office Productivity: How to Integrate ChatGPT Into Your Daily Routine</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-samsung-galaxy-a23-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Samsung Galaxy A23 5G</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-correcting-your-hp-computers-video-card-drivers-on-various-versions-of-microsoft-windows/"><u>Guide: Correcting Your HP Computer's Video Card Drivers on Various Versions of Microsoft Windows</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-13-mini-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 13 mini When Its Locked Within Seconds</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-tecno-camon-30-pro-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Tecno Camon 30 Pro 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-precision-in-production-leveraging-audio-ducking-in-powerdirector-for-tactful-music-volume-reduction/"><u>New Precision in Production Leveraging Audio Ducking in PowerDirector for Tactful Music Volume Reduction</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-essential-handbook-to-audio-timeline-control-mastering-keyframe-creation-and-editing-in-adobe-premiere-pro-mac-for-2024/"><u>New The Essential Handbook to Audio Timeline Control Mastering Keyframe Creation and Editing in Adobe Premiere Pro (Mac) for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/speaking-to-the-future-identifying-the-top-10-advanced-ios-voice-recorders-for-2024/"><u>Speaking to the Future Identifying the Top 10 Advanced iOS Voice Recorders for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-ultimate-podcast-recording-playbook-a-seamless-process/"><u>The Ultimate Podcast Recording Playbook A Seamless Process</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/unveiling-the-secrets-a-guide-to-7-exceptional-transition-audio-files-complimentary/"><u>Unveiling the Secrets A Guide to 7 Exceptional Transition Audio Files (Complimentary)</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-adjusting-audio-levels-in-digital-recordings/"><u>Updated In 2024, Adjusting Audio Levels in Digital Recordings</u></a></li>
+</ul></div>
 

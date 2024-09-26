@@ -1,7 +1,7 @@
 ---
 title: "Smooth Gaming Experience Achieved: Cyberpunk 2077'S Lag and Stuttering Solved!"
-date: 2024-09-14T23:30:31.006Z
-updated: 2024-09-19T16:16:15.682Z
+date: 2024-09-18T21:43:31.166Z
+updated: 2024-09-25T19:05:20.678Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ Cyperpunk 2077 has been out for a while now, and there’re still reports about 
 4. [**Install all Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Enable HAGS (hardware-accelerated GPU scheduling)**](https://www.drivereasy.com/knowledge/solved-cyberpunk-2077-fps-drops/#fix5)
 6. **[Change in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your specs meet the requirements
 
@@ -65,10 +72,26 @@ Here’s how:
 1. On your keyboard, press**Win+R** (the Windows logo key and the r key) at the same time to invoke the Run box. Type **powercfg.cpl**  and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select **Ultimate Performance** . If you don’t see this power plan, simply continue to the next step to unhide it.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press the **Windows logo key** and type **cmd** . Select **Run as Administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press **Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this, **return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
@@ -78,10 +101,10 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
  if this trick doesn’t give you luck, you can move on to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -111,6 +134,14 @@ First visit the website of your graphics card manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -137,6 +168,19 @@ And here’s a simple guide for that:
 
  If this method doesn’t help you, take a look at the next one below.
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Enable HAGS (hardware-accelerated GPU scheduling)
 
  The 2004 version of Windows 10 comes with a new feature called **Hardware-accelerated GPU scheduling** , which will possibly improve applications performance.
@@ -149,31 +193,32 @@ And here’s enable HAGS:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-02.jpg)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn on **Hardware-accelerated GPU scheduling** .  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-4.jpg)
 5. Restart your PC for the changes to take effect.
 
 Now you can launch Cyberpunk 2077 and check the gameplay.
 
  If enabling HAGS doesn’t do the trick for you, you can continue to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Lower your in-game settings
 
@@ -187,22 +232,8 @@ To change the in-game graphics settings, simply follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-2.jpg)
 3. Under the**Miscellaneous** section, set**Enable Analytics** to**OFF** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-3.jpg)
 4. Navigate to the**GRAPHICS** tab. Under the**Basic** section, set both**Film Grain** and**Chromatic Aberration** to**OFF** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-4.jpg)
 5. The next two settings are optional. You can try turning off**Ray Tracing** and see if it improves the performance.**DLSS** is a new RTX technology that uses AI to boost your FPS. (Sounds fancy.) You can try setting it to**Performance** or**Ultra Performance** and see if it really helps. (Doing so might make the game seem blurry.)  
@@ -227,5 +258,26 @@ To change the in-game graphics settings, simply follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-bypassing-tiktoks-watermarking-for-iphones-how-to-guide/"><u>[New] 2024 Approved Bypassing TikTok's Watermarking for iPhones – How-To Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-effective-approaches-to-capturing-high-def-live-games/"><u>[New] In 2024, Effective Approaches to Capturing High-Def Live Games</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-gently-lower-volume-without-distortion/"><u>[Updated] How to Gently Lower Volume Without Distortion</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-adobe-audition-expertise-eliminating-unwanted-sounds-and-noise/"><u>2024 Approved Adobe Audition Expertise Eliminating Unwanted Sounds and Noise</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevate-your-brand-with-these-biz-channel-standouts/"><u>Elevate Your Brand with These Biz Channel Standouts</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-best-performing-intel-network-driver-for-windows-computers-here/"><u>Get the Best Performing Intel Network Driver for Windows Computers Here</u></a></li>
+<li><a href="https://article-files.techidaily.com/mastering-the-art-of-photo-color-correction/"><u>Mastering the Art of Photo Color Correction</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-discovering-tools-to-emulate-natural-human-digestive-resonances-in-media-projects/"><u>New Discovering Tools to Emulate Natural Human Digestive Resonances in Media Projects</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-how-to-install-and-use-autotune-in-audacity-for-2024/"><u>New How to Install and Use Autotune in Audacity for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-how-to-add-video-and-audio-transition-between-scenesclips/"><u>New In 2024, How to Add Video and Audio Transition Between Scenes/Clips</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-pursuit-of-pristine-sounds-a-complete-guide-to-utilizing-adobe-auditions-noise-reduction-features/"><u>New The Pursuit of Pristine Sounds A Complete Guide to Utilizing Adobe Auditions Noise Reduction Features</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/normalizing-volume-in-vlc-a-step-by-step-guide/"><u>Normalizing Volume in VLC A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/orchestrate-audio-amidst-slides/"><u>Orchestrate Audio Amidst Slides</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/premiere-mixer-expert-for-windows-10-ecosystems-for-2024/"><u>Premiere Mixer Expert for Windows 10 Ecosystems for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/streamlined-methods-for-obtaining-pitched-ding-sound-files-online-the-top-10-list-for-2024/"><u>Streamlined Methods for Obtaining Pitched Ding Sound Files Online - The Top 10 List for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/uncover-8-proven-services-for-effective-content-marketing-for-2024/"><u>Uncover 8 Proven Services for Effective Content Marketing for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-the-spectrum-of-hand-tracking-technologies/"><u>Unveiling the Spectrum of Hand Tracking Technologies</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-audio-transformation-made-simple-an-instructional-guide-on-altering-speed-and-pitch-through-digital-platforms/"><u>Updated In 2024, Audio Transformation Made Simple An Instructional Guide on Altering Speed & Pitch Through Digital Platforms</u></a></li>
+<li><a href="https://driver-download.techidaily.com/vvtvli-systems-variable-valve-timing-and-lift-systems-adjust-the-opening-and-closing-of-intake-and-exhaust-valves-improving-engine-breathing-for-better-powe164/"><u>VVT/VLI Systems: Variable Valve Timing and Lift Systems Adjust the Opening and Closing of Intake and Exhaust Valves, Improving Engine Breathing for Better Power and Efficiency Across Different Speeds and Loads.</u></a></li>
+</ul></div>
 
