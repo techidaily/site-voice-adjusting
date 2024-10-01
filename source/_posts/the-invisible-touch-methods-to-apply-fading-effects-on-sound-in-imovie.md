@@ -1,7 +1,7 @@
 ---
 title: The Invisible Touch Methods to Apply Fading Effects on Sound in iMovie
-date: 2024-08-03T01:45:24.154Z
-updated: 2024-08-04T01:45:24.154Z
+date: 2024-09-26T09:54:52.079Z
+updated: 2024-09-30T20:32:05.781Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/3a8d29dc752129bc6cecd890184a07ba60927370b
 
 # How to Fade Music and Audio in iMovie on Mac?
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -54,6 +51,13 @@ After adding the fade-in and fade-out effects to your video, let's check how to 
 
 There are two ways available to fade music and audio with iMovie. One is using the fade handles, and the other is using the audio inspector. Before using iMovie audio fade-out effects, please import your video and audio files to iMovie and start a new project.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Use Fade Handles to Add Fade in/Fade out Effect in iMovie
 
 Firstly, let's take a look at the video below to check how to fade audio in/out the audio in iMovie with fade handles.
@@ -62,10 +66,6 @@ Firstly, let's take a look at the video below to check how to fade audio in/out 
 
 When the project opens, check "Show Waveforms" at the bottom of the Project window.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![Show Audio Waveforms -iMovie](https://images.wondershare.com/filmora/article-images/show-waveforms-imovie.jpg)
 
 **Note:** The Blue waveforms indicate the sound recorded within your video clips. Green and purple waveforms indicate sounds and music you’ve added to your project.
@@ -74,19 +74,12 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 Move the pointer over a waveform, and drag the small gray fade handle at the left of the clip to adjust the fade audio in effect. Then drag the small fade handle at the right of the clip to adjust the fade-out effect.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![iMovie fade in audio pointer](https://images.wondershare.com/filmora/article-images/imovie-audio-fade-in-pointer.jpg)
 
 #### Step 3. Playback to Check
 
 Move the playhead to the beginning part of the clips with fade effects to check the fade-in and fade-out effects. If everything works OK, uncheck "Show Waveforms" to hide the waveforms.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![imovie audio fade out pointer](https://images.wondershare.com/filmora/article-images/imovie-audio-fade-out-pointer.jpg)
 
 **Related:** [How to Remove Background Noise from Video](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -100,6 +93,13 @@ To fade audios in and out in iMovie with the audio inspector, you can follow the
 Double-click the video clip, choose "Clip Adjustments" to open the Inspector, and then click the "Audio" tab.
 
 ![resize video](https://images.wondershare.com/topic/video-editing/imovie-audio-fade-effects.jpg "resize video")
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If there are two audio tracks, and you want to set the fade in and fade out in iMovie for the background music, you can double-click the background music clip to open the audio inspector. This inspector is a little different. If you don't know how to add background music to iMovie, you can refer to this post: [add background music in iMovie](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -121,9 +121,6 @@ Now, that's done! I hope the above information does help you to set the fade eff
 
 **Related:** [How to Get More iMovie Themes](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: An Easier Way to Fade Audio and Music on Mac
 
 Let watch the video below to check how to apply fade-in and fade-out effects in an easier way with [**Wondershare Filmora for Mac**](https://tools.techidaily.com/wondershare/filmora/download/). And download it now to try it by yourself.
@@ -140,23 +137,31 @@ Import the video clip you want to add audio in and out effect. To do this, click
 
 Place the video onto the timeline. Double-click on it and then choose "Audio". In the tab, you can drag the slider bar to the right or left to manually set the fade in and fade out the length.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![fade aduio](https://images.wondershare.com/filmora/guide/filmora-mac-audio-settings.jpg "resize video")
 
 #### Step 3. Save Your Video
 
 Click the "Export" button to select one of the export methods. You can choose your desired format or mobile devices, burn it to DVD and upload it to YouTube and Vimeo.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![Filmora9 for Mac Export](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg "resize video")
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 That's all about how to fade music and audio with iMovie and its alternative. If you want to learn more about how to edit video clips with Filmora, you can visit its [YouTube channel](https://www.youtube.com/channel/UCY%5FLMaDAoa6hwHKBE4Dx56w) to get more detailed information. Feel free to leave comments below if you need further assistance.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -164,11 +169,33 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-professional-workshop-embedding-countdown-features-in-obs/"><u>[Updated] 2024 Approved Professional Workshop Embedding Countdown Features in OBS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-flawless-tint-enhancer/"><u>[Updated] Flawless Tint Enhancer</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-the-compre-written-by-john-doe-phd-in-psychology-specializing-in-human-behavior-and-motivation-motivational-interviewing/"><u>[Updated] In 2024, The Compre Written By John Doe, PhD in Psychology, Specializing in Human Behavior and Motivation (Motivational Interviewing)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-blending-techniques-for-seamless-picture-merging/"><u>2024 Approved Blending Techniques for Seamless Picture Merging</u></a></li>
+<li><a href="https://os-tips.techidaily.com/best-android-file-management-apps-reviewed-find-your-perfect-match/"><u>Best Android File Management Apps Reviewed: Find Your Perfect Match</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-oppo-reno-8t-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Oppo Reno 8T</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-on-pc-hardware-from-toms-electronics-hub/"><u>Expert Analysis on PC Hardware From Tom's Electronics Hub</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-innovative-applications-unveiling-the-most-advanced-11-voice-modification-solutions-on-ios-and-android-without-an-expense/"><u>In 2024, Innovative Applications Unveiling the Most Advanced 11 Voice Modification Solutions on iOS and Android Without an Expense</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-easy-path-to-pure-audio-advanced-noise-reduction-tactics-for-audacity-and-filmorapro-users/"><u>In 2024, The Easy Path to Pure Audio Advanced Noise Reduction Tactics for Audacity and FilmoraPro Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-itel-a60-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Itel A60 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-ultimate-guide-to-protected-and-entertaining-chatting-apps-for-unknown-individuals/"><u>In 2024, Ultimate Guide to Protected and Entertaining Chatting Apps for Unknown Individuals</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-essential-compilation-discovering-the-top-11-free-audio-customization-tools-for-ios-and-android-gadgets/"><u>New 2024 Approved Essential Compilation Discovering the Top 11 Free Audio Customization Tools for iOS & Android Gadgets</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-syncing-soundtracks-with-visuals/"><u>New 2024 Approved Syncing Soundtracks with Visuals</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-a-guide-to-understanding-the-nuances-of-accompanying-pictures-with-soundscape/"><u>New A Guide to Understanding the Nuances of Accompanying Pictures with Soundscape</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-elevate-your-video-edits-mastering-the-art-of-live-audio-dampening-with-final-cut-pro-xs-autoduck-capabilities-for-2024/"><u>New Elevate Your Video Edits Mastering the Art of Live Audio Dampening with Final Cut Pro Xs AutoDuck Capabilities for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-ultimate-guide-to-fine-tuning-audio-volume-for-optimal-listening-experience/"><u>New In 2024, The Ultimate Guide to Fine-Tuning Audio Volume for Optimal Listening Experience</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-singing-simplified-accessible-audio-enhancers-for-every-musicians-toolkit-for-2024/"><u>New Singing Simplified Accessible Audio Enhancers for Every Musicians Toolkit for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-vivo-y100i-power-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Vivo Y100i Power 5G IMEI without Root A Comprehensive Guide</u></a></li>
+</ul></div>
+

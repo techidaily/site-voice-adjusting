@@ -1,7 +1,7 @@
 ---
 title: Updated Unleashing Your Creative Potential The Comprehensive Guide to Volume Automation and Ducking with Adobe Premiere Pro (Mac Edition) for 2024
-date: 2024-09-23T06:34:40.607Z
-updated: 2024-09-25T18:30:33.376Z
+date: 2024-09-29T10:13:37.108Z
+updated: 2024-10-01T11:18:28.882Z
 tags: 
   - audio editing software
   - audio editing
@@ -57,16 +57,10 @@ Great! You can now preview the changes you have made and check the audio ducking
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
@@ -76,10 +70,16 @@ As you can see, the Premiere Pro audio ducking feature can get a bit complicated
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
@@ -109,10 +109,16 @@ Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -130,20 +136,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-tiktoks-hidden-treasures-grab-em-all-for-free/"><u>[New] 2024 Approved TikTok's Hidden Treasures Grab 'Em All for Free</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-how-to-submit-your-podcast-to-apple-podcasts/"><u>[New] How To Submit Your Podcast to Apple Podcasts</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-screenmaster-review-the-latest-in-tech-capture-for-2024/"><u>[New] ScreenMaster Review The Latest in Tech Capture for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-top-5-exhilarating-virtual-track-gaming-experiences/"><u>[New] Top 5 Exhilarating Virtual Track Gaming Experiences</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-savor-your-day-8-essential-tools-for-instagram-video-management/"><u>[Updated] In 2024, Savor Your Day 8 Essential Tools for Instagram Video Management</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-interior-illumination-through-natural-sun-exposure/"><u>[Updated] Interior Illumination Through Natural Sun Exposure</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-exploring-the-best-available-free-audio-editing-solutions-for-windows-and-mac-enthusiasts/"><u>In 2024, Exploring the Best Available Free Audio Editing Solutions for Windows and Mac Enthusiasts</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-hearing-colors-and-movements-a-comprehensive-list-of-top-notch-music-visualizers-both-free-and-paid/"><u>In 2024, Hearing Colors and Movements A Comprehensive List of Top-Notch Music Visualizers (Both Free & Paid)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-igniting-interest-and-inviting-in-accelerating-audience-acquisition/"><u>In 2024, Igniting Interest and Inviting In Accelerating Audience Acquisition</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-adobe-after-effects-sound-design-incorporating-audio-into-your-animations-for-2024/"><u>New Adobe After Effects Sound Design Incorporating Audio Into Your Animations for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-how-to-mute-audio-in-windows-movie-maker-for-2024/"><u>New How to Mute Audio in Windows Movie Maker for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-advanced-techniques-to-purify-recorded-audio-from-unwanted-echoes/"><u>New In 2024, Advanced Techniques to Purify Recorded Audio From Unwanted Echoes</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-melody-matchers-the-premier-music-detection-apps-compatible-with-android-smartphones/"><u>New Melody Matchers The Premier Music Detection Apps Compatible with Android Smartphones</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-strategies-for-detaching-soundtracks-from-footage-for-2024/"><u>New Strategies for Detaching Soundtracks From Footage for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/smart-classroom-gadgets-discover-the-nine-key-tech-products-students-cant-live-without/"><u>Smart Classroom Gadgets: Discover the Nine Key Tech Products Students Can't Live Without</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-srt-enhancements-maximizing-performance-on-both-platforms/"><u>[New] Top SRT Enhancements Maximizing Performance on Both Platforms</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-decoding-the-core-contrasts-between-youtube-and-dailymention/"><u>[Updated] Decoding the Core Contrasts Between YouTube and DailyMention</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-spots-unveiling-stunning-no-cost-tiktok-backgrounds/"><u>[Updated] Top Spots Unveiling Stunning, No-Cost TikTok Backgrounds</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-xr-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone XR</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/conversion-directe-et-gratuite-transformez-vos-fichiers-dpx-en-png-via-movavi-en-ligne/"><u>Conversion Directe Et Gratuite: Transformez Vos Fichiers DPX en PNG via Movavi en Ligne</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-tecno-spark-10-4g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Tecno Spark 10 4G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Vivo Y100i? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-seamless-synergy-merging-soundtracks-with-visual-narratives-in-modern-cinema/"><u>In 2024, Seamless Synergy Merging Soundtracks with Visual Narratives in Modern Cinema</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/mastering-your-soundtrack-a-methodical-approach-to-choosing-a-digital-audio-recorder-beyond-apowersoft/"><u>Mastering Your Soundtrack A Methodical Approach to Choosing a Digital Audio Recorder Beyond Apowersoft</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/melody-cleanse-free-your-content-from-unwanted-musical-elements-for-2024/"><u>Melody Cleanse Free Your Content From Unwanted Musical Elements for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-subtle-soundscape-selection-for-video-creators/"><u>New 2024 Approved Subtle Soundscape Selection for Video Creators</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-ultimate-starters-manual-implementing-voicechanger-on-iphone/"><u>New 2024 Approved The Ultimate Starters Manual Implementing VoiceChanger on iPhone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-disable-incoming-audio-cues-and-import-fresh-audiovisual-components-via-windows-moviemaker-software/"><u>New In 2024, Disable Incoming Audio Cues & Import Fresh Audiovisual Components via Windows Moviemaker Software</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-mastering-audio-extraction-removing-sound-tracks-from-video-on-ios-devices-for-2024/"><u>New Mastering Audio Extraction Removing Sound Tracks From Video on iOS Devices for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-auditory-excision-handbook-removing-sound-from-mp4-mkv-avi-mov-wmv-videos-for-2024/"><u>New The Auditory Excision Handbook Removing Sound From MP4, MKV, AVI, MOV, WMV Videos for 2024</u></a></li>
 </ul></div>
 

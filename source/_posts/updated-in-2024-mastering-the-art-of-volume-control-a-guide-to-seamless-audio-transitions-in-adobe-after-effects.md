@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Mastering the Art of Volume Control A Guide to Seamless Audio Transitions in Adobe After Effects
-date: 2024-09-20T17:04:58.979Z
-updated: 2024-09-25T23:24:52.182Z
+date: 2024-09-28T22:36:25.829Z
+updated: 2024-10-01T09:20:52.775Z
 tags: 
   - audio editing software
   - audio editing
@@ -39,17 +39,10 @@ Once you've created a new project in AE and you've imported the audio files you'
 ![fade out/in audio waveform after effects](https://images.wondershare.com/filmora/filmorapro/fade-out-in-audio-after-effects-waveform.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2: Add a keyframe to the audio file
@@ -66,22 +59,29 @@ Move the playhead to the location where you want the effect to end and add anoth
 
 ![Complete fade out/in audio in After Effects](https://images.wondershare.com/filmora/filmorapro/complete-fade-iin-out-audio-after-effects.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Tips For Making Better Fade In and Fade Out Effects
 
 The process of creating a fade in or a fade out effect in AE is quite simple, but it is up to you to discover creative ways of using these effects. Here are a few tips that can help you use these audio effects more creatively.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Avoid Hard Cuts
 
 A high pitch sound at the very begging of a new sequence can ruin your soundtrack and ultimately the entire video, so in case you've cut an audio file at the location where the sound peaks, you can apply a fade in effect to make the transition between two audio files softer.
 
 You may also like: [How to Cut Video in After Effects](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Be Mindful of Audio Compression
 
@@ -91,13 +91,6 @@ You may also like: [How to Cut Video in After Effects](https://tools.techidaily.
 
 Besides opening and closing scenes, you can also use the Fade in and fade out effects to mix two different tracks while the shot is still in progress. Fade out one track, make it look like a scene is ending, and then introduce a new theme that changes the mood of that scene. The important thing is to avoid reducing the audio level all the way to -100db because you might end up creating silence in a scene that disrupts the flow of an entire video.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Fading in or fading out audio files in Adobe After Effects doesn't require much effort, as you have to add a few keyframes to the file and adjust the Audio Level value. However, finding the best way to improve the quality of your soundtrack by applying these effects may take some practice. Do you often add Fade in and fade out audio effects in AE? Leave a comment below and share your experiences with us.
@@ -105,6 +98,13 @@ Fading in or fading out audio files in Adobe After Effects doesn't require much 
 If you want to fade in/out audio easily, we recommend using [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). It is designed for people who wish to edit professional videos with simple-to-use features. Besides Fade in/out audio in Filmora, you can automatically sync audio to video. Download it now to have a try (free)!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -121,22 +121,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-capturing-clarity-a-guide-to-high-res-videos-on-the-web-for-2024/"><u>[New] Capturing Clarity A Guide to High-Res Videos on the Web for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-focusing-the-lens-advanced-cinematic-techniques/"><u>[New] Focusing the Lens Advanced Cinematic Techniques</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effective-fixes-for-prolonged-boot-durations-of-pc-version-battlefront-2/"><u>Effective Fixes for Prolonged Boot Durations of PC Version Battlefront 2</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enhancing-system-responsiveness-in-windows-11-strategies-to-fix-and-prevent-latency-challenges/"><u>Enhancing System Responsiveness in Windows 11: Strategies to Fix and Prevent Latency Challenges</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-itel-a60-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Itel A60 Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-easily-secure-your-amd-ryzen-driver-updates/"><u>How to Easily Secure Your AMD Ryzen Driver Updates</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/o-make-a-cool-intro-for-youtube-plusfree-templates/"><u>How to Make a Cool Intro for YouTube? [+Free Templates]</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-realme-v30t-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Realme V30T without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/preserving-melody-methods-to-decelerate-sound-waves-without-modifying-frequency-range/"><u>Preserving Melody Methods to Decelerate Sound Waves without Modifying Frequency Range</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/strategies-for-creating-fluid-movement-between-video-segments-for-2024/"><u>Strategies for Creating Fluid Movement Between Video Segments for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-microsoft-surface-earbud-microphone-issues-in-windows-11/"><u>Troubleshooting and Repairing Microsoft Surface Earbud Microphone Issues in Windows 11</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/unlocking-free-integration-techniques-for-music-in-online-visual-media/"><u>Unlocking Free Integration Techniques for Music in Online Visual Media</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/unraveling-and-repairing-directx-9-startup-issues/"><u>Unraveling and Repairing DirectX 9 Startup Issues</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-audio-flair-for-video-production-techniques-for-smooth-addition-of-effects/"><u>Updated 2024 Approved Audio Flair for Video Production Techniques for Smooth Addition of Effects</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-a-technical-approach-to-combining-soundtracks-with-video-footage-on-mobile-devices-for-2024/"><u>Updated A Technical Approach to Combining Soundtracks with Video Footage on Mobile Devices for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-exploring-the-leading-online-video-communication-apps-beyond-omegle-top-picks/"><u>Updated Exploring the Leading Online Video Communication Apps Beyond Omegle Top Picks </u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-echoes-and-rhythms-discovering-the-top-radio-sounds/"><u>Updated In 2024, Echoes and Rhythms Discovering the Top Radio Sounds</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-early-stage-youtube-wisdom-sidestep-these-8-common-mistakes/"><u>[New] 2024 Approved Early-Stage YouTube Wisdom Sidestep These 8 Common Mistakes</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-integrating-youtube-into-igtvs-repertoire-3-ways/"><u>[New] 2024 Approved Integrating YouTube Into IGTV's Repertoire (3 Ways)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-simplify-stream-sideswapping-youtube-playlist-tips/"><u>[New] In 2024, Simplify Stream-Sideswapping Youtube Playlist Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-the-future-of-computing-power-on-toms-digital-blueprint/"><u>Discovering the Future of Computing Power on Tom's Digital Blueprint</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-oppo-f23-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Oppo F23 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-get-acquainted-with-the-10-best-sketching-apps-for-chrome-os/"><u>In 2024, Get Acquainted with The 10 Best Sketching Apps for Chrome OS</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Pokémon Go Cooldown Chart On Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/simple-steps-activate-your-windows-defender-without-hassle/"><u>Simple Steps: Activate Your Windows Defender Without Hassle</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/top-picks-the-ultimate-guide-to-the-best-17-inch-laptops/"><u>Top Picks: The Ultimate Guide to the Best 17-Inch Laptops</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-expert-picks-best-voice-isolation-technologies-for-music-creators/"><u>Updated In 2024, Expert Picks Best Voice Isolation Technologies for Music Creators</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-innovations-and-standouts-10-premier-podcast-hosting-providers/"><u>Updated In 2024, Innovations and Standouts 10 Premier Podcast Hosting Providers</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-leading-free-daw-applications-accessible-via-browsers/"><u>Updated In 2024, Leading Free DAW Applications Accessible via Browsers</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-intuitive-acoustic-sifting-gadgets-for-first-timers-and-seasoned-artists/"><u>Updated Intuitive Acoustic Sifting Gadgets for First-Timers and Seasoned Artists</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-mastering-sound-integration-adding-audio-to-your-ae-projects-for-2024/"><u>Updated Mastering Sound Integration Adding Audio to Your AE Projects for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-most-effective-6-internet-audio-cutting-software/"><u>Updated Most Effective 6 Internet Audio Cutting Software</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-step-by-step-process-for-expeditiously-converting-whatsapp-audio-recordings-into-mp3/"><u>Updated Step-by-Step Process for Expeditiously Converting WhatsApp Audio Recordings Into MP3</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/what-to-do-when-your-iphones-mute-function-isnt-working/"><u>What To Do When Your iPhone's Mute Function Isn't Working</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Auditory Precision in Filmmaking Employing Audio Ducking Strategies
-date: 2024-08-03T01:44:01.326Z
-updated: 2024-08-04T01:44:01.326Z
+date: 2024-09-27T20:54:22.251Z
+updated: 2024-10-01T06:54:10.697Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d1
 
 # What is Audio Ducking and How to Use it in Filmora: A Beginner-friendly Guide
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -29,32 +26,20 @@ thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d1
 
 If you are a content creator, you might already know the importance of having the right audio component in a video. For attaining a perfect balance between voiceovers and the background audio, the concept of "ducking" is implemented. I have come up with this post to help you know more about **audio ducking** and its importance. I will also include a detailed guide for [implementing audio ducking on a video](https://tools.techidaily.com/wondershare/filmora/download/) in a stepwise manner. Let’s begin!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![What is Audio Ducking](https://images.wondershare.com/filmora/article-images/what-is-audio-ducking.jpg)
 
 * [Part 1: What Is Audio Ducking?](#part1)
 * [Part 2: When to Use Audio Ducking?](#part2)
 * [Part 3: How to Use the Audio Ducking Feature in Filmora?](#part3)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Audio Ducking: What Is It All About?
 
 In nutshell, it is a process that “ducks” or lowers the background volume when a voiceover appears. For instance, let’s consider that we already have a background score in our video playing. When we would add a narrator’s voice or apply a voiceover, it would create a lot of confusion. Therefore, we implement the audio ducking process to lower the background audio and amplify the voiceover instead.
 
 In most cases, it is achieved through a side-chain compression technique. A control channel is set up that enables the compression of one sound (the background) while amplifying another (the voiceover).
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Filmora Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## When Do You Need to Implement Audio Ducking?
 
 Since the concept of audio ducking is pretty useful, it can be implemented in different ways during the video editing process. While you can apply the process to any video, here are some of the major instances where it is used.
@@ -95,10 +80,14 @@ To begin with, you have to install Wondershare Filmora on your computer and laun
 
 Let's suppose that your video already has an audio track in the background, and now you wish to add another audio component. Most of the people would like to record their voices in the video. For this, you can click on the voiceover (mic) icon at the bottom of the preview panel. This will open a dedicated window so that you can start recording your voice for the video.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Record Voiceover for Audio Ducking](https://images.wondershare.com/filmora/article-images/record-voiceovers-audio-ducking.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Apart from that, you can also go to the "Import" feature to add any other audio component to the project. Besides that, Wondershare Filmora also has a wide range of royalty-free audio files that you can easily add to your projects.
 
@@ -110,23 +99,38 @@ After adding the second audio component, you can view it under the video timelin
 
 ![Apply Audio Ducking](https://images.wondershare.com/filmora/article-images/apply-audio-ducking.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Once you have selected the audio you wish to amplify, right-click to get its context menu. Just select the “Adjust Audio” feature from all the available options.
 
 ![Adjust Audio Ducking](https://images.wondershare.com/filmora/article-images/right-click-adjust-audio.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 This will launch a dedicated window on the screen with various audio options to apply. Go to the "Ducking" option here and enable the "Lower the volume of other clips" feature. You can also use a slider here to adjust how much you wish to lower the volume of other clips in the project.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![Audio Ducking](https://images.wondershare.com/filmora/guide/audio-ducking-lower-other-clips.png)
 
 That’s it! Once you have selected the value, click on the "OK" button. You can now preview the results on Filmora and check that the volume of other audio components has been ducked. You can later go to the “Export” option and save the project in the format of your choice.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![Preview Audio Ducking](https://images.wondershare.com/filmora/article-images/preview-audio-ducking.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After reading this post, I'm sure that you will know more about audio ducking and how we can implement it. Since many content creators encounter issues while working on their videos, audio ducking would certainly be a helpful feature. With an application like Wondershare Filmora, you can easily implement audio ducking on multiple files and further edit your videos like a pro!
 
@@ -140,11 +144,26 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-next-gen-portable-play-top-gba-on-android/"><u>[New] 2024 Approved Next-Gen Portable Play Top GBA on Android</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-racing-cameras-clash-is-black-hero-4-or-ghost-s-better-for-2024/"><u>[Updated] Racing Cameras Clash Is Black Hero 4 or Ghost-S Better for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-vivo-y17s-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Vivo Y17s</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-basic-to-brilliant-a-complete-hdr-portrait-guide/"><u>In 2024, From Basic to Brilliant A Complete HDR Portrait Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-proven-approaches-for-large-media-file-transfers-from-iphones-to-macs/"><u>In 2024, Proven Approaches for Large Media File Transfers From iPhones to Macs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-proven-strategies-for-enhancing-quality-in-obs-edits/"><u>In 2024, Proven Strategies for Enhancing Quality in OBS Edits</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-top-youtube-spotlight-key-influences-on-your-viewership-position/"><u>In 2024, Top YouTube Spotlight Key Influences on Your Viewership Position</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-art-of-diminishing-sound-effects-fading-out-audio-in-imovie-projects/"><u>The Art of Diminishing Sound Effects Fading Out Audio in iMovie Projects</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-beginners-guide-to-separating-chorus-pieces-with-advanced-tools/"><u>Updated Beginners Guide to Separating Chorus Pieces with Advanced Tools</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-exhaustive-vimeo-film-metrics-including-aspect-ratio-details/"><u>Updated Exhaustive Vimeo Film Metrics Including Aspect Ratio Details</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-free-online-daw-options-ranking-the-most-convenient-and-cost-effective-tools/"><u>Updated Free Online DAW Options Ranking the Most Convenient and Cost-Effective Tools</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-how-to-fade-in-and-fade-out-audio-in-imovie-in-2024/"><u>Updated How to Fade in and Fade Out Audio in iMovie, In 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Review: The Ultimate Gaming Experience with Oculus Quest ^2 Elite Straps, Battery, and Protective Case"
-date: 2024-09-23T02:27:44.388Z
-updated: 2024-09-25T22:17:32.790Z
+date: 2024-09-29T03:58:54.703Z
+updated: 2024-10-01T06:59:04.908Z
 categories:
   - BestProducts
 description: "This Article Describes In-Depth Review: The Ultimate Gaming Experience with Oculus Quest ^2 Elite Straps, Battery, and Protective Case"
@@ -36,13 +36,6 @@ Lifewire / Zach Sweat
 [View On Amazon $150](https://www.amazon.com/Elite-2-Controller-Black-Xbox-One/dp/B07SFKTLZM/?tag=lifewire-onsite-prod-20&ascsubtag=4796457%7Cnbd5105eb0dc54e3e804df51703e5036902%7CB07SFKTLZM) [View On Walmart $150](https://www.walmart.com/ip/Microsoft-Xbox-Elite-Wireless-Controller-Series-2-Black-FST-00001/784834522) [View On Adorama.com $180](https://www.adorama.com/xbfst00001.html)
 
 4.8
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Microsoft Xbox One Elite Series 2 Controller
 
@@ -101,13 +94,20 @@ Lifewire / Zach Sweat
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/TRrezKVbAUPs2Rud3g4_iOHyxB8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-2-4b3f9d8acd1440089989378253d902f4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Zach Sweat
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Comfort: Hefty, but darn comfy**
@@ -123,13 +123,6 @@ Lifewire / Zach Sweat
  The only real issue some users may see as a downside of this controller is that it’s quite a hefty device. The controller weighs 348 grams with all attachments, so it might take some getting used to compared to the 210 gram S controller. I personally love the bulk, as it feels premium, but it might not be for everyone.
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/cS5fpyPSlqvyETs-nGxTtAB3vXU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-4-070b6c59b206457ba1068704bbe7bca9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -155,6 +148,13 @@ Lifewire / Zach Sweat
 
  Lifewire / Zach Sweat
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Performance/Durability: Enhanced performance and durability**
 
  To test the performance of the new Elite Series 2 controller, I put this device through several hours of gaming on both PC and Xbox One platforms running a number of games and layouts. The results were promising, so let’s take a closer look.
@@ -177,13 +177,6 @@ Lifewire / Zach Sweat
 
  While we didn’t experience any durability issues with our controller, the long-term durability will need to be assessed at a later date, though it seems to have gotten some upgrades to resolve issues of the past.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: Like buying a brand new console**
 
  Right now, the Elite Series 2 controller retails at an MSRP of $249.99, about $100 more than its predecessor. This price tag makes it not only the most expensive first-party controller around, but also nearly the cost of a brand new Xbox One S console (or three brand new titles). That can be a tough sell for your average gamer.
@@ -197,10 +190,10 @@ Lifewire / Zach Sweat
  Lifewire / Zach Sweat
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Xbox One Elite Series 2 Controller vs. Xbox One Elite Series 1 Controller**
@@ -216,6 +209,19 @@ Lifewire / Zach Sweat
  **A truly awesome controller with a steep price point.**
 
  Everything we disliked about the original Elite controller has been improved with the second iteration, making it the best first-party controller you can get for XB1 or PC. However, the steep price point might be a hard pill to swallow for users who don’t like to splurge.
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -249,19 +255,24 @@ Lifewire / Zach Sweat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-develop-engaging-facebook-visuals/"><u>[New] 2024 Approved Develop Engaging FACEbook Visuals</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-steps-to-remove-following-requests-on-instagram/"><u>[New] In 2024, Steps to Remove Following Requests on Instagram</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-radiant-palette-adjuster/"><u>[New] Radiant Palette Adjuster</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-pioneering-adventures-the-ultimate-gaming-list-top-10-for-2024/"><u>[Updated] Pioneering Adventures The Ultimate Gaming List (Top 10) for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-curated-list-top-5-engaging-book-trailers/"><u>2024 Approved Curated List Top 5 Engaging Book Trailers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/from-drafts-to-masterpieces-top-10-essential-graphic-design-tools/"><u>From Drafts to Masterpieces Top 10 Essential Graphic Design Tools</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-transform-your-tiktok-experience-simple-ways-to-reduce-video-noise-levels/"><u>New 2024 Approved Transform Your TikTok Experience Simple Ways to Reduce Video Noise Levels</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/show-audio-waveform-and-add-waveform-animation-in-premiere-protutor-for-2024/"><u>Show Audio Waveform and Add Waveform Animation in Premiere ProTutor for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-honor-90-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Honor 90 Pro | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-realme-c55-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Realme C55 Android SIM Unlock APK</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-tech-picks-and-deep-dives-into-new-releases-on-toms-digital-platform/"><u>Top Tech Picks and Deep Dives Into New Releases on Tom's Digital Platform</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-a-filmmakers-choice-the-top-five-free-audio-jokes-for-creative-videos/"><u>Updated 2024 Approved A Filmmakers Choice The Top Five Free Audio Jokes for Creative Videos</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-6-best-audio-mixers-for-enhancing-your-streaming-for-2024/"><u>Updated 6 Best Audio Mixers For Enhancing Your Streaming for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-how-to-remove-audio-from-avi-2023-update/"><u>Updated In 2024, How to Remove Audio From AVI-2023 Update</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-ninja-level-strategies-for-instagram-video-magic-for-2024/"><u>[New] Ninja-Level Strategies for Instagram Video Magic for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-recommended-videos-block-the-videos-i-dont-like/"><u>[New] YouTube Recommended Videos - Block the Videos I Don't Like</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-how-to-record-desktop-on-windows-8-effortlessly/"><u>[Updated] 2024 Approved How To Record Desktop on Windows 8 Effortlessly</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-screenshoting-made-easy-leveraging-ezvid-video-maker/"><u>[Updated] 2024 Approved Screenshoting Made Easy Leveraging Ezvid Video Maker</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-scale-up-channel-followers-faster-and-cheaper/"><u>[Updated] In 2024, Scale Up Channel Followers Faster and Cheaper</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-melody-meets-picture-infuse-photos-with-free-audio-content/"><u>2024 Approved Melody Meets Picture Infuse Photos with Free Audio Content</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-up-your-income-game-with-these-13-unbeatable-reddit-tactics/"><u>2024 Approved Step Up Your Income Game with These 13 Unbeatable Reddit Tactics</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/t-youtube-video-capture-guide/"><u>Direct YouTube Video Capture Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/expert-tips-on-creating-seamless-sound-diminution/"><u>Expert Tips on Creating Seamless Sound Diminution</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-elite-selection-of-virtual-audio-editing-experts/"><u>In 2024, The Elite Selection of Virtual Audio Editing Experts</u></a></li>
+<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/learn-to-record-professional-quality-audio-in-audacity-macos-for-2024/"><u>Learn to Record Professional Quality Audio in Audacity, MacOS for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-perfect-pitch-control-the-ultimate-strategy-for-uniform-sound-amplitude-in-videos/"><u>New In 2024, Perfect Pitch Control The Ultimate Strategy for Uniform Sound Amplitude in Videos</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-silence-your-tiktok-sounds-quick-techniques-for-a-noiseless-experience-for-2024/"><u>New Silence Your TikTok Sounds Quick Techniques for a Noiseless Experience for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-user-experience-customizing-windows-pin-lengths/"><u>Tailoring User Experience: Customizing Windows PIN Lengths</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-quietude-creators-guide-methods-to-extract-silence-from-mp4-mkv-avi-mov-wmv-videos/"><u>Updated In 2024, Quietude Creators Guide Methods to Extract Silence From MP4, MKV, AVI, MOV, WMV Videos</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-methods-to-manipulate-amplitude-in-mp3-wav-and-mpeg-files/"><u>Updated Methods to Manipulate Amplitude in MP3, WAV, and MPEG Files</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-mp4-file-editing-removing-sound-tracks-for-2024/"><u>Updated MP4 File Editing Removing Sound Tracks for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-the-insiders-path-to-high-quality-unobtrusive-musical-pairings-for-media-creation/"><u>Updated The Insiders Path to High-Quality Unobtrusive Musical Pairings for Media Creation</u></a></li>
 </ul></div>
 

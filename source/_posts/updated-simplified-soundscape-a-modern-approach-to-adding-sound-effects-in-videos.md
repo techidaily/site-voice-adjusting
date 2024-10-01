@@ -1,7 +1,7 @@
 ---
 title: Updated Simplified Soundscape A Modern Approach to Adding Sound Effects in Videos
-date: 2024-09-24T17:04:05.002Z
-updated: 2024-09-26T00:29:02.888Z
+date: 2024-09-29T20:27:33.307Z
+updated: 2024-09-30T16:33:04.326Z
 tags: 
   - audio editing software
   - audio editing
@@ -40,16 +40,10 @@ Some of you might be interested to capture the activities of animals in forests,
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add Audio Effects to Video with Wondershare Filmora
@@ -61,10 +55,10 @@ It is much easier to edit an audio track with wondershare filmora in order to im
 ![import-source-files ](https://images.wondershare.com/filmora/article-images/import-source-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You can either drag and drop files to the media library directly or click the “Import” button to load as many audio or video files as you need.
@@ -73,18 +67,18 @@ You can either drag and drop files to the media library directly or click the �
 
 ![filmora9-detach-audio](https://images.wondershare.com/filmora/article-images/filmora9-detach-audio.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The next important step is to separate the noise or unwanted audio from the source video. In order to detach these audio signals, you need to right-click the video on the video track, then simply select Detach Audio, and the background sound of the video will be detached out to the audio track. Then you can modify or delete it as per your need without affecting the original video.
 
 #### Step 3\. Do audio keyframing(fade in and fade out)
 
 ![filmora9-audio-fade](https://images.wondershare.com/filmora/article-images/filmora9-audio-fade.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After you detach the audio to the audio track, you can double click it on the track, and then you will see the Fade in and Fade out options (there are also some other audio settings such as volume, equalizer, and denoise). Just drag the slider on the Fade in and Fade out option to make smooth audio transitions directly, and then you will see the fade-in and fade-out waves on the timeline. All of this will make the editing very dramatic and full of personality.
 
@@ -109,10 +103,10 @@ Wondershare Filmora is one of the top-rated software tools for audio editing due
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -130,24 +124,17 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ights-camera-action-youtubes-17-essentials-for-2024/"><u>[New] Lights, Camera, Action! - YouTube's #17 Essentials for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-in-depth-insights-into-camstudio-recording/"><u>[Updated] 2024 Approved In-Depth Insights Into CamStudio Recording</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-how-to-channel-your-inner-metaverse-wit-for-2024/"><u>[Updated] How to Channel Your Inner Metaverse Wit for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-syncing-tiktok-videos-with-your-facebook-profile/"><u>[Updated] In 2024, Syncing TikTok Videos with Your Facebook Profile</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-boost-communication-merging-skype-and-zoom-functionality/"><u>2024 Approved Boost Communication Merging Skype and Zoom Functionality</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-harness-the-power-of-visuals-a-comprehensive-guide-to-editing-on-instagram/"><u>2024 Approved Harness the Power of Visuals A Comprehensive Guide to Editing on Instagram</u></a></li>
-<li><a href="https://discover-great.techidaily.com/10/"><u>新型コロナで子どもたちのお楽しみ！家で見られる安全な映画トップ10 - 全編無料ストリーミング</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/establishing-a-unique-code-for-your-tiktok-presence-for-2024/"><u>Establishing a Unique Code for Your TikTok Presence for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-samsung-galaxy-s23-tactical-edition-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Samsung Galaxy S23 Tactical Edition Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-free-and-paid-unveiling-the-top-10-essential-transcribing-tools-for-podcast-creators/"><u>In 2024, Free & Paid Unveiling the Top 10 Essential Transcribing Tools for Podcast Creators</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-10-best-reaper-plugins-you-need-to-know/"><u>New 10 Best Reaper Plugins You Need to Know</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-harmony-and-code-the-elite-circle-s-digital-compositional-geniuses/"><u>New 2024 Approved Harmony and Code The Elite Circle S Digital Compositional Geniuses</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-silencing-audio-in-updated-mkv-files-a-comprehensive-guide-mkv-2023/"><u>New 2024 Approved Silencing Audio in Updated MKV Files - A Comprehensive Guide (MKV-2023)</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-fundamentals-of-video-localization-how-to-dub-your-films-in-wondershare-filmora/"><u>New 2024 Approved The Fundamentals of Video Localization How to Dub Your Films in Wondershare Filmora</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-leading-audio-tinkering-tools-ios-and-android-edition-revised/"><u>New In 2024, The Leading Audio Tinkering Tools IOS and Android Edition, Revised</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-ultimate-guide-to-online-and-offline-video-to-audio-conversion-tools/"><u>New In 2024, Ultimate Guide to Online and Offline Video-to-Audio Conversion Tools</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-ways-to-disengage-music-elements-from-multimedia-projects/"><u>New In 2024, Ways to Disengage Music Elements From Multimedia Projects</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-art-of-smooth-transitions-between-film-cuts-for-2024/"><u>New The Art of Smooth Transitions Between Film Cuts for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/pros-secret-insights-into-windows-11-for-2024/"><u>Pro's Secret Insights Into Windows 11 for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-harmonized-high-res-overlays-for-devices/"><u>[New] Harmonized High-Res Overlays for Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dvd-macmacbook-proairimac/"><u>DVDビデオ再生・視聴ガイド - Mac/MacBook Pro/AirおよびiMac</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-3d-modeling-programs-for-animators/"><u>Essential 3D Modeling Programs for Animators</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/final-list-top-blu-ray-players-for-pcmacos-enthusiasts-for-2024/"><u>Final List Top Blu-Ray Players for PC/macOS Enthusiasts for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-complete-guide-to-corsair-mouse-setup-and-optimization/"><u>Free Download: Complete Guide to Corsair Mouse Setup & Optimization</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-apple-iphone-13-pro-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>How To Fake GPS On Apple iPhone 13 Pro For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-note-50-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme Note 50 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-securing-an-annotate-free-video-experience-tips-for-new-avi-users/"><u>In 2024, Securing an Annotate-Free Video Experience Tips for New AVI Users</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-10-best-sources-to-download-free-outro-music-no-copyright-for-2024/"><u>New 10 Best Sources to Download Free Outro Music No Copyright for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-decoding-omegle-a-deep-dive-into-online-gaming-platforms-with-safety-focus/"><u>New Decoding Omegle A Deep Dive Into Online Gaming Platforms with Safety Focus</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-exploring-the-most-popular-websites-for-chilling-soundtracks-2023-rankings/"><u>New Exploring the Most Popular Websites for Chilling Soundtracks (2023 Rankings)</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-experts-picks-8-superior-rainfall-noise-resources-available-for-downloading/"><u>New In 2024, The Experts Picks 8 Superior Rainfall Noise Resources Available for Downloading</u></a></li>
 </ul></div>
 

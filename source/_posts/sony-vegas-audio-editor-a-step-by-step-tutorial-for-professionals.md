@@ -1,7 +1,7 @@
 ---
 title: Sony Vegas Audio Editor A Step-by-Step Tutorial for Professionals
-date: 2024-08-03T01:42:37.490Z
-updated: 2024-08-04T01:42:37.490Z
+date: 2024-09-29T10:22:51.204Z
+updated: 2024-09-30T19:08:44.511Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/6a8b7b3cdb25a03e07ba1819bb3940ce3cb079bf3
 
 # Sony Vegas Audio Editor: How to Edit Audio in Vegas Pro
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -46,16 +43,10 @@ This tutorial is divided into 6 different sections that contain complete details
 
 First of all you need to import your desired audio file to timeline of Vegas Pro; it can be done by using drag and drop option directly. On Vegas timeline you will find so many sound adjustment options that appear on audio track header.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![Track header](https://images.wondershare.com/edit-audio-in-vegas-pro-1.jpg)
 
 * Mute the Audio Track: Press M
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Mute audio](https://images.wondershare.com/edit-audio-in-vegas-pro-2.jpg)
 
 * Manage volume control for all events of loaded track: Use Volume Slider switch that is denoted by dB.
@@ -71,16 +62,10 @@ Those who want to control volume separately for different portions of audio file
 
 **Mute:** A blue line is visible on timeline at your selected audio event, simply double click over it for addition of a specific point and then right click for mute adjustments. From appeared drop down menu you can select muted or not muted and the adjustments will be effective on right side of event point.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![Mute audio to selected part](https://images.wondershare.com/edit-audio-in-vegas-pro-3.jpg)
 
 **Volume:** Check the deep blue line on selected event and then double click over it for addition of a marking point. Drag this point up or down for appropriate volume settings and use right click option for additional adjustments.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Adjust audio volume](https://images.wondershare.com/edit-audio-in-vegas-pro-4.jpg)
 
 **Pan:** Pan Adjustments can be done using red lien control over event. Double click over it and move the point up or down to set pan at specific range. Use right click button for advanced options.
@@ -99,9 +84,6 @@ Hover your cursor on the audio event in timeline, you will find the fade in/out 
 
 If you want to change the speed of specific portions of your audio project then hold CTRL button and then start moving your curser over Trim Event handle. If you drag it to right side then it will directly speed up your audio clip and dragging to left side will automatically reduce speed.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Speed up or down video](https://images.wondershare.com/edit-audio-in-vegas-pro-7.jpg)
 
 #### Section 4: Reverse audio clip
@@ -130,9 +112,6 @@ If you want to add specific effects to your audio files then use two simple meth
 
 **Step 1:** First of all go to Track Description Box and then press the Track FX icon, an audio track FX will soon appear on your device screen. The three basic controls are always activated, that are Track Compressor, Track EQ and Track Noise Gate.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Audio track FX ](https://images.wondershare.com/edit-audio-in-vegas-pro-11.jpg)
 
 For additional personalization you need to use plug-in chain button from right corner.
@@ -141,9 +120,6 @@ For additional personalization you need to use plug-in chain button from right c
 
 **Step 2:** Now select any desired effect from list that can make your audio track more impressive and press Add; once applied then hit OK.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![ Add audio effect](https://images.wondershare.com/edit-audio-in-vegas-pro-13.jpg)
 
 **Step 3:** Make required adjustments with the help of slider or users can also open the drop down box on screen for selection of present templates as per need.
@@ -158,11 +134,6 @@ The Vegas Pro is rated as a professional editing software tool due to its advanc
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -171,11 +142,38 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-craft-cinematic-edits-with-ease-and-precision-in-camtasia-9/"><u>[New] 2024 Approved Craft Cinematic Edits with Ease and Precision in Camtasia 9</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-how-to-enhance-clarity-of-online-video-content/"><u>[New] In 2024, How to Enhance Clarity of Online Video Content</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-setting-up-your-mac-for-flawless-minecraft-sessions/"><u>[New] In 2024, Setting Up Your Mac for Flawless Minecraft Sessions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-fixed-resolution-steps-for-the-games-initial-startup-issues/"><u>Cyberpunk 2077 Fixed! Resolution Steps For The Game's Initial Startup Issues</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/enriching-video-storytelling-implement-3-vital-description-methods-on-instagram/"><u>Enriching Video Storytelling Implement 3 Vital Description Methods on Instagram</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-earn-big-with-little-experience-discover-the-top-13-reddit-money-ways/"><u>In 2024, Earn Big with Little Experience - Discover the Top 13 Reddit Money Ways</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-infinix-hot-40-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Infinix Hot 40 Pro to New Android? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-depth-exploration-of-the-cutting-edge-technology-within-the-apple-iphone-15-pro/"><u>In-Depth Exploration of the Cutting-Edge Technology Within the Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-like-famebit-where-you-can-find-youtube-sponsorships-for-2024/"><u>Sites Like FameBit Where You Can Find YouTube Sponsorships for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-essential-checklist-for-creating-stellar-titles/"><u>The Essential Checklist for Creating Stellar Titles</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-mastering-your-podcast-sound-with-these-10-premier-audio-editing-software-options-free-or-paid/"><u>Updated In 2024, Mastering Your Podcast Sound with These 10 Premier Audio Editing Software Options (Free or Paid)</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-sony-vegas-audio-editor-how-to-edit-audio-in-vegas-pro/"><u>Updated Sony Vegas Audio Editor How to Edit Audio in Vegas Pro</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-the-art-of-sound-integration-a-detailed-tutorial-on-video-audio-addition/"><u>Updated The Art of Sound Integration A Detailed Tutorial on Video Audio Addition</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-the-pace-adjuster-how-to-modify-musical-velocity-while-upholding-original-frequencies-for-2024/"><u>Updated The Pace Adjuster How to Modify Musical Velocity While Upholding Original Frequencies for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-top-8-free-and-premium-tools-to-enhance-your-logic-pro-x-experience/"><u>Updated Top 8 Free and Premium Tools to Enhance Your Logic Pro X Experience</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-transforming-everyday-mac-users-into-pro-voice-recording-enthusiasts-a-beginners-approach-for-2024/"><u>Updated Transforming Everyday Mac Users Into Pro Voice Recording Enthusiasts A Beginners Approach for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-unveiling-8-crucial-video-game-auditory-elements-all-free/"><u>Updated Unveiling 8 Crucial Video Game Auditory Elements - All Free</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

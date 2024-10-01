@@ -1,7 +1,7 @@
 ---
 title: Updated How to Do Automatic Audio Ducking in Final Cut Pro X for 2024
-date: 2024-09-12T23:12:27.212Z
-updated: 2024-09-15T04:44:21.911Z
+date: 2024-09-25T23:06:49.982Z
+updated: 2024-09-30T20:35:25.238Z
 tags: 
   - audio editing software
   - audio editing
@@ -74,6 +74,13 @@ You can now copy the modified music clip, go to the timeline, and paste it at th
 
 ![Audio Ducking Media Final Cut Pro](https://images.wondershare.com/filmora/article-images/automatic-audio-ducking-in-fcpx-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: The Best FCPX Alternative for Mac to Perform Automatic Audio Ducking
 
 As you can see, it is pretty tough to do audio ducking in Final Cut Pro as there is no automatic feature in the tool. Therefore, you can consider using [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/) to perform automatic sound ducking and save your time. It is an inbuilt feature in Filmora that would perform auto-ducking instantly, and you can also mark the level of ducking in the video.
@@ -92,6 +99,13 @@ Once your video is imported, you can drag it to the timeline at the bottom to wo
 
 ![Filmora Record Voiceovers](https://images.wondershare.com/filmora/article-images/record-voiceovers-audio-ducking.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Apart from that, you can also import music files to your video or use the extensive range of royalty-free audio files that are available in Filmora.
 
 ![Filmora Royalty Free Audio Files](https://images.wondershare.com/filmora/article-images/royalty-free-audio-files.jpg)
@@ -102,9 +116,23 @@ Great! Now, on the timeline of Filmora, you can see your video and the music tra
 
 ![Filmora Apply Audio Ducking](https://images.wondershare.com/filmora/article-images/apply-audio-ducking.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Afterward, right-click the audio track and select the “Adjust Audio” option from the context menu.
 
 ![Filmora Adjust Audio](https://images.wondershare.com/filmora/article-images/right-click-adjust-audio.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 This will open a dedicated Audio Mixer window on the screen. Just go to the Audio tab and enable the “Ducking” option to lower the volume of other audio tracks. You can also select the desired level for music ducking to implement.
 
@@ -133,12 +161,20 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-easy-steps-making-time-lapses-on-galaxy-phones/"><u>[Updated] 2024 Approved Easy Steps Making Time-Lapses on Galaxy Phones</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unlock-the-full-potential-of-your-h-videos-on-instagram-tv/"><u>[Updated] Unlock the Full Potential of Your H-Videos on Instagram TV</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-picperfect-upgrade-mobile-photography-no-money-down/"><u>2024 Approved PicPerfect Upgrade Mobile Photography No Money Down</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-teleport-your-gps-location-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Oppo A79 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-how-to-download-facebook-status-videos/"><u>In 2024, How to Download Facebook Status Videos?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-v29e-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo V29e to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-honor-90-lite-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Honor 90 Lite</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-netgear-nighthawk-rax120-speeds-that-outpace-all-rivals/"><u>In-Depth Analysis of the Netgear Nighthawk RAX120: Speeds That Outpace All Rivals</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-how-to-add-audio-fade-out-effect/"><u>New 2024 Approved How to Add Audio Fade Out Effect</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-mastering-iphone-voice-recording-a-comprehensive-tutorial-for-2024/"><u>New Mastering iPhone Voice Recording A Comprehensive Tutorial for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-unveiling-key-features-a-deep-dive-into-twistedwave-audio-processor/"><u>New Unveiling Key Features A Deep Dive Into TwistedWave Audio Processor</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-ultimate-guide-to-equalizing-auditory-output-in-vlc-software/"><u>The Ultimate Guide to Equalizing Auditory Output in VLC Software</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-superior-online-mp3-arrangement-and-trimming-service-for-2024/"><u>Updated Superior Online MP3 Arrangement & Trimming Service for 2024</u></a></li>
+</ul></div>
 

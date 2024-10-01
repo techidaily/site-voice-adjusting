@@ -1,7 +1,7 @@
 ---
 title: Techniques for Audience-Friendly Audio Declines in iMovie Projects
-date: 2024-09-11T20:49:37.963Z
-updated: 2024-09-14T18:33:08.805Z
+date: 2024-09-24T08:53:34.468Z
+updated: 2024-09-30T20:37:32.801Z
 tags: 
   - audio editing software
   - audio editing
@@ -61,6 +61,13 @@ When the project opens, check "Show Waveforms" at the bottom of the Project wind
 
 ![Show Audio Waveforms -iMovie](https://images.wondershare.com/filmora/article-images/show-waveforms-imovie.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** The Blue waveforms indicate the sound recorded within your video clips. Green and purple waveforms indicate sounds and music you’ve added to your project.
 
 #### Step 2. Move Pointer to Apply Fade Effects
@@ -101,11 +108,25 @@ If you manually adjust the effect, you can have a better effect.
 
 ![imovie fade audio done](https://images.wondershare.com/filmora/article-images/imovie-fade-audio-done.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After the settings, you can preview the effect in the viewing window to make sure all goes well, and you are much satisfied. Then click "Done" to save the audio fade-in and fade-out effects in iMovie.
 
 Now, that's done! I hope the above information does help you to set the fade effects to smooth your video and audio transitions.
 
 **Related:** [How to Get More iMovie Themes](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: An Easier Way to Fade Audio and Music on Mac
 
@@ -131,22 +152,15 @@ Click the "Export" button to select one of the export methods. You can choose yo
 
 ![Filmora9 for Mac Export](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg "resize video")
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 That's all about how to fade music and audio with iMovie and its alternative. If you want to learn more about how to edit video clips with Filmora, you can visit its [YouTube channel](https://www.youtube.com/channel/UCY%5FLMaDAoa6hwHKBE4Dx56w) to get more detailed information. Feel free to leave comments below if you need further assistance.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -162,5 +176,24 @@ Follow @Shanoon Cox
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-stretching-youtube-videos-to-full-display/"><u>[New] Stretching YouTube Videos to Full Display</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-insiders-look-at-sharing-links-on-ig-platform/"><u>[Updated] 2024 Approved The Insider's Look at Sharing Links on IG Platform</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-choosing-the-right-format-boosting-your-youtube-videos-performance/"><u>[Updated] In 2024, Choosing the Right Format – Boosting Your YouTube Videos’ Performance</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-magical-marketing-essential-terms-to-master/"><u>In 2024, Magical Marketing Essential Terms to Master</u></a></li>
+<li><a href="https://fox-access.techidaily.com/leading-setups-in-professional-broadcast-equipment/"><u>Leading Setups in Professional Broadcast Equipment</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-elite-selection-of-virtual-audio-editing-experts/"><u>New 2024 Approved The Elite Selection of Virtual Audio Editing Experts</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-find-monster-sounds-effect/"><u>New Find Monster Sounds Effect</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-no-charge-audiophiles-choice-premium-conversion-software-for-mpa-to-mp3-transition-for-2024/"><u>New No-Charge Audiophiles Choice Premium Conversion Software for MPA to MP3 Transition for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-streamlining-audio-dynamics-a-comprehensive-approach-to-volume-normalization-with-vlc/"><u>New Streamlining Audio Dynamics A Comprehensive Approach to Volume Normalization with VLC</u></a></li>
+<li><a href="https://games-able.techidaily.com/new-study-reveals-why-pc-gamers-are-switching-to-windows-11-leaving-behind-windows-10-digital-trends/"><u>New Study Reveals Why PC Gamers Are Switching to Windows 11, Leaving Behind Windows 10 | Digital Trends</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-art-of-soundless-storytelling-removing-audio-from-videos-with-imovie-for-2024/"><u>New The Art of Soundless Storytelling Removing Audio From Videos with iMovie for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-flirting-gpt-powered-dating/"><u>The Future of Flirting: GPT-Powered Dating</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-key-to-accumulating-a-huge-collection-of-tiktok-videos-for-2024/"><u>The Key to Accumulating a Huge Collection of TikTok Videos for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-the-complete-pexels-primer-knowledge-essential-for-graphic-designers-and-marketers/"><u>Updated In 2024, The Complete Pexels Primer Knowledge Essential for Graphic Designers and Marketers</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-the-ultimate-list-of-free-bgm-music-streaming-sites-updated-for-2024/"><u>Updated The Ultimate List of Free BGM Music Streaming Sites, Updated for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-transform-your-singing-with-autotune-in-audacity-a-complete-tutorial-followed-through-for-2024/"><u>Updated Transform Your Singing with Autotune in Audacity – A Complete Tutorial Followed Through for 2024</u></a></li>
+</ul></div>
 

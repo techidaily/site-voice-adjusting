@@ -1,7 +1,7 @@
 ---
 title: Updated Streamlining Sound Sync How to Implement Audio Ducking for Dynamic Volume Control in PowerDirector
-date: 2024-09-23T20:48:44.812Z
-updated: 2024-09-25T18:03:59.938Z
+date: 2024-09-23T19:55:21.799Z
+updated: 2024-09-30T20:14:51.014Z
 tags: 
   - audio editing software
   - audio editing
@@ -53,10 +53,10 @@ Doing so will automatically add the keyframes into the background music you’ve
 So, this was the entire process of **music ducking** keyframes automation in **CyberLink PowerDirector**.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: An Alternative Solution to Audio Ducking on Mac
@@ -98,10 +98,10 @@ You are almost there whereby tick the “**Lower the volume of other clips”** 
 So, these simple steps are required to enable **audio ducking** in Wondershare Filmora. So easy! Along with it, you can also consider using the **Fade Out** and **Pitch** slider tab for versatile audio adjustment. However, you must only check for the **Ducking** tab, especially when you’re a beginner and don’t want to go for extreme changes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -112,25 +112,19 @@ Thus, with a discussion over two different ways to implement the **audio ducking
 | --------------------------------------- | ---------------------------------------- | --------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------- | --------------------------------------- |
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -148,24 +142,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-elite-selection-top-9-free-youtube-channel-branding-apps/"><u>[New] In 2024, Elite Selection Top 9 Free YouTube Channel Branding Apps</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-free-and-fast-the-ultimate-list-of-mac-screen-recorders/"><u>[Updated] In 2024, Free and Fast The Ultimate List of Mac Screen Recorders</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-quick-guide-iphones-video-loop-functionality-for-2024/"><u>[Updated] Quick Guide IPhone's Video Loop Functionality for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-your-first-video-journey-using-pixiz-effectively/"><u>2024 Approved Your First Video Journey Using Pixiz Effectively</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>6 Ways to Change Spotify Location On Your Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/criteria-for-picking-premium-film-professionals-for-2024/"><u>Criteria for Picking Premium Film Professionals for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-fresh-set-of-interview-points-for-captivated-ears/"><u>In 2024, Fresh Set of Interview Points for Captivated Ears</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/journey-to-joyrides-top-housing-ideas-for-new-players-for-2024/"><u>Journey to Joyrides Top Housing Ideas for New Players for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/mp3-to-mp4-converter-how-to-convert-mp3-to-mp4-in-2024/"><u>MP3 to MP4 Converter How to Convert MP3 to MP4, In 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-10plus-best-free-podcast-player-apps-for-ios-and-android/"><u>New 2024 Approved 10+ Best FREE Podcast Player Apps for iOS and Android</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-streamlining-music-addition-to-online-videos-step-by-step-techniques/"><u>New 2024 Approved Streamlining Music Addition to Online Videos Step-by-Step Techniques</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-top-song-lyrics-remover-create-your-own-backing-tracks/"><u>New 2024 Approved Top Song Lyrics Remover Create Your Own Backing Tracks</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-exploring-the-most-advanced-singing-synthesis-software-on-the-market-for-2024/"><u>New Exploring the Most Advanced Singing Synthesis Software on the Market for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-mastering-audio-extraction-removing-sound-tracks-from-video-on-ios-devices/"><u>New In 2024, Mastering Audio Extraction Removing Sound Tracks From Video on iOS Devices</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-vocal-vanishing-act-how-to-seamlessly-remove-singers-voice-from-an-audio-track-using-audacity-tools/"><u>New In 2024, Vocal Vanishing Act How to Seamlessly Remove Singers Voice From an Audio Track Using Audacity Tools</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-simplified-singing-separation-tools-ideal-for-novices-and-experts/"><u>New Simplified Singing Separation Tools Ideal for Novices & Experts</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-art-of-audio-branding-creating-iconic-podcast-cover-imagery/"><u>New The Art of Audio Branding Creating Iconic Podcast Cover Imagery</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-launch-obstacles-in-evil-genius-2-expert-advice/"><u>Overcoming Launch Obstacles in Evil Genius 2: Expert Advice</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-samsung-galaxy-s23plus-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Samsung Galaxy S23+ Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unleash-clarity-efficient-background-erasure-in-affinity-photo/"><u>[New] Unleash Clarity Efficient Background Erasure in Affinity Photo</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-capturing-the-cloud-techniques-for-digital-show-archives/"><u>[Updated] Capturing the Cloud Techniques for Digital Show Archives</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-free-best-mov-player-apps-comparison-top-picks-for-windows-mac-android-and-ios/"><u>1. Free Best MOV Player Apps Comparison: Top Picks for Windows, Mac, Android & iOS</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-design-signature-symbols-use-free-templates-no-copyright/"><u>2024 Approved Design Signature Symbols - Use Free Templates, No Copyright</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tunes-twining-a-new-multimedia-approach/"><u>2024 Approved Tunes Twining A New Multimedia Approach</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-vivo-y17s-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/maximize-organic-visibility-using-cookiebot-technology-a-leading-edge-in-seo-strategies/"><u>Maximize Organic Visibility Using Cookiebot Technology: A Leading Edge in SEO Strategies</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-insiders-guide-to-audio-recordings-using-apowersoft-and-discovering-4-comparable-software-options/"><u>New The Insiders Guide to Audio Recordings Using Apowersoft & Discovering 4 Comparable Software Options</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-zero-distraction-viewing-stripping-down-your-videos-acoustic-layers-for-2024/"><u>New Zero Distraction Viewing Stripping Down Your Videos Acoustic Layers for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/pitch-perfect-cleanup-the-best-affordable-applications-for-removing-unwanted-vocals/"><u>Pitch Perfect Cleanup The Best Affordable Applications for Removing Unwanted Vocals</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/sculpting-silence-and-sound-advanced-techniques-of-audio-ducking-for-visual-storytellers/"><u>Sculpting Silence and Sound Advanced Techniques of Audio Ducking for Visual Storytellers</u></a></li>
+<li><a href="https://techidaily.com/some-mp4-won-t-play-on-my-motorola-moto-g24-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Motorola Moto G24</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-art-of-diminishing-sound-effects-fading-out-audio-in-imovie-projects/"><u>The Art of Diminishing Sound Effects Fading Out Audio in iMovie Projects</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-art-of-pristine-audio-overcoming-hiss-and-harsh-sounds-for-2024/"><u>The Art of Pristine Audio Overcoming Hiss and Harsh Sounds for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-beginners-handbook-for-creating-a-secondary-email-address-in-gmail/"><u>The Beginner's Handbook for Creating a Secondary Email Address in Gmail</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-stop-motion-animation-software-for-mac-and-pc-for-2024/"><u>The Ultimate Guide to Stop Motion Animation Software for Mac and PC for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/tunewizard-pro-expertly-organize-your-music-library-across-windowsmac-platforms/"><u>TuneWizard Pro Expertly Organize Your Music Library Across Windows/Mac Platforms</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-the-ultimate-pathway-to-uniform-audio-dynamics-in-three-steps/"><u>Updated 2024 Approved The Ultimate Pathway to Uniform Audio Dynamics in Three Steps</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-exhaustive-vimeo-film-metrics-including-aspect-ratio-details/"><u>Updated Exhaustive Vimeo Film Metrics Including Aspect Ratio Details</u></a></li>
 </ul></div>
 

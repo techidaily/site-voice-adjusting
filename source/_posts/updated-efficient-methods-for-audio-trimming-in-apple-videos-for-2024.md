@@ -1,7 +1,7 @@
 ---
 title: Updated Efficient Methods for Audio Trimming in Apple Videos for 2024
-date: 2024-08-03T01:43:46.969Z
-updated: 2024-08-04T01:43:46.969Z
+date: 2024-09-25T06:10:40.373Z
+updated: 2024-09-30T22:55:21.926Z
 tags: 
   - audio editing software
   - audio editing
@@ -32,9 +32,6 @@ Section1\. [How to mute the audio on the video](#how-to-mute-audio)
 
 Section2\. [Requirements to extract the music of the video and save](#how-to-extract-music)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![advanced%20video%20cutter](https://images.wondershare.com/filmora/Mac-articles/advanced%20video%20cutter.png)
 
 ## Section 1. How to mute the audio on the video
@@ -44,8 +41,12 @@ Part1\. [Steps to cut the audio from videos on Mac](#cut-audi-on-mac)
 Part2\. [Steps to cut the audio from videos on iPhone](#cut-audio-on-iphone)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Steps to cut the audio from videos on Mac
 
 If you are using a Mac for editing, knowing that [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is the best way to go about it is good but knowing how to navigate is key. Not to worry, the steps you need to get started are all listed in these three steps.
@@ -62,26 +63,29 @@ After dragging the video to the timeline, right-click the stand-alone video, cho
 
 ![](https://images.wondershare.com/filmora/guide/edit-audios-mute.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3: Save your edit
 
 Click the "export" button on the interface and select the desired video format
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![export to format mac](https://images.wondershare.com/filmora/guide/export-to-format-mac.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ### Steps to cut the audio from videos on iPhone
 
 If you want to do the mute on an iPhone, you will need to also follow some steps to get it done on your iMovie.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 1: Open the iMovie
 
 Opening the iMovie app goes beyond just clicking it to open, you also have to follow up this process by clicking the continue button that pops up. If the app has opened and you can see an inviting interface, move to the next step.
@@ -92,11 +96,15 @@ There are different pages on the interface but your concern is on the project pa
 
  ![new project on imovie](https://images.wondershare.com/filmora/Mac-articles/new-project-on-imovie.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Don't hesitate to select the movie you want to edit. Complete the process by clicking the "create movie" button beneath the gallery of movies.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 3: Mute the audio
 
 Muting the audio becomes straightforward when you have moved it to the interface. In this step, click on the video clip button as seen in the picture then mute it by selecting the mute option (the picture below shows the mute sign at the lower-left corner) from the audio button. When this is done, your video has been silenced.
@@ -105,15 +113,19 @@ Muting the audio becomes straightforward when you have moved it to the interface
 
 Don't forget to save it when you are done editing by clicking on the "done button" that is visible at the left corner positioned at the top of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Section 2. Requirements to extract the music of the video and save
 
 There are some times when you just want to extract the audio leaving out the video. Maybe the song accompanying the video is excellent but the video quality is bad, or maybe the video is not as great as the song. Whatever the reason may be, you can extract the music of your video and save it using. The two best apps to do this are Filmora and MP3 Converter -Audio Extractor. Below are the steps to extract audio using Filmora
 
 Step1\. import the video into the Filmora
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/1.index-introduction.jpg)
 
 Another way to import a video is to drag and drop the video into the program. Using any of these two steps allows your video to be listed in the media library
@@ -128,13 +140,17 @@ Step 3\. Edit the extracted audio by doubling clicking on it. When you do, the a
 
 ![8audio balance](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/8.audio-balance.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4\. If the audio has some sounds you would like to take out, place your cursor at the exact place you want the deletion to start. Next, press the split button. This step can be used to delete any aspect of the music sound you don't like.
 
 Step 5\. Having extracted, edited, and deleted unnecessary sounds from the music, click the export button. You will be provided with different options to save the audio. Click on the one you prefer.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ![export mp3 on filmora](https://images.wondershare.com/filmora/Mac-articles/export-mp3-on-filmora.jpg)
 
 You can also customize your audio encoder after extracting and saving the music. Simply click Settings to get started.
@@ -147,15 +163,16 @@ For iPhone users, a good video editing software that can be used to successfully
 
 Learn More: [How to Add Music/ Audio to a GIF on Mac>>>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -163,11 +180,27 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-best-10-battle-royale-games-for-2024/"><u>[New] Best 10 Battle Royale Games for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-guide-to-delete-discord-server-from-mobile/"><u>[Updated] In 2024, Guide to Delete Discord Server From Mobile</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-preeminent-platforms-twitter-like-experiences/"><u>[Updated] Preeminent Platforms Twitter-Like Experiences</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-motorola-g24-power-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/insiders-guide-maximizing-windows-11-efficiency-for-2024/"><u>Insider's Guide Maximizing Windows 11 Efficiency for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-battery-troubleshooting-for-iphone-14-users-insights-and-tips/"><u>Navigating Battery Troubleshooting for iPhone 14 Users: Insights and Tips</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/nikons-sb-700-flash-balancing-cost-and-efficiency/"><u>Nikon's SB-700 Flash: Balancing Cost & Efficiency</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-complete-manual-of-sound-control-enhancing-your-live-stream-with-obs-ducking-for-2024/"><u>The Complete Manual of Sound Control Enhancing Your Live Stream with OBS Ducking for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-ultimate-audio-editing-playbook-mastering-the-use-of-keyframes-for-dynamic-filmmaking-in-final-cut-pro-x/"><u>The Ultimate Audio Editing Playbook Mastering the Use of Keyframes for Dynamic Filmmaking in Final Cut Pro X</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-10-top-vocal-remover-software-for-karaoke-music-production-and-more/"><u>Updated 10 Top Vocal Remover Software for Karaoke, Music Production, and More</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-enriching-avi-images-with-auditory-elements-in-the-2023-version/"><u>Updated 2024 Approved Enriching AVI Images with Auditory Elements in the 2023 Version</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-melody-match-masters-unveiling-the-hottest-tunes-on-web-platforms/"><u>Updated 2024 Approved Melody Match Masters Unveiling the Hottest Tunes on Web Platforms</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-elevate-your-music-production-the-best-six-free-digital-audio-workstations-for-those-starting-out-for-2024/"><u>Updated Elevate Your Music Production The Best Six Free Digital Audio Workstations for Those Starting Out for 2024</u></a></li>
+</ul></div>
+

@@ -6,6 +6,7 @@ export default function initLocalSearch() {
   let isfetched = false;
   let currentPage = 1;
   let lastSearchText = '';
+  let lastRequestID = '';
   
   const inFetchingHTML = '<div id="no-result"><i class="fa-solid fa-spinner fa-spin-pulse fa-5x fa-fw"></i></div>';
   const noResultHTML = '<div id="no-result"><i class="fa-solid fa-box-open fa-5x"></i></div>';
@@ -64,11 +65,19 @@ export default function initLocalSearch() {
     return text.replace(new RegExp(keywords.join('|'), 'gi'), (match) => `<span style="background-color: yellow;">${match}</span>`);
   }
   
-  const onFetchData = (res) => {
-    let resultItems = [];
-    // console.log(`data from remote:`);
-    // console.log(res);
+  const onFetchData = (res, requestID='') => {
+    if (lastRequestID != requestID) {
+      if (lastSearchText.trim().length < 1 || lastRequestID.trim().length < 1) {
+        resetInitState();
+      } else {
+        const { page, pageSize, q } = JSON.parse(lastRequestID);
+        console.log('refetch data ...', { lastRequestID,  requestID});
+        fetchData({ page, pageSize, q }, onFetchData); 
+      }
+      return;
+    }
     
+    let resultItems = [];    
     const dataList = res?.data || [];
     const totalPages = res?.pagination?.totalPages || 0;
     const curPage = res?.pagination?.page || 0;
@@ -83,7 +92,6 @@ export default function initLocalSearch() {
       a.innerHTML = highlightedText(title, [lastSearchText]);
       li.appendChild(a);
       
-      // 添加到记录中
       resultItems.push(li);                   
     });
     
@@ -97,7 +105,7 @@ export default function initLocalSearch() {
       });
       
       const pageNumbers = [];
-      const maxButtons = 9; // 最多显示的按钮数
+      const maxButtons = 9;
       const startPageNum = Math.max(1, currentPage - Math.floor(maxButtons/2));
       const endPageNum = Math.min(totalPages, startPageNum + maxButtons - 1);
       for(let i = startPageNum; i <= endPageNum; i++) {
@@ -128,18 +136,21 @@ export default function initLocalSearch() {
   
   const inputEventFunction = () => {
     let searchText = searchInputDom.value.trim().toLowerCase();
+    lastSearchText = searchText;
     
     if (searchText.length > 0) {
-      lastSearchText = searchText;
       currentPage = 1;
       // Perform searching
       fetchData({page:1, pageSize:10, q:lastSearchText}, onFetchData)
     } else {
+      currentPage = 1;
       resetInitState();          
     }
   };
   
   const fetchData = ({page = 1, pageSize = 10, q = ''} = {}, callback) => {
+    
+    lastRequestID = JSON.stringify({page, pageSize, q});
     if (q.trim() == '' || isfetched) return;
     
     const urlObj = new URL(`https://search.techidaily.com/api/search?site=${hostname}`);
@@ -156,17 +167,16 @@ export default function initLocalSearch() {
     
     updateFetchingState();
     isfetched = true;
+    const requestID = JSON.stringify({page, pageSize, q});
     
     // Fetch
     fetch(href, { headers })
       .then((response) => response.json())
       .then((res) => {
         // Get the contents from search data
-        isfetched = true;
         removeFetchingState();
-            
-        callback && callback(res);
-        isfetched = false;          
+        isfetched = false; 
+        callback && callback(res, requestID);         
       })
       .catch(err => {
         console.error(err);

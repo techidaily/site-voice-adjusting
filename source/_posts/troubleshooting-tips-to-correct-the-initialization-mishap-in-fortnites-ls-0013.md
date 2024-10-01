@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips to Correct the Initialization Mishap in Fortnite's LS-0013
-date: 2024-09-23T21:08:02.429Z
-updated: 2024-09-26T01:55:06.645Z
+date: 2024-09-29T19:42:48.322Z
+updated: 2024-09-30T16:03:24.995Z
 tags:
   - win11
   - win10
@@ -87,10 +87,10 @@ If the lagging issue persists, try the next fix.
  Restart your PC for the new driver to take effect. If updating the network driver doesn’t solve your problem, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Allow Forza Horizon 5 through the firewall
@@ -104,13 +104,6 @@ If the lagging issue persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-control-panel.jpg)
 3. Switch to **View by: small icons** , then click **Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-09-27.jpg)
 4. Click **Allow an app or feature through Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-10-08.jpg)
@@ -122,6 +115,13 @@ If the lagging issue persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-25-14.jpg)
 2. Click **Browse** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-09-14_13-11-21.jpg)
 3. Navigate to Forza Horizon 5 game folders and add the game executable to the list.
 4. Find Forza Horizon 5 on the list,**tick the checkbox of Private network** , and click**OK** .  
@@ -129,10 +129,16 @@ If the lagging issue persists, try the next fix.
  This will ensure your firewall won’t block Forza Horizon 5 when you’re using a private network, for example, your home Wi-Fi. For safety reasons, we recommend you only select the private network, but you’re welcome to allow the game through all types of networks if needed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If the lagging issue persists, try the next fix.
@@ -147,6 +153,13 @@ If the lagging issue persists, try the next fix.
 
 If this fix doesn’t help with your problem, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 6: Configure your DNS settings
 
  Corrupted DNS caches may cause random connection issues. If you’ve tried the above fixes and nothing worked, you may want to give this fix a try and configure your DNS settings. To fix the lag issues, there are two things you can do:
@@ -156,10 +169,10 @@ If this fix doesn’t help with your problem, try the next fix.
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1: Flush your DNS
@@ -177,23 +190,10 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2: Switch to a public DNS server
@@ -212,31 +212,31 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this fix doesn’t solve your problem, no worries, there’s one more fix you can try.
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 7: Lower in-game settings
@@ -267,19 +267,17 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-unleash-potential-ae-templates-for-aspiring-artists/"><u>[New] Unleash Potential AE Templates for Aspiring Artists</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-create-a-personalized-broadcasting-experience-record-webcam-with-vlc/"><u>[Updated] Create a Personalized Broadcasting Experience Record Webcam with VLC</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-basics-to-expert-a-complete-guide-to-youtube-chapter-addition/"><u>[Updated] From Basics to Expert A Complete Guide to YouTube Chapter Addition</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-maximizing-your-broadcast-obs-on-android-devices-for-2024/"><u>[Updated] Maximizing Your Broadcast OBS on Android Devices for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722858326945-apples-next-big-launch-dates-announced-rumors-unveiled-and-key-details-shared-ahead-of-time/"><u>Apple's Next Big Launch - Dates Announced, Rumors Unveiled, and Key Details Shared Ahead of Time</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-galaxy-s23plus-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Samsung Galaxy S23+?</u></a></li>
-<li><a href="https://facebook.techidaily.com/keeping-conversations-lighthearted-without-crossing-lines/"><u>Keeping Conversations Lighthearted without Crossing Lines</u></a></li>
-<li><a href="https://network-issues.techidaily.com/revise-driver-in-win-for-faster-basic-render-on-ws-2-ws-8/"><u>Revise DRIVER in Win for Faster Basic Render on WS-2, WS-8</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/the-beginners-blueprint-to-creating-an-audio-book-with-ease-a-compreranly-updated-manual/"><u>The Beginners Blueprint to Creating an Audio Book with Ease A Compreranly Updated Manual</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/the-experts-selection-of-windows-compatible-noise-cancellation-applications/"><u>The Experts Selection of Windows-Compatible Noise Cancellation Applications</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/unveiling-the-finest-subsidized-virtual-studio-technology-plugins-for-2024/"><u>Unveiling the Finest Subsidized Virtual Studio Technology Plugins for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-enriching-avi-images-with-auditory-elements-in-the-2023-version/"><u>Updated 2024 Approved Enriching AVI Images with Auditory Elements in the 2023 Version</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-top-6-masterful-automated-speech-to-text-tools/"><u>Updated 2024 Approved Top 6 Masterful Automated Speech-to-Text Tools</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-exploring-the-possibilities-methods-for-vocal-variation-and-control-for-2024/"><u>Updated Exploring the Possibilities Methods for Vocal Variation and Control for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-fb-video-highlights-our-top-5-favorites/"><u>[Updated] FB Video Highlights Our Top 5 Favorites</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-frolicsome-user-enrollment-process/"><u>2024 Approved Frolicsome User Enrollment Process</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beyond-zoom-the-intricacies-of-iphone-xs-lens-tech-for-2024/"><u>Beyond Zoom The Intricacies of iPhone X's Lens Tech for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-notepad-in-w11-with-intelligent-guide/"><u>Enhance Notepad in W11 with Intelligent Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-hevc-files-on-samsung-galaxy-s24-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Failed to play HEVC files on Samsung Galaxy S24</u></a></li>
+<li><a href="https://techtrends.techidaily.com/latest-updates-on-apples-electric-vehicle-pricing-details-and-launch-timeline-revealed/"><u>Latest Updates on Apple's Electric Vehicle: Pricing Details & Launch Timeline Revealed!</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-top-6-no-cost-web-based-sound-crafting-tools/"><u>New Top 6 No-Cost Web-Based Sound Crafting Tools</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/six-easy-steps-to-enhance-your-videos-with-music-without-expense/"><u>Six Easy Steps to Enhance Your Videos with Music Without Expense</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/synchro-sound-creation-merging-audio-tracks-into-one-cohesive-file-for-2024/"><u>Synchro-Sound Creation Merging Audio Tracks Into One Cohesive File for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/two-effective-strategies-for-converting-flv-to-ipad-friendly-mp4mov-files-both-online-and-offline/"><u>Two Effective Strategies for Converting FLV to iPad-Friendly MP4/MOV Files, Both Online and Offline</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-navigating-copyright-friendly-ways-to-retrieve-your-spotify-tunes-for-offline-use/"><u>Updated 2024 Approved Navigating Copyright-Friendly Ways to Retrieve Your Spotify Tunes for Offline Use</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-preserving-audio-integrity-techniques-for-altering-pitch-in-audacity/"><u>Updated 2024 Approved Preserving Audio Integrity Techniques for Altering Pitch in Audacity</u></a></li>
 </ul></div>
 

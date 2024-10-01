@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Your Play Experience: Fixing Cities: Skylines 2 Crashes on Windows"
-date: 2024-09-13T03:17:15.188Z
-updated: 2024-09-14T16:05:30.833Z
+date: 2024-09-28T02:42:27.840Z
+updated: 2024-10-01T08:25:25.391Z
 tags:
   - win11
   - win10
@@ -63,6 +63,13 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-00-51.jpg)
 
  Make sure your PC meets the minimum specs, then go ahead with the fix below. (If your computer doesn’t meet the minimum specs, the only solution would be upgrading your PC.)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Restart your computer
 
@@ -157,6 +164,13 @@ If your issue persists, then move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-04-33.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Right-click **Total War: WARHAMMER II** and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-04-38.jpg)
@@ -166,6 +180,13 @@ If your issue persists, then move on to the next fix below.
  Wait for Steam to detect and fix any corrupted game files automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-04-44.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)** Relaunch your game after the process is complete.
 
@@ -195,6 +216,13 @@ If the game is still unplayable, check the next fix, below.
 
 If your game still won’t launch properly, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 7: Check for Windows Firewall
 
  The game crashing issue can happen if your game is blocked by Windows Firewall. So, you should check the Firewall settings and ensure the program is allowed in Firewall. Here is how：
@@ -207,16 +235,16 @@ If your game still won’t launch properly, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-12-04-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Under**View by** , select**Small icons** , then click**Windows Defender Firewall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-20-25.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Click**Allow an app or feature through Windows Defender Firewall** .
 
@@ -226,6 +254,13 @@ If your game still won’t launch properly, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-06-26.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Click each Steam entities, then click**Remove** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-17-25.jpg)
@@ -234,33 +269,20 @@ If your game still won’t launch properly, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-17-25-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **8)** Relaunch Steam and your game.
 
 **9)** Firewall will prompt you to allow access to networks, click**Allow access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-24-19.jpg)
 
-If this method doesn’t work for you, move on to try the fix below.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+If this method doesn’t work for you, move on to try the fix below.
 
 ### Fix 8: Run your game in compatibility mode
 
@@ -269,13 +291,6 @@ If this method doesn’t work for you, move on to try the fix below.
 **1)** Right-click the**Total War: WARHAMMER II icon** , then select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-05-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
@@ -301,13 +316,6 @@ If this method doesn’t work for you, move on to try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-31-33.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-31-39.jpg)
@@ -327,6 +335,13 @@ If this method doesn’t work for you, move on to try the fix below.
 **8)** Right-click the **Steam icon**  and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-31-22-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **9)**  Move the**backup steamapps folder** you create before to your current directory location.
 
@@ -351,5 +366,23 @@ If this method doesn’t work for you, move on to try the fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unleash-your-potential-with-instagram-tv-upload/"><u>[Updated] 2024 Approved Unleash Your Potential with Instagram TV Upload</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-visionary-tiles-top-8-image-weaver/"><u>[Updated] In 2024, Visionary Tiles Top 8 Image Weaver</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/c-spans-fee-free-footage-access-a-compreayer-guide-for-2024/"><u>C-Span's Fee-Free Footage Access A Compreayer Guide for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-moto-g-5g-2023-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Moto G 5G (2023)</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-from-apple-iphone-6s-plus-smoothly-by-drfone-ios/"><u>How To Remove iCloud From Apple iPhone 6s Plus Smoothly</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-top-secure-video-streaming-apps-1-to-8-2023-edition/"><u>In 2024, Top Secure Video Streaming Apps #1 to #8, 2023 Edition</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-comprehensive-guide-to-adjusting-siris-voice-in-ios-devices/"><u>New The Comprehensive Guide to Adjusting Siris Voice in iOS Devices</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-ultimate-compilation-top-10-audio-processing-mobile-apps-ios-and-android-for-2024/"><u>New The Ultimate Compilation Top 10 Audio Processing Mobile Apps (iOS and Android) for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/next-level-graphics-nvidia-210-software-upgrade-for-windows-10/"><u>Next-Level Graphics: NVIDIA 210 Software Upgrade for Windows 10</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/premium-free-digital-audio-stitching-platforms-compared-for-2024/"><u>Premium Free Digital Audio Stitching Platforms Compared for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quick-collage-creation-a-step-by-step-guide-for-google-images-for-2024/"><u>Quick Collage Creation A Step-by-Step Guide for Google Images for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-iphone-15-by-drfone-ios/"><u>Top 11 Free Apps to Check IMEI on iPhone 15</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-recommended-online-hubs-for-downloading-chill-lofi-imagery-and-harmonies/"><u>Updated 2024 Approved Recommended Online Hubs for Downloading Chill Lofi Imagery & Harmonies</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-adjusting-audio-levels-in-digital-recordings/"><u>Updated Adjusting Audio Levels in Digital Recordings</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-harmonizing-with-your-hearing-leveraging-iphone-to-determine-musical-pieces/"><u>Updated Harmonizing with Your Hearing Leveraging iPhone to Determine Musical Pieces</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-a-comprehensive-list-of-the-most-advanced-windowsmacos-compatible-daws-2023-edition/"><u>Updated In 2024, A Comprehensive List of the Most Advanced Windows/macOS Compatible DAWs - 2023 Edition</u></a></li>
+</ul></div>
 

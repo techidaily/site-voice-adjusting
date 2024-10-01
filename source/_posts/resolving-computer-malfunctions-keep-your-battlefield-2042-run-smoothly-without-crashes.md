@@ -1,7 +1,7 @@
 ---
 title: "Resolving Computer Malfunctions: Keep Your Battlefield 2042 Run Smoothly Without Crashes"
-date: 2024-09-24T20:45:43.286Z
-updated: 2024-09-26T01:57:28.207Z
+date: 2024-09-28T04:38:44.647Z
+updated: 2024-10-01T09:57:57.237Z
 tags:
   - win11
   - win10
@@ -50,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/0de73caf3bb5c02daed1ee386cf09afb53bbd23f4
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. You’ll need the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) to do this and you’ll be prompted to upgrade.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
@@ -64,18 +57,18 @@ thumbnail: https://thmb.techidaily.com/0de73caf3bb5c02daed1ee386cf09afb53bbd23f4
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Stop overclocking
 
  Many players would like to overclock the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking usually crashes the game. To prevent game crashes, you should reset the CPU or the graphics card to the manufacturer specifications.
 
  Some players reported that Control may crash when they’re using MSI Afterburner or Zotac Firestorm. So if you’ve enabled MSI Afterburner or Zotac Firestorm, try disabling them to see if this issue persists. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Use a reduced settings profile for graphics-related features
 
@@ -83,18 +76,18 @@ thumbnail: https://thmb.techidaily.com/0de73caf3bb5c02daed1ee386cf09afb53bbd23f4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-setting-1024x592.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-settings-1024x613.png)
 
 Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-system-requirements.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  _The system requirements information is captured from Epic Games Launcher_
 
@@ -120,29 +113,22 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Modify AMD graphics card settings
 
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by **Large icons** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
@@ -162,20 +148,28 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click Scan to add the game to the application list.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
 6. Modify the settings the same way you see in the screenshot below.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
  Launch Control again in reduced settings to see if it crashes or not. If the game still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Delete the “render.ini” file
 
@@ -189,10 +183,10 @@ Here are the system requirements for Control:
  See if the game will crash or not. Normally this issue should be resolved. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Perform a Windows Update
@@ -207,6 +201,13 @@ Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If there are no updates related to MS Visual C++ or .NET Framework from Windows Update, you can download their installation files via the links below on your own and manually install them on your PC.
 
 **Microsoft Visual C++ 2013** :  
@@ -216,18 +217,18 @@ Here are the system requirements for Control:
 
  After installing Microsoft Visual C++ 2013 and Microsoft .NET Framework, you need to restart Windows. Then launch Control to see if this issue persists. If not, congratulations, you’ve resolved this issue! If this issue reappears, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 7: Install the latest Control patch
 
  Remedy Entertainment (the developer of Control) releases regular game patches to fix bugs and improve gaming performance. It’s possible that an older patch has caused the game crash issue, and that a new patch is required to fix it.
 
  If a patch is available, just download and install it to see if it can fix the crashing issue; if there’s no patches available, or if the issue persists after you installed the latest patch, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Verify the game file
 
@@ -287,22 +288,20 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-leading-tools-to-uncover-trending-tags-on-fb-twt-and-ig-sites-for-2024/"><u>[New] Leading Tools to Uncover Trending Tags on FB, Twt & IG Sites for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-mastering-the-art-of-finding-lost-chats-for-2024/"><u>[New] Mastering the Art of Finding Lost Chats for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-audio-visual-transcript-maker/"><u>2024 Approved Audio Visual Transcript Maker</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-video-valedictions-sign-off-strategies-for-online-platforms/"><u>2024 Approved Video Valedictions Sign-Off Strategies for Online Platforms</u></a></li>
-<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/frostpunk-crash-resolution-strategies-for-smooth-gaming-experience/"><u>Frostpunk Crash Resolution: Strategies for Smooth Gaming Experience</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-honor-magic-5-is-unlocked-by-drfone-android/"><u>How To Check if Your Honor Magic 5 Is Unlocked</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-gt-neo-5-se-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme GT Neo 5 SE to Outlook | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-efficiently-photograph-your-pcs-view/"><u>In 2024, Efficiently Photograph Your PC's View</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-from-silence-to-sight-adding-images-to-your-music-playlist-creative-sound-design/"><u>New 2024 Approved From Silence to Sight Adding Images to Your Music Playlist Creative Sound Design</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-audiophiles-manual-incorporating-pristine-sounds-in-mp4-videos-for-2024/"><u>New Audiophiles Manual Incorporating Pristine Sounds in MP4 Videos for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-crafting-crisp-audio-a-detailed-guide-to-de-emphasizing-vocals-in-adobe-audition-tracks-for-2024/"><u>New Crafting Crisp Audio A Detailed Guide to De-Emphasizing Vocals in Adobe Audition Tracks for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-audit-findings-on-sound-forges-integration-and-workflow-efficiency/"><u>New In 2024, Audit Findings on Sound Forges Integration and Workflow Efficiency</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-achieving-consistent-sound-levels-with-davinci-resolve/"><u>Updated 2024 Approved Achieving Consistent Sound Levels with DaVinci Resolve</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-global-top-rated-mp3-editing-applications/"><u>Updated In 2024, Global Top-Rated MP3 Editing Applications</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-tail-wags-and-whispers-dognoise-auditory-experience/"><u>Updated In 2024, Tail Wags & Whispers Dognoise Auditory Experience</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-the-essential-guide-to-recording-dynamic-digital-audio-broadcasts-for-2024/"><u>Updated The Essential Guide to Recording Dynamic Digital Audio Broadcasts for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-future-on-your-screen-best-performing-8k-tvs-ranked/"><u>[New] 2024 Approved The Future On Your Screen Best Performing 8K TVs Ranked</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-optimal-webcam-use-and-recording-techniques-for-macbook-for-2024/"><u>[Updated] Optimal Webcam Use and Recording Techniques for MacBook for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-audio-removal-guide-for-mp4-files/"><u>2024 Approved Audio Removal Guide for MP4 Files</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/color-your-skies-dji-mini-2-and-air-2s-luts-complimentary-offer-for-2024/"><u>Color Your Skies – DJI Mini 2 & Air 2S LUTS Complimentary Offer for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-troubleshooting-steps-to-prevent-recurring-windows-explorer-breakdowns-with-revo/"><u>Expert Troubleshooting Steps to Prevent Recurring Windows Explorer Breakdowns with Revo</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/future-frames-the-years-top-cinematographic-innovations-2024/"><u>Future Frames The Year's Top Cinematographic Innovations - 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-audacity-automation-implementing-auto-tune-effectively-in-your-projects/"><u>In 2024, Audacity Automation Implementing Auto-Tune Effectively in Your Projects</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-beneath-the-spotlight-top-youtube-events-after-vidcon/"><u>In 2024, Beneath the Spotlight Top YouTube Events After VidCon</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-how-to-clone-voice-in-2-ways-create-ai-voices/"><u>In 2024, How to Clone Voice in 2 Ways-Create AI Voices</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unleash-speed-in-your-youtube-videography-with-rapid-techniques/"><u>In 2024, Unleash Speed in Your YouTube Videography with Rapid Techniques</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/mastering-tiktok-sound-control-simple-methods-for-quieting-videos-for-2024/"><u>Mastering TikTok Sound Control Simple Methods for Quieting Videos for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-how-to-remove-background-music-from-video-for-2024/"><u>New How to Remove Background Music From Video for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-beastly-symphony-capturing-giants-in-audio-form/"><u>New The Beastly Symphony Capturing Giants in Audio Form</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-thunderous-echoes-the-soundscape-of-immense-entities-for-2024/"><u>New Thunderous Echoes The Soundscape of Immense Entities for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/news-endings-as-a-narrative-tool/"><u>News Endings as a Narrative Tool</u></a></li>
 </ul></div>
 
