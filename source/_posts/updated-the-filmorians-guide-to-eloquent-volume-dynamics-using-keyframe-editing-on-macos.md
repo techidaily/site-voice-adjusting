@@ -1,7 +1,7 @@
 ---
 title: Updated The Filmorians Guide to Eloquent Volume Dynamics Using Keyframe Editing on macOS
-date: 2024-09-23T22:13:23.158Z
-updated: 2024-09-30T22:38:07.428Z
+date: 2024-10-01T18:13:51.963Z
+updated: 2024-10-06T16:55:34.264Z
 tags: 
   - audio editing software
   - audio editing
@@ -53,10 +53,16 @@ Now, click on the keyframe icon on the left side panel, make the volume adjustme
 To add the second **audio keyframe**, move the playhead to the desired spot, and once done, perform step 3 again.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Modify Audio Keyframes in Filmora for Mac?
@@ -86,16 +92,10 @@ If you want to lower the volume of other clips in the video, you can use the “
 It’s not just one, but Filmora offers five attractive choices to modify the created **audio keyframe**.
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: How to Fade In/Out Audio with Keyframes in Filmora for Mac?
@@ -116,10 +116,10 @@ Now that you are familiar with the method to add **Filmora keyframes** for audio
 * Dragging the **fade audio in the** handle at the beginning of the clip will impose the effect and set its duration automatically. Pulling the **fade audio out** handle at the end of the clip will impose the fade-out effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -129,10 +129,16 @@ No doubt, Wondershare Filmora is the best choice to carry over your **audio keyf
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -150,20 +156,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-advanced-method-for-combining-gopro-footage-with-full-spherical-vids/"><u>[Updated] Advanced Method for Combining GoPro Footage with Full Spherical Vids</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-from-amateur-to-expert-audio-normalization-mastery-with-davinci-resolve/"><u>2024 Approved From Amateur to Expert Audio Normalization Mastery with DaVinci Resolve</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-guides-to-efface-auditory-components-from-cinematic-pieces/"><u>In 2024, Guides to Efface Auditory Components From Cinematic Pieces</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-vocal-vanishing-act-how-to-seamlessly-remove-singers-voice-from-an-audio-track-using-audacity-tools/"><u>In 2024, Vocal Vanishing Act How to Seamlessly Remove Singers Voice From an Audio Track Using Audacity Tools</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/instructional-series-altering-the-auditory-component-of-digital-clips-for-2024/"><u>Instructional Series Altering the Auditory Component of Digital Clips for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/minute-methods-for-retrieving-erased-reddit-threads/"><u>Minute Methods for Retrieving Erased Reddit Threads</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-achieving-sonic-clarity-overcoming-hiss-and-other-unwanted-noises-in-audio-tracks/"><u>New Achieving Sonic Clarity Overcoming Hiss and Other Unwanted Noises in Audio Tracks</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-how-to-add-music-to-a-video-online-for-free/"><u>New How to Add Music to a Video Online for Free</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-seamless-integration-of-multiple-audio-layers-creating-a-consolidated-master-file/"><u>New In 2024, Seamless Integration of Multiple Audio Layers Creating a Consolidated Master File</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-honor-70-lite-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Honor 70 Lite 5G to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quick-access-to-xps-movie-making-tools-for-2024/"><u>Quick Access to XP's Movie Making Tools for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/securely-preserve-your-instagram-content-on-iphone-for-2024/"><u>Securely Preserve Your Instagram Content on iPhone for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/simplified-data-retrieval-made-easy-with-stellars-new-software-version/"><u>Simplified Data Retrieval Made Easy with Stellar's New Software Version</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-maximize-engagement-with-these-instagram-story-tips/"><u>[Updated] 2024 Approved Maximize Engagement with These Instagram Story Tips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfect-color-balancing-for-free-leveraging-luts-within-obs-studio-environment/"><u>[Updated] Perfect Color Balancing for Free Leveraging LUTs Within OBS Studio Environment</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-elevating-your-vimeo-presence-with-imovie-videos/"><u>2024 Approved Elevating Your Vimeo Presence with iMovie Videos</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Honor Magic 6? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-vivo-y78-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Vivo Y78 5G FRP</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-guide-on-how-to-remove-apple-id-from-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, Guide on How To Remove Apple ID From Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-ai-five-must-know-tech-tools-for-business/"><u>Leveraging AI: Five Must-Know Tech Tools for Business</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-beat-engineers-handbook-designing-sounds-for-the-silver-screen/"><u>New 2024 Approved The Beat Engineers Handbook Designing Sounds for the Silver Screen</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-a-technical-approach-to-combining-soundtracks-with-video-footage-on-mobile-devices/"><u>New A Technical Approach to Combining Soundtracks with Video Footage on Mobile Devices</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-an-insiders-look-6-exemplary-chrome-os-gadgets-for-exceptional-voice-alteration-experiences-creativesuitelumiere/"><u>New An Insiders Look 6 Exemplary Chrome OS Gadgets for Exceptional Voice Alteration Experiences - CreativeSuiteLumiere</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-discovering-the-finest-zero-cost-open-source-audio-management-on-windows/"><u>New Discovering the Finest Zero-Cost, Open-Source Audio Management on Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Innovative Approaches to Minimize Audio and Video File Size
-date: 2024-09-28T04:32:00.772Z
-updated: 2024-10-01T06:35:02.889Z
+date: 2024-10-03T18:16:46.866Z
+updated: 2024-10-06T18:28:02.432Z
 tags: 
   - audio editing software
   - audio editing
@@ -33,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/e05f2d33f2fefb8dc7c06028c76750542668dde01
 ## Lower Volume of the Media Files Step by Step Guide
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1 Add media files you want to lower volume
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/e05f2d33f2fefb8dc7c06028c76750542668dde01
 
 ![lower volume](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2 Lower volume of the media files
 
  Double click the target file and the "Editing" Window will appear. Then switch to the "Audio" column, reduce volume by dragging the volume level slider left. Don't worry if you don't get the sound right the first time. You can reset the volume by clicking the "Reset" button. After adjusting the volume, click the play icon to listen to the effect.
@@ -52,26 +59,6 @@ thumbnail: https://thmb.techidaily.com/e05f2d33f2fefb8dc7c06028c76750542668dde01
  Tip: There are more functions in this column, such as Fade in/fade out, fine tune the pitch, etc. If you want to add more effects, go to “Video” column to rotate, adjust contrast, saturation, brightness, nue and speed of the video.
 
 ![how to lower volume](https://images.wondershare.com/images/multimedia/video-editor/change-volume.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3 Save the files
 
@@ -87,13 +74,20 @@ thumbnail: https://thmb.techidaily.com/e05f2d33f2fefb8dc7c06028c76750542668dde01
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -111,16 +105,24 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-professional-techniques-for-streaming-and-recording-league-of-legends-for-2024/"><u>[New] Professional Techniques for Streaming and Recording League of Legends for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-best-price-to-performance-ratio-for-asmr-equipment/"><u>2024 Approved The Best Price-to-Performance Ratio for ASMR Equipment</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-on-apple-iphone-14-proipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock on Apple iPhone 14 Pro/iPad/iPod</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-how-to-add-musicaudio-to-a-gif-on-mac/"><u>In 2024, How to Add Music/Audio to a GIF on Mac?</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-path-to-a-new-sonic-presence-innovative-approaches-to-vocal-adaptation/"><u>In 2024, The Path to a New Sonic Presence Innovative Approaches to Vocal Adaptation</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-ultimate-guide-to-enhancing-logic-pro-x-8-top-ranked-free-and-premium-plugins/"><u>In 2024, The Ultimate Guide to Enhancing Logic Pro X - 8 Top-Ranked Free & Premium Plugins</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-crowded-online-spaces-offering-no-cost-guitar-song-lines-and-artwork/"><u>New Crowded Online Spaces Offering No-Cost Guitar Song Lines and Artwork</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-exploring-the-best-voice-mimicry-applications-of-the-year/"><u>New In 2024, Exploring the Best Voice Mimicry Applications of the Year</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-made-simple-how-to-perform-a-full-cmos-reset/"><u>Troubleshooting Made Simple: How to Perform a Full CMOS Reset</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Poco X5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/windows-10avi/"><u>Windows 10上のAVI再生問題解決!最新ベストアプリケーション</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-exclusive-list-affordable-mac-video-editing-on-tiktok/"><u>[New] Exclusive List Affordable Mac Video Editing on TikTok</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-first-time-furnishings-minimalist-house-plans-in-mc-for-2024/"><u>[New] First-Time Furnishings Minimalist House Plans in MC for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-unlocking-the-power-of-cross-platform-social-media-with-youtube-and-instagram-stories/"><u>[New] In 2024, Unlocking the Power of Cross-Platform Social Media with YouTube & Instagram Stories</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-expert-insights-on-maximizing-roi-through-effective-youtube-banner-campaigns/"><u>[Updated] Expert Insights on Maximizing ROI Through Effective YouTube Banner Campaigns</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-ideal-proportions-a-guide-to-video-aspect-ratios/"><u>[Updated] In 2024, Ideal Proportions A Guide to Video Aspect Ratios</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-samsung-galaxy-s23plus-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Samsung Galaxy S23+</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-infinix-note-30-vip-racing-edition-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Infinix Note 30 VIP Racing Edition Without PUK Codes</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-sound-engineers-playbook-techniques-for-distilling-song-beats-through-technology/"><u>In 2024, The Sound Engineers Playbook Techniques for Distilling Song Beats Through Technology</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-ultimate-list-of-no-cost-web-based-digital-audio-workstations-daws-updated/"><u>In 2024, Ultimate List of No-Cost, Web-Based Digital Audio Workstations (DAWs) - Updated</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-art-of-diagnosing-and-solving-nvidias-geforce-experience-problems/"><u>Mastering the Art of Diagnosing and Solving Nvidia's GeForce Experience Problems</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-google-photos-like-a-pro-for-2024/"><u>Navigating Google Photos Like a Pro for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-singers-guide-to-cinematic-vocal-projection-using-filmora/"><u>New 2024 Approved The Singers Guide to Cinematic Vocal Projection Using Filmora</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-ultimate-guide-to-the-top-8-advanced-speech-recognition-tools-on-various-operating-systems/"><u>New 2024 Approved The Ultimate Guide to the Top 8 Advanced Speech-Recognition Tools on Various Operating Systems</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-top-10-safe-chat-platforms-for-socializing-digitally/"><u>New 2024 Approved Top 10 Safe Chat Platforms for Socializing Digitally</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-audio-transition-techniques-with-keyframes-a-mac-based-filmorians-handbook/"><u>New Audio Transition Techniques with Keyframes A Mac-Based Filmorians Handbook</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-exploring-the-leading-8-android-daw-applications-to-amplify-your-audio-artistry/"><u>New Exploring the Leading 8 Android DAW Applications to Amplify Your Audio Artistry</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-achieving-perfect-intonation-in-audacity-maintaining-high-quality-output/"><u>New In 2024, Achieving Perfect Intonation in Audacity Maintaining High-Quality Output</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-modifying-sound-intensity-in-video-and-music-files/"><u>New Modifying Sound Intensity in Video and Music Files</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-for-restoring-steam-connectivity-issues/"><u>Step-by-Step Solution for Restoring Steam Connectivity Issues</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Silent Interludes, Harmonious Sounds Expert Techniques for Audio Ducking in Adobe Premiere Pro on a Mac Computer
-date: 2024-08-03T01:40:12.943Z
-updated: 2024-08-04T01:40:12.943Z
+date: 2024-10-01T16:50:49.338Z
+updated: 2024-10-06T17:28:19.260Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 
 # Tutorial on Audio Ducking in Adobe Premiere Pro on Mac
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -31,9 +28,6 @@ Too many times, while mixing voiceover with the background music in a video, the
 
 The best thing about Premiere Pro audio ducking is that it is an automatic process and we don’t need to put a lot of effort. To make your job easier, I’m going to let you know how to use the Adobe Premiere Pro audio ducking feature in a step by step manner in this guide.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ## Part 1: How to Use Audio Ducking to Balance Music and Voiceover in Adobe Premiere Pro on Mac?
 
 If you have been using Adobe Premiere Pro on Mac, then you would already be familiar with the wide range of editing features that it has. One of them is the Premiere Pro audio ducking option that comes inbuilt in the application. Using it, you can automatically lower the volume of the background music and amplify your dialogues.
@@ -63,16 +57,24 @@ Great! You can now preview the changes you have made and check the audio ducking
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
 
 As you can see, the Premiere Pro audio ducking feature can get a bit complicated if you are a beginner. Therefore, if you are looking for a simpler and more effective automatic ducking solution, then use Wondershare Filmora. This intuitive and diverse video/audio editing tool has an automatic audio ducking option that would make your job a whole lot easier.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
 
@@ -98,10 +100,14 @@ That’s it! After making the changes, just click on the “OK” button and Fil
 
 Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, if you are looking for even a simpler alternative to Adobe Premiere audio ducking, then consider using Wondershare Filmora. A user-friendly and resourceful video editor, it offers a wide range of features and other inbuilt tools that would meet every post-production requirement of yours in one place.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -109,11 +115,25 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-comparing-future-cloud-bill-predictions-for-2024/"><u>[New] Comparing Future Cloud Bill Predictions for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-mastering-handheld-shots-no-tripod-necessary-for-2024/"><u>[Updated] Mastering Handheld Shots No Tripod Necessary for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-top-10-professional-pc-camera-options-on-windows-10/"><u>2024 Approved Top 10 Professional PC Camera Options on Windows 10</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-unlocking-the-past-essential-history-youtubes-for-educational-journey/"><u>2024 Approved Unlocking the Past Essential History YouTubes For Educational Journey</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/el-compendium-best-of-the-bunch-historical-youtubes-for-study/"><u>Channel Compendium Best of the Bunch - Historical YouTubes For Study</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-oneplus-ace-2-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent OnePlus Ace 2 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/innovative-approaches-to-infusing-sound-into-avi-files-post-update/"><u>Innovative Approaches to Infusing Sound Into AVI Files Post-Update</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-to-downloading-and-installing-your-epson-wf-275n-printer-drivers/"><u>Step-by-Step Instructions to Downloading & Installing Your Epson WF-275n Printer Drivers</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-adding-effective-audio-to-your-quicktime-projects-2023-edition/"><u>Updated 2024 Approved Adding Effective Audio to Your QuickTime Projects 2023 Edition</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-step-by-step-eliminating-rhythm-units-from-your-songs-digitally-for-2024/"><u>Updated Step-by-Step Eliminating Rhythm Units From Your Songs Digitally for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-unlocking-audio-content-effective-strategies-for-transferring-podcast-episodes-onto-computers/"><u>Updated Unlocking Audio Content Effective Strategies for Transferring Podcast Episodes Onto Computers</u></a></li>
+</ul></div>
+

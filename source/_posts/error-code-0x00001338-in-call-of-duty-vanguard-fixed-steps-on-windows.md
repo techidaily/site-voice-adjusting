@@ -1,7 +1,7 @@
 ---
 title: Error Code 0X00001338 in Call of Duty Vanguard - Fixed Steps on Windows
-date: 2024-09-24T08:08:13.361Z
-updated: 2024-10-01T01:17:14.003Z
+date: 2024-09-29T18:16:50.821Z
+updated: 2024-10-06T18:13:20.687Z
 tags:
   - win11
   - win10
@@ -28,13 +28,6 @@ Call of Duty is a free-to-play first-person shooter game for everyone. It was re
 5. [Reinstall Warzone Pacific](https://tools.techidaily.com/drivereasy/download/)
 6. [Repair system files](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check the minimum requirements
 
  The first thing you need to do is to ensure your PC meets the minimum requirements. If your system doesn’t meet the minimum requirements, then you gonna have issues like crashing.
@@ -46,6 +39,13 @@ Call of Duty is a free-to-play first-person shooter game for everyone. It was re
 | GPU          | NVIDIA GeForce GTX 670 / GeForce GTX 1650 or Radeon HD 7950 |
 | Direct X     | DirectX 12.0 compatible system                              |
 | Video Memory | 2 GB                                                        |
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -72,6 +72,14 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Relaunch Call of Duty: Warzone Pacific and check.
 
@@ -89,6 +97,13 @@ OR
 5. Launch Warzone Pacific to check if the issue persists.
 
  If this method doesn’t resolve the issue, you can restore the changes with the backup.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Change the in-game settings
 
@@ -110,30 +125,24 @@ If it fixes the issue then slowly increase your graphics settings.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-20_18-43-03.jpg)
 3. Set**View by Category** . Click**Uninstall the program** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-20_18-43-17.jpg)
 4. Find MW and Battle.net. Right-click on it and click**Unistall/Change** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-20_18-44-15.jpg)
 5. Follow the on-screen instructions to uninstall the software.
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Delete all the files.
@@ -151,23 +160,9 @@ If it fixes the issue then slowly increase your graphics settings.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -191,21 +186,24 @@ If it fixes the issue then slowly increase your graphics settings.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-elevate-your-channel-identity-essential-youtube-naming-strategies/"><u>[New] In 2024, Elevate Your Channel Identity Essential YouTube Naming Strategies</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/o-more-youtube-shorts-a-detailed-breakdown/"><u>[New] No More YouTube Shorts A Detailed Breakdown</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-leading-tools-to-record-your-desktop/"><u>[Updated] 2024 Approved Leading Tools to Record Your Desktop</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-unleashing-potential-in-ar-applying-lut-techniques-for-2024/"><u>[Updated] Unleashing Potential in AR Applying LUT Techniques for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-samsung-galaxy-m34-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Samsung Galaxy M34 Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/audiophiles-manual-to-volume-control-on-digital-media-updated-for-2024/"><u>Audiophiles Manual to Volume Control on Digital Media – Updated for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-vivo-s18-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Vivo S18 Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-tecno-phantom-v-flip-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Tecno Phantom V Flip Device</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/mastering-the-art-of-spotify-downloads-a-comprehensive-guide-for-music-lovers/"><u>Mastering the Art of Spotify Downloads A Comprehensive Guide for Music Lovers</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-15-best-montage-music-for-different-video-types/"><u>New In 2024, 15 Best Montage Music for Different Video Types</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-elegant-sound-sculpting-an-overview-of-leading-audio-editors-features-perks-and-pitfalls/"><u>New In 2024, Elegant Sound Sculpting An Overview of Leading Audio Editors Features, Perks & Pitfalls</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-incorporating-sound-techniques-for-embedding-audio-in-quicktime-media/"><u>New In 2024, Incorporating Sound Techniques for Embedding Audio in QuickTime Media</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-mastering-sound-integrating-audio-with-visuals-in-film-production/"><u>New In 2024, Mastering Sound Integrating Audio with Visuals in Film Production</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-mastering-melody-match-identifying-tunes-on-your-iphone-devices/"><u>New Mastering Melody Match Identifying Tunes on Your iPhone Devices</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-fitbit-versa-2-review-merging-fitness-goals-with-smartwatch-technology-for-an-all-in-one-wearable-device/"><u>The Fitbit Versa 2 Review: Merging Fitness Goals With Smartwatch Technology for an All-in-One Wearable Device</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-oppo-a78-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Oppo A78 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-master-the-art-of-speech-transformation-top-7-vocal-alteration-android-apps/"><u>[New] Master the Art of Speech Transformation Top 7 Vocal Alteration Android Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-masterful-motion-graphics-for-texts/"><u>[New] Masterful Motion Graphics for Texts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-enhance-playstation-2-gaming-the-ultimate-guide-to-android-emulation-tools/"><u>[Updated] Enhance PlayStation 2 Gaming The Ultimate Guide to Android Emulation Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-experts-choice-the-best-windows-pc-screen-recorders/"><u>[Updated] Expert's Choice The Best Windows PC Screen Recorders</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-foundations-of-a-youtube-venture-a-comprehensive-guide/"><u>[Updated] In 2024, The Foundations of a YouTube Venture A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-pulse-of-innovation-selecting-top-quality-dj-visual-downloads/"><u>[Updated] Pulse of Innovation Selecting Top-Quality DJ Visual Downloads</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-youtube-movie-maker-from-beginner-to-pro-edition/"><u>2024 Approved YouTube Movie Maker From Beginner to Pro Edition</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-discovering-the-best-in-display-tech-10-list-for-your-mac/"><u>In 2024, Discovering the Best in Display Tech - #10 List for Your Mac</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-mastering-youtube-metrics-for-effective-content-strategy/"><u>In 2024, Mastering YouTube Metrics for Effective Content Strategy</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-tips-of-playing-m4a-audio-files-on-android-devices/"><u>In 2024, Tips of Playing M4A Audio Files on Android Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maplestory-wont-open-discover-how-to-correct-the-game-initialization-issue/"><u>MapleStory Won't Open? Discover How to Correct the Game Initialization Issue</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-innovators-guide-to-non-intrusive-audio-modulation-in-modern-videos/"><u>New 2024 Approved The Innovators Guide to Non-Intrusive Audio Modulation in Modern Videos</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-ai-voice-manipulation-techniques-for-authentic-and-natural-sound-replication/"><u>New AI Voice Manipulation Techniques for Authentic and Natural Sound Replication</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-echoes-and-rhythms-discovering-the-top-radio-sounds-for-2024/"><u>New Echoes and Rhythms Discovering the Top Radio Sounds for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-crowded-online-spaces-offering-no-cost-guitar-song-lines-and-artwork/"><u>New In 2024, Crowded Online Spaces Offering No-Cost Guitar Song Lines and Artwork</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-from-original-notes-to-new-narratives-step-by-step-guide-for-audio-replacement-in-videos/"><u>New In 2024, From Original Notes to New Narratives Step-by-Step Guide for Audio Replacement in Videos</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-leading-resources-for-collecting-lofi-playlists-and-designs/"><u>New In 2024, Leading Resources for Collecting Lofi Playlists and Designs</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-premier-11-auditory-editing-utilities-on-android-devices/"><u>New In 2024, Premier 11 Auditory Editing Utilities on Android Devices</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-sound-design-excellence-applying-audio-ducking-methods-in-powerdirector-for-non-intrusive-volume-reduction-for-2024/"><u>New Sound Design Excellence Applying Audio Ducking Methods in PowerDirector for Non-Intrusive Volume Reduction for 2024</u></a></li>
 </ul></div>
 

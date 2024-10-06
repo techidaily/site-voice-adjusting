@@ -1,7 +1,7 @@
 ---
 title: "Banish Unwanted Sounds: Expert Tips for Silencing Headphone Feedback and Buzzing Noises"
-date: 2024-09-26T04:31:18.416Z
-updated: 2024-09-30T23:55:19.995Z
+date: 2024-10-01T17:35:42.250Z
+updated: 2024-10-06T17:02:58.629Z
 tags:
   - win11
   - win10
@@ -44,35 +44,22 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/Snipaste_2021-10-21_16-37-18.png)
 3. On the left panel, click the**Voice & Video** tab.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/Snipaste_2021-10-21_16-37-56.png)
 4. Under Voice Settings, make sure the**correct input and output devices** are selected. You can also**adjust the volumes** accordingly or do a mic test.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/10/Snipaste_2021-10-21_16-40-44.png)
-5. Select**Voice Activity** as the input mode, and turn off**Automatically determine input sensitivity** . Thereby, you can set up the volume level for Discord to recognize and pick up your voice but not the noise.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/10/Snipaste_2021-10-21_16-40-44.png)
+5. Select**Voice Activity** as the input mode, and turn off**Automatically determine input sensitivity** . Thereby, you can set up the volume level for Discord to recognize and pick up your voice but not the noise.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/Snipaste_2021-10-21_16-41-23.png)
 
  You can test if Discord voice chat is working now. If adjusting the voice settings in Discord doesn’t help, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Configure your PC sound settings
 
@@ -82,14 +69,21 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/search-sound-input.jpg)
 2. **Select the device you’re using as the input device** . Usually, it’s your headset mic.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/set-input-device.jpg)
 3. Next, right-click the little speaker icon on your taskbar, then click **Sounds** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_16-48-56.jpg)
@@ -101,22 +95,22 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
 6. Click **Apply** then **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-06-58.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The device you’re using for Discord voice chatting is now set as the input device and allowed for recording. You can now test if Discord picks up your voice. If your problem persists, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Update your audio driver
 
@@ -134,16 +128,16 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-54-43.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 If this doesn’t help, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Reset voice settings on Discord
 
@@ -160,6 +154,13 @@ If this doesn’t help, try the next fix.
 4. Discord will refresh by itself. You can test if voice chatting is working now.
 
 If this doesn’t work, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Update/Reinstall Discord
 
@@ -187,24 +188,19 @@ If this doesn’t work, there’s one more fix you can try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-perfect-recording-companion-10-best-on-spotify-platforms/"><u>[New] Perfect Recording Companion 10 Best on Spotify Platforms</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-quick-fixes-for-seamless-phone-screencasting-for-2024/"><u>[New] Quick Fixes for Seamless Phone Screencasting for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-no-flair-just-facts-dissecting-recordcast/"><u>[Updated] 2024 Approved No Flair, Just Facts Dissecting RecordCast</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-full-insight-guide-to-efficiently-use-google-docs-speech-to-text/"><u>[Updated] Full Insight Guide to Efficiently Use Google Docs Speech-to-Text</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-unlocking-potential-the-ultimate-guide-to-whatsapp-hacks-for-2024/"><u>[Updated] Unlocking Potential The Ultimate Guide to WhatsApp Hacks for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-the-important-aspects-of-leveraging-youtubes-sound-selection/"><u>2024 Approved The Important Aspects of Leveraging YouTubes Sound Selection</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-create-reverse-motion-videos-on-snapchat-tips-and-tricks-uncovered/"><u>How To Create Reverse-Motion Videos On Snapchat: Tips and Tricks Uncovered</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-oppo-reno-8t-5g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Oppo Reno 8T 5G? Try These Fixes</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-mastering-mp3-file-modification-a-step-by-step-guide/"><u>In 2024, Mastering MP3 File Modification A Step-by-Step Guide</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-unlocking-the-power-of-language-adaptation-advanced-techniques-for-video-dubbing-via-filmora/"><u>In 2024, Unlocking the Power of Language Adaptation Advanced Techniques for Video Dubbing via Filmora</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-soundless-videos-the-quintessential-methods-to-ditch-noise-online/"><u>New 2024 Approved Soundless Videos The Quintessential Methods to Ditch Noise Online</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-top-10-best-talk-with-strangers-apps/"><u>New 2024 Approved Top 10 Best Talk with Strangers Apps</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-commanding-attention-techniques-for-higher-pitched-voice-in-digital-storytelling/"><u>New Commanding Attention Techniques for Higher Pitched Voice in Digital Storytelling</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-mastering-podcasting-a-look-at-the-premier-hosting-services/"><u>New In 2024, Mastering Podcasting A Look at the Premier Hosting Services</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-revolutionizing-virtual-conferences-the-top-5-voice-altering-apps-for-google-meet-users/"><u>New In 2024, Revolutionizing Virtual Conferences The Top 5 Voice Altering Apps for Google Meet Users</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-mastering-podcast-accessibility-10-exemplary-cost-free-ios-apps-for-2024/"><u>New Mastering Podcast Accessibility 10 Exemplary Cost-Free iOS Apps for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-issue-your-airpods-wont-pair-with-windows-11-essential-guide/"><u>Solving the Issue: Your AirPods Won't Pair with Windows 11 - Essential Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/step-up-your-gameplay-with-a-top-ranked-no-fee-voice-transformation-tool-for-2024/"><u>Step Up Your Gameplay with a Top-Ranked No-Fee Voice Transformation Tool for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/successful-guide-updating-hp-elitebook-amoled-laptops-drivers-for-windows-users/"><u>Successful Guide: Updating HP EliteBook Amoled Laptop's Drivers for Windows Users</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-top-5-apps-for-turning-spotify-listens-into-youtube-videos/"><u>[New] Top 5 Apps for Turning Spotify Listens Into YouTube Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-best-in-the-shadows-vids-2023s-prime-8-app-list-for-2024/"><u>[Updated] Best In-The-Shadows Vids - 2023'S Prime 8 App List for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-from-novice-to-pro-learning-snapseed-essentials/"><u>In 2024, From Novice to Pro Learning Snapseed Essentials</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-ultimate-guide-to-splitting-music-tracks-with-precision/"><u>In 2024, The Ultimate Guide to Splitting Music Tracks with Precision</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-7-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>iPhone 7 Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/master-the-art-of-precision-preventing-ai-distortions-with-six-expert-prompt-techniques/"><u>Master the Art of Precision: Preventing AI Distortions with Six Expert Prompt Techniques</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-audiovisual-precision-how-to-refine-sound-quality-by-eliminating-ambient-noises-in-premiere-pro/"><u>New Audiovisual Precision How to Refine Sound Quality by Eliminating Ambient Noises in Premiere Pro</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-convert-videos-into-high-quality-audio-the-10-best-tools-at-your-fingertips-free-for-2024/"><u>New Convert Videos Into High-Quality Audio - The 10 Best Tools at Your Fingertips (Free) for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-decoding-media-a-step-by-step-approach-to-extracting-audio-from-video-content-on-pcmac-and-smartphones/"><u>New In 2024, Decoding Media A Step-By-Step Approach to Extracting Audio From Video Content on PC/Mac and Smartphones</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-master-the-art-of-audio-recording-top-8-software-platforms-to-achieve-professional-mixing-and-mastering-results/"><u>New Master the Art of Audio Recording Top 8 Software Platforms to Achieve Professional Mixing and Mastering Results</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-most-popular-background-scores-for-films-and-videos-updated-list-2023/"><u>New Most Popular Background Scores for Films & Videos Updated List 2023</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamlining-color-correction-leveraging-look-up-tables-from-cg-central-for-2024/"><u>Streamlining Color Correction Leveraging Look-Up Tables From CG Central for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-truth-behind-instas-video-selfie-authenticity-check-for-2024/"><u>The Truth Behind Insta's Video Selfie Authenticity Check for 2024</u></a></li>
 </ul></div>
 

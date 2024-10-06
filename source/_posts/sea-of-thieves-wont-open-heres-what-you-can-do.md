@@ -1,7 +1,7 @@
 ---
 title: Sea of Thieves Won't Open? Here's What You Can Do
-date: 2024-09-25T10:02:40.612Z
-updated: 2024-09-30T20:46:04.770Z
+date: 2024-10-02T18:23:28.069Z
+updated: 2024-10-06T17:22:41.681Z
 tags:
   - win11
   - win10
@@ -69,19 +69,27 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/windows-store-cache.jpg)
 4. Download and install the Sea of Thieves.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Press the**Windows key + I** together and click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/app.jpg)
 6. Find and click **Sea of Thieves** on the list.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Click **Advanced Options** and click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/reset.jpg)
 8. Run Sea of Thieves to check.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Change the Time & Region
 
@@ -92,30 +100,30 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/timelanguage.jpg)
 2. Open the**Set time automatically** button.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/time.jpg)
 3. Check your time zone and date.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Click **Region** and check your region is corrected.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/region-1.jpg)
 5. Reboot your PC
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Run Sea of Thieves to check.
 
 **Note** : If your language and region is set to **English (United States)** already please change it to **English (United Kingdom)** instead.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Run Powershell
 
@@ -126,15 +134,21 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/powershell.jpg)
 3. Copy and paste the following into the Powershell window and press Enter.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  **Get-AppXPackage | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($\_.InstallLocation)\\AppXManifest.xml”}**
 4. Run Sea of Thieves to check.
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Update your drivers and programs
 
@@ -165,28 +179,21 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Reboot your PC and run Sea of Thieves to check.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Disable incompatible apps
 
  Third-party applications might be the reason won’t launch issue. You can try to disable apps like AfterBurner that show FPS, OSD, MSI, EVGA, etc and then restart your PC. If this doesn’t help, you can also try to disable your antivirus software like Trend Micro which has been known to cause conflicts.
 
 **IMPORTANT** : Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall your game
 
@@ -213,21 +220,15 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-unlock-the-full-potential-of-your-videos-on-instagram-platform-for-2024/"><u>[New] Unlock the Full Potential of Your Videos on Instagram Platform for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-navigating-tiktoks-virtual-stage-with-zoom-expertise/"><u>[Updated] Navigating TikTok's Virtual Stage with Zoom Expertise</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unboxing-the-essence-of-dji-inspire-2/"><u>[Updated] Unboxing the Essence of DJI Inspire 2</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722965047450-download-and-install-the-newest-nvidia-quadro-rtx-s-4000-gpu-drivers-today/"><u>Download and Install the Newest NVIDIA Quadro RTX S 4000 GPU Drivers Today</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-realme-gt-neo-5-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-imovie-essentials-integrating-audio-elements-in-your-projects/"><u>In 2024, IMovie Essentials Integrating Audio Elements in Your Projects</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-the-most-trending-twitch-originals-from-amazon-prime/"><u>In 2024, The Most Trending Twitch Originals From Amazon Prime</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-top-tools-for-silencing-unwanted-sound-in-podcasts-and-recordings/"><u>In 2024, Top Tools for Silencing Unwanted Sound in Podcasts and Recordings</u></a></li>
-<li><a href="https://ai-video.techidaily.com/mastering-technology-choices-insights-from-toms-hardware/"><u>Mastering Technology Choices - Insights From Tom's Hardware</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-beat-blend-benders-a-curated-list-of-highest-rated-audio-synchronization-editors-2023/"><u>New 2024 Approved Beat Blend Benders A Curated List of Highest-Rated Audio-Synchronization Editors, 2023</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>New 2024 Approved Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-reentry-guide-regaining-access-on-omegle-after-a-ban/"><u>New 2024 Approved Reentry Guide Regaining Access on Omegle After a Ban</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-5-proven-methods-to-record-quality-sound-on-apple-devices-for-2024/"><u>New 5 Proven Methods to Record Quality Sound on Apple Devices for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-best-video-editing-software-to-remove-audio-from-video-windows/"><u>New Best Video Editing Software to Remove Audio From Video Windows</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-elevating-sound-design-a-comprehensive-approach-to-gradual-audio-diminishment-and-magnification-with-adobe-after-effects/"><u>New Elevating Sound Design A Comprehensive Approach to Gradual Audio Diminishment and Magnification with Adobe After Effects</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-realme-c67-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Realme C67 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-best-desktop-computers/"><u>[Updated] In 2024, Best Desktop Computers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-tier-text-transitions-reels/"><u>[Updated] Top-Tier Text Transitions Reels</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-the-ultimate-drone-buying-roadmap-pre-purchase-essentials/"><u>2024 Approved The Ultimate Drone Buying Roadmap Pre-Purchase Essentials</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-scene-to-video-canons-pathway-to-timelapse-excellence-for-2024/"><u>From Scene to Video Canon's Pathway to Timelapse Excellence for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-xiaomi-converter-convert-mov-files-for-xiaomi-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Xiaomi converter-convert .mov files for Xiaomi </u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-vivo-y27-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Vivo Y27 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-voice-capturing-made-easy-an-in-depth-look-at-vocaroos-functionality/"><u>Updated 2024 Approved Voice Capturing Made Easy An In-Depth Look at Vocaroos Functionality</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-achieve-balanced-soundscape-with-rapid-audio-regulation-strategies/"><u>Updated Achieve Balanced Soundscape with Rapid Audio Regulation Strategies</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-elevate-your-editing-game-learning-to-disconnect-video-and-sound-in-imovie-macos-edition/"><u>Updated Elevate Your Editing Game Learning to Disconnect Video and Sound in iMovie (macOS Edition)</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-harmonious-beginnings-inclusive-vocal-modification-software-options-for-novices-and-pros/"><u>Updated Harmonious Beginnings Inclusive Vocal Modification Software Options for Novices & Pros</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Crafting Seamless Sound Tracks with iMovies Volume Control
-date: 2024-09-29T06:02:32.631Z
-updated: 2024-09-30T18:18:27.364Z
+date: 2024-09-30T16:02:09.985Z
+updated: 2024-10-06T18:35:46.991Z
 tags: 
   - audio editing software
   - audio editing
@@ -51,6 +51,13 @@ After adding the fade-in and fade-out effects to your video, let's check how to 
 
 There are two ways available to fade music and audio with iMovie. One is using the fade handles, and the other is using the audio inspector. Before using iMovie audio fade-out effects, please import your video and audio files to iMovie and start a new project.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Use Fade Handles to Add Fade in/Fade out Effect in iMovie
 
 Firstly, let's take a look at the video below to check how to fade audio in/out the audio in iMovie with fade handles.
@@ -60,13 +67,6 @@ Firstly, let's take a look at the video below to check how to fade audio in/out 
 When the project opens, check "Show Waveforms" at the bottom of the Project window.
 
 ![Show Audio Waveforms -iMovie](https://images.wondershare.com/filmora/article-images/show-waveforms-imovie.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:** The Blue waveforms indicate the sound recorded within your video clips. Green and purple waveforms indicate sounds and music you’ve added to your project.
 
@@ -83,10 +83,10 @@ Move the playhead to the beginning part of the clips with fade effects to check 
 ![imovie audio fade out pointer](https://images.wondershare.com/filmora/article-images/imovie-audio-fade-out-pointer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Related:** [How to Remove Background Noise from Video](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -102,10 +102,10 @@ Double-click the video clip, choose "Clip Adjustments" to open the Inspector, an
 ![resize video](https://images.wondershare.com/topic/video-editing/imovie-audio-fade-effects.jpg "resize video")
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If there are two audio tracks, and you want to set the fade in and fade out in iMovie for the background music, you can double-click the background music clip to open the audio inspector. This inspector is a little different. If you don't know how to add background music to iMovie, you can refer to this post: [add background music in iMovie](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -121,13 +121,6 @@ If you manually adjust the effect, you can have a better effect.
 #### Step 3. Save the Audio Fade In and Out Effect
 
 ![imovie fade audio done](https://images.wondershare.com/filmora/article-images/imovie-fade-audio-done.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After the settings, you can preview the effect in the viewing window to make sure all goes well, and you are much satisfied. Then click "Done" to save the audio fade-in and fade-out effects in iMovie.
 
@@ -152,6 +145,13 @@ Import the video clip you want to add audio in and out effect. To do this, click
 Place the video onto the timeline. Double-click on it and then choose "Audio". In the tab, you can drag the slider bar to the right or left to manually set the fade in and fade out the length.
 
 ![fade aduio](https://images.wondershare.com/filmora/guide/filmora-mac-audio-settings.jpg "resize video")
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 3. Save Your Video
 
@@ -178,22 +178,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-best-practices-in-converting-photos-into-movies/"><u>[New] Best Practices in Converting Photos Into Movies</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-expert-insights-into-tunefabs-recording-capabilities/"><u>[New] In 2024, Expert Insights Into Tunefab's Recording Capabilities</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-professional-footage-with-top-tier-stabilizers-for-2024/"><u>[Updated] Professional Footage with Top-Tier Stabilizers for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/brighten-up-your-gameplay-fixing-the-dark-mode-bug-in-call-of-duty-wwii-on-windows/"><u>Brighten Up Your Gameplay: Fixing the Dark Mode Bug in Call of Duty: WWII on Windows!</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/explore-the-latest-maps-in-call-of-duty-modern-warfares-competitive-mode/"><u>Explore the Latest Maps in Call of Duty: Modern Warfare's Competitive Mode</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-android-techniques-old-to-new-video-format/"><u>In 2024, Android Techniques Old to New Video Format</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-iphone-11-pro-max-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your iPhone 11 Pro Max and iPad</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/integrate-bandwidth-status-into-windows-shell/"><u>Integrate Bandwidth Status Into Windows Shell</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/prime-gear-picks-for-beginning-creators/"><u>Prime Gear Picks for Beginning Creators</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/troubleshooting-pacific-drive-startup-issues-step-by-step-solutions/"><u>Troubleshooting Pacific Drive Startup Issues: Step-by-Step Solutions</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unboxing-gen-2-google-nest-hub-the-features-without-a-lens-reviewed/"><u>Unboxing Gen 2 Google Nest Hub: The Features Without a Lens Reviewed!</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-high-definition-siri-pronunciation-engine-windowsmac-integration/"><u>Updated In 2024, High-Definition Siri Pronunciation Engine – Windows/Mac Integration</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-master-your-sound-without-spending-a-dime-top-11-free-audio-tools-for-pc-and-mac-users/"><u>Updated In 2024, Master Your Sound Without Spending a Dime Top 11 Free Audio Tools for PC & Mac Users</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-top-tier-tempo-tune-videography-tools/"><u>Updated In 2024, Top-Tier Tempo Tune Videography Tools</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-streamlining-sound-sync-how-to-implement-audio-ducking-for-dynamic-volume-control-in-powerdirector/"><u>Updated Streamlining Sound Sync How to Implement Audio Ducking for Dynamic Volume Control in PowerDirector</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-vocal-vanishing-act-how-to-seamlessly-remove-singers-voice-from-an-audio-track-using-audacity-tools/"><u>Updated Vocal Vanishing Act How to Seamlessly Remove Singers Voice From an Audio Track Using Audacity Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-engage-enrich-and-excel-top-ideas-for-productive-podcast-sessions/"><u>[New] In 2024, Engage, Enrich & Excel Top Ideas for Productive Podcast Sessions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-spot-real-vs-sham-accounts-in-instagram-life/"><u>[New] Spot Real Vs. Sham Accounts in Instagram Life</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-serenity-in-animated-worlds-top-youtube-picks/"><u>[Updated] In 2024, Finding Serenity in Animated Worlds Top YouTube Picks</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/discovering-websites-with-free-gaming-ambient-sounds/"><u>Discovering Websites with Free Gaming Ambient Sounds</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-steps-for-enabling-webcam-conferencing-in-windows-with-zoom/"><u>Expert Steps for Enabling Webcam Conferencing in Windows with Zoom</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/how-to-securely-download-instagram-content-in-multiple-ways-for-2024/"><u>How to Securely Download Instagram Content in Multiple Ways for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-most-attractive-ringtones-for-your-phone/"><u>In 2024, Most Attractive Ringtones for Your Phone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pixlr-essentials-10-pro-tips-to-transform-your-images/"><u>In 2024, Pixlr Essentials 10 Pro Tips to Transform Your Images</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/leverage-lingo-a-list-of-the-best-20-engaging-tiktok-captions-for-2024/"><u>Leverage Lingo A List of the Best 20 Engaging TikTok Captions for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-oppo-k11x-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Oppo K11x? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-experts-choice-the-top-10-digital-stores-specializing-in-montage-music-downloads/"><u>New In 2024, Experts Choice The Top 10 Digital Stores Specializing in Montage Music Downloads</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-unleashing-creativity-in-mobile-sound-selection-how-to-design-ringtones/"><u>New In 2024, Unleashing Creativity in Mobile Sound Selection How to Design Ringtones</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-enjoy-weverse-music-videos-and-concert-footage-on-your-hdtv-setup/"><u>Step-by-Step Guide: Enjoy Weverse Music Videos and Concert Footage on Your HDTV Setup</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/techniques-for-embedding-images-into-music-tracks-for-2024/"><u>Techniques for Embedding Images Into Music Tracks for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-15-free-music-pieces-recommended-for-crafting-memorable-video-narratives/"><u>Updated 15 Free Music Pieces Recommended for Crafting Memorable Video Narratives</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-the-symphony-of-visualization-presenting-audible-patterns-with-waveforms-and-enlivening-them-through-animation-using-blackmagic-design-fusio/"><u>Updated In 2024, The Symphony of Visualization Presenting Audible Patterns with Waveforms & Enlivening Them Through Animation Using Blackmagic Design Fusion Studio</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-techniques-for-embedding-images-into-music-tracks-for-2024/"><u>Updated Techniques for Embedding Images Into Music Tracks for 2024</u></a></li>
 </ul></div>
 

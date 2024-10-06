@@ -1,7 +1,7 @@
 ---
 title: New Navigating the Nuances of Noise-Cancelling Sound Effects Using Final Cut Pro Xs AutoDuck Feature
-date: 2024-08-10T02:37:21.910Z
-updated: 2024-08-11T02:37:21.910Z
+date: 2024-10-03T16:26:47.355Z
+updated: 2024-10-06T18:09:22.858Z
 tags: 
   - audio editing software
   - audio editing
@@ -44,16 +44,10 @@ To perform audio ducking in Final Cut Pro, you can first launch the application 
 
 For this, you can just go to the main menu on Final Cut Pro and select **File** \> **Share** \> **Master File**. This will help you explore and save all the media files from Final Cut Pro.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Final Cut Pro Master Files](https://images.wondershare.com/filmora/article-images/automatic-audio-ducking-in-fcpx-2.jpg)
 
 Now, once the Master File window would be opened, you can go to the “Role” tab and select “Audio Only” as the output role. This will display a list of the background music and the voiceover file.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Export Audio Tracks](https://images.wondershare.com/filmora/article-images/automatic-audio-ducking-in-fcpx-3.jpg)
 
 You can now select the files of your choice and click on the “Next” button to save them to any desired location on your Mac.
@@ -62,9 +56,6 @@ You can now select the files of your choice and click on the “Next” button t
 
 Great! Now, you can just open the FCPX AutoDuck application on your Mac via its Application or Spotlight. You can just give it a project name and drag-and-drop the speaker (voiceover) and the music files here. If you want, you can also import a filler file of your choice.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![FCPX AutoDuck Process](https://images.wondershare.com/filmora/article-images/automatic-audio-ducking-in-fcpx-4.jpg)
 
 FCPX will also let you select the level of music ducking from its dedication option. There are also different options to set up things like setting up the window or pre-roll for the audio.
@@ -81,9 +72,6 @@ Once the FCPX audio ducking process is completed, it will generate an XML file. 
 
 You can now copy the modified music clip, go to the timeline, and paste it at the starting of the video. Here, you can just mute the previous music clip and let the auto-duck audio play instead.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Audio Ducking Media Final Cut Pro](https://images.wondershare.com/filmora/article-images/automatic-audio-ducking-in-fcpx-7.jpg)
 
 ## Part 2: The Best FCPX Alternative for Mac to Perform Automatic Audio Ducking
@@ -91,6 +79,13 @@ You can now copy the modified music clip, go to the timeline, and paste it at th
 As you can see, it is pretty tough to do audio ducking in Final Cut Pro as there is no automatic feature in the tool. Therefore, you can consider using [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/) to perform automatic sound ducking and save your time. It is an inbuilt feature in Filmora that would perform auto-ducking instantly, and you can also mark the level of ducking in the video.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ideally, you can perform audio ducking on voiceover or another soundtrack in Wondershare Filmora. To perform music ducking via Wondershare Filmora on Mac, you can follow these steps:
 
@@ -102,51 +97,62 @@ To begin with, just launch Wondershare Filmora on your Mac and just drag-and-dro
 
 Once your video is imported, you can drag it to the timeline at the bottom to work on it. If you want, you can click on the voiceover icon (adjacent to the preview section) to record dialogues right away.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora Record Voiceovers](https://images.wondershare.com/filmora/article-images/record-voiceovers-audio-ducking.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Apart from that, you can also import music files to your video or use the extensive range of royalty-free audio files that are available in Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Filmora Royalty Free Audio Files](https://images.wondershare.com/filmora/article-images/royalty-free-audio-files.jpg)
 
 #### Step 2: Perform Automatic Audio Ducking
 
 Great! Now, on the timeline of Filmora, you can see your video and the music track. From here, you need to select the track that you want to amplify (like the voiceover).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Filmora Apply Audio Ducking](https://images.wondershare.com/filmora/article-images/apply-audio-ducking.jpg)
 
 Afterward, right-click the audio track and select the “Adjust Audio” option from the context menu.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Filmora Adjust Audio](https://images.wondershare.com/filmora/article-images/right-click-adjust-audio.jpg)
 
 This will open a dedicated Audio Mixer window on the screen. Just go to the Audio tab and enable the “Ducking” option to lower the volume of other audio tracks. You can also select the desired level for music ducking to implement.
 
 ![Filmora Audio Ducking](https://images.wondershare.com/filmora/guide/audio-ducking-lower-other-clips.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step 3: Export the Edited Video
 
 That’s it! After performing audio ducking on Filmora, you can preview the results and further make the needed changes. In the end, you can click on the “Export” button and save the file in the format and resolution of your choice.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora Export](https://images.wondershare.com/filmora/guide/go-to-export-panel.jpg)
 
 There you go! After following this guide, you can easily learn how to do audio ducking in Final Cut Pro X easily. Since there is no inbuilt FCPX audio ducking option, you can use a third-party tool like FCPX AutoDuck. Apart from that, if you are looking for a better alternative to do sound ducking, then simply use Wondershare Filmora. It is a user-friendly and resourceful application that would let you perform automatic music ducking like a pro.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -154,12 +160,28 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-how-can-you-air-facebook-videos-on-your-television-set/"><u>[New] How Can You Air Facebook Videos on Your Television Set?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-simplify-multitasking-on-iphone-activatedeactivate-youtubes-pip-feature/"><u>[New] Simplify Multitasking on iPhone Activate/Deactivate YouTube's PIP Feature</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-ultimate-tutorial-mastering-twitter-video-responses/"><u>[Updated] In 2024, Ultimate Tutorial Mastering Twitter Video Responses</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-revolutionary-tools-elevating-vr-games/"><u>2024 Approved Revolutionary Tools Elevating VR Games</u></a></li>
+<li><a href="https://facebook.techidaily.com/6-compelling-reasons-to-stay-active-on-facebook/"><u>6 Compelling Reasons to Stay Active on Facebook</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-13-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/maximize-visuals-in-youtubespace-with-effective-tools-for-2024/"><u>Maximize Visuals in YouTubespace with Effective Tools for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/unveiling-the-secrets-of-valheim-crop-cultivation-for-2024/"><u>Unveiling the Secrets of Valheim Crop Cultivation for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-guiding-principles-for-altering-tone-without-sacrificing-sound-quality-using-audacity/"><u>Updated In 2024, Guiding Principles for Altering Tone Without Sacrificing Sound Quality Using Audacity</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-the-art-of-harmonizing-moving-images-and-sounds-a-2023-approach/"><u>Updated In 2024, The Art of Harmonizing Moving Images and Sounds (A 2023 Approach)</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-navigating-through-the-premier-selection-of-free-vst-tools-ready-to-elevate-your-sound-for-2024/"><u>Updated Navigating Through the Premier Selection of FREE VST Tools Ready to Elevate Your Sound for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-the-sound-engineers-toolkit-in-depth-strategies-for-effective-mp3-manipulation-for-2024/"><u>Updated The Sound Engineers Toolkit In-Depth Strategies for Effective MP3 Manipulation for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-top-7-converting-audio-to-text-tools/"><u>Updated Top 7 Converting Audio to Text Tools</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/virtual-workshop-essential-facts-at-your-fingertips/"><u>Virtual Workshop Essential Facts at Your Fingertips</u></a></li>
+</ul></div>
 

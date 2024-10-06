@@ -1,7 +1,7 @@
 ---
 title: What To Do When Your iPhone's Mute Function Isn't Working
-date: 2024-09-28T19:06:48.164Z
-updated: 2024-10-01T10:37:32.268Z
+date: 2024-09-30T16:00:00.960Z
+updated: 2024-10-06T17:27:48.550Z
 tags:
   - iphone
   - apple
@@ -49,6 +49,13 @@ Close
 
  So, a better approach would be to customize AssistiveTouch's top-level menu and add the**Mute** option on the main screen. Or, to set up a custom action for AssistiveTouch to mute or unmute the device directly.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Customize the Top Level Menu
 
  AssistiveTouch features six buttons in its Top Level menu by default. However, you can customize the menu to add or remove buttons according to your requirements.
@@ -63,38 +70,31 @@ Close
 
 ![AssistiveTouch settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-1.jpg)
 
-![customizing AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-2.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![customizing AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-2.jpg)
 
 ![adding a new button to the AssistiveTouch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![selecting Mute action for the new AssistiveTouch button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Mute action in AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-5.jpg)
 
 Close
 
  All you need to do now is tap the AssistiveTouch button and hit**Mute** . When you do this, the**Mute** button will change to**Unmute** , and you can tap on it again to unmute the device quickly.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Set Up a Custom Action
 
@@ -106,6 +106,19 @@ Follow these simple instructions to get this done:
 2. Depending on what gesture you want to use, tap on one under**CUSTOM ACTIONS** and select**Mute** from the list of actions.
 
 ![AssistiveTouch settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![adding Mute action to Double-Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-2.jpg)
 
@@ -125,10 +138,10 @@ Close
 ![iPhone Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Back Tap feature under Touch Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-2.jpg)
@@ -149,13 +162,6 @@ Close
  Now, whenever you want to mute your iPhone, simply perform the double-tap or triple-tap gesture on the back of your iPhone. To unmute it, perform the same gesture again.
 
  With certain iPhone cases, especially thicker ones, you might need to tap harder for the iPhone to register your taps and trigger the action.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Broken iPhone Ring/Silent Switch? No Problem
 
@@ -178,22 +184,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-brief-scene-structure-summary/"><u>[New] Brief Scene Structure Summary</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-enhancing-visibility-the-power-of-strategic-facebook-giveaways-for-2024/"><u>[Updated] Enhancing Visibility The Power of Strategic Facebook Giveaways for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-power-of-persuasion-how-to-boost-instagram-post-reach/"><u>[Updated] The Power of Persuasion How to Boost Instagram Post Reach</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/download-software-from-epubor-hub-your-ultimate-source-for-applications/"><u>Download Software From Epubor Hub: Your Ultimate Source for Applications</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-poco-x6-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Poco X6 Phones? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-step-by-step-dell-desktop-screen-capture-tutorial/"><u>In 2024, Step-by-Step Dell Desktop Screen Capture Tutorial</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-the-art-of-rebranding-online-expert-tips-for-transforming-your-tiktok-username/"><u>In 2024, The Art of Rebranding Online Expert Tips for Transforming Your TikTok Username</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-itel-p55plus-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Itel P55+ Device</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/solving-far-cry-6-display-glitches-overcoming-black-screen-setbacks/"><u>Solving Far Cry 6 Display Glitches: Overcoming Black Screen Setbacks</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-essential-guide-the-6-leading-free-internet-based-auditory-enhancers/"><u>Updated In 2024, Essential Guide The 6 Leading Free Internet-Based Auditory Enhancers</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-guiding-principles-for-altering-tone-without-sacrificing-sound-quality-using-audacity/"><u>Updated In 2024, Guiding Principles for Altering Tone Without Sacrificing Sound Quality Using Audacity</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-the-art-of-harmonizing-moving-images-and-sounds-a-2023-approach/"><u>Updated In 2024, The Art of Harmonizing Moving Images and Sounds (A 2023 Approach)</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-navigating-through-the-premier-selection-of-free-vst-tools-ready-to-elevate-your-sound-for-2024/"><u>Updated Navigating Through the Premier Selection of FREE VST Tools Ready to Elevate Your Sound for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-the-sound-engineers-toolkit-in-depth-strategies-for-effective-mp3-manipulation-for-2024/"><u>Updated The Sound Engineers Toolkit In-Depth Strategies for Effective MP3 Manipulation for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-top-10-complimentary-ios-and-android-music-to-visual-applications-for-2024/"><u>Updated Top 10 Complimentary iOS & Android Music-to-Visual Applications for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-top-7-converting-audio-to-text-tools/"><u>Updated Top 7 Converting Audio to Text Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-pure-sound-capture-on-your-mac/"><u>[New] In 2024, Pure Sound Capture on Your Mac</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-immediate-screenshot-on-a-mac/"><u>[Updated] Immediate Screenshot on a MAC</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfecting-pics-a-full-guide-to-facetune-mastery/"><u>2024 Approved Perfecting Pics - A Full Guide to Facetune Mastery</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-pro-tips-for-free-fast-effective-tv-show-recording/"><u>2024 Approved Pro Tips for FREE, Fast, Effective TV Show Recording</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/captivate-audiences-gain-views-boosting-engagement-in-tiktok-unboxing-videos/"><u>Captivate Audiences, Gain Views Boosting Engagement in TikTok Unboxing Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-mc-map-downloads-and-implementation/"><u>Navigating MC Map Downloads & Implementation</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/premium-e-reader-insight-amazons-kindle-oasis-is-the-expense-worth-it/"><u>Premium E-Reader Insight: Amazon's Kindle Oasis - Is the Expense Worth It?</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-speak-now-type-soon-essential-free-tools-for-mobile-audio-transcriptions/"><u>Updated In 2024, Speak Now, Type Soon Essential Free Tools for Mobile Audio Transcriptions</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-the-silent-movie-revolution-procedures-for-deleting-sound-elements-in-mov-files-across-computers-and-devices/"><u>Updated In 2024, The Silent Movie Revolution Procedures for Deleting Sound Elements in MOV Files Across Computers and Devices</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-premier-free-mp3-harmonizer-software/"><u>Updated Premier Free MP3 Harmonizer Software</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-the-ultimate-journey-in-voice-coaching-changing-how-you-sound-for-2024/"><u>Updated The Ultimate Journey in Voice Coaching Changing How You Sound for 2024</u></a></li>
 </ul></div>
 

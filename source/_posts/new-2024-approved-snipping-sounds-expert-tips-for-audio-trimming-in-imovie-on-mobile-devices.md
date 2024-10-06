@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Snipping Sounds Expert Tips for Audio Trimming in iMovie on Mobile Devices
-date: 2024-08-10T02:38:07.524Z
-updated: 2024-08-11T02:38:07.524Z
+date: 2024-09-30T16:17:28.823Z
+updated: 2024-10-06T17:05:43.664Z
 tags: 
   - audio editing software
   - audio editing
@@ -26,16 +26,17 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 Sometimes, we find the desired audio or soundtrack for our videos longer or shorter than we want, and that is where audio editing comes. Audio editing refers to manipulating audio to alter the length, speed, and volume or create additional effects such as loops. Are you new to audio trimming? Don't worry, as our article today would show how to cut audio in iMovie on Mac and iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Cut Music in iMovie on Mac?
 
 Cutting music is audio editing carried out when the music or soundtrack seems longer than desired. To cut music or soundtrack in iMovie using Mac involves the following steps:
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Step 1: Adjust the Playhead to Cut the Clip
 
 You can cut an audio clip only when the specified audio is in the timeline. To perform the operation, right-click on the clip and pick out a split clip. This operation cuts the clip into two and divides the two pieces wherever the playhead is situated.
@@ -44,9 +45,6 @@ You can cut an audio clip only when the specified audio is in the timeline. To p
 
 Right-click and select the **Split Clip**. Once this step is over, you have successfully cut the audio clip.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: Cut Audio in iMovie Alternative – [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Generally, as humans, we feel more satisfied when we have options or choices because we get fed up with doing the same over and over again the same way without changes. **Wondershare Filmora** is an alternative for iMovie and can easily carry out the function of various forms of audio editing.
@@ -68,8 +66,12 @@ You can get both the Windows and Mac versions of this great video editor. It emb
 Using Filmora is quite effortless. The following tutorial will display how to cut audio in it easily and quickly.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Step 1: Import MP3 Files for Editing
 
 Firstly, drag the specific MP3 file or audio clip into the media library, or you can directly import audio files or video from portable devices such as your digital camera, smartphone, or camcorder, etc.
@@ -86,9 +88,6 @@ When executed, please select the part that you don't want to, hit the **Delete**
 
 Hit the **Export** tab to save your edited project. If you want to save in the original MP3 format, select MP3 before you export.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to Trim Music in iMovie on iPhone
 
 This section will offer you a guide on how to cut out parts of audio in an iMovie project on an iPad or iPhone. After adding music to your project, the audio is trimmed to the desired length using iMovie’s inbuilt tool.
@@ -172,13 +171,24 @@ The audio editing window also contains primary noise reduction and audio equaliz
 iMovie permits you to adjust the audio within the clips themselves, each volume as a bar. You can shift up and down to increase or decrease the audio level. The clips also have "fade in" and "fade out" buttons at the beginning and end, which are draggable to adjust the fade length.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Finally, with the answers to the question, how to cut audio in iMovie, you can follow the simple step guide and feel free to edit your audio or video to your taste using iMovie or Wondershare Filmora.
 
 ![author avatar](https://images.wondershare.fr/filmora/filmora/MarionDubois.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Marion Dubois
 
@@ -186,12 +196,27 @@ Marion Dubois is a writer and a lover of all things video.
 
 Follow @Marion Dubois
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ehind-the-numbers-deciphering-how-youtube-measures-popularity-for-2024/"><u>[New] Behind the Numbers Deciphering How YouTube Measures Popularity for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-hurry-up-screen-record-with-audio-for-2024/"><u>[New] Hurry-Up Screen Record, With Audio for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-becoming-an-instagram-reel-prodigy/"><u>[Updated] 2024 Approved Becoming an Instagram Reel Prodigy</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-10-must-have-sound-recording-devices-for-broadcast-enthusiasts/"><u>2024 Approved 10 Must-Have Sound Recording Devices for Broadcast Enthusiasts</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-link-and-paste-song-file-within-imovie-narrative/"><u>2024 Approved Link and Paste Song File Within iMovie Narrative</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/best-worth-websites-to-find-your-perfect-montage-soundtrack/"><u>Best-Worth Websites to Find Your Perfect Montage Soundtrack</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/endless-screen-saving-software-for-2024/"><u>Endless Screen Saving Software for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/fb-download-made-simple-free-and-convenient-options-of-23-online-for-2024/"><u>FB Download Made Simple Free & Convenient Options of '23 Online for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-best-chromecast-microphones-for-high-quality-sound-capture/"><u>In 2024, Best Chromecast Microphones for High-Quality Sound Capture</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-your-gateway-to-success-with-a-bundle-of-50-free-adornments/"><u>In 2024, Your Gateway to Success with a Bundle of 50 FREE Adornments!</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-crafting-cohesive-soundscape-detailed-walkthrough-of-audio-normalization-in-davinci-resolve/"><u>New Crafting Cohesive Soundscape Detailed Walkthrough of Audio Normalization in DaVinci Resolve</u></a></li>
+<li><a href="https://driver-download.techidaily.com/reliable-guide-downloading-and-updating-lenovo-bluetooth-drivers-for-windows-users/"><u>Reliable Guide: Downloading and Updating Lenovo Bluetooth Drivers for Windows Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revolutionize-audiophile-experience-nvidias-new-win7-driver/"><u>Revolutionize Audiophile Experience: Nvidia's New Win7 Driver</u></a></li>
+</ul></div>
 
