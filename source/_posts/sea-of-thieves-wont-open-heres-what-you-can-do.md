@@ -1,7 +1,7 @@
 ---
 title: Sea of Thieves Won't Open? Here's What You Can Do
-date: 2024-10-02T18:23:28.069Z
-updated: 2024-10-06T17:22:41.681Z
+date: 2024-10-08T20:46:52.374Z
+updated: 2024-10-11T22:33:06.490Z
 tags:
   - win11
   - win10
@@ -47,6 +47,13 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 6. [Disable incompatible apps](https://tools.techidaily.com/drivereasy/download/)
 7. [Reinstalling your game](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Run as administrator
 
  The privilege issue might be the reason for the won’t launch problem. With high integrity access, Sea of Thieves can make full use of its features, so run the game as an administrator to see if this fixes your issue.
@@ -55,6 +62,13 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 2. Right-click on the Sea of Thieves icon and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/properties.jpg)
 3. Under the **Compatibility** tab, tick **Run this program as an administrator** . Then click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/ad.jpg)
 4. Run the game to check whether the problem is solved or not.
@@ -69,27 +83,20 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/windows-store-cache.jpg)
 4. Download and install the Sea of Thieves.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Press the**Windows key + I** together and click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/app.jpg)
 6. Find and click **Sea of Thieves** on the list.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Click **Advanced Options** and click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/reset.jpg)
 8. Run Sea of Thieves to check.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Change the Time & Region
 
@@ -104,26 +111,26 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 3. Check your time zone and date.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Click **Region** and check your region is corrected.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/region-1.jpg)
 5. Reboot your PC
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Run Sea of Thieves to check.
 
 **Note** : If your language and region is set to **English (United States)** already please change it to **English (United Kingdom)** instead.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Run Powershell
 
@@ -138,16 +145,10 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 4. Run Sea of Thieves to check.
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Update your drivers and programs
@@ -178,13 +179,6 @@ OR
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Reboot your PC and run Sea of Thieves to check.
@@ -220,15 +214,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-best-desktop-computers/"><u>[Updated] In 2024, Best Desktop Computers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-tier-text-transitions-reels/"><u>[Updated] Top-Tier Text Transitions Reels</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-the-ultimate-drone-buying-roadmap-pre-purchase-essentials/"><u>2024 Approved The Ultimate Drone Buying Roadmap Pre-Purchase Essentials</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-scene-to-video-canons-pathway-to-timelapse-excellence-for-2024/"><u>From Scene to Video Canon's Pathway to Timelapse Excellence for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mov-to-xiaomi-converter-convert-mov-files-for-xiaomi-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Xiaomi converter-convert .mov files for Xiaomi </u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/top-5-vivo-y27-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Vivo Y27 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-voice-capturing-made-easy-an-in-depth-look-at-vocaroos-functionality/"><u>Updated 2024 Approved Voice Capturing Made Easy An In-Depth Look at Vocaroos Functionality</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-achieve-balanced-soundscape-with-rapid-audio-regulation-strategies/"><u>Updated Achieve Balanced Soundscape with Rapid Audio Regulation Strategies</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-elevate-your-editing-game-learning-to-disconnect-video-and-sound-in-imovie-macos-edition/"><u>Updated Elevate Your Editing Game Learning to Disconnect Video and Sound in iMovie (macOS Edition)</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-harmonious-beginnings-inclusive-vocal-modification-software-options-for-novices-and-pros/"><u>Updated Harmonious Beginnings Inclusive Vocal Modification Software Options for Novices & Pros</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-glide-3-face-off-mirage-4-enters/"><u>[New] 2024 Approved Glide 3 Face-Off Mirage 4 Enters</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-yearly-top-unpacking-channel-guide-the-best-of-2024/"><u>[Updated] Yearly Top-Unpacking Channel Guide - The Best of 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-quick-start-method-for-combining-obs-and-zoom/"><u>2024 Approved The Quick-Start Method for Combining OBS & Zoom</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-poco-m6-pro-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Poco M6 Pro 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-encompassing-locomotion-study-report/"><u>In 2024, Encompassing Locomotion Study Report</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-samsung-galaxy-s23plus-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Samsung Galaxy S23+ to New Android? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-gadgets-with-tom-the-ultimate-guide-to-modern-electronics/"><u>Unveiling Gadgets with Tom: The Ultimate Guide to Modern Electronics</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-top-characteristics-of-mac-audio-processing-tools/"><u>Updated In 2024, Top Characteristics of Mac Audio Processing Tools</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-top-choices-for-unconventional-peer-to-peer-dialogue-platforms-safety-efficiency-pleasure/"><u>Updated In 2024, Top Choices for Unconventional Peer-to-Peer Dialogue Platforms Safety, Efficiency, Pleasure</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-strategies-for-eliminating-reverb-from-studio-recorded-sounds-for-2024/"><u>Updated Strategies for Eliminating Reverb From Studio-Recorded Sounds for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-top-choices-for-unconventional-peer-to-peer-dialogue-platforms-safety-efficiency-pleasure-for-2024/"><u>Updated Top Choices for Unconventional Peer-to-Peer Dialogue Platforms Safety, Efficiency, Pleasure for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-unveiling-the-best-macdaw-software-of-the-year-detailed-reviews-and-comparisons/"><u>Updated Unveiling the Best MacDAW Software of the Year Detailed Reviews and Comparisons</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-unveiling-the-top-9-revolutionary-ai-driven-audio-simulators-set/"><u>Updated Unveiling the Top 9 Revolutionary AI-Driven Audio Simulators Set</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/upscale-video-sound-intensity-louden-your-viewing-experience-for-2024/"><u>Upscale Video Sound Intensity Louden Your Viewing Experience for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/windows-11-ssd-partitionierung-fur-die-einstiegssequenz-anleitung-zur-installation/"><u>Windows 11 SSD Partitionierung Für Die Einstiegssequenz - Anleitung Zur Installation</u></a></li>
 </ul></div>
 

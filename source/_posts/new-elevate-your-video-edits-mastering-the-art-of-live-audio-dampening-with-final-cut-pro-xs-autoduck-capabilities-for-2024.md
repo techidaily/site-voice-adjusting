@@ -1,7 +1,7 @@
 ---
 title: New Elevate Your Video Edits Mastering the Art of Live Audio Dampening with Final Cut Pro Xs AutoDuck Capabilities for 2024
-date: 2024-08-10T02:40:06.015Z
-updated: 2024-08-11T02:40:06.015Z
+date: 2024-10-06T08:16:33.445Z
+updated: 2024-10-12T08:37:45.820Z
 tags: 
   - audio editing software
   - audio editing
@@ -34,9 +34,6 @@ If you don't want to use any plugins, see this article: [How to sync in FCPX.](h
 
 If you have a video in which you have background music and a voiceover, then you can perform sound ducking in it. This will automatically enhance the quality of the voiceover and would mellow down the background music selectively. Sadly, the feature of audio ducking in Final Cut Pro has to be done manually as there are no instant automatic options in the tool presently.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Audio Ducking Process](https://images.wondershare.com/filmora/article-images/automatic-audio-ducking-in-fcpx-1.jpg)
 
 Therefore, you can use any reliable third-party FCPX tool like Audified or AutoDuck to meet your requirements. For instance, let’s consider the example of FCPX AutoDuck, which is a paid macOS application. To perform FCPX audio ducking, you first have to export the music and voiceover as two dedicated files. Later, you can import them to FCPX AutoDuck to perform auto-ducking of the music.
@@ -63,10 +60,6 @@ Great! Now, you can just open the FCPX AutoDuck application on your Mac via its 
 
 FCPX will also let you select the level of music ducking from its dedication option. There are also different options to set up things like setting up the window or pre-roll for the audio.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![FCPS AutoDuck Options](https://images.wondershare.com/filmora/article-images/automatic-audio-ducking-in-fcpx-5.jpg)
 
 In the end, you can click on the “Duck” button and let FCPX AutoDuck perform automatic audio ducking on the files.
@@ -75,26 +68,24 @@ In the end, you can click on the “Duck” button and let FCPX AutoDuck perform
 
 Once the FCPX audio ducking process is completed, it will generate an XML file. You can now just drag the XML file and drop it to your project in Final Cut Pro. Here, you can choose to select the XML file in the same project.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Import XML in Final Cut Pro](https://images.wondershare.com/filmora/article-images/automatic-audio-ducking-in-fcpx-6.jpg)
 
 You can now copy the modified music clip, go to the timeline, and paste it at the starting of the video. Here, you can just mute the previous music clip and let the auto-duck audio play instead.
 
 ![Audio Ducking Media Final Cut Pro](https://images.wondershare.com/filmora/article-images/automatic-audio-ducking-in-fcpx-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: The Best FCPX Alternative for Mac to Perform Automatic Audio Ducking
 
 As you can see, it is pretty tough to do audio ducking in Final Cut Pro as there is no automatic feature in the tool. Therefore, you can consider using [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/) to perform automatic sound ducking and save your time. It is an inbuilt feature in Filmora that would perform auto-ducking instantly, and you can also mark the level of ducking in the video.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ideally, you can perform audio ducking on voiceover or another soundtrack in Wondershare Filmora. To perform music ducking via Wondershare Filmora on Mac, you can follow these steps:
 
@@ -104,28 +95,33 @@ To begin with, just launch Wondershare Filmora on your Mac and just drag-and-dro
 
 ![Filmora Import Media File](https://images.wondershare.com/filmora/guide/import-media-file-to-filmora-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Once your video is imported, you can drag it to the timeline at the bottom to work on it. If you want, you can click on the voiceover icon (adjacent to the preview section) to record dialogues right away.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora Record Voiceovers](https://images.wondershare.com/filmora/article-images/record-voiceovers-audio-ducking.jpg)
 
 Apart from that, you can also import music files to your video or use the extensive range of royalty-free audio files that are available in Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora Royalty Free Audio Files](https://images.wondershare.com/filmora/article-images/royalty-free-audio-files.jpg)
 
 #### Step 2: Perform Automatic Audio Ducking
 
 Great! Now, on the timeline of Filmora, you can see your video and the music track. From here, you need to select the track that you want to amplify (like the voiceover).
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora Apply Audio Ducking](https://images.wondershare.com/filmora/article-images/apply-audio-ducking.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Afterward, right-click the audio track and select the “Adjust Audio” option from the context menu.
 
@@ -135,6 +131,13 @@ This will open a dedicated Audio Mixer window on the screen. Just go to the Audi
 
 ![Filmora Audio Ducking](https://images.wondershare.com/filmora/guide/audio-ducking-lower-other-clips.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step 3: Export the Edited Video
 
 That’s it! After performing audio ducking on Filmora, you can preview the results and further make the needed changes. In the end, you can click on the “Export” button and save the file in the format and resolution of your choice.
@@ -143,10 +146,6 @@ That’s it! After performing audio ducking on Filmora, you can preview the resu
 
 There you go! After following this guide, you can easily learn how to do audio ducking in Final Cut Pro X easily. Since there is no inbuilt FCPX audio ducking option, you can use a third-party tool like FCPX AutoDuck. Apart from that, if you are looking for a better alternative to do sound ducking, then simply use Wondershare Filmora. It is a user-friendly and resourceful application that would let you perform automatic music ducking like a pro.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -155,12 +154,27 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-ethical-engagement-sustainable-strategies-for-content-creeps-for-2024/"><u>[Updated] Ethical Engagement Sustainable Strategies for Content Creeps for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-radeon-relive-download-and-review-for-2024/"><u>[Updated] Radeon Relive Download and Review for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/accelerating-your-creative-process-high-quality-3d-models-tools-for-2024/"><u>Accelerating Your Creative Process High-Quality 3D Models Tools for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/easy-corrections-for-gpus-without-screens/"><u>Easy Corrections for GPUs Without Screens</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/echovideo-capture-toolkit-for-fb/"><u>EchoVideo Capture Toolkit for FB</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/harmonious-hits-free-download-zones-for-skype-tunes-for-2024/"><u>Harmonious Hits Free Download Zones for Skype Tunes for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/insight-into-the-progressive-developments-of-nero-waveedit/"><u>Insight Into the Progressive Developments of Nero WaveEdit</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-how-to-quickly-fix-audio-importing-issues-in-adobe-premiere-pro/"><u>New 2024 Approved How to Quickly Fix Audio Importing Issues in Adobe Premiere Pro</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-cutting-edge-of-audio-production-adding-professional-voiceovers-to-your-vids/"><u>New 2024 Approved The Cutting-Edge of Audio Production Adding Professional Voiceovers to Your Vids</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-ultimate-list-of-8-chromebook-compatible-digital-audio-workstations-for-composers-and-producers/"><u>New 2024 Approved The Ultimate List of 8 Chromebook-Compatible Digital Audio Workstations for Composers and Producers</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-elevate-your-mac-experience-master-the-art-of-sound-recording-with-these-5-proven-tips-for-2024/"><u>New Elevate Your Mac Experience Master the Art of Sound Recording with These 5 Proven Tips for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-unveiling-of-intels-revolutionary-lineup-nine-cutting-edge-cpus-without-power-saver-cores-focus-on-the-groundbreaking-overclockable-flagship-core-14th-g60/"><u>The Unveiling of Intel's Revolutionary Lineup: Nine Cutting-Edge CPUs Without Power Saver Cores - Focus on the Groundbreaking Overclockable Flagship Core 14Th Generation Chip, I9-14901KE</u></a></li>
+<li><a href="https://fox-links.techidaily.com/whip-up-funny-images-in-adobe-design/"><u>Whip Up Funny Images in Adobe Design</u></a></li>
+</ul></div>
 

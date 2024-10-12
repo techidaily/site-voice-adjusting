@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: When Cortana Stops Responding"
-date: 2024-09-29T16:52:13.548Z
-updated: 2024-10-06T17:08:26.647Z
+date: 2024-10-09T00:08:10.957Z
+updated: 2024-10-12T05:29:24.021Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
 
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Check your region and language settings
 
  If your region and language settings is mistaken or changed by accident, your Cortana can’t work.
@@ -40,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
 Check your region and language settings on your computer:
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **I** at the same time to open the **Settings** window.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Click **Time** **& language** .
 
@@ -61,13 +61,26 @@ Check your region and language settings on your computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5) Try Cortana again to see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3: Make sure your Windows 10 system is up-to-date
 
@@ -76,6 +89,13 @@ Check your region and language settings on your computer:
  1) Type **update**  in the search box from **Start** . Then click**Check for updates** on the top.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f33c9a31.png)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click **Check for updates** .
 
@@ -111,20 +131,13 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Reboot your Windows 10 and try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 5: Reset your Cortana
@@ -136,22 +149,15 @@ Or click  **Update All** to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb16d80e39a.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click the button beside **On** in **Hey Cortana** to turn off it. You should then see the **Off**  status.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
@@ -177,22 +183,20 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/nveiling-8-superior-mirrorless-cameras-for-video-content/"><u>[New] Unveiling 8 Superior Mirrorless Cameras for Video Content</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-enhance-visibility-editing-igtv-video-texts/"><u>[Updated] 2024 Approved Enhance Visibility Editing IGTV Video Texts</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-diving-into-instagrams-visual-story-segments/"><u>[Updated] Diving Into Instagram's Visual Story Segments</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-top-10-roguelike-or-roguelite-games/"><u>[Updated] In 2024, Top 10 Roguelike or Roguelite Games</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/assessing-the-longevity-and-support-life-cycle-of-huawei-p10/"><u>Assessing the Longevity & Support Life Cycle of Huawei P10</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-best-captures-of-macs-visual-display-under-156-characters/"><u>In 2024, Best Captures of Mac's Visual Display (Under 156 Characters)</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/inexpensive-pc-capture-programs-reviewed/"><u>Inexpensive PC Capture Programs Reviewed</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-elite-voice-mimicry-suite-windows-and-apple-harmonization/"><u>New 2024 Approved Elite Voice Mimicry Suite - Windows & Apple Harmonization</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-premium-verses-in-motion-aes-ultimate-lyric-videos/"><u>New 2024 Approved Premium Verses in Motion AEs Ultimate Lyric Videos</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-avs-soundscape-suite-unveiled-an-in-depth-review-of-features-user-reviews-and-alternate-audio-editors-for-2024/"><u>New AVS Soundscape Suite Unveiled An In-Depth Review of Features, User Reviews, and Alternate Audio Editors for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-chart-topping-radio-auditory-elements/"><u>New Chart-Topping Radio Auditory Elements</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-essential-11-audio-focused-smartphone-applications/"><u>New In 2024, Essential 11 Audio-Focused Smartphone Applications</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-vocal-visions-utilizing-your-iphone-as-an-audio-identifier-tool/"><u>New In 2024, Vocal Visions Utilizing Your iPhone as an Audio Identifier Tool</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-mastering-audio-book-publishing-with-ease-a-modern-guide/"><u>New Mastering Audio Book Publishing with Ease A Modern Guide</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-mastering-audio-clarity-the-most-effective-noise-reduction-tools-revealed/"><u>New Mastering Audio Clarity The Most Effective Noise Reduction Tools Revealed</u></a></li>
-<li><a href="https://common-error.techidaily.com/simple-repair-guide-solving-the-projector-wont-detect-computer-dilemma-on-windows/"><u>Simple Repair Guide: Solving the 'Projector Won’t Detect Computer' Dilemma on Windows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-seamless-spectrum-simple-techniques-to-transform-photoshop-images/"><u>The Seamless Spectrum Simple Techniques to Transform Photoshop Images</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-ultimate-list-best-mac-compatible-recorders/"><u>[New] The Ultimate List Best Mac-Compatible Recorders</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-achieving-clear-dialogue-in-google-hangouts/"><u>[Updated] 2024 Approved Achieving Clear Dialogue in Google Hangouts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tweeted-trailblazers-cutting-edge-strategies-to-save-tweets-on-screen/"><u>[Updated] Tweeted Trailblazers Cutting-Edge Strategies to Save Tweets on Screen</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-setting-up-your-youtube-studio-essential-equipment-list/"><u>2024 Approved Setting Up Your YouTube Studio Essential Equipment List</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-video-streaming-from-usb-devices-on-your-panasonic-television/"><u>Effortless Video Streaming From USB Devices on Your Panasonic Television</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-oppo-a58-4g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Oppo A58 4G</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-immersion-master-screen-settings-on-console/"><u>Maximize Immersion: Master Screen Settings on Console</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-essential-list-top-8-android-daws-revolutionizing-music-for-2024/"><u>New The Essential List Top 8 Android DAWs Revolutionizing Music for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-ultimate-windows-audio-cleanse-guide-efficacious-removal-of-background-noise-techniques/"><u>New Ultimate Windows Audio Cleanse Guide Efficacious Removal of Background Noise Techniques</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-tecno-spark-go-2023-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Tecno Spark Go (2023) Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/ultimate-tips-for-editing-audios-using-avidemux-2023-edition/"><u>Ultimate Tips for Editing Audios Using Avidemux - 2023 Edition</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-premier-voice-recorders-for-android-comprehensive-and-cost-free/"><u>Updated 2024 Approved Premier Voice Recorders for Android - Comprehensive and Cost-Free</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-enhancing-your-soundscapes-dynamic-volume-changes-made-simple-with-adobe-after-effects-for-2024/"><u>Updated Enhancing Your Soundscapes Dynamic Volume Changes Made Simple with Adobe After Effects for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-first-edition-of-lexiedit-training-building-your-base-in-audio-editing/"><u>Updated First Edition of LexiEdit Training Building Your Base in Audio Editing</u></a></li>
 </ul></div>
 

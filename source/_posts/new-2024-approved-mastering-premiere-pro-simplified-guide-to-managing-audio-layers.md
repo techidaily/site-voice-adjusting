@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Mastering Premiere Pro Simplified Guide to Managing Audio Layers
-date: 2024-08-15T03:21:31.318Z
-updated: 2024-08-16T03:21:31.318Z
+date: 2024-10-07T21:21:26.042Z
+updated: 2024-10-12T08:21:11.101Z
 tags: 
   - audio editing software
   - audio editing
@@ -32,9 +32,6 @@ So how do you use the audio track mixer to manage your audio inside of a video? 
 * [**Part 2: How to Change the Audio Track Mixer Settings**](#part2)
 * [**Part 3: Using Audio Track Mixer for Your next Project**](#part3)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How Does the Audio Track Mixer Work
 
 Mixing tracks is when audio is blended and mixed together in a sequence, and you have multiple sounds over one channel. For instance, when you watch a TV show and have music cut over two characters talking, that’s an example of mixed tracks. You can mix music, dialogue, sound effects, voiceovers, and other things to create a seamless finished product. You can even have different types of audio, or have different tracks play in different earphones of the headset if you want to.
@@ -47,9 +44,6 @@ With audio track mixer, you can see each track being played in real time, not ju
 * rename them
 * control the volume and type of audio that each track is producing
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Audio Track Mixer details](https://images.wondershare.com/filmora/filmorapro/audio-track-mixer-detailes.jpg)
 
 You can even look at meters while the main window is closed, which is helpful if you need to free up some space or organize your sounds while other data is shown.
@@ -57,26 +51,38 @@ You can even look at meters while the main window is closed, which is helpful if
 You can see the sequence in real time as it is being played, see the peaks and valleys of the sound, and ensure that you can control the volume for every track. You’ll have total control over the sound, and the playback.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Change the Audio Track Mixer Settings
 
 If you are the type of person that likes to work with the sound as it happens, then you can. Recording and mixing on the fly is easy if [you can avoid some mistakes](https://www.audio-issues.com/music-mixing/mixing-mistakes-top-ten/).
 
 Using mono tracks allows you to alter the sound for left and right settings, while stereo tracks produce two different signals for two different speakers. So, if you want to control where the sounds are coming from, then you can do so with a simple adjustment.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Audio Track Mixer Settings](https://images.wondershare.com/filmora/filmorapro/audio-track-mixer-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The audio files are edited both in the audio interface and in a timeline, where it is either imported or directly recorded. Then their waveforms can be viewed, the volume and sounds can be adjusted, and [larger audio mixes can be divided into sub-mixes](https://www.izotope.com/en/blog/mixing/5-approaches-to-submixes.html).
 
 All your changes will happen on the timeline, and you’ll be able to listen to the new track instantly.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: Using Audio Track Mixer for Your next Project
 
 If you are an aspiring filmmaker, working on a project, or just putting some clips and music together for fun, you need to use Audio Track Mixer to gain control over your sounds. Dealing with tracks, especially when you have several of them running on top of one another, can be a frustrating process of clicking and straining your ears to ensure that everything is just perfect.
@@ -89,18 +95,20 @@ Use the track mixer to manage and customize your sounds, see the volume and base
 
 If you want to edit audio in an easier way, here we recommend using [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). It is a video editor designed for people who want to enter a higher level of video editing. You can use FilmoraPro to do automatic audio sync. Equalize the highs and lows of your audio to normalize the volume of your clips and Reduce unwanted background sounds, like crowds or wind with this feature. It is a powerful audio editor for you. Download it now to have a try!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -109,5 +117,26 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-navigating-tiktok-to-twitter/"><u>[New] 2024 Approved Navigating TikTok to Twitter</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-rise-in-popularity-top-10-instagram-hashtags-for-now/"><u>[New] In 2024, Rise in Popularity Top 10 Instagram Hashtags for Now</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-igtv-techniques-seamlessly-transforming-vlogs-for-maximum-views/"><u>[Updated] 2024 Approved IGTV Techniques Seamlessly Transforming Vlogs for Maximum Views</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-simplifying-textual-enhancement-for-ae-professionals/"><u>[Updated] Simplifying Textual Enhancement for AE Professionals</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-why-are-facebook-recommended-videos-vanishing-for-2024/"><u>[Updated] Why Are Facebook Recommended Videos Vanishing for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unveiling-the-power-of-youtube-backlinks-for-creators/"><u>2024 Approved Unveiling the Power of YouTube Backlinks for Creators</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-apple-iphone-xr-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On Apple iPhone XR without Password?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-lava-storm-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Lava Storm 5G Fingerprint Lock</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/macx-windowsmacx-dvd-ripper-pro-macx-hd-video-converter-pro/"><u>MacXのソフトウェアスイートが大幅に割引! Windows版MacX DVD Ripper Pro, MacX HD Video Converter Proを格安で手に入れよう。限定価格セール直行！</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-modern-editors-handbook-cutting-and-mixing-in-avidemux-for-2024/"><u>New The Modern Editors Handbook Cutting and Mixing in Avidemux for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-ultimate-guide-to-audio-based-text-extraction-techniques/"><u>New The Ultimate Guide to Audio-Based Text Extraction Techniques</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/text-to-audio-conversion-from-words-to-mp3-across-all-devices/"><u>Text-to-Audio Conversion From Words to MP3 Across All Devices</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-complete-blueprint-to-convert-spotify-songs-into-playable-formats-for-2024/"><u>The Complete Blueprint to Convert Spotify Songs Into Playable Formats for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/top-rated-free-video-to-audio-converters-on-demand-edition/"><u>Top-Rated Free Video-to-Audio Converters On-Demand Edition</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-ultra-hd-marvel-on-apple-tv-4k-a-comprehensive-review-with-siri-integration-for-2prise/"><u>Unveiling the Ultra HD Marvel on Apple TV 4K - A Comprehensive Review with Siri Integration for 2Prise !</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-ultimate-guide-to-the-9-most-reliable-podcast-microphones/"><u>Updated 2024 Approved Ultimate Guide to the 9 Most Reliable Podcast Microphones</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-unveiling-the-finest-8-android-based-digital-audio-workstations-of-this-year/"><u>Updated 2024 Approved Unveiling the Finest 8 Android-Based Digital Audio Workstations of This Year</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-a-comprehensive-walkthrough-to-record-audio-on-powerpoint-dual-platform-approach-for-pcs-and-macs/"><u>Updated A Comprehensive Walkthrough to Record Audio on PowerPoint Dual Platform Approach for PCs & Macs</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-elevate-logic-pro-x-discover-the-most-valuable-free-and-paid-plugins-for-your-studio/"><u>Updated Elevate Logic Pro X Discover the Most Valuable Free and Paid Plugins for Your Studio</u></a></li>
+</ul></div>
 

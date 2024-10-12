@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Sound on Your Device: Resolving 'Evil Genius 2' Quiet Conundrum"
-date: 2024-09-30T18:04:33.116Z
-updated: 2024-10-06T16:40:23.520Z
+date: 2024-10-04T23:02:30.920Z
+updated: 2024-10-11T18:43:50.775Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ Many players have reported that the Elden Ring multiplayer can not work. Even af
 5. **[Run Fortect to repair system files](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Update your Windows system](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Before getting started
 
  When you encounter the Elden Ring multiplayer problem, you can perform checks below first.
@@ -45,6 +52,13 @@ Many players have reported that the Elden Ring multiplayer can not work. Even af
 
  If your internet speed is too low, you can try to[speed up the internet](https://tools.techidaily.com/drivereasy/download/) or just call your ISP.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Optimize Elden Ring’s network settings
 
  If your Elden Ring’s network is not set correctly, you may find your Elden Ring multiplayer cannot work. To solve this problem, you should check your Elden Ring’s network settings and try to optimize it.
@@ -53,19 +67,33 @@ Many players have reported that the Elden Ring multiplayer can not work. Even af
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-10_14-38-37.jpg)
 2. Click the**Network** tab on the top and then it will switch to the Network settings panel.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-10_14-25-55-network-settings.jpg)
 3. Click**Launch Setting** and then click the pointing arrow behind**Launch Setting** to select**Play Online** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-10_14-39-232222.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After you optimize the Elden Ring’s network settings, you can check if it works. If not, move to the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Update your network drivers
 
@@ -90,24 +118,17 @@ Here are two ways to update your network drivers.
 ![update drivers automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 1. You can choose to update the driver with a FREE version. Click the**Update** button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or you can click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-network-adapter-driver-1.jpg)
 
- After updating your network drivers, see if your Elden Ring multiplayer works. If not, move to the next method.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ After updating your network drivers, see if your Elden Ring multiplayer works. If not, move to the next method.
 
 ### Method 3: Enable auto-updates of Elden Ring
 
@@ -116,13 +137,6 @@ Here are two ways to update your network drivers.
 1. Start Steam on your PC and click the**Library** tab. A list of games installed will show up on the left panel of your Steam. Scroll your mouse down until you find the**ELDEN RING** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-10_18-11-58加水印.jpg)
 2. Right-click**ELDEN RING** and select**Properties…** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-10_18-05-493333.jpg)
 3. Click the**UPDATES** tab on the left panel.  
@@ -134,13 +148,6 @@ Here are two ways to update your network drivers.
 
  After enabling auto-dates of Elden Ring, you can check if your Elden Ring multiplayer works. If not, move to the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 4: Verify integrity of game files
 
  If the Elden Ring game files are missing or corrupted, the game may show random errors and even cannot work. To fix this problem, you can try to verify the integrity of the Elden Ring game files on Steam.
@@ -150,13 +157,6 @@ Here are two ways to update your network drivers.
 2. Right-click**ELDEN RING** and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-10_18-05-493333.jpg)
 3. Click the**Installed Files** and select**Verify integrity of game files** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Verify-integrity-of-game-files.jpg)
 4. Steam will verify the game files. It may take a few minutes. Once the process is complete, click the**Close** button.
@@ -177,10 +177,10 @@ Here are two ways to update your network drivers.
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -204,18 +204,19 @@ Here are two ways to update your network drivers.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-08_19-48-21-1.jpg)
 4. After you’ve installed the updates, restart your PC and launch Elden Ring multiplayer. Then check if the Elden Ring multiplayer problem has been solved.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### on Windows 11
 
 1. On your keyboard, press the **Windows logo key** . Type **check for updates** . Then click **Check for updates**  from the list of results.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/win11-search-bar-check-for-updates.jpg)
 2. Click on the **Check for updates**  button.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![win11 - Download & install Windows Update](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button.jpg)
 
  When updates are available, follow the on-screen instructions to download and install them.
@@ -241,18 +242,14 @@ Here are two ways to update your network drivers.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-transitioning-tweets-into-facebook-visibility/"><u>[Updated] Transitioning Tweets Into Facebook Visibility</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfecting-iphone-footage-quick-trimming-sizing-hacks/"><u>2024 Approved Perfecting iPhone Footage Quick Trimming, Sizing Hacks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722095133536-android-users-rejoice-download-the-newly-updated-chatgpt-mobile-application/"><u>Android Users Rejoice: Download the Newly Updated ChatGPT Mobile Application</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-true-windows-time-and-date-configuration/"><u>Ensuring True Windows Time & Date Configuration</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/exploration-of-distinct-video-camera-kinds/"><u>Exploration of Distinct Video Camera Kinds</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-resolve-football-manager-2022s-stuttering-performance-in-windowsmacos/"><u>How to Resolve Football Manager 2022'S Stuttering Performance in Windows/MacOS</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-how-to-quickly-fix-audio-importing-issues-in-adobe-premiere-pro/"><u>New 2024 Approved How to Quickly Fix Audio Importing Issues in Adobe Premiere Pro</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-top-choices-for-windows-users-clearing-up-loud-ambiance-in-recorded-soundscape/"><u>New 2024 Approved Top Choices for Windows Users Clearing Up Loud Ambiance in Recorded Soundscape</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-apowersoft-audio-recorder-tutorial-and-4-alternatives/"><u>New Apowersoft Audio Recorder Tutorial and 4 Alternatives</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-elevate-your-mac-experience-master-the-art-of-sound-recording-with-these-5-proven-tips-for-2024/"><u>New Elevate Your Mac Experience Master the Art of Sound Recording with These 5 Proven Tips for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-advanced-audio-format-switcher-instant-mp3-generation-for-modern-listeners/"><u>New In 2024, Advanced Audio Format Switcher Instant MP3 Generation for Modern Listeners</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-ultimate-primer-on-the-wave-editor-pivotal-components-audit-reports-and-tutorials/"><u>New In 2024, The Ultimate Primer on the Wave Editor Pivotal Components, Audit Reports, and Tutorials</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/united-states-postal-service-embraces-crypto-introducing-their-very-own-nft-collection/"><u>United States Postal Service Embraces Crypto: Introducing Their Very Own NFT Collection!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-8-useful-tool-to-pixelate-face-on-photo/"><u>[Updated] 8 Useful Tool to Pixelate Face on Photo</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722988506423-cyberpunk-2077-overheating-issues-heres-the-solution-for-lowering-cpu-load/"><u>Cyberpunk 2077 Overheating Issues? Here’s the Solution for Lowering CPU Load</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-iphone-14-pro-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from iPhone 14 Pro Safe and Legal</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-ultimate-visual-blueprint-for-memorable-podcast-graphics-for-2024/"><u>New The Ultimate Visual Blueprint for Memorable Podcast Graphics for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/superior-audio-format-changer-instant-mp3-creation-with-zero-hassle/"><u>Superior Audio Format Changer Instant MP3 Creation with Zero Hassle</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swiftly-settle-m-track-driver-problems/"><u>Swiftly Settle M-Track Driver Problems</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-beat-architect-techniques-for-isolating-and-repurposing-kernels-in-audio-for-2024/"><u>The Beat Architect Techniques for Isolating and Repurposing Kernels in Audio for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/ultimate-guide-how-to-save-movies-and-movie-trailers-from-zimbio-with-ease/"><u>Ultimate Guide: How to Save Movies & Movie Trailers From Zimbio with Ease</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-beatmaking-breakdown-top-8-digital-audio-workstations-daws-for-mac-and-pc-enthusiasts/"><u>Updated In 2024, Beatmaking Breakdown Top 8 Digital Audio Workstations (DAWs) For Mac & PC Enthusiasts</u></a></li>
 </ul></div>
 

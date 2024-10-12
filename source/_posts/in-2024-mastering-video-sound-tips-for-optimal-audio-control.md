@@ -1,7 +1,7 @@
 ---
 title: In 2024, Mastering Video Sound Tips for Optimal Audio Control
-date: 2024-08-15T03:24:15.335Z
-updated: 2024-08-16T03:24:15.335Z
+date: 2024-10-05T18:29:56.028Z
+updated: 2024-10-11T22:18:23.221Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
 
 # How to Adjust Audio Volume in Videos \[4 Ways\]
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -33,18 +30,12 @@ The fact of the matter is that even a minor error in the video’s soundtrack ca
 
 To increse the volume of your video, [click here.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Four Ways of Adjusting Audio Volume in Filmora
 
 The audio clips often have different volume levels, so in order to create a balanced soundtrack, you have to adjust the volume of each audio track you intend to use in your projects. Filmora offers several different ways to adjust the volume of audio files quickly and effortlessly. Here’s how you can increase or decrease the volume of the audio clips in Filmora.
 
 Download Filmora and watch the video below to get a full knowledge abtou adjusting volume!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### 1. Changing the Audio Volume of Entire Track
@@ -63,18 +54,12 @@ Filmora also lets you create the Fade In and Fade Out effect directly from the t
 
 On the left side of the Audio Editing panel that can be accessed by double clicking on an audio file, you will be able to see the **volume slider.** Its value is going to be set to **0 dB** by default and you just have to **drag it upward or downward** in order to adjust the audio volume. As you drag the slider the new audio volume value is going to be displayed in a box below the slider. The **left/right balance value** can be adjusted by **dragging the knob** that is located above the volume slider in either direction. Alternatively, you can **insert a new numerical value in the box** below the knob. If the displayed value is **0 dB, then the left and right channels are balanced**, while the value of **\-100 dB** means that all the sound goes through the left channel and if the displayed value is **100 dB** all the sound will go through the right channel.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![stereo-mode](https://images.wondershare.com/filmora/guide/stereo-mode.jpg)
 
 #### 4. Adding Keyframes to Adjust the Audio Volume
 
 Once you add an audio file to the timeline you can adjust its volume by **adding keyframes** to it. **Place** **the playhead to the exact spot in the audio file** where you want to add the first keyframe and then **double click on the file to bring up the Audio Editing panel**. Click on the **Add Volume Keyframes** icon and **use the volume slider to adjust the volume** at the position of the first keyframe.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![animation-customize](https://images.wondershare.com/filmora/article-images/animation-customize.jpg)
 
 Simply **move the playhead and change the value on the volume slider** to add new keyframes to the audio file. This method of adjusting audio volume enables you to set different volume values for different parts of an audio file.[](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -85,9 +70,6 @@ Still not solved? Try this [audio guide of Filmora](https://tools.techidaily.com
 
 Having complete control over the volume of all audio files you use in your projects is important for so many different reasons. Filmora offers four easy ways to adjust the audio volume so you can focus on more important tasks. Which method of adjusting the audio volume in Filmora do you like to use the most? Leave a comment and let us know.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -96,8 +78,6 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -105,5 +85,31 @@ Follow @Shanoon Cox
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-cutting-edge-imaging-top-8k-cameras-unveiled/"><u>[New] 2024 Approved Cutting-Edge Imaging Top 8K Cameras Unveiled</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-seamless-content-propagation-beyond-youtube-and-facebook/"><u>[New] 2024 Approved Seamless Content Propagation Beyond YouTube and Facebook</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-the-ultimate-guide-to-creating-a-powerful-tiktok-advertising-strategy/"><u>[New] 2024 Approved The Ultimate Guide to Creating a Powerful TikTok Advertising Strategy</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-chart-topping-tunes-compiling-an-impressive-youtube-playlist-for-2024/"><u>[New] Chart-Topping Tunes Compiling an Impressive YouTube Playlist for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-win10-strategy-for-successful-zoom-sessions/"><u>[Updated] The Ultimate Win10 Strategy for Successful Zoom Sessions</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-xiaomi-14-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/comprehensive-walkthrough-setting-up-sound-recording-on-garageband-for-2024/"><u>Comprehensive Walkthrough Setting Up Sound Recording on GarageBand for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-20-pro-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Tecno Spark 20 Pro Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/learn-how-to-share-your-printer-with-other-electronic-devices-through-networking/"><u>Learn How to Share Your Printer with Other Electronic Devices Through Networking</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-audiovisual-enhancement-for-a-robust-audio-presence-in-filmora/"><u>New Audiovisual Enhancement for a Robust Audio Presence in Filmora</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-ultimate-list-of-sources-for-professional-whoosh-effects/"><u>New The Ultimate List of Sources for Professional Whoosh Effects</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-unveiling-the-best-music-production-software-how-does-magix-samplitude-stack-up-for-2024/"><u>New Unveiling the Best Music Production Software How Does MAGIX Samplitude Stack Up for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-how-to-fix-game-wont-start-up-issues-by-checking-game-files/"><u>Troubleshooting: How to Fix 'Game Won't Start Up' Issues by Checking Game Files</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-15-free-music-pieces-recommended-for-crafting-memorable-video-narratives/"><u>Updated 15 Free Music Pieces Recommended for Crafting Memorable Video Narratives</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-from-airwaves-to-hard-drives-a-comprehensive-manual-for-computer-based-podcast-archiving-for-2024/"><u>Updated From Airwaves to Hard Drives A Comprehensive Manual for Computer-Based Podcast Archiving for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-the-symphony-of-visualization-presenting-audible-patterns-with-waveforms-and-enlivening-them-through-animation-using-blackmagic-design-fusio/"><u>Updated In 2024, The Symphony of Visualization Presenting Audible Patterns with Waveforms & Enlivening Them Through Animation Using Blackmagic Design Fusion Studio</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-unlocking-your-library-the-ultimate-techniques-for-extracting-spotify-tracks-for-2024/"><u>Updated Unlocking Your Library The Ultimate Techniques for Extracting Spotify Tracks for 2024</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

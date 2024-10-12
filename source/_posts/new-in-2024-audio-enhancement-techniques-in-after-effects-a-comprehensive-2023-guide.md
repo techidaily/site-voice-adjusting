@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Audio Enhancement Techniques in After Effects A Comprehensive 2023 Guide
-date: 2024-08-10T02:41:00.479Z
-updated: 2024-08-11T02:41:00.479Z
+date: 2024-10-07T08:08:23.247Z
+updated: 2024-10-12T05:19:15.768Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,23 +18,6 @@ thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a5
 
 # How to Add Audio in After Effects
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -45,9 +28,6 @@ Working with audio files in Adobe After Effects would be challenging since it is
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add Audio in After Effects
 
 1\. Start the program and open a new project.
@@ -66,16 +46,10 @@ Working with audio files in Adobe After Effects would be challenging since it is
 
 6\. Adjust the audio settings. Double click "L" on you keyboard to show the audio waveform.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add audio in after effects](https://images.wondershare.com/filmora/article-images/audio-waveform-in-after-effects.jpg)
 
 Check this video tutorial to know the details on adding, adjusting audio in After Effects
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5 Best Audio Editing Software to Add Audio to Video
 
 #### 1\. [WavePad from NCH Software](https://www.nch.com.au/wavepad/index.html)
@@ -94,31 +68,52 @@ Multiple audio adjustment options are available across Wondershare Filmora. Whil
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To add audio in Wondershare Filmora, you need to follow the steps as explained below.
 
 **Step 1: Start a New Project on Wondershare Filmora**
 
 Download and install the official software of Wondershare Filmora on your device. Once installed, you need to launch it and tap on “New Project” to start working on Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![click on new project](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-1.jpg)
 
 **Step 2: Import Audio File**
 
 Once a new project starts, tap on 'File' followed by "Import Media." Select the option of "Import Media Files" to proceed to the next screen. Add in the required audio successfully.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![import your audio file](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3: Drag Audio to Timeline**
 
 To perform different edits across the audio, the user needs to drag the audio on the timeline.
 
 ![drag audio file to timeline](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-3.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4: Export Audio File**
 
@@ -140,13 +135,18 @@ Wavosaur is an old tool that doesn’t run on most modern computers and laptops.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -154,4 +154,21 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-integrate-youtube-content-into-google-slides-effectively/"><u>[New] 2024 Approved Integrate YouTube Content Into Google Slides Effectively</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-best-free-introduction-software-for-youtubers/"><u>[Updated] Best Free Introduction Software for Youtubers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exploring-interactive-boundaries-the-vision-of-mixed-reality/"><u>Exploring Interactive Boundaries The Vision of Mixed Reality</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-ultimate-guide-to-accessing-copy-free-song-conclusions/"><u>In 2024, Ultimate Guide to Accessing Copy-Free Song Conclusions</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-invisible-touch-methods-to-apply-fading-effects-on-sound-in-imovie/"><u>New 2024 Approved The Invisible Touch Methods to Apply Fading Effects on Sound in iMovie</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-audiovisual-vocal-transformations-at-no-charge-expert-techniques-for-voice-changes-in-filmora-projects-for-2024/"><u>New Audiovisual Vocal Transformations at No Charge Expert Techniques for Voice Changes in Filmora Projects for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-capturing-the-essence-of-cricket-soundscape-for-2024/"><u>New Capturing the Essence of Cricket Soundscape for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-maximizing-sound-immediately-the-best-volumetric-boost-software-compatible-with-windows/"><u>New In 2024, Maximizing Sound Immediately The Best Volumetric Boost Software Compatible with Windows</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-intricacies-of-clubhouse-explored-an-insiders-guide-to-its-core-principles-and-operations/"><u>New In 2024, The Intricacies of Clubhouse Explored An Insiders Guide to Its Core Principles and Operations</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/refurbished-apple-iphone-15-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>Refurbished Apple iPhone 15 Everything You Need to Know | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-screen-flashback-on-lenovo-laptops/"><u>Stop Screen Flashback on Lenovo Laptops</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-the-secrets-of-zoom-success/"><u>Unveiling the Secrets of Zoom Success</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/1728463272325-windows-111087/"><u>Windows 11/10/8/7向けの最優秀なフリーソフトで安全にデータをバックアップ!</u></a></li>
+</ul></div>
 

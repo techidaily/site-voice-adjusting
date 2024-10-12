@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Streamlining Audio Production Advanced Methods of Audio Ducking Using Adobe Premiere Pro on a Mac
-date: 2024-10-03T18:32:35.177Z
-updated: 2024-10-06T18:05:01.196Z
+date: 2024-10-04T16:16:54.924Z
+updated: 2024-10-12T10:18:52.174Z
 tags: 
   - audio editing software
   - audio editing
@@ -57,10 +57,10 @@ Great! You can now preview the changes you have made and check the audio ducking
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
@@ -70,10 +70,10 @@ As you can see, the Premiere Pro audio ducking feature can get a bit complicated
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
@@ -103,10 +103,16 @@ Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -124,20 +130,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-the-ultimate-list-8-ranked-android-video-tile-maker-options-freepaid/"><u>[New] 2024 Approved The Ultimate List #8 Ranked Android Video Tile Maker Options (Free/Paid)</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-frame-by-frame-verbalizer/"><u>[Updated] 2024 Approved Frame by Frame Verbalizer</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-step-by-step-guide-to-captivating-youtube-live-thumbnails/"><u>[Updated] 2024 Approved Step-By-Step Guide to Captivating YouTube Live Thumbnails</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-designers-treasure-trove-free-after-effects-samples/"><u>2024 Approved Designer's Treasure Trove Free After Effects Samples</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-harness-the-power-of-look-up-tables-luts-for-professionals/"><u>2024 Approved Harness the Power of Look-Up Tables (LUTs) for Professionals</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-melody-compendium-the-15-best-music-selections-for-different-visual-media-types/"><u>2024 Approved Melody Compendium The 15 Best Music Selections for Different Visual Media Types</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-v29e-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo V29e</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-abyss-underwater-video-tips-using-a-gopro-camera/"><u>In 2024, Exploring Abyss Underwater Video Tips Using a GoPro Camera</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-art-of-auditory-purity-advanced-strategies-to-dismiss-background-noises-using-offline-and-online-technologies/"><u>In 2024, The Art of Auditory Purity Advanced Strategies to Dismiss Background Noises Using Offline and Online Technologies</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-3-key-approaches-to-efficiently-change-your-podcast-audio-to-mp3/"><u>New 2024 Approved 3 Key Approaches to Efficiently Change Your Podcast Audio to MP3</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-auditory-cuts-and-segments-convenient-methods-to-divide-your-music-files/"><u>New 2024 Approved Auditory Cuts and Segments Convenient Methods to Divide Your Music Files</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-things-you-need-to-know-about-pexelscom/"><u>New 2024 Approved Things You Need to Know About Pexels.com</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/silent-the-screen-how-to-strip-audio-from-your-movies-in-imovie-for-2024/"><u>Silent the Screen How to Strip Audio From Your Movies in iMovie for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-the-art-of-accessibility-how-pexelscom-transforms-design-processes/"><u>Updated In 2024, The Art of Accessibility How Pexels.com Transforms Design Processes</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-leading-music-editor-tools-ranked-windows-and-mac-edition-top-10/"><u>Updated Leading Music Editor Tools Ranked Windows & Mac Edition, Top 10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-calm-and-clear-how-to-smooth-out-a-jittery-gopro-video/"><u>[New] Calm and Clear How to Smooth Out a Jittery GoPro Video</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-leading-software-lineup-8-linux-editing-sleuths/"><u>[New] Leading Software Lineup 8 Linux Editing Sleuths</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-funimate-pro-apk-a-complete-guide/"><u>[Updated] Funimate Pro APK A Complete Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-definitive-steps-for-online-streaming-audio-archiving-for-2024/"><u>[Updated] The Definitive Steps for Online Streaming Audio Archiving for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-directory-top-10-sources-for-free-graphics/"><u>[Updated] The Ultimate Directory Top 10 Sources for Free Graphics</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-mastering-mp3-file-modification-a-step-by-step-guide/"><u>In 2024, Mastering MP3 File Modification A Step-by-Step Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-unlocking-the-power-of-language-adaptation-advanced-techniques-for-video-dubbing-via-filmora/"><u>In 2024, Unlocking the Power of Language Adaptation Advanced Techniques for Video Dubbing via Filmora</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-soundless-videos-the-quintessential-methods-to-ditch-noise-online/"><u>New 2024 Approved Soundless Videos The Quintessential Methods to Ditch Noise Online</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-revolutionizing-virtual-conferences-the-top-5-voice-altering-apps-for-google-meet-users/"><u>New In 2024, Revolutionizing Virtual Conferences The Top 5 Voice Altering Apps for Google Meet Users</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-mastering-podcast-accessibility-10-exemplary-cost-free-ios-apps-for-2024/"><u>New Mastering Podcast Accessibility 10 Exemplary Cost-Free iOS Apps for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pioneering-visual-storytelling-uploading-to-youtube-for-2024/"><u>Pioneering Visual Storytelling Uploading to YouTube for 2024</u></a></li>
 </ul></div>
 

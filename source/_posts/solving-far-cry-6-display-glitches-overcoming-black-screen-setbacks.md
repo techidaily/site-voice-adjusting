@@ -1,7 +1,7 @@
 ---
 title: "Solving Far Cry 6 Display Glitches: Overcoming Black Screen Setbacks"
-date: 2024-10-02T16:32:47.580Z
-updated: 2024-10-06T16:26:25.008Z
+date: 2024-10-06T16:50:40.243Z
+updated: 2024-10-11T21:02:53.620Z
 tags:
   - win11
   - win10
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Run Fallout 4 as Compatibility mode
@@ -47,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 3. Click **OK** then run Fallout 4 to check.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update Graphics Card Drivers
 
@@ -69,14 +62,14 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2019/07/NVIDIA-Geoforce-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Edit configuration files
 
@@ -103,18 +96,31 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4-1.jpg)
 3. Tick the**Windowed Mode** and**Borderless** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click**Advanced** . Lower the settings and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. Run the game to check the problem will appear or not.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable antivirus software
 
@@ -143,18 +149,21 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-archive-your-art-innovative-cost-effective-photo-storage-platforms/"><u>[New] Archive Your Art Innovative, Cost-Effective Photo Storage Platforms</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exclusive-insights-top-30-hidden-windows-11-tips-uncovered/"><u>[New] Exclusive Insights Top 30 Hidden Windows 11 Tips Uncovered</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-premier-10-survival-showdowns-for-2024/"><u>[Updated] Premier 10 Survival Showdowns for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-guide-to-office-works-setup-on-win-11/"><u>Essential Guide to Office Works Setup on Win 11</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/exploring-advanced-features-in-intova-edge-x/"><u>Exploring Advanced Features in Intova Edge X</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-honor-magic-v2-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor Magic V2 Without Password | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-8-plus-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 8 Plus</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-filmora-watermark-how-to-bypass-or-remove-it-permanently/"><u>New 2024 Approved Filmora Watermark How to Bypass or Remove It Permanently</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-ultimate-toolkit-for-after-effects-lyric-video-enthusiasts-for-2024/"><u>New The Ultimate Toolkit for After Effects Lyric Video Enthusiasts for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-wave-editor-unveiled-prominent-elements-public-reviews-and-how-to-guides-for-2024/"><u>New The Wave Editor Unveiled Prominent Elements, Public Reviews, and How-To Guides for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-adjusting-decibels-fine-tuning-sound-on-audacity/"><u>Updated 2024 Approved Adjusting Decibels Fine-Tuning Sound on Audacity</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-rhythm-and-reel-leveraging-premiere-pro-features-for-time-synchronized-video-editing/"><u>Updated 2024 Approved Rhythm and Reel Leveraging Premiere Pro Features for Time-Synchronized Video Editing</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-exploring-the-best-dawn-and-rise-of-browser-based-daws-top-10-selection/"><u>Updated Exploring the Best Dawn and Rise of Browser-Based DAWs Top 10 Selection</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-full-spectrum-analysis-the-complete-logitech-4k-webcam-review-for-2024/"><u>[New] Full Spectrum Analysis The Complete Logitech 4K Webcam Review for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-mastering-social-media-finding-youtube-content-on-fb/"><u>[Updated] 2024 Approved Mastering Social Media Finding YouTube Content on FB</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-tailoring-meet-backdrop-for-enhanced-presentations/"><u>[Updated] Tailoring Meet Backdrop for Enhanced Presentations</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Vivo Y36i? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-7-plus-to-other-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 7 Plus to Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/in-depth-fixes-startech-peripheral-driver-issues-on-windows-10-and-earlier-versions-windows-87/"><u>In-Depth Fixes: StarTech Peripheral Driver Issues on Windows 10 and Earlier Versions (Windows 8/7)</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/learning-the-romantic-lexicon-of-hungarian/"><u>Learning the Romantic Lexicon of Hungarian</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-transform-your-tiktok-experience-simple-ways-to-reduce-video-noise-levels/"><u>New 2024 Approved Transform Your TikTok Experience Simple Ways to Reduce Video Noise Levels</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-creative-audio-analysis-crafting-an-interactive-waveform-animation-spectacle-within-premiere-pro/"><u>New In 2024, Creative Audio Analysis Crafting an Interactive Waveform Animation Spectacle Within Premiere Pro</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-integrating-tracks-adding-songs-and-soundscapes-into-final-cut-pro-editing/"><u>New In 2024, Integrating Tracks Adding Songs and Soundscapes Into Final Cut Pro Editing</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-perfect-your-playlist-a-compilation-of-elite-mp3-enhancement-services/"><u>New Perfect Your Playlist A Compilation of Elite MP3 Enhancement Services</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/professional-video-editors-showdown-filmora-versus-democracy-creator/"><u>Professional Video Editors Showdown Filmora Versus Democracy Creator</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/show-audio-waveform-and-add-waveform-animation-in-premiere-protutor-for-2024/"><u>Show Audio Waveform and Add Waveform Animation in Premiere ProTutor for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-a-filmmakers-choice-the-top-five-free-audio-jokes-for-creative-videos/"><u>Updated 2024 Approved A Filmmakers Choice The Top Five Free Audio Jokes for Creative Videos</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-setting-up-and-disabling-audacity-for-enhanced-sound-editing-on-your-chromebook-for-2024/"><u>Updated Setting Up and Disabling Audacity for Enhanced Sound Editing on Your Chromebook for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/wwe-2k-battlegrounds-direct-x-11-update-fixing-feature-level-10-errors/"><u>WWE 2K Battlegrounds Direct X 11 Update: Fixing Feature Level 10 Errors</u></a></li>
 </ul></div>
 

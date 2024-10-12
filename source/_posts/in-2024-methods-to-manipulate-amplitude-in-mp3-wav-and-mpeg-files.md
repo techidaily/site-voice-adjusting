@@ -1,7 +1,7 @@
 ---
 title: In 2024, Methods to Manipulate Amplitude in MP3, WAV, and MPEG Files
-date: 2024-08-15T03:24:28.305Z
-updated: 2024-08-16T03:24:28.305Z
+date: 2024-10-05T07:44:52.445Z
+updated: 2024-10-12T00:33:59.705Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
 
 # How to Change Volume in Media Files with Filmora
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -29,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
 
 Want a program that can change audio volume so that it won’t be too loud or too quiet? Though many media players or speakers have volume control during playback, it still can be an annoying problem and it takes time to set it. And some downloaded files are rather low to listen to even you raise the volume to the maximum level on the computer. So it's advisable to **normalize the volume** permanently.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![Change Volume](https://images.wondershare.com/filmora/article-images/change-volume.jpg)
 
 Thanks to [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), a professional video editing tool that makes it remarkably easy to increase/decrease the audio level to a professional sound. Below I’ll describe how to do this in a few clicks.
@@ -55,18 +48,6 @@ When the video file is in place, double click it to reveal the editing panel. Th
 
 Just as shown in the image window, you can also set Fade in/fade out, fine-tune the pitch, etc.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to change volume](https://images.wondershare.com/images/multimedia/video-editor/change-volume.jpg)
 
 #### 3\. Save the changed audio(video) file
@@ -75,19 +56,20 @@ When you're satisfied with the result, simply hit "Create" to save your changed 
 
 Besides export video to your computer, you can export to presets for your device like the iPhone 5, iPad mini, iPod Touch, Xbox 360, PS3, directly upload a video to YouTube, or burn to DVD.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change volume software](https://images.wondershare.com/images/multimedia/video-editor/apple-device.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus Tips: How to Use Audio Ducking in Filmora?
 
 Besides adjusting the audio volume, you can do more with this versatile video editor software.
 
 Did you heard of audio ducking and have any idea about it? As a matter of fact, audio ducking means turning down the volume of background music to make your vocal to be heard more clearly. Here is the [ultimate guide of audio ducking in Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Learn More about Video Editing
 
@@ -99,17 +81,26 @@ Did you heard of audio ducking and have any idea about it? As a matter of fact, 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -118,5 +109,20 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-auditory-tranquility-techniques-to-achieve-gentle-sound-reduction/"><u>2024 Approved Auditory Tranquility Techniques to Achieve Gentle Sound Reduction</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-decoding-social-medias-new-wave-10-realities-about-reels/"><u>2024 Approved Decoding Social Media's New Wave 10 Realities About Reels</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-discover-the-highest-rated-mp3-recorders-for-both-pc-and-mac-environments/"><u>2024 Approved Discover the Highest-Rated MP3 Recorders for Both PC and Mac Environments</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-non-functional-dell-usb-port-a-complete-guide/"><u>How to Fix a Non-Functional Dell USB Port - A Complete Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-poco-x6-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Poco X6?</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-cutting-the-chatter-a-guide-to-isolating-and-removing-vocals-in-music-productions-using-audacity/"><u>In 2024, Cutting the Chatter A Guide to Isolating and Removing Vocals in Music Productions Using Audacity</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-editors-beat-pairing-visual-sequences-with-musical-tempo-using-adobe-premiere-pro-for-2024/"><u>New The Editors Beat Pairing Visual Sequences with Musical Tempo Using Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pro-level-perfection-iphone-xs-photographic-breakthroughs/"><u>Pro-Level Perfection IPhone X's Photographic Breakthroughs</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/step-by-step-tutorial-downloading-and-setting-up-apps-on-amazons-kindle-paperwhite-and-kindle-touch-models/"><u>Step-by-Step Tutorial: Downloading and Setting Up Apps on Amazon's Kindle Paperwhite & Kindle Touch Models</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/the-art-of-time-stopping-freeze-frame-techniques-for-stunning-videos-for-2024/"><u>The Art of Time-Stopping Freeze Frame Techniques for Stunning Videos for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-the-comprehensive-technique-for-merging-diverse-auditory-elements/"><u>Updated 2024 Approved The Comprehensive Technique for Merging Diverse Auditory Elements</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-auditory-alchemy-top-15-montage-soundtracks-adapting-to-varying-visual-media/"><u>Updated Auditory Alchemy Top 15 Montage Soundtracks Adapting to Varying Visual Media</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-iphone-xr-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking iPhone XR i Do? Get Answers here | Dr.fone</u></a></li>
+</ul></div>
 

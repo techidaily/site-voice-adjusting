@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Mastering the Art of Volume Control A Guide to Seamless Audio Transitions in Adobe After Effects
-date: 2024-09-30T16:28:24.326Z
-updated: 2024-10-06T17:56:37.672Z
+date: 2024-10-10T18:35:57.262Z
+updated: 2024-10-11T18:38:18.323Z
 tags: 
   - audio editing software
   - audio editing
@@ -33,10 +33,10 @@ However, you will need to have at least basic video and sound editing skills to 
 ## Adding the Fade In and Fade Out Effects to Audio Files in AE
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 1: Check audio waveform in After Effects
@@ -51,13 +51,6 @@ The next thing you will have to do is place the playhead at the exact location w
 
 ![Add keyframe to fade out/in audio](https://images.wondershare.com/filmora/filmorapro/add-keyframe-fade-in-out-audio.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You may also like: [15 Free After Effects Templates to Power up Your Video](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ### Step 3: Complete Fade out/in audio in After Effects
@@ -66,22 +59,36 @@ Move the playhead to the location where you want the effect to end and add anoth
 
 ![Complete fade out/in audio in After Effects](https://images.wondershare.com/filmora/filmorapro/complete-fade-iin-out-audio-after-effects.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Tips For Making Better Fade In and Fade Out Effects
 
 The process of creating a fade in or a fade out effect in AE is quite simple, but it is up to you to discover creative ways of using these effects. Here are a few tips that can help you use these audio effects more creatively.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Avoid Hard Cuts
 
 A high pitch sound at the very begging of a new sequence can ruin your soundtrack and ultimately the entire video, so in case you've cut an audio file at the location where the sound peaks, you can apply a fade in effect to make the transition between two audio files softer.
 
 You may also like: [How to Cut Video in After Effects](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Be Mindful of Audio Compression
 
@@ -99,13 +106,6 @@ If you want to fade in/out audio easily, we recommend using [Filmora](https://to
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -121,19 +121,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-pro-tips-for-conquering-photo-and-video-importers-on-windows-10/"><u>[New] Pro-Tips for Conquering Photo & Video Importers on Windows 10</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-pulse-point-films-capturing-rhythms-in-social-media-videos/"><u>[New] Pulse Point Films Capturing Rhythms in Social Media Videos</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-mastering-youtube-metrics-a-compreousible-roadmap-to-tracking-traffic-and-turnover/"><u>[Updated] 2024 Approved Mastering YouTube Metrics A Compreousible Roadmap to Tracking Traffic and Turnover</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-channel-building-strategies-to-hit-a-million-view-mark/"><u>[Updated] In 2024, Channel Building Strategies to Hit a Million-View Mark</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/elevate-your-video-popularity-essential-seo-techniques-for-success-for-2024/"><u>Elevate Your Video Popularity Essential SEO Techniques for Success for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Google Pixel 7a? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Xiaomi Redmi Note 13 5G</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-depth-exploration-of-the-cutting-edge-technology-within-the-apple-iphone-15-pro/"><u>In-Depth Exploration of the Cutting-Edge Technology Within the Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-essential-mix-combining-intro-and-exit-strategies-for-success-for-2024/"><u>The Essential Mix Combining Intro & Exit Strategies for Success for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-successful-overcoming-initial-boot-failures-on-pcs/"><u>Troubleshooting Successful: Overcoming Initial Boot Failures on PCs</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-the-best-iphone-recording-software-a-comprehensive-guide/"><u>Updated In 2024, The Best iPhone Recording Software - A Comprehensive Guide</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-quieting-the-cinematic-chaos-techniques-for-audio-trimming-in-imovie-videos-for-2024/"><u>Updated Quieting the Cinematic Chaos Techniques for Audio Trimming in iMovie Videos for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-the-pace-adjuster-how-to-modify-musical-velocity-while-upholding-original-frequencies-for-2024/"><u>Updated The Pace Adjuster How to Modify Musical Velocity While Upholding Original Frequencies for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-transforming-everyday-mac-users-into-pro-voice-recording-enthusiasts-a-beginners-approach-for-2024/"><u>Updated Transforming Everyday Mac Users Into Pro Voice Recording Enthusiasts A Beginners Approach for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-crafting-captivating-online-titles-simplified/"><u>[New] In 2024, Crafting Captivating Online Titles Simplified</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-innovative-hd-technology-showcased-by-best-screen-recorders/"><u>2024 Approved Innovative HD Technology Showcased by Best Screen Recorders</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/amplify-listener-comfort-by-managing-low-frequency-interference/"><u>Amplify Listener Comfort by Managing Low-Frequency Interference</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/discover-the-richest-mountain-biking-audio-archives-online-for-2024/"><u>Discover the Richest Mountain Biking Audio Archives Online for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-oppo-find-x7-ultra-frp-bypass-by-drfone-android/"><u>In 2024, About Oppo Find X7 Ultra FRP Bypass</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-computing-at-toms-hardware-destination/"><u>Navigate the World of Computing at Tom's Hardware Destination</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-top-10-iconic-song-selections-for-inspiring-short-film-scenes/"><u>New In 2024, Top 10 Iconic Song Selections for Inspiring Short Film Scenes</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a23-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A23 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-gathering-of-heartfelt-weddings-youtube-and-vimeo-edition-for-2024/"><u>The Ultimate Gathering of Heartfelt Weddings - Youtube & Vimeo Edition for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-exploring-8-prime-picks-for-free-sound-design-tools/"><u>Updated 2024 Approved Exploring 8 Prime Picks for Free Sound Design Tools</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-premier-android-and-iphone-applications-for-accurate-speech-conversion-to-text/"><u>Updated Premier Android and iPhone Applications for Accurate Speech Conversion to Text</u></a></li>
 </ul></div>
 

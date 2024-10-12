@@ -1,7 +1,7 @@
 ---
 title: Updated Silent Interludes, Harmonious Sounds Expert Techniques for Audio Ducking in Adobe Premiere Pro on a Mac Computer for 2024
-date: 2024-09-30T18:00:27.612Z
-updated: 2024-10-06T17:23:43.400Z
+date: 2024-10-09T19:35:05.708Z
+updated: 2024-10-12T06:13:43.292Z
 tags: 
   - audio editing software
   - audio editing
@@ -57,10 +57,10 @@ Great! You can now preview the changes you have made and check the audio ducking
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
@@ -70,16 +70,10 @@ As you can see, the Premiere Pro audio ducking feature can get a bit complicated
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
@@ -109,10 +103,10 @@ Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -130,18 +124,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-the-premier-collection-excellent-business-simulators-roundup/"><u>[New] The Premier Collection Excellent Business Simulators' Roundup</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-unfolding-the-tapestry-of-mixed-reality-experiences/"><u>[Updated] In 2024, Unfolding the Tapestry of Mixed Reality Experiences</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-straightforward-screen-capture-app-win10-edition-for-2024/"><u>[Updated] Straightforward Screen Capture App, Win10 Edition for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-iphone-13-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock iPhone 13 without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-install-epson-xp-245-printer-drivers-for-windows-7-8-and-10/"><u>How to Install Epson XP-245 Printer Drivers for Windows 7, 8 & 10</u></a></li>
-<li><a href="https://win11.techidaily.com/jumpstart-your-windows-experience-with-media-player/"><u>Jumpstart Your Windows Experience with Media Player</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/navigating-social-media-landscape-facebook-daily-use/"><u>Navigating Social Media Landscape Facebook Daily Use</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/navigating-spotless-floors-expert-analysis-on-dreame-bot-l10-pros-lidar-guided-cleaning-system/"><u>Navigating Spotless Floors: Expert Analysis on Dreame Bot L10 Pro's LiDAR-Guided Cleaning System</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-ultimate-list-of-mobile-audio-augmentation-tools-iosandroid-2023-edition-for-2024/"><u>New The Ultimate List of Mobile Audio Augmentation Tools (iOS/Android, 2023 Edition) for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-title-the-enigmatic-world-of-fibonacci-sequences-and-their-mathematical-implications-in-modern-science/"><u>New Title The Enigmatic World of Fibonacci Sequences and Their Mathematical Implications in Modern Science</u></a></li>
-<li><a href="https://techidaily.com/revolutionizing-claim-handling-for-insurers-ecclesias-abbyy-approach/"><u>Revolutionizing Claim Handling for Insurers: Ecclesia's ABBYY Approach</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-redefine-your-digital-companion-voice-modification-for-siri-on-ios-devices/"><u>Updated 2024 Approved Redefine Your Digital Companion Voice Modification for Siri on iOS Devices</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-converting-sounds-to-words-the-ultimate-free-guide-with-top-3-strategies/"><u>Updated Converting Sounds to Words The Ultimate Free Guide with Top 3 Strategies</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-bandicam-scrutiny-a-detailed-evaluation-for-screen-capture-users/"><u>[New] In 2024, Bandicam Scrutiny A Detailed Evaluation for Screen Capture Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-mystery-of-off-facebook-activity-what-to-know-and-do/"><u>[New] The Mystery of Off-Facebook Activity What to Know & Do</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-utilizing-b-roll-to-enrich-narrative-arcs/"><u>[Updated] Utilizing B-Roll to Enrich Narrative Arcs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mac-dvd/"><u>「Mac環境向け: DVDの完全なクローン作成方法を初心者にもわかりやすく解き明かす」</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-storyboard-suite-for-windows/"><u>2024 Approved Storyboard Suite for Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/amazing-ai-tools-the-top-7-for-crafting-engaging-and-smart-presentations/"><u>Amazing AI Tools: The Top 7 for Crafting Engaging and Smart Presentations</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/discovering-websites-with-free-gaming-ambient-sounds/"><u>Discovering Websites with Free Gaming Ambient Sounds</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-oneplus-ace-3-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the OnePlus Ace 3 Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-most-attractive-ringtones-for-your-phone/"><u>In 2024, Most Attractive Ringtones for Your Phone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212263441-lost-your-steam-game-files-learn-how-to-get-them-back-and-restore-access/"><u>Lost Your Steam Game Files? Learn How to Get Them Back and Restore Access</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-experts-choice-the-top-10-digital-stores-specializing-in-montage-music-downloads/"><u>New In 2024, Experts Choice The Top 10 Digital Stores Specializing in Montage Music Downloads</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-unleashing-creativity-in-mobile-sound-selection-how-to-design-ringtones/"><u>New In 2024, Unleashing Creativity in Mobile Sound Selection How to Design Ringtones</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/techniques-for-embedding-images-into-music-tracks-for-2024/"><u>Techniques for Embedding Images Into Music Tracks for 2024</u></a></li>
 </ul></div>
 

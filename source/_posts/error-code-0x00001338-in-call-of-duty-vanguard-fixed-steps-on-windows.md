@@ -1,7 +1,7 @@
 ---
 title: Error Code 0X00001338 in Call of Duty Vanguard - Fixed Steps on Windows
-date: 2024-09-29T18:16:50.821Z
-updated: 2024-10-06T18:13:20.687Z
+date: 2024-10-04T20:58:39.603Z
+updated: 2024-10-11T20:10:03.722Z
 tags:
   - win11
   - win10
@@ -40,13 +40,6 @@ Call of Duty is a free-to-play first-person shooter game for everyone. It was re
 | Direct X     | DirectX 12.0 compatible system                              |
 | Video Memory | 2 GB                                                        |
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your graphics driver
 
  Make sure you have the latest driver for your graphic card. If you don’t have the latest graphics driver, then it can cause lots of problems. With outdated or wrong drivers, you may encounter game issues including crashing, stuttering, lagging, and more.
@@ -73,15 +66,15 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Relaunch Call of Duty: Warzone Pacific and check.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -97,13 +90,6 @@ OR
 5. Launch Warzone Pacific to check if the issue persists.
 
  If this method doesn’t resolve the issue, you can restore the changes with the backup.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Change the in-game settings
 
@@ -125,25 +111,25 @@ If it fixes the issue then slowly increase your graphics settings.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-20_18-43-03.jpg)
 3. Set**View by Category** . Click**Uninstall the program** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-20_18-43-17.jpg)
 4. Find MW and Battle.net. Right-click on it and click**Unistall/Change** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-20_18-44-15.jpg)
 5. Follow the on-screen instructions to uninstall the software.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Delete all the files.
 7. Go to the Warzone Pacific official website and download the game. Install it step-by-step.
@@ -162,7 +148,28 @@ If it fixes the issue then slowly increase your graphics settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -186,24 +193,24 @@ If it fixes the issue then slowly increase your graphics settings.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-master-the-art-of-speech-transformation-top-7-vocal-alteration-android-apps/"><u>[New] Master the Art of Speech Transformation Top 7 Vocal Alteration Android Apps</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-masterful-motion-graphics-for-texts/"><u>[New] Masterful Motion Graphics for Texts</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-enhance-playstation-2-gaming-the-ultimate-guide-to-android-emulation-tools/"><u>[Updated] Enhance PlayStation 2 Gaming The Ultimate Guide to Android Emulation Tools</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-experts-choice-the-best-windows-pc-screen-recorders/"><u>[Updated] Expert's Choice The Best Windows PC Screen Recorders</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-foundations-of-a-youtube-venture-a-comprehensive-guide/"><u>[Updated] In 2024, The Foundations of a YouTube Venture A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-pulse-of-innovation-selecting-top-quality-dj-visual-downloads/"><u>[Updated] Pulse of Innovation Selecting Top-Quality DJ Visual Downloads</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-youtube-movie-maker-from-beginner-to-pro-edition/"><u>2024 Approved YouTube Movie Maker From Beginner to Pro Edition</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-discovering-the-best-in-display-tech-10-list-for-your-mac/"><u>In 2024, Discovering the Best in Display Tech - #10 List for Your Mac</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-mastering-youtube-metrics-for-effective-content-strategy/"><u>In 2024, Mastering YouTube Metrics for Effective Content Strategy</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-tips-of-playing-m4a-audio-files-on-android-devices/"><u>In 2024, Tips of Playing M4A Audio Files on Android Devices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/maplestory-wont-open-discover-how-to-correct-the-game-initialization-issue/"><u>MapleStory Won't Open? Discover How to Correct the Game Initialization Issue</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-innovators-guide-to-non-intrusive-audio-modulation-in-modern-videos/"><u>New 2024 Approved The Innovators Guide to Non-Intrusive Audio Modulation in Modern Videos</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-ai-voice-manipulation-techniques-for-authentic-and-natural-sound-replication/"><u>New AI Voice Manipulation Techniques for Authentic and Natural Sound Replication</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-echoes-and-rhythms-discovering-the-top-radio-sounds-for-2024/"><u>New Echoes and Rhythms Discovering the Top Radio Sounds for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-crowded-online-spaces-offering-no-cost-guitar-song-lines-and-artwork/"><u>New In 2024, Crowded Online Spaces Offering No-Cost Guitar Song Lines and Artwork</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-from-original-notes-to-new-narratives-step-by-step-guide-for-audio-replacement-in-videos/"><u>New In 2024, From Original Notes to New Narratives Step-by-Step Guide for Audio Replacement in Videos</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-leading-resources-for-collecting-lofi-playlists-and-designs/"><u>New In 2024, Leading Resources for Collecting Lofi Playlists and Designs</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-premier-11-auditory-editing-utilities-on-android-devices/"><u>New In 2024, Premier 11 Auditory Editing Utilities on Android Devices</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-sound-design-excellence-applying-audio-ducking-methods-in-powerdirector-for-non-intrusive-volume-reduction-for-2024/"><u>New Sound Design Excellence Applying Audio Ducking Methods in PowerDirector for Non-Intrusive Volume Reduction for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-guide-to-years-top-makeup-vloggers/"><u>[New] The Ultimate Guide to Year's Top Makeup Vloggers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-vocal-vortex-validity-of-the-transmutation-app-questioned-explore-more-alternatives/"><u>[New] Vocal Vortex Validity of the Transmutation App Questioned - Explore More Alternatives</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-assessing-sns-hdr-pro-habits-and-alternative-options/"><u>[Updated] Assessing SNS HDR Pro’ Habits & Alternative Options</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-screen-times-best-and-worst-app-reviews/"><u>[Updated] Screen Time's Best and Worst App Reviews</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-enhance-pc-video-life-with-windows-immersive-hdr-techniques/"><u>2024 Approved Enhance PC Video Life with Windows' Immersive HDR Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/become-a-wizard-elevating-the-art-of-ppt-to-video-conversion/"><u>Become a Wizard Elevating the Art of PPT to Video Conversion</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/freshest-graphics-card-drivers-installed-seamlessly-on-windows-systems/"><u>Freshest Graphics Card Drivers Installed Seamlessly on Windows Systems</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-capturing-champions-faceoff/"><u>In 2024, Capturing Champions Faceoff</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-easy-path-to-professional-audio-mixing-in-adobe-premiere-pro-for-2024/"><u>New The Easy Path to Professional Audio Mixing in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-ultimate-guide-to-implementing-audio-keyframes-using-adobe-premiere-pro-for-mac-users/"><u>New The Ultimate Guide to Implementing Audio Keyframes Using Adobe Premiere Pro for Mac Users</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-top-6-no-cost-web-based-sound-crafting-tools/"><u>New Top 6 No-Cost Web-Based Sound Crafting Tools</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/razer-blade-pro-17-evaluation-ultimate-mobile-performance/"><u>Razer Blade Pro 17 Evaluation: Ultimate Mobile Performance</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/silencing-the-sharp-methods-for-banishing-excessive-hiss-in-music-production-for-2024/"><u>Silencing the Sharp Methods for Banishing Excessive Hiss in Music Production for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-art-and-science-of-auditory-retrogression-best-audio-reverser-tools-for-2024/"><u>The Art and Science of Auditory Retrogression Best Audio Reverser Tools for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-artisans-audit-scrutinizing-expert-level-tools-for-sonic-craftsmanship/"><u>The Artisans Audit Scrutinizing Expert-Level Tools for Sonic Craftsmanship</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-evolved-examination-of-sony-bdp-s3700-for-2024/"><u>The Evolved Examination of Sony BDP-S3700 for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-leading-speech-recognition-applications-on-the-market-android-and-iphone-focus/"><u>The Leading Speech Recognition Applications on the Market - Android & iPhone Focus</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-navigating-copyright-friendly-ways-to-retrieve-your-spotify-tunes-for-offline-use/"><u>Updated 2024 Approved Navigating Copyright-Friendly Ways to Retrieve Your Spotify Tunes for Offline Use</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-audio-to-text-transformation-trends/"><u>Updated Audio-to-Text Transformation Trends</u></a></li>
 </ul></div>
 

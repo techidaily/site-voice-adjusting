@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Your Play Experience: Fixing Cities: Skylines 2 Crashes on Windows"
-date: 2024-09-30T17:37:05.343Z
-updated: 2024-10-06T18:19:50.724Z
+date: 2024-10-11T09:42:51.357Z
+updated: 2024-10-12T05:51:15.667Z
 tags:
   - win11
   - win10
@@ -54,13 +54,6 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-00-43.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Check your operating system, processor,**and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-00-47.jpg)
@@ -89,6 +82,13 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-40-03.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the**Compatibility** tab, then check**Run this program as an administrator** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-41-28.jpg)
@@ -111,13 +111,40 @@ If your game crashes again, then try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-29_10-28-13-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Type**devmgmt.msc** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-29_11-47-41.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Double-click**Display adapters** . Then, right-click**your graphics card** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-29_11-49-10.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Click**Roll Back Driver** .
 
@@ -145,13 +172,6 @@ If your game crashes again, then try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-02-36.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -160,13 +180,6 @@ If your game crashes again, then try the next fix.
 **4)** Relaunch Total War to test your issue.
 
 If your issue persists, then move on to the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Verify the integrity of your game files
 
@@ -181,6 +194,13 @@ If your issue persists, then move on to the next fix below.
 **3)**  Right-click **Total War: WARHAMMER II** and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-04-38.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)**  Click the **LOCAL FILES**  tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
 
@@ -210,6 +230,13 @@ If the game is still unplayable, check the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-53-08.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Type**\-dx11** on the box and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-55-10.jpg)
@@ -236,16 +263,22 @@ If your game still won’t launch properly, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-23-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Click**Change settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-06-26.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)** Click each Steam entities, then click**Remove** .
 
@@ -263,13 +296,6 @@ If your game still won’t launch properly, move on to the next fix.
 
 If this method doesn’t work for you, move on to try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 8: Run your game in compatibility mode
 
  Some Windows updates may not be compatible with_Total War: WARHAMMER II_ , causing it to crash. If you’re on 10, try running the game on Windows 7 mode. Here is how to do it:
@@ -286,16 +312,16 @@ If this method doesn’t work for you, move on to try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-05-21-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)**  Relaunch your game to check if your issue had been resolved.
 
  If this didn’t work for you, you need to reopen the Properties Window and disable the Compatibility mode . Then, try the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 9: Reinstall Steam
 
@@ -309,29 +335,9 @@ If this method doesn’t work for you, move on to try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-31-33.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-31-39.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Under **View by** , select **Category** , then click**Uninstall a program** .
 
@@ -374,24 +380,20 @@ If this method doesn’t work for you, move on to try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-competition-unveiled-twitchs-clash-with-youtube/"><u>[New] The Competition Unveiled Twitch's Clash with YouTube</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-best-practices-for-windows-8-screenshots-and-recordings-for-2024/"><u>[Updated] Best Practices for Windows 8 Screenshots and Recordings for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-5-best-ps2-emulator-for-ios/"><u>[Updated] Top 5 Best PS2 Emulator for Ios</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-unveiling-the-secrets-how-to-clear-yt-background-for-2024/"><u>[Updated] Unveiling the Secrets How to Clear YT Background for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-essential-dj-playlist-archives/"><u>2024 Approved Essential DJ Playlist Archives</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adapt-windows-sleep-timer-to-suit-you/"><u>Adapt Window's Sleep Timer to Suit You</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/chromecast-plus-google-tv-revolutionizing-your-home-entertainment-experience/"><u>Chromecast Plus Google TV: Revolutionizing Your Home Entertainment Experience</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-install-intels-latest-graphics-driver-for-iris-xe-on-windows-11-systems/"><u>How to Install Intel's Latest Graphics Driver for Iris Xe on Windows 11 Systems</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-premier-software-solutions-for-clearing-up-rough-audio-texture/"><u>In 2024, Premier Software Solutions for Clearing Up Rough Audio Texture</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-art-of-sound-visualization-combining-waveform-graphics-and-animation-techniques-in-premiere-pro/"><u>In 2024, The Art of Sound Visualization Combining Waveform Graphics & Animation Techniques in Premiere Pro</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-use-of-android-apps-seamlessly-in-windows-11-environment/"><u>Mastering the Use of Android Apps Seamlessly in Windows 11 Environment</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-melody-compendium-the-15-best-music-selections-for-different-visual-media-types-for-2024/"><u>New Melody Compendium The 15 Best Music Selections for Different Visual Media Types for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-solutions-easily-resolve-javascript-issues-in-discord/"><u>Quick Solutions: Easily Resolve JavaScript Issues in Discord</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/quick-tips-for-iphones-screen-recording-for-2024/"><u>Quick Tips for iPhones Screen Recording for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/the-ultimate-guide-to-popular-radio-ambiance/"><u>The Ultimate Guide to Popular Radio Ambiance</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-demystifying-pexelscom-the-ultimate-resource-for-photographers-and-designers/"><u>Updated 2024 Approved Demystifying Pexels.com The Ultimate Resource for Photographers and Designers</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-finding-your-perfect-game-voice-conversion-companion/"><u>Updated Finding Your Perfect Game Voice Conversion Companion</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-top-youtube-audio-gems-for-daily-listening/"><u>Updated Top YouTube Audio Gems for Daily Listening</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-video-streaming-sonic-database-youtube-for-2024/"><u>Updated Video Streaming Sonic Database - YouTube for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-creative-freedom-redefined-a-review-of-screenflow-on-macbook-pro/"><u>[New] 2024 Approved Creative Freedom Redefined A Review of ScreenFlow on MacBook Pro</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-art-of-amplification-a-comprehensive-guide-to-sharing-videos-on-facebook/"><u>[Updated] 2024 Approved The Art of Amplification A Comprehensive Guide to Sharing Videos on Facebook</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-best-low-end-screen-recorder-options-summarized/"><u>2024 Approved Best Low-End Screen Recorder Options Summarized</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-stand-out-with-visual-flair-bordered-video-tutorials/"><u>2024 Approved Stand Out with Visual Flair Bordered Video Tutorials</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/accessibility-at-its-finest-understanding-gpt-4-technology/"><u>Accessibility at Its Finest: Understanding GPT-4 Technology</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-realme-c53-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Realme C53</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-oneplus-nord-n30-se-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from OnePlus Nord N30 SE FRP Bypass</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/listen-up-write-it-down-comprehensive-guide-to-free-audio-to-text-apps-for-android-and-ios-for-2024/"><u>Listen Up, Write It Down Comprehensive Guide to Free Audio-to-Text Apps for Android and iOS for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-a-detailed-walkthrough-incorporating-soundtracks-into-your-imovie-narratives/"><u>New A Detailed Walkthrough Incorporating Soundtracks Into Your iMovie Narratives</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-audio-splitter-how-to-split-audio-files-easily/"><u>New In 2024, Audio Splitter How to Split Audio Files Easily</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-artisans-guide-to-using-garageband-for-recording-and-editing-audio-projects/"><u>New In 2024, The Artisans Guide to Using GarageBand for Recording and Editing Audio Projects</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-tempo-transitions-the-art-of-syncing-your-footage-to-music-pulses-using-adobe-premiere-pros-tools/"><u>New Tempo Transitions The Art of Syncing Your Footage to Music Pulses Using Adobe Premiere Pros Tools</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-2023-guide-to-integrating-creative-audio-elements-into-your-film-projects/"><u>New The 2023 Guide to Integrating Creative Audio Elements Into Your Film Projects</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-nokia-xr21-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Nokia XR21 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-s-top-picks-professional-4k-video-editing-software-revealed/"><u>Updated S Top Picks Professional 4K Video Editing Software Revealed</u></a></li>
 </ul></div>
 
