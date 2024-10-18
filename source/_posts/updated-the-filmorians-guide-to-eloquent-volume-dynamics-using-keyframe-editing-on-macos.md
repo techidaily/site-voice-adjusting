@@ -1,7 +1,7 @@
 ---
 title: Updated The Filmorians Guide to Eloquent Volume Dynamics Using Keyframe Editing on macOS
-date: 2024-10-08T10:42:34.643Z
-updated: 2024-10-11T21:59:18.070Z
+date: 2024-10-17T04:09:56.703Z
+updated: 2024-10-18T04:12:10.566Z
 tags: 
   - audio editing software
   - audio editing
@@ -53,10 +53,10 @@ Now, click on the keyframe icon on the left side panel, make the volume adjustme
 To add the second **audio keyframe**, move the playhead to the desired spot, and once done, perform step 3 again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Modify Audio Keyframes in Filmora for Mac?
@@ -86,10 +86,10 @@ If you want to lower the volume of other clips in the video, you can use the “
 It’s not just one, but Filmora offers five attractive choices to modify the created **audio keyframe**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: How to Fade In/Out Audio with Keyframes in Filmora for Mac?
@@ -110,10 +110,10 @@ Now that you are familiar with the method to add **Filmora keyframes** for audio
 * Dragging the **fade audio in the** handle at the beginning of the clip will impose the effect and set its duration automatically. Pulling the **fade audio out** handle at the end of the clip will impose the fade-out effect.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -123,10 +123,10 @@ No doubt, Wondershare Filmora is the best choice to carry over your **audio keyf
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -144,22 +144,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-100-safe-audio-download-techniques-from-youtube-for-2024/"><u>[New] 100% Safe Audio Download Techniques From YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-forget-youtube-try-these-top-5-video-editor-options-for-2024/"><u>[Updated] Forget Youtube? Try These Top 5 Video Editor Options for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-streaming-sound-excellence-5-top-headsets/"><u>[Updated] Streaming Sound Excellence 5 Top Headsets</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-perfectly-preserved-your-ultimate-guide-to-saving-tweet-animations/"><u>2024 Approved Perfectly Preserved Your Ultimate Guide to Saving Tweet Animations</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/aria-review-blending-novelty-and-functionality/"><u>Aria Review: Blending Novelty and Functionality</u></a></li>
-<li><a href="https://win-able.techidaily.com/genetic-variations-in-the-cytochrome-p45amoeba-methylene-blue-enzymes-may-lead-to-slower-or-faster-clearance-of-drugs-impacting-their-efficacy-and-potential590/"><u>Genetic Variations in the Cytochrome P45amoeba Methylene Blue Enzymes May Lead to Slower or Faster Clearance of Drugs, Impacting Their Efficacy and Potential for Harm.</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-apple-iphone-xr-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the Apple iPhone XR iCloud Lock</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-auditory-ambiance-elevating-your-instagram-creations/"><u>In 2024, Auditory Ambiance Elevating Your Instagram Creations</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-motorola-moto-e13-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Motorola Moto E13 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/instant-recording-sight-and-sound-fused/"><u>Instant Recording Sight & Sound Fused</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/top-picks-the-ultimate-guide-to-the-best-17-inch-laptops/"><u>Top Picks: The Ultimate Guide to the Best 17-Inch Laptops</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-expert-picks-best-voice-isolation-technologies-for-music-creators/"><u>Updated In 2024, Expert Picks Best Voice Isolation Technologies for Music Creators</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-innovations-and-standouts-10-premier-podcast-hosting-providers/"><u>Updated In 2024, Innovations and Standouts 10 Premier Podcast Hosting Providers</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-intuitive-acoustic-sifting-gadgets-for-first-timers-and-seasoned-artists/"><u>Updated Intuitive Acoustic Sifting Gadgets for First-Timers and Seasoned Artists</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-mastering-sound-integration-adding-audio-to-your-ae-projects-for-2024/"><u>Updated Mastering Sound Integration Adding Audio to Your AE Projects for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-most-effective-6-internet-audio-cutting-software/"><u>Updated Most Effective 6 Internet Audio Cutting Software</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/what-to-do-when-your-iphones-mute-function-isnt-working/"><u>What To Do When Your iPhone's Mute Function Isn't Working</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-crafting-a-content-schedule-the-path-to-gaining-traction-on-youtube/"><u>[New] In 2024, Crafting a Content Schedule The Path to Gaining Traction on YouTube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-prime-6-sleek-designs-in-virtual-houses-for-2024/"><u>[New] Prime 6 Sleek Designs in Virtual Houses for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-concealing-confidentiality-blurring-identity-in-recordings/"><u>[Updated] 2024 Approved Concealing Confidentiality Blurring Identity in Recordings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-androids-ultimate-fix-for-frustratingly-slow-vids/"><u>2024 Approved Android's Ultimate Fix for Frustratingly Slow Vids</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-fire-up-your-dreams-with-these-10-movie-gems/"><u>2024 Approved Fire Up Your Dreams with These 10 Movie Gems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/banish-bluestacks-freezing-issues-a-5-step-guide/"><u>Banish BlueStacks Freezing Issues: A 5-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-owning-a-ps5-worth-your-money-discover-these-4-persuasive-arguments/"><u>Is Owning a PS5 Worth Your Money? Discover These 4 Persuasive Arguments</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-becoming-a-voice-removal-specialist-a-step-by-step-approach-for-2024/"><u>New Becoming a Voice Removal Specialist A Step-by-Step Approach for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-mastering-silence-techniques-for-eliminating-sibilance-in-recordings-for-2024/"><u>New Mastering Silence Techniques for Eliminating Sibilance in Recordings for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/soundscape-seeking-outstanding-claps-and-cheers/"><u>Soundscape Seeking Outstanding Claps and Cheers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-flushing-your-windows-10-pcs-memory/"><u>Step-by-Step Guide: Flushing Your Windows 10 PC's Memory</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-visual-vintner-techniques-for-flavorful-films/"><u>The Visual Vintner Techniques for Flavorful Films</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-the-art-and-science-of-capturing-real-time-audio-for-digital-platforms-for-2024/"><u>Updated The Art and Science of Capturing Real-Time Audio for Digital Platforms for 2024</u></a></li>
 </ul></div>
 

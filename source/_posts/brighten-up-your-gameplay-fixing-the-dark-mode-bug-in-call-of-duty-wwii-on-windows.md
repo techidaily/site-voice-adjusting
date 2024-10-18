@@ -1,7 +1,7 @@
 ---
 title: "Brighten Up Your Gameplay: Fixing the Dark Mode Bug in Call of Duty: WWII on Windows!"
-date: 2024-10-08T23:21:10.458Z
-updated: 2024-10-12T07:41:07.469Z
+date: 2024-10-15T09:34:44.474Z
+updated: 2024-10-17T21:14:32.034Z
 tags:
   - win11
   - win10
@@ -29,10 +29,16 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Switch out of your game, then switch back in
@@ -54,10 +60,10 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
  This should fix your black screen issue. But if not, then you should try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
@@ -92,10 +98,10 @@ OR
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-425.png)  
@@ -113,10 +119,10 @@ OR
 3. Delete Call of Duty: World War II (right click this game in the list and select**Uninstall** ).
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Download the game from where you purchased it.
@@ -142,20 +148,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-an-exclusive-list-of-heartwarming-weddings-youtube-and-vimeo-edition/"><u>[New] An Exclusive List of Heartwarming Weddings - Youtube & Vimeo Edition</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-troubleshooting-resolving-no-audio-in-obs/"><u>[Updated] 2024 Approved Troubleshooting Resolving No Audio in OBS</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-unveiling-the-secrets-to-efficient-recording/"><u>[Updated] In 2024, Unveiling the Secrets to Efficient Recording</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-mastering-audio-downloads-a-guide-to-collecting-podcast-episodes-on-pc/"><u>2024 Approved Mastering Audio Downloads A Guide to Collecting Podcast Episodes on PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/beat-error-0x800f0922-in-windows-10-updates-with-these-proven-fixes/"><u>Beat Error 0X800f0922 in Windows 10 Updates with These Proven Fixes!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-ultimate-guide-setting-up-and-mastering-nvidias-rtx-powered-ai-chatbot/"><u>Discover the Ultimate Guide: Setting Up and Mastering NVIDIA's RTX-Powered AI Chatbot</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-from-iphone-8-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account From iPhone 8?</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-unlocking-potential-with-nikon-written-by-emily-roberts-on-june-4-2023/"><u>In 2024, Unlocking Potential with Nikon' Written by Emily Roberts on June 4, 2023</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-expertly-curated-list-of-premier-audio-trimming-software-websites/"><u>New 2024 Approved Expertly Curated List of Premier Audio Trimming Software Websites</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-achieving-optimal-sound-levels-with-audacitys-volume-slider/"><u>New Achieving Optimal Sound Levels with Audacitys Volume Slider</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-cutting-edge-software-choices-for-distorting-and-enhancing-audio-quality/"><u>New In 2024, Cutting-Edge Software Choices for Distorting and Enhancing Audio Quality</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/revolutionizing-voice-capture-the-best-8-free-online-recorders-available/"><u>Revolutionizing Voice Capture - The Best 8 Free Online Recorders Available</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-mastering-the-art-of-soundscape-alteration-on-digital-media/"><u>Updated Mastering the Art of Soundscape Alteration on Digital Media</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-trace-the-tonal-embodiment-of-an-ancient-bell-for-2024/"><u>Updated Trace the Tonal Embodiment of an Ancient Bell for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/youtube-playlist-rearrangement-made-simple/"><u>YouTube Playlist Rearrangement Made Simple</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-top-mp4-to-fb-transcoder/"><u>[New] Top MP4-to-FB Transcoder</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-enhancing-iphone-shots-the-live-photo-method/"><u>[Updated] Enhancing iPhone Shots The Live Photo Method</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-advanced-audio-tuning-apps-mobiledesktop-edition/"><u>2024 Approved Advanced Audio Tuning Apps Mobile/Desktop Edition</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-audiotrack-collection-pc-noises/"><u>2024 Approved Audiotrack Collection PC Noises</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-elevate-your-live-streams-high-quality-360-options/"><u>2024 Approved Elevate Your Live Streams High-Quality 360° Options</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/a-comprehensive-tutorial-on-audio-standardization-in-davinci-resolve-for-2024/"><u>A Comprehensive Tutorial on Audio Standardization in DaVinci Resolve for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/how-to-add-photos-to-audio/"><u>How to Add Photos to Audio</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-a-comprehensive-look-at-lighting-your-youtube-videos-right/"><u>In 2024, A Comprehensive Look at Lighting Your YouTube Videos Right</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-mastering-audio-with-sound-forge-an-assessment-review/"><u>In 2024, Mastering Audio with Sound Forge An Assessment Review</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-transform-your-auditory-perception-with-internet-based-audio-modification-tools/"><u>In 2024, Transform Your Auditory Perception with Internet-Based Audio Modification Tools</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-eliminating-soundtracks-in-contemporary-mkv-video-files-mkv-2023-for-2024/"><u>New Eliminating Soundtracks in Contemporary MKV Video Files (MKV-2023) for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rapidly-transform-your-hd-4800-driver-setup/"><u>Rapidly Transform Your HD 4800 Driver Setup</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-insiders-guide-to-professional-grade-editing-in-windows-10/"><u>The Insider's Guide to Professional-Grade Editing in Windows 10</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-implementing-effective-denoise-methods-with-artificial-intelligence/"><u>Updated Implementing Effective DeNoise Methods with Artificial Intelligence</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-learn-the-basics-of-adding-music-and-effects-to-imovie-videos/"><u>Updated Learn the Basics of Adding Music and Effects to iMovie Videos</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-the-step-by-step-guide-to-personalizing-mobile-notifications/"><u>Updated The Step-by-Step Guide to Personalizing Mobile Notifications</u></a></li>
+<li><a href="https://extra-information.techidaily.com/windows-10-new-features-at-a-glance/"><u>Windows 10 New Features at a Glance</u></a></li>
 </ul></div>
 

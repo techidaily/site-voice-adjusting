@@ -1,7 +1,7 @@
 ---
 title: "Solving Far Cry 6 Display Glitches: Overcoming Black Screen Setbacks"
-date: 2024-10-06T16:50:40.243Z
-updated: 2024-10-11T21:02:53.620Z
+date: 2024-10-14T19:17:12.506Z
+updated: 2024-10-18T05:56:34.223Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Run Fallout 4 as Compatibility mode
 
  Run Fallout 4 in compatibility mode is a way to solve many problems. This Fallout 4 black screen error may be caused by the incompatibility with the system. So change the compatibility mode may help you solve the issue.
@@ -62,13 +55,20 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2019/07/NVIDIA-Geoforce-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Edit configuration files
@@ -97,25 +97,19 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 3. Tick the**Windowed Mode** and**Borderless** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Click**Advanced** . Lower the settings and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Run the game to check the problem will appear or not.
@@ -149,21 +143,24 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-full-spectrum-analysis-the-complete-logitech-4k-webcam-review-for-2024/"><u>[New] Full Spectrum Analysis The Complete Logitech 4K Webcam Review for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-mastering-social-media-finding-youtube-content-on-fb/"><u>[Updated] 2024 Approved Mastering Social Media Finding YouTube Content on FB</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-tailoring-meet-backdrop-for-enhanced-presentations/"><u>[Updated] Tailoring Meet Backdrop for Enhanced Presentations</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Vivo Y36i? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-7-plus-to-other-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 7 Plus to Other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/in-depth-fixes-startech-peripheral-driver-issues-on-windows-10-and-earlier-versions-windows-87/"><u>In-Depth Fixes: StarTech Peripheral Driver Issues on Windows 10 and Earlier Versions (Windows 8/7)</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/learning-the-romantic-lexicon-of-hungarian/"><u>Learning the Romantic Lexicon of Hungarian</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-transform-your-tiktok-experience-simple-ways-to-reduce-video-noise-levels/"><u>New 2024 Approved Transform Your TikTok Experience Simple Ways to Reduce Video Noise Levels</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-creative-audio-analysis-crafting-an-interactive-waveform-animation-spectacle-within-premiere-pro/"><u>New In 2024, Creative Audio Analysis Crafting an Interactive Waveform Animation Spectacle Within Premiere Pro</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-integrating-tracks-adding-songs-and-soundscapes-into-final-cut-pro-editing/"><u>New In 2024, Integrating Tracks Adding Songs and Soundscapes Into Final Cut Pro Editing</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-perfect-your-playlist-a-compilation-of-elite-mp3-enhancement-services/"><u>New Perfect Your Playlist A Compilation of Elite MP3 Enhancement Services</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/professional-video-editors-showdown-filmora-versus-democracy-creator/"><u>Professional Video Editors Showdown Filmora Versus Democracy Creator</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/show-audio-waveform-and-add-waveform-animation-in-premiere-protutor-for-2024/"><u>Show Audio Waveform and Add Waveform Animation in Premiere ProTutor for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-a-filmmakers-choice-the-top-five-free-audio-jokes-for-creative-videos/"><u>Updated 2024 Approved A Filmmakers Choice The Top Five Free Audio Jokes for Creative Videos</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-setting-up-and-disabling-audacity-for-enhanced-sound-editing-on-your-chromebook-for-2024/"><u>Updated Setting Up and Disabling Audacity for Enhanced Sound Editing on Your Chromebook for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/wwe-2k-battlegrounds-direct-x-11-update-fixing-feature-level-10-errors/"><u>WWE 2K Battlegrounds Direct X 11 Update: Fixing Feature Level 10 Errors</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-prime-construction-tips-for-mc-community-abodes/"><u>[New] 2024 Approved Prime Construction Tips for MC Community Abodes</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-deconstructed-digital-captions-technique/"><u>[Updated] 2024 Approved Deconstructed Digital Captions Technique</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-path-to-smooth-transitions-in-inshot-editing/"><u>2024 Approved The Path to Smooth Transitions in Inshot Editing</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/decoding-omegle-a-deep-dive-into-online-gaming-platforms-with-safety-focus-for-2024/"><u>Decoding Omegle A Deep Dive Into Online Gaming Platforms with Safety Focus for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/echoes-in-the-digital-abyss-understanding-vr-ar-and-mr/"><u>Echoes in the Digital Abyss Understanding VR, AR, and MR</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enhance-website-personalization-with-the-power-of-cookiebot-technology/"><u>Enhance Website Personalization with the Power of Cookiebot Technology</u></a></li>
+<li><a href="https://common-error.techidaily.com/five-effective-methods-to-repair-a-malfunctioning-screen-on-windows-10/"><u>Five Effective Methods to Repair a Malfunctioning Screen on Windows 10</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/free-to-download-movie-cast-releases-for-2024/"><u>Free-to-Download Movie Cast Releases for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-gionee-f3-pro-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Gionee F3 Pro FRP</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-oneplus-ace-2-pro-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on OnePlus Ace 2 Pro to Protect Your Individual Information</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-airborne-visuals-a-closer-look-at-the-dji-mavic-3-features-and-capabilities/"><u>Mastering Airborne Visuals - A Closer Look at the DJI Mavic 3 Features and Capabilities</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-elite-selection-of-virtual-audio-editing-experts/"><u>New 2024 Approved The Elite Selection of Virtual Audio Editing Experts</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-find-monster-sounds-effect/"><u>New Find Monster Sounds Effect</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-no-charge-audiophiles-choice-premium-conversion-software-for-mpa-to-mp3-transition-for-2024/"><u>New No-Charge Audiophiles Choice Premium Conversion Software for MPA to MP3 Transition for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-streamlining-audio-dynamics-a-comprehensive-approach-to-volume-normalization-with-vlc/"><u>New Streamlining Audio Dynamics A Comprehensive Approach to Volume Normalization with VLC</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-art-of-soundless-storytelling-removing-audio-from-videos-with-imovie-for-2024/"><u>New The Art of Soundless Storytelling Removing Audio From Videos with iMovie for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-the-complete-pexels-primer-knowledge-essential-for-graphic-designers-and-marketers/"><u>Updated In 2024, The Complete Pexels Primer Knowledge Essential for Graphic Designers and Marketers</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-the-ultimate-list-of-free-bgm-music-streaming-sites-updated-for-2024/"><u>Updated The Ultimate List of Free BGM Music Streaming Sites, Updated for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-transform-your-singing-with-autotune-in-audacity-a-complete-tutorial-followed-through-for-2024/"><u>Updated Transform Your Singing with Autotune in Audacity – A Complete Tutorial Followed Through for 2024</u></a></li>
 </ul></div>
 

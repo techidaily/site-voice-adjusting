@@ -1,7 +1,7 @@
 ---
 title: Updated Unleashing Your Creative Potential The Comprehensive Guide to Volume Automation and Ducking with Adobe Premiere Pro (Mac Edition) for 2024
-date: 2024-10-05T20:52:46.952Z
-updated: 2024-10-12T01:14:48.185Z
+date: 2024-10-16T19:35:18.272Z
+updated: 2024-10-17T20:18:41.885Z
 tags: 
   - audio editing software
   - audio editing
@@ -57,10 +57,16 @@ Great! You can now preview the changes you have made and check the audio ducking
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
@@ -70,10 +76,10 @@ As you can see, the Premiere Pro audio ducking feature can get a bit complicated
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
@@ -103,10 +109,10 @@ Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -124,19 +130,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-are-you-prepared-for-the-changed-facebook-algorithm/"><u>[Updated] 2024 Approved Are You Prepared for the Changed Facebook Algorithm?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-breakdown-easy-to-follow-steps-to-using-a-whiteboard-on-zoom-devices/"><u>[Updated] Breakdown Easy-to-Follow Steps to Using a Whiteboard on Zoom Devices</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-adjustment-tips-for-subtle-audio-reduction-in-logic-pro/"><u>2024 Approved Adjustment Tips for Subtle Audio Reduction in Logic Pro</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-audio-experts-choice-best-6-microphone-picks-for-online-broadcasting/"><u>2024 Approved Audio Experts' Choice Best 6 Microphone Picks for Online Broadcasting</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-tips-to-get-your-netflix-running-again-on-an-lg-hduhd-display/"><u>Expert Tips to Get Your Netflix Running Again on an LG HD/UHD Display</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/harness-advanced-customer-insights-with-cookiebot-technology-integration/"><u>Harness Advanced Customer Insights with Cookiebot Technology Integration</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-htc-lock-screen-password-by-drfone-android/"><u>How to Reset your HTC Lock Screen Password</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Realme GT 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-perfectpicturefree-ultimate-erase-for-clean-bgs/"><u>In 2024, PerfectPictureFree Ultimate Erase for Clean BGs</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-maximizing-your-m4a-experience-android-audio-file-handling-guide-for-2024/"><u>Updated Maximizing Your M4A Experience Android Audio File Handling Guide for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-streamlining-creativity-top-10-plugin-essentials-for-efficient-media-production/"><u>Updated Streamlining Creativity Top 10 Plugin Essentials for Efficient Media Production</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-the-ultimate-selection-8-premium-daws-shaping-the-future-of-hip-hop-beats/"><u>Updated The Ultimate Selection 8 Premium DAWs Shaping the Future of Hip-Hop Beats</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-top-10-mobile-nature-sound-experiences-ios-and-android-edition-for-2024/"><u>Updated Top 10 Mobile Nature Sound Experiences IOS & Android Edition for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-top-3-budget-friendly-methods-to-transcribe-sound-into-words-detailed-processes-2023-for-2024/"><u>Updated Top 3 Budget-Friendly Methods to Transcribe Sound Into Words Detailed Processes - 2023 for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-experts-choice-best-6-video-grabber-tools-for-mac/"><u>[New] Expert's Choice Best 6 Video Grabber Tools for Mac</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-solve-non-playing-fb-videos-on-iphone/"><u>[Updated] 2024 Approved Solve Non-Playing FB Videos on iPhone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-charting-the-future-essential-online-stock-yts-for-2024/"><u>[Updated] Charting the Future Essential Online Stock YTs for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-innovative-ways-to-craft-free-and-stylish-youtube-video-titles/"><u>[Updated] Innovative Ways to Craft Free and Stylish YouTube Video Titles</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-navigating-through-music-production-software-landscape-can-magix-samplitude-be-considered-supreme/"><u>2024 Approved Navigating Through Music Production Software Landscape Can MAGIX Samplitude Be Considered Supreme?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/gaming-on-the-green-comprehenive-review-of-vegas-pro-2021/"><u>Gaming on the Green Comprehenive Review of Vegas Pro 2021</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-best-10-websites-to-download-montage-music/"><u>In 2024, Best 10 Websites to Download Montage Music</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-iphone-se-2020-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From iPhone SE (2020)</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-top-5-linux-audio-gadgets-and-expert-advice-on-achieving-professional-sound-quality/"><u>New In 2024, Top 5 Linux Audio Gadgets and Expert Advice on Achieving Professional Sound Quality</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-top-rated-3d-video-production-tools-free-paid-and-in-between/"><u>New In 2024, Top-Rated 3D Video Production Tools Free, Paid, and In-Between</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-comprehensive-approach-to-quieter-listening-best-practices-for-reducing-noise-with-digital-and-analog-methods/"><u>Updated 2024 Approved Comprehensive Approach to Quieter Listening Best Practices for Reducing Noise with Digital & Analog Methods</u></a></li>
 </ul></div>
 
