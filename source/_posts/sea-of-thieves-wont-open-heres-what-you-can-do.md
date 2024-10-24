@@ -1,7 +1,7 @@
 ---
 title: Sea of Thieves Won't Open? Here's What You Can Do
-date: 2024-10-11T00:20:25.582Z
-updated: 2024-10-18T01:50:55.912Z
+date: 2024-10-16T18:06:42.681Z
+updated: 2024-10-24T01:02:30.147Z
 tags:
   - win11
   - win10
@@ -47,6 +47,13 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 6. [Disable incompatible apps](https://tools.techidaily.com/drivereasy/download/)
 7. [Reinstalling your game](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Run as administrator
 
  The privilege issue might be the reason for the won’t launch problem. With high integrity access, Sea of Thieves can make full use of its features, so run the game as an administrator to see if this fixes your issue.
@@ -59,13 +66,6 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/ad.jpg)
 4. Run the game to check whether the problem is solved or not.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Do an App reset
 
  Reset the Sea of Thieves is a good option to try. This method will revert the game to its default settings which may fix the won’t launch issue.
@@ -76,13 +76,6 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/windows-store-cache.jpg)
 4. Download and install the Sea of Thieves.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Press the**Windows key + I** together and click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/app.jpg)
 6. Find and click **Sea of Thieves** on the list.
@@ -92,17 +85,16 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 8. Run Sea of Thieves to check.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Change the Time & Region
@@ -115,14 +107,27 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 2. Open the**Set time automatically** button.  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/time.jpg)
 3. Check your time zone and date.
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Click **Region** and check your region is corrected.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/region-1.jpg)
@@ -132,13 +137,6 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 
 **Note** : If your language and region is set to **English (United States)** already please change it to **English (United Kingdom)** instead.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Run Powershell
 
  Besides these basic fixes, you can use Powershell to enforce the application to launch.
@@ -147,6 +145,13 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 2. Type “powershell” and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/powershell.jpg)
 3. Copy and paste the following into the Powershell window and press Enter.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  **Get-AppXPackage | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($\_.InstallLocation)\\AppXManifest.xml”}**
 4. Run Sea of Thieves to check.
@@ -189,6 +194,19 @@ OR
 
 **IMPORTANT** : Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 7: Reinstall your game
 
  If the above fixes don’t work, reinstall your game may be the only choice. The clean uninstall can delete every file, then redownload and install it from Microsoft store. This can make sure there’s no corruption or wrongly installed files which should make the game work again.
@@ -214,20 +232,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-eyeonfox-screenshots-and-recordings/"><u>[New] In 2024, EyeOnFox Screenshots & Recordings</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-keep-them-coming-back-top-6-ways-to-enhance-your-audiences-staying-power-on-youtube/"><u>[New] In 2024, Keep Them Coming Back Top 6 Ways To Enhance Your Audience's Staying Power on YouTube</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-humorous-highlights-create-with-kapwing-meme-maker/"><u>2024 Approved Humorous Highlights Create with Kapwing Meme Maker</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-vivo-y78-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Vivo Y78 5G Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/chortle-chart-discovering-the-worlds-loudest-laughter/"><u>Chortle Chart Discovering the Worlds Loudest Laughter</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/decoding-culture-through-language-learn-hangul-understand-squid-game/"><u>Decoding Culture Through Language: Learn Hangul, Understand Squid Game</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-oppo-find-x7-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Oppo Find X7 Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Realme V30T? | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-efficient-recorders-guide-identifying-the-top-8-online-gratis-voice-capture-tools/"><u>New 2024 Approved The Efficient Recorders Guide Identifying the Top 8 Online, Gratis Voice Capture Tools</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-eliminating-sound-techniques-to-remove-background-noise-from-video-on-pc-and-mac/"><u>New In 2024, Eliminating Sound Techniques to Remove Background Noise From Video on PC & MAC</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-motorola-moto-g-stylus-5g-2023-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Motorola Moto G Stylus 5G (2023)? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/unveiling-the-leading-mixers-5-highest-rated-audiovideo-combiner-devices/"><u>Unveiling the Leading Mixers 5 Highest Rated Audio/Video Combiner Devices</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-exploring-2024s-hottest-spots-to-stream-bgm-soundtracks/"><u>Updated Exploring 2024S Hottest Spots to Stream BGM Soundtracks</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-the-ultimate-list-of-free-haunting-noise-archives/"><u>Updated In 2024, The Ultimate List of Free Haunting Noise Archives</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-the-top-5-hits-where-to-get-royalty-evading-laugh-tracks-online/"><u>Updated The Top 5 Hits Where to Get Royalty-Evading Laugh Tracks Online</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-amplify-your-imovie-with-youtube-audio-streams/"><u>[Updated] 2024 Approved Amplify Your iMovie with YouTube Audio Streams</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-precision-recording-a-stepwise-plan-for-pc-ios-macbooks/"><u>[Updated] 2024 Approved Precision Recording A Stepwise Plan for PC, iOS, MacBooks</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-avs-audio-editor-product-details-key-features-reviews-and-alternatives/"><u>2024 Approved AVS Audio Editor Product Details, Key Features, Reviews & Alternatives</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-top-15-audio-collections-matching-melodies-with-every-type-of-visual-narrative/"><u>2024 Approved Top 15 Audio Collections Matching Melodies with Every Type of Visual Narrative</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-motorola-edge-40-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Motorola Edge 40 Phone</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/boosting-your-websites-analytics-the-role-of-cookiebot-solutions/"><u>Boosting Your Website's Analytics: The Role of Cookiebot Solutions</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/echoes-within-formats-mp4s-guide-to-effortless-audio-retrieval-techniques/"><u>Echoes Within Formats MP4s Guide to Effortless Audio Retrieval Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-methods-for-extracting-sound-tracks-from-videos-a-step-by-step-guide/"><u>Free Methods for Extracting Sound Tracks From Videos - A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-budget-friendly-cloud-pricing-showdown/"><u>In 2024, Budget-Friendly Cloud Pricing Showdown</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-p55t-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Itel P55T Bootloader Easily</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-identifying-kits-with-intense-grumble-implementations/"><u>New In 2024, Identifying Kits with Intense Grumble Implementations</u></a></li>
+<li><a href="https://review-topics.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/revolutionize-your-listening-habits-the-best-voice-recording-tools-to-download-now/"><u>Revolutionize Your Listening Habits The Best Voice Recording Tools to Download Now</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-poco-c65-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Poco C65</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-discover-the-5-premier-voice-recording-gadgets-optimized-for-mp3-files-for-2024/"><u>Updated Discover the 5 Premier Voice Recording Gadgets Optimized for MP3 Files for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-the-art-of-low-pitched-audio-transforming-your-voice-in-filmora-2023/"><u>Updated In 2024, The Art of Low-Pitched Audio Transforming Your Voice in Filmora 2023</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-the-ultimate-collection-best-10-android-phone-apps-for-excellent-audio-recording/"><u>Updated In 2024, The Ultimate Collection Best 10 Android Phone Apps for Excellent Audio Recording</u></a></li>
 </ul></div>
 

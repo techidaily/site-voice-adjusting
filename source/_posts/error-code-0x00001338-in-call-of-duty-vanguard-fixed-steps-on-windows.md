@@ -1,7 +1,7 @@
 ---
 title: Error Code 0X00001338 in Call of Duty Vanguard - Fixed Steps on Windows
-date: 2024-10-15T08:32:26.926Z
-updated: 2024-10-17T21:50:58.588Z
+date: 2024-10-21T21:22:10.788Z
+updated: 2024-10-23T19:23:53.353Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ Call of Duty is a free-to-play first-person shooter game for everyone. It was re
 5. [Reinstall Warzone Pacific](https://tools.techidaily.com/drivereasy/download/)
 6. [Repair system files](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check the minimum requirements
 
  The first thing you need to do is to ensure your PC meets the minimum requirements. If your system doesn’t meet the minimum requirements, then you gonna have issues like crashing.
@@ -39,19 +46,6 @@ Call of Duty is a free-to-play first-person shooter game for everyone. It was re
 | GPU          | NVIDIA GeForce GTX 670 / GeForce GTX 1650 or Radeon HD 7950 |
 | Direct X     | DirectX 12.0 compatible system                              |
 | Video Memory | 2 GB                                                        |
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -82,8 +76,22 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Relaunch Call of Duty: Warzone Pacific and check.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Rename the file folder
 
@@ -97,13 +105,6 @@ OR
 
  If this method doesn’t resolve the issue, you can restore the changes with the backup.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Change the in-game settings
 
  Lowering the in-game graphics settings might help fix Warzone Pacific crashing. The Modern Warfare program occupied too much virtual memory and it could cause the game to crash. To fix it, you can lower all graphic settings, including turning off on demand streaming textures.
@@ -115,6 +116,13 @@ OR
 
 If it fixes the issue then slowly increase your graphics settings.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Reinstall Warzone Pacific
 
  If none of the fixes work for you, you may reinstall Warzone Pacific to see the result. Some gamers have reported doing a clean reinstall of Warzone Pacific would help.
@@ -123,13 +131,6 @@ If it fixes the issue then slowly increase your graphics settings.
 2. Type**control panel** and press the**Enter** key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-20_18-43-03.jpg)
 3. Set**View by Category** . Click**Uninstall the program** .  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-20_18-43-17.jpg)
 4. Find MW and Battle.net. Right-click on it and click**Unistall/Change** .  
@@ -152,21 +153,14 @@ If it fixes the issue then slowly increase your graphics settings.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -193,18 +187,20 @@ If it fixes the issue then slowly increase your graphics settings.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-beat-the-best-substitutes-for-samsungs-vr-camera-gear-360/"><u>[Updated] 2024 Approved Beat the Best Substitutes for Samsung's VR Camera Gear 360</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-dont-overlook-tags-in-video-description/"><u>2024 Approved Don't Overlook Tags in Video Description</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-renewal-of-photo-viewing-capabilities-in-windows-10-guide/"><u>2024 Approved Renewal of Photo Viewing Capabilities in Windows 10 - Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-closer-look-at-mobilitys-flaws-in-playing/"><u>A Closer Look at Mobility's Flaws in Playing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-apps-for-perfecting-picture-framing-for-2024/"><u>Best Apps for Perfecting Picture Framing for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-latest-windows-compatible-msi-audio-driver-software-now/"><u>Get the Latest Windows-Compatible MSI Audio Driver Software Now!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-galaxy-a25-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Samsung Galaxy A25 5G Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-discovering-tools-to-emulate-natural-human-digestive-resonances-in-media-projects/"><u>New Discovering Tools to Emulate Natural Human Digestive Resonances in Media Projects</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-how-to-install-and-use-autotune-in-audacity-for-2024/"><u>New How to Install and Use Autotune in Audacity for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-how-to-add-video-and-audio-transition-between-scenesclips/"><u>New In 2024, How to Add Video and Audio Transition Between Scenes/Clips</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/normalizing-volume-in-vlc-a-step-by-step-guide/"><u>Normalizing Volume in VLC A Step-by-Step Guide</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/premiere-mixer-expert-for-windows-10-ecosystems-for-2024/"><u>Premiere Mixer Expert for Windows 10 Ecosystems for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/streamlined-methods-for-obtaining-pitched-ding-sound-files-online-the-top-10-list-for-2024/"><u>Streamlined Methods for Obtaining Pitched Ding Sound Files Online - The Top 10 List for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-masterful-background-selection-tips-for-2024/"><u>[New] Masterful Background Selection Tips for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-innovations-in-digital-audio-recording-utilizing-audacitys-features-updated/"><u>2024 Approved Innovations in Digital Audio Recording Utilizing Audacitys Features (Updated )</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/herausforderungen-bei-der-duplikation-von-drm-geschutzten-dvds-aufgelost-entdecken-sie-7-effektive-techniken/"><u>Herausforderungen Bei Der Duplikation Von DRM-Geschützten DVDs Aufgelöst: Entdecken Sie 7 Effektive Techniken</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-on-iphone-14-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock on iPhone 14</u></a></li>
+<li><a href="https://win-blog.techidaily.com/insights-into-the-ascent-understanding-its-postponement-from-initial-release-date/"><u>Insights Into 'The Ascent': Understanding Its Postponement From Initial Release Date</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/masterclass-overcoming-launch-hurdles-with-valorant-on-pc-tips-for-todays-gamers/"><u>Masterclass: Overcoming Launch Hurdles with Valorant on PC - Tips for Today's Gamers</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-mastering-sound-with-these-top-10-audio-editors-compatible-with-windows-and-mac/"><u>New 2024 Approved Mastering Sound with These Top 10 Audio Editors Compatible with Windows and Mac</u></a></li>
+<li><a href="https://win-guides.techidaily.com/simple-guide-deleting-texts-and-mms-on-your-android-device/"><u>Simple Guide: Deleting Texts and MMS on Your Android Device</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/step-by-step-guide-operating-xiaomi-gadgets-through-your-desktop-system/"><u>Step-by-Step Guide: Operating Xiaomi Gadgets Through Your Desktop System</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-bridging-audio-realms-to-the-screen-designing-eye-catching-audio-graphs-and-animating-video-sequences-with-premiere-pro-mastery/"><u>Updated Bridging Audio Realms to the Screen Designing Eye-Catching Audio Graphs & Animating Video Sequences with Premiere Pro Mastery</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-decoding-the-quest-for-ultimate-sound-engineering-mastery-the-role-of-magix-samplitude-for-2024/"><u>Updated Decoding the Quest for Ultimate Sound Engineering Mastery The Role of MAGIX Samplitude for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-achieving-tiktok-peace-effective-strategies-for-dialing-down-volume/"><u>Updated In 2024, Achieving TikTok Peace Effective Strategies for Dialing Down Volume</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-master-list-of-prime-online-destinations-for-quality-montage-audio-acquisition-for-2024/"><u>Updated Master List of Prime Online Destinations for Quality Montage Audio Acquisition for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725289613227-winxvideo-ai/"><u>WinxVideo AI電子相片與音頻的高效編輯解</u></a></li>
 </ul></div>
 
