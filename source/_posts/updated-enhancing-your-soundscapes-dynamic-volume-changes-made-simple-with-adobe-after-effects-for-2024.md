@@ -1,7 +1,7 @@
 ---
 title: Updated Enhancing Your Soundscapes Dynamic Volume Changes Made Simple with Adobe After Effects for 2024
-date: 2024-09-24T17:58:38.223Z
-updated: 2024-10-01T03:04:27.371Z
+date: 2024-10-26T23:17:46.964Z
+updated: 2024-10-29T20:50:30.672Z
 tags: 
   - audio editing software
   - audio editing
@@ -38,6 +38,13 @@ Once you've created a new project in AE and you've imported the audio files you'
 
 ![fade out/in audio waveform after effects](https://images.wondershare.com/filmora/filmorapro/fade-out-in-audio-after-effects-waveform.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2: Add a keyframe to the audio file
 
 The next thing you will have to do is place the playhead at the exact location where you want the Fade In effect to start. In most cases, Fade effects are added at the starting point of the audio file, so you should position the playhead at the beginning of the timeline or zero seconds. You will be able to see a stopwatch next to the Audio Levels option located in the Composition tab. Click on it to add the first keyframe and assign a negative value to the Audio Level setting. -100db or -50db values will make the audio file silent, and you can pick either based on how long you want the Fade in effect to last. If you don't know how to use keyframes in After Effects, [this article will give you some info](https://www.schoolofmotion.com/blog/how-to-set-keyframes-after-effects).
@@ -45,6 +52,13 @@ The next thing you will have to do is place the playhead at the exact location w
 ![Add keyframe to fade out/in audio](https://images.wondershare.com/filmora/filmorapro/add-keyframe-fade-in-out-audio.jpg)
 
 You may also like: [15 Free After Effects Templates to Power up Your Video](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 3: Complete Fade out/in audio in After Effects
 
@@ -56,13 +70,6 @@ Move the playhead to the location where you want the effect to end and add anoth
 
 The process of creating a fade in or a fade out effect in AE is quite simple, but it is up to you to discover creative ways of using these effects. Here are a few tips that can help you use these audio effects more creatively.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Avoid Hard Cuts
 
 A high pitch sound at the very begging of a new sequence can ruin your soundtrack and ultimately the entire video, so in case you've cut an audio file at the location where the sound peaks, you can apply a fade in effect to make the transition between two audio files softer.
@@ -70,26 +77,26 @@ A high pitch sound at the very begging of a new sequence can ruin your soundtrac
 You may also like: [How to Cut Video in After Effects](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Be Mindful of Audio Compression
 
 [Audio compression](https://theproaudiofiles.com/compression-techniques/) is a process that reduces loud sounds and amplifies quiet sounds, resulting from the audio file's dynamic range being compressed. In most cases, you won't notice the effects of audio compression, but if you compress an audio file too much, you might get some unwanted side effects if you add a fade out effect to that file. That's why it is best to rely on the default audio compression features a video or audio editing app offers.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Use the Fade In and Fade Out Effects Creatively
 
 Besides opening and closing scenes, you can also use the Fade in and fade out effects to mix two different tracks while the shot is still in progress. Fade out one track, make it look like a scene is ending, and then introduce a new theme that changes the mood of that scene. The important thing is to avoid reducing the audio level all the way to -100db because you might end up creating silence in a scene that disrupts the flow of an entire video.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -98,13 +105,6 @@ Fading in or fading out audio files in Adobe After Effects doesn't require much 
 If you want to fade in/out audio easily, we recommend using [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). It is designed for people who wish to edit professional videos with simple-to-use features. Besides Fade in/out audio in Filmora, you can automatically sync audio to video. Download it now to have a try (free)!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -121,20 +121,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-how-to-use-kinemaster-online-and-10-best-online-alternatives-for-2024/"><u>[New] How To Use KineMaster Online and 10 Best Online Alternatives for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/hats-the-price-tag-for-1m-youtube-sights/"><u>[New] What's the Price Tag for 1M YouTube Sights?</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-unlocking-your-library-the-ultimate-techniques-for-extracting-spotify-tracks/"><u>2024 Approved Unlocking Your Library The Ultimate Techniques for Extracting Spotify Tracks</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/audio-extraction-guide-for-updated-mkv-files-mkv-2023-edition/"><u>Audio Extraction Guide for Updated MKV Files (MKV-2023 Edition)</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/auditory-aesthetics-for-slides-infusing-your-ppt-with-tunes/"><u>Auditory Aesthetics for Slides Infusing Your PPT with Tunes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/elevate-your-vr-experience-logitech-enhances-meta-quest-2-with-cutting-edge-chorus-audio/"><u>Elevate Your VR Experience: Logitech Enhances Meta Quest 2 with Cutting-Edge Chorus Audio</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ideal-display-options-for-an-enhanced-experience-on-ps5-and-xbox-series-sx/"><u>Ideal Display Options for an Enhanced Experience on PS5 and Xbox Series S/X</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-realme-narzo-n53-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Realme Narzo N53</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-how-to-ai-denoise/"><u>In 2024, How to AI DeNoise</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-xiaomi-redmi-note-12t-pro-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Xiaomi Redmi Note 12T Pro to Another | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-clearing-up-your-digital-airwaves-the-ultimate-guide-to-online-audio-sanitization/"><u>New 2024 Approved Clearing Up Your Digital Airwaves The Ultimate Guide to Online Audio Sanitization</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-elevating-your-audio-game-a-comprehensive-list-of-the-best-tools-to-modify-and-transform-sound/"><u>New 2024 Approved Elevating Your Audio Game A Comprehensive List of the Best Tools to Modify and Transform Sound</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/secure-your-own-apple-vision-pro-today-choose-from-512gb-or-1tb-capacity-exclusive-insights-on-zdnet/"><u>Secure Your Own Apple Vision Pro Today: Choose From 512GB or 1TB Capacity - Exclusive Insights on ZDNet</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-enhancing-viewing-experience-steps-to-eliminate-sounds-from-web-streamed-content-for-2024/"><u>Updated Enhancing Viewing Experience Steps to Eliminate Sounds From Web-Streamed Content for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-ultimate-rain-sound-collection-top-8-high-fidelity-sounds-to-download/"><u>Updated In 2024, Ultimate Rain Sound Collection Top 8 High-Fidelity Sounds to Download</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-science-behind-sharing-memes-unveiled/"><u>[New] 2024 Approved The Science Behind Sharing Memes Unveiled</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-mastering-the-art-optimizing-testimonial-creation/"><u>[New] Mastering the Art Optimizing Testimonial Creation</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-the-pros-pathway-to-purging-percussion-from-digital-melodies/"><u>2024 Approved The Pros Pathway to Purging Percussion From Digital Melodies</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209437630-bypassing-the-welcome-screen-glitch-in-windows-11-quick-fixes/"><u>Bypassing the Welcome Screen Glitch in Windows 11, Quick Fixes</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-mastering-silence-disabling-sound-in-videos/"><u>In 2024, Mastering Silence Disabling Sound in Videos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723003962714-mastering-back-4-blood-playtime-without-interruptions-stop-the-game-from-crashing-now/"><u>Mastering 'Back 4 Blood' Playtime Without Interruptions – Stop The Game From Crashing Now!</u></a></li>
+<li><a href="https://win-data.techidaily.com/maximieren-sie-die-power-von-shadow-copy-funktionen-unter-windows-11-expertenrat/"><u>Maximieren Sie Die Power Von Shadow Copy-Funktionen Unter Windows 11: Expertenrat</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-guideline-for-beginners-about-lexis-audio-editor/"><u>New 2024 Approved Guideline for Beginners About Lexis Audio Editor</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-premium-free-digital-audio-stitching-platforms-compared/"><u>New 2024 Approved Premium Free Digital Audio Stitching Platforms Compared</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-remove-sound-from-video-on-desktop-or-online/"><u>New In 2024, Remove Sound From Video on Desktop or Online</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-indicators-of-a-premium-audio-tool-suitable-for-macos-environments/"><u>New Indicators of a Premium Audio Tool Suitable for macOS Environments</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-syncing-audio-visual-elements-modern-approaches-to-creating-unified-media-experiences/"><u>New Syncing Audio-Visual Elements Modern Approaches to Creating Unified Media Experiences</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-syncopation-spotlight-the-top-video-editing-software-for-pairing-sound-and-visuals/"><u>New Syncopation Spotlight The Top Video Editing Software for Pairing Sound and Visuals</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-samsung-galaxy-a15-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Samsung Galaxy A15 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realme-12plus-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Realme 12+ 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Lava Yuva 2 | Dr.fone</u></a></li>
 </ul></div>
 

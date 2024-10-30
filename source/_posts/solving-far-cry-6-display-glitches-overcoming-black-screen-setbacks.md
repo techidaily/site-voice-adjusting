@@ -1,7 +1,7 @@
 ---
 title: "Solving Far Cry 6 Display Glitches: Overcoming Black Screen Setbacks"
-date: 2024-10-18T00:23:18.090Z
-updated: 2024-10-23T21:51:01.799Z
+date: 2024-10-28T23:28:52.900Z
+updated: 2024-10-29T18:12:39.808Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Run Fallout 4 as Compatibility mode
 
  Run Fallout 4 in compatibility mode is a way to solve many problems. This Fallout 4 black screen error may be caused by the incompatibility with the system. So change the compatibility mode may help you solve the issue.
@@ -47,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 3. Click **OK** then run Fallout 4 to check.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update Graphics Card Drivers
 
@@ -62,14 +62,20 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2019/07/NVIDIA-Geoforce-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Edit configuration files
 
@@ -87,6 +93,13 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Lower the graphics settings in the game
 
  It is possible that the game can be crashed because your graphics card cannot capable of the high settings in the game. So if you’re using an old graphics card, you can try this method to fix the problem.
@@ -99,22 +112,15 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 4. Click**Advanced** . Lower the settings and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Run the game to check the problem will appear or not.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable antivirus software
 
@@ -143,17 +149,19 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-apowersoft-unpacked-in-depth-review-and-comparisons-required/"><u>[Updated] Apowersoft Unpacked In-Depth Review & Comparisons Required</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-essential-windows-tips-for-efficient-live-tv-saving/"><u>[Updated] In 2024, Essential Windows Tips for Efficient Live TV Saving</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-exploring-2023s-av-voice-modification-tools-reviews-and-alternatives/"><u>2024 Approved Exploring 2023S AV Voice Modification Tools Reviews & Alternatives</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boosting-wellbeing-with-ai-discover-the-9-key-ways-to-use-chatgpt/"><u>Boosting Wellbeing with AI: Discover the 9 Key Ways to Use ChatGPT</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-the-wonder-workshops-dash-stem-robot-toy-learn-explore-roll/"><u>Comprehensive Review of the Wonder Workshop's Dash STEM Robot Toy - Learn, Explore, Roll!</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-the-insiders-pathway-to-trustworthy-insta-selfies/"><u>In 2024, The Insider’s Pathway to Trustworthy Insta Selfies</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-depth-exploration-of-theta-s-capabilities/"><u>In-Depth Exploration of Theta S Capabilities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/master-your-ipad-key-configuration-tips-every-apple-enthusiast-and-veteran-needs-to-know-expert-advice/"><u>Master Your iPad: Key Configuration Tips Every Apple Enthusiast and Veteran Needs to Know | Expert Advice</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-where-can-i-find-dog-sound-effects/"><u>New 2024 Approved Where Can I Find Dog Sound Effects?</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-how-to-add-photos-to-audio/"><u>Updated 2024 Approved How to Add Photos to Audio</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-the-artisans-of-cinematic-magic-unveiling-every-roles-importance-in-movie-creation/"><u>Updated 2024 Approved The Artisans of Cinematic Magic Unveiling Every Roles Importance in Movie Creation</u></a></li>
-<li><a href="https://games-able.techidaily.com/value-for-gamers-budget-friendly-keyboards-roundup/"><u>Value for Gamers: Budget-Friendly Keyboards Roundup</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-build-a-loyal-audience-on-facebook-using-effective-growth-methods/"><u>[New] Build a Loyal Audience on Facebook Using Effective Growth Methods</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premium-noiseless-audio-to-text-applications/"><u>[Updated] Premium Noiseless Audio-To-Text Applications</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-science-behind-auto-hdr-and-cameras-ai-powered-shooting-modes-for-2024/"><u>[Updated] The Science Behind Auto HDR and Camera's AI-Powered Shooting Modes for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-unplugged-fun-your-guide-to-the-best-indoor-android-games-for-2024/"><u>[Updated] Unplugged Fun Your Guide to the Best Indoor Android Games for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-compression-to-clarity-the-zip-srt-conversion-for-2024/"><u>From Compression to Clarity The ZIP-SRT Conversion for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>How to Change Spotify Location After Moving to Another Country On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/immediate-cessation-of-live-streaming-in-quicktime-for-2024/"><u>Immediate Cessation of Live Streaming in QuickTime for 2024</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/tecnicas-optimas-para-restaurar-particiones-en-ssd-una-guia-definitiva/"><u>Técnicas Óptimas Para Restaurar Particiones en SSD: Una Guía Definitiva</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-harmony-hunters-excellent-ios-and-android-apps-that-help-identify-tracks-effortlessly/"><u>Updated In 2024, Harmony Hunters Excellent iOS and Android Apps That Help Identify Tracks Effortlessly</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-illuminating-soundscapes-with-imagery-techniques-for-photographic-audio-amalgamation-2023-art-and-technology-insights/"><u>Updated In 2024, Illuminating Soundscapes with Imagery Techniques for Photographic Audio Amalgamation 2023 Art & Technology Insights</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-visualize-your-music-top-free-applications-to-watch-out-for-on-iphones-and-android-devices/"><u>Updated In 2024, Visualize Your Music Top Free Applications to Watch Out For on iPhones and Android Devices</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-voice-activated-data-collection-on-ios-ranking-the-top-10-apps/"><u>Updated In 2024, Voice-Activated Data Collection on iOS Ranking the Top 10 Apps</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-the-ultimate-vocal-evasion-software-catalog-essential-applications-for-singers-recording-studios-and-beyond/"><u>Updated The Ultimate Vocal Evasion Software Catalog Essential Applications for Singers, Recording Studios, & Beyond</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/your-guide-to-the-top-6-fee-free-digital-soundscape-editors-on-the-web-for-2024/"><u>Your Guide to the Top 6 Fee-Free Digital Soundscape Editors on the Web for 2024</u></a></li>
 </ul></div>
 

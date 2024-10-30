@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Mastering Sound Editing Shorten Audio Sections in iMovie for Mac and iPhone
-date: 2024-09-30T06:55:00.293Z
-updated: 2024-10-01T07:25:51.000Z
+date: 2024-10-23T17:28:35.606Z
+updated: 2024-10-29T20:29:20.688Z
 tags: 
   - audio editing software
   - audio editing
@@ -30,20 +30,27 @@ Sometimes, we find the desired audio or soundtrack for our videos longer or shor
 
 Cutting music is audio editing carried out when the music or soundtrack seems longer than desired. To cut music or soundtrack in iMovie using Mac involves the following steps:
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 1: Adjust the Playhead to Cut the Clip
 
 You can cut an audio clip only when the specified audio is in the timeline. To perform the operation, right-click on the clip and pick out a split clip. This operation cuts the clip into two and divides the two pieces wherever the playhead is situated.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2: Select Split Clip
 
 Right-click and select the **Split Clip**. Once this step is over, you have successfully cut the audio clip.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: Cut Audio in iMovie Alternative – [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -54,13 +61,6 @@ If you wish to trim off the beginning or the ending of a mp3 file quite swiftly,
 You’re required to choose an intelligent MP3 trimmer to trim an MP3 file to any length. Here, we suggest this robust video editing software — Wondershare Filmora, which enables you to precisely extract an MP3 file or audio segment effortlessly without losing any original audio quality.
 
 [![Download Filmora Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You can get both the Windows and Mac versions of this great video editor. It embodies the following features:
 
@@ -73,15 +73,22 @@ You can get both the Windows and Mac versions of this great video editor. It emb
 Using Filmora is quite effortless. The following tutorial will display how to cut audio in it easily and quickly.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 1: Import MP3 Files for Editing
 
 Firstly, drag the specific MP3 file or audio clip into the media library, or you can directly import audio files or video from portable devices such as your digital camera, smartphone, or camcorder, etc.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 2: Drag MP3 Files to the Timeline below for Cutting
 
@@ -183,13 +190,6 @@ Finally, with the answers to the question, how to cut audio in iMovie, you can f
 
 ![author avatar](https://images.wondershare.fr/filmora/filmora/MarionDubois.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Marion Dubois
 
 Marion Dubois is a writer and a lover of all things video.
@@ -205,17 +205,18 @@ Follow @Marion Dubois
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-streamline-your-presentation-process-webcam-recording-tips-for-2024/"><u>[New] Streamline Your Presentation Process Webcam Recording Tips for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/apowersoft-screenshot-suite-comprehensive-free-analysis/"><u>Apowersoft Screenshot Suite Comprehensive Free Analysis</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-move-custom-ringtones-from-apple-iphone-6-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Move Custom Ringtones from Apple iPhone 6 to Android? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-vivo-s17-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Vivo S17</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-ringtone-manipulation-from-default-sounds-to-custom-beat-selections/"><u>In 2024, Ringtone Manipulation From Default Sounds to Custom Beat Selections</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-solving-problems-missing-facebook-video-suggestions/"><u>In 2024, Solving Problems Missing Facebook Video Suggestions</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-5-best-mp3-voice-recorder-to-help-you-how-to-record-mp3/"><u>New In 2024, 5 Best MP3 Voice Recorder to Help You How to Record MP3</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-iphone-15-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 15 Data From iTunes | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/removing-background-music-and-sounds-from-new-avi-files-for-2024/"><u>Removing Background Music and Sounds From New AVI Files for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-converting-videos-into-different-formats-for-specific-needs/"><u>Step-by-Step Guide: Converting Videos Into Different Formats for Specific Needs</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-the-complete-guide-to-audio-manipulation-in-avidemux/"><u>Updated In 2024, The Complete Guide to Audio Manipulation in Avidemux</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-maximize-earnings-navigating-youtubes-partner-program-updates/"><u>[New] 2024 Approved Maximize Earnings Navigating YouTube's Partner Program Updates</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-clash-of-legends-5-iconic-fist-fighters-in-virtual-world-for-2024/"><u>[New] Clash of Legends 5 Iconic Fist-Fighters in Virtual World for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-affluent-streaming-stars/"><u>[New] In 2024, Affluent Streaming Stars</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-perfecting-audio-attenuation-a-focus-on-lumafusions-tools/"><u>[New] Perfecting Audio Attenuation A Focus on Lumafusion's Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-seamless-subtitle-conversion-at-your-fingertips-top-8-software-for-windowsmacos-srt-transition/"><u>[New] Seamless Subtitle Conversion at Your Fingertips - Top 8 Software for Windows/MacOS SRT Transition</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/enhancing-instagram-presence-with-picture-borders-for-2024/"><u>Enhancing Instagram Presence with Picture Borders for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-step-by-step-analysis-of-substitutes-for-apowersofts-audio-recorder/"><u>In 2024, Step-by-Step Analysis of Substitutes for Apowersofts Audio Recorder</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-sync-your-sound-step-by-step-audio-editing-in-avidemux-for-the-modern-producer/"><u>In 2024, Sync Your Sound Step-by-Step Audio Editing in Avidemux for the Modern Producer</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-online-communities-with-leading-sites-like-facebook-twitter-instagram-and-youtube/"><u>Navigating Online Communities with Leading Sites Like Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-10plus-free-online-mp3-to-text-converters/"><u>New In 2024, 10+ FREE Online MP3 to Text Converters</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-learn-to-embed-songs-in-your-videos-without-investment/"><u>New In 2024, Learn to Embed Songs in Your Videos Without Investment</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-tier-m4r-editors-unveiled-streamline-your-ringtones-and-mp3s-like-a-pro/"><u>Top-Tier M4R Editors Unveiled: Streamline Your Ringtones and MP3s Like a Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-xiaomi-redmi-note-12t-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Xiaomi Redmi Note 12T Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
 

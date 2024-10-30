@@ -1,7 +1,7 @@
 ---
 title: New The Ultimate Guide to Implementing Audio Keyframes Using Adobe Premiere Pro for Mac Users
-date: 2024-09-28T09:58:41.854Z
-updated: 2024-10-01T06:18:17.631Z
+date: 2024-10-25T19:18:27.840Z
+updated: 2024-10-29T17:31:59.607Z
 tags: 
   - audio editing software
   - audio editing
@@ -67,13 +67,6 @@ Once you have enabled the audio keyframe options in Premiere Pro, you can view k
 
 ![Select Keyframes in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/select-keyframes-adobe-premiere-pro.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Fade Audio In/Out with Keyframes in Adobe Premiere Pro on Mac?
 
 Once you have learned how to use the Adobe Premiere keyframe feature, you can apply all kinds of transitions and effects to a segment. Let’s suppose you wish to implement fade-in or out features for any segment. In this case, we will use the Clip Keyframing option in Premiere Pro to achieve these transitions the way we like.
@@ -87,10 +80,16 @@ If you want, you can just right-click the track, go to the **Show Clip Keyframes
 ![Show Clip Keyframes in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/show-clip-keyframes-adobe-premiere-pro.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2: Apply Fade-in or Out options**
@@ -102,10 +101,10 @@ Now, go to the audio segment from the timeline and simply place the audio level 
 ![Fade In and Out in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/fade-in-out-adobe-premiere-pro.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Pro Tip: Use Inbuilt Fade In/Out Transitions**
@@ -116,6 +115,19 @@ For this, you can just go to its **Effects** \> **Audio Transitions** option. To
 
 ![Crossfade Effects in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/crossfade-effects-adobe-premiere-pro.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In the same way, you can also go to **Effects** \> **Audio Transitions** \> **Crossfade** and choose the “Constant Gain” feature. You can drag and drop the Contact Gain effect on any segment to implement the fade-in effect.
 
 That’s a wrap, everyone! I’m sure that after reading this post, you would be able to set up audio keyframes in Adobe Premiere Pro. Since adding keyframes in Premiere can be done automatically, it would save your time in audio editing and post-production. Mostly, the clip audio keyframing is used in Adobe to customize the sound at any desired segment. Apart from fade-in or out, there are tons of other effects that you can apply to your audio tracks with the help of keyframes. Go ahead and try the Adobe Premiere Pro keyframing feature and let us know about your experience in the comments.
@@ -123,10 +135,10 @@ That’s a wrap, everyone! I’m sure that after reading this post, you would be
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -144,24 +156,14 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-synthetic-worlds-the-future-of-gaming-with-vr/"><u>[New] 2024 Approved Synthetic Worlds The Future of Gaming with VR</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-mi-11-the-ultimate-mobile-camera-to-record-your-lifes-moments-for-2024/"><u>[New] Mi 11 The Ultimate Mobile Camera to Record Your Life's Moments for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-maximize-engagement-the-top-14-youtube-gaming-video-strategies/"><u>[Updated] 2024 Approved Maximize Engagement The Top 14 YouTube Gaming Video Strategies</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unlock-flawless-video-thumbnails-instantly-for-2024/"><u>[Updated] Unlock Flawless Video Thumbnails Instantly for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-premium-6-aids-for-live-video-localization/"><u>2024 Approved Premium 6 Aids for Live Video Localization</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/5-best-websites-to-download-royalty-free-comedy-background-music-for-2024/"><u>5 Best Websites to Download Royalty Free Comedy Background Music for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/a-step-by-step-igtv-translation-guide-for-2024/"><u>A Step-By-Step IGTV Translation Guide for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-advanced-software-options-for-distilling-pure-auditory-experiences/"><u>In 2024, Advanced Software Options for Distilling Pure Auditory Experiences</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-from-live-events-to-records-the-pathway-with-4-key-steps-on-fb/"><u>In 2024, From Live Events to Records The Pathway with 4 Key Steps on FB</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-techniques-for-designing-and-extracting-your-own-mobile-tunes/"><u>In 2024, Techniques for Designing and Extracting Your Own Mobile Tunes</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/language-acquisition-quest/"><u>Language Acquisition Quest</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-critical-appraisal-of-sound-forge-pros-cons-and-potentials-for-2024/"><u>New Critical Appraisal of Sound Forge Pros, Cons, and Potentials for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-harmonizing-hits-the-best-melodies-to-complement-cinematic-short-films-and-videos/"><u>New Harmonizing Hits The Best Melodies to Complement Cinematic Short Films and Videos</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-ultimate-compilation-of-advanced-mp3-reduction-software/"><u>New In 2024, The Ultimate Compilation of Advanced MP3 Reduction Software</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-top-8-ambiance-sounds-to-enhance-youtube-beginnings-for-2024/"><u>New Top 8 Ambiance Sounds to Enhance YouTube Beginnings for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-crafting-cohesive-soundscape-detailed-walkthrough-of-audio-normalization-in-davinci-resolve-for-2024/"><u>Updated Crafting Cohesive Soundscape Detailed Walkthrough of Audio Normalization in DaVinci Resolve for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-eclectic-compilation-of-irresistible-youtube-sounds-for-2024/"><u>Updated Eclectic Compilation of Irresistible YouTube Sounds for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-get-creative-with-audio-best-video-dubbing-apps-of-the-year/"><u>Updated Get Creative with Audio Best Video Dubbing Apps of the Year</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-sonic-imagery-graphically-representing-audio-and-crafting-animation-masterpieces-in-adobe-after-effects/"><u>Updated In 2024, Sonic Imagery Graphically Representing Audio & Crafting Animation Masterpieces in Adobe After Effects</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-30-powerful-freegame-hashtags-for-dominating-youtube/"><u>[New] In 2024, 30 Powerful FreeGame Hashtags for Dominating YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-whats-new-in-youtube-tv-updates-and-features/"><u>[Updated] In 2024, What's New in YouTube TV Updates & Features?</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-nokia-g310-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/easy-methods-for-downloading-vimeo-clips-for-2024/"><u>Easy Methods for Downloading Vimeo Clips for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-binge-on-christmas-classics-enjoy-9-whole-film-flicks-no-charge/"><u>In 2024, Binge on Christmas Classics Enjoy 9 Whole-Film Flicks No Charge</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-sound-engineers-playbook-techniques-for-distilling-song-beats-through-technology/"><u>In 2024, The Sound Engineers Playbook Techniques for Distilling Song Beats Through Technology</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-ultimate-list-of-no-cost-web-based-digital-audio-workstations-daws-updated/"><u>In 2024, Ultimate List of No-Cost, Web-Based Digital Audio Workstations (DAWs) - Updated</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-ultimate-guide-to-the-top-8-advanced-speech-recognition-tools-on-various-operating-systems/"><u>New 2024 Approved The Ultimate Guide to the Top 8 Advanced Speech-Recognition Tools on Various Operating Systems</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-modifying-sound-intensity-in-video-and-music-files/"><u>New Modifying Sound Intensity in Video and Music Files</u></a></li>
 </ul></div>
 

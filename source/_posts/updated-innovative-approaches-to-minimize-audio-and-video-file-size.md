@@ -1,7 +1,7 @@
 ---
 title: Updated Innovative Approaches to Minimize Audio and Video File Size
-date: 2024-10-22T22:46:14.722Z
-updated: 2024-10-24T03:30:16.389Z
+date: 2024-10-27T16:22:13.572Z
+updated: 2024-10-29T22:25:43.013Z
 tags: 
   - audio editing software
   - audio editing
@@ -32,6 +32,19 @@ thumbnail: https://thmb.techidaily.com/e05f2d33f2fefb8dc7c06028c76750542668dde01
 
 ## Lower Volume of the Media Files Step by Step Guide
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1 Add media files you want to lower volume
 
  After downloading and running this program, click “Import” to begin importing the files. This process many take several seconds depending on the size of the media file. Then the file will appear in the “User’s Album” of program. Drag the imported file to the Timeline.
@@ -39,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/e05f2d33f2fefb8dc7c06028c76750542668dde01
 ![lower volume](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2 Lower volume of the media files
@@ -54,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/e05f2d33f2fefb8dc7c06028c76750542668dde01
 ![how to lower volume](https://images.wondershare.com/images/multimedia/video-editor/change-volume.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3 Save the files
@@ -75,20 +88,13 @@ thumbnail: https://thmb.techidaily.com/e05f2d33f2fefb8dc7c06028c76750542668dde01
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -105,24 +111,24 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-unleashing-your-creativity-advanced-techniques-for-boomers/"><u>[New] Unleashing Your Creativity Advanced Techniques for Boomers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-easy-process-invert-video-order-using-vlc-application/"><u>[Updated] Easy Process Invert Video Order Using VLC Application</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/1-exclusive-guide-easy-steps-to-retrieve-a-deleted-excel-file-without-spending-a-penny/"><u>1. Exclusive Guide: Easy Steps to Retrieve a Deleted Excel File Without Spending a Penny</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Honor Magic 6 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-news.techidaily.com/1728462137208-usb/"><u>解決策集：USB 開設時の「フォーマット必要」メッセージを克服する方法</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/dont-delay-transform-damaged-images-now-with-expert-photo-rehabilitation/"><u>Don't Delay: Transform Damaged Images Now with Expert Photo Rehabilitation</u></a></li>
-<li><a href="https://win-forum.techidaily.com/free-online-conversion-transforming-mkv-files-into-mov-format-with-ease/"><u>Free Online Conversion: Transforming MKV Files Into MOV Format with Ease</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-a-full-exploration-of-speech-to-text-features-within-gdoc/"><u>In 2024, A Full Exploration of Speech-to-Text Features Within GDoc</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-from-apple-iphone-13-pro-max-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock From Apple iPhone 13 Pro Max - 4 Easy Ways</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/mastering-pip-mode-with-youtube-on-your-iphone-device-for-2024/"><u>Mastering PIP Mode with YouTube on Your iPhone Device for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/put-headsphones-on-and-record-new-auditory-elements-through-windows-video-editor-platform/"><u>Put Headsphones On & Record New Auditory Elements Through Windows Video Editor Platform</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/the-ultimate-collection-s-best-podcasts-on-leveraging-social-media-for-marketing-success-for-2024/"><u>The Ultimate Collection S Best Podcasts on Leveraging Social Media for Marketing Success for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-audio-artistry-the-step-by-step-process-of-mixing-sounds-for-movie-scenes/"><u>Updated 2024 Approved Audio Artistry The Step-by-Step Process of Mixing Sounds for Movie Scenes</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-seamless-blending-of-audio-with-visuals-using-quicktime-tools-and-techniques/"><u>Updated 2024 Approved Seamless Blending of Audio with Visuals Using QuickTime Tools and Techniques</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-aria-elimination-kit-compose-one-of-a-kind-background-scores-for-2024/"><u>Updated Aria Elimination Kit Compose One-of-a-Kind Background Scores for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-eliminating-reverberation-in-sound-tracks-three-effective-methods-for-2024/"><u>Updated Eliminating Reverberation in Sound Tracks Three Effective Methods for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-harmonizing-time-and-tone-the-guide-to-changing-audio-tempo-and-octave-in-adobe-rush/"><u>Updated Harmonizing Time and Tone The Guide to Changing Audio Tempo and Octave in Adobe Rush</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-how-to-lower-volume-of-the-media-files/"><u>Updated How to Lower Volume of the Media Files</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-crafting-seamless-sound-tracks-with-imovies-volume-control/"><u>Updated In 2024, Crafting Seamless Sound Tracks with iMovies Volume Control</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-first-home-frontier-top-6-beginner-friendly-mc-abodes/"><u>[New] 2024 Approved First Home Frontier Top 6 Beginner-Friendly MC Abodes</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-a-step-by-step-guide-implementing-vimeo-end-cuts/"><u>[New] A Step-by-Step Guide Implementing Vimeo End Cuts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premier-15-gopro-video-enhancers-with-luts/"><u>[Updated] Premier 15 GoPro Video Enhancers with LUTs</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/1728485131097-mac/"><u>如何從時光機回歸Mac上的單檔案 - 方法一般</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/determining-a-bespoke-keyword-for-your-tiktok-feed-for-2024/"><u>Determining a Bespoke Keyword for Your TikTok Feed for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-from-iphone-xr-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID From iPhone XR without Password?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-best-facebook-practices-videographers-dilemrante/"><u>In 2024, Best Facebook Practices Videographer's Dilemrante</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/mastering-audio-book-publishing-with-ease-a-modern-guide-for-2024/"><u>Mastering Audio Book Publishing with Ease A Modern Guide for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-from-voice-to-verse-a-novices-guide-to-creating-a-polished-podcast-masterpiece/"><u>New 2024 Approved From Voice to Verse A Novices Guide to Creating a Polished Podcast Masterpiece</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-harmonizing-time-and-tone-the-guide-to-changing-audio-tempo-and-octave-in-adobe-rush/"><u>New 2024 Approved Harmonizing Time and Tone The Guide to Changing Audio Tempo and Octave in Adobe Rush</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-harmonizing-without-spending-the-ultimate-selection-of-no-fee-audio-mixing-programs/"><u>New 2024 Approved Harmonizing Without Spending - The Ultimate Selection of No-Fee Audio Mixing Programs</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-master-the-art-of-costless-sound-transformation-and-advanced-audio-editing-in-filmora-videos/"><u>New 2024 Approved Master the Art of Costless Sound Transformation and Advanced Audio Editing in Filmora Videos</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-audiovisual-beat-engineering-taking-audio-separates-for-creative-endeavors/"><u>New Audiovisual Beat Engineering Taking Audio Separates for Creative Endeavors</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-creating-a-diminuendo-effect-in-imovie-audio-tracks/"><u>New Creating a Diminuendo Effect in iMovie Audio Tracks</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-high-definition-sound-partitioning-for-mac-new-update-for-2024/"><u>New High-Definition Sound Partitioning for Mac New Update for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-sound-cleanup-a-comprehensive-tutorial-on-removing-drums-from-audio-files-for-2024/"><u>New Sound Cleanup A Comprehensive Tutorial on Removing Drums From Audio Files for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restored-clear-screen-view-on-dell-notebook-pcs/"><u>Restored Clear Screen View on Dell Notebook PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-windows-cant-access-fingerprint-scanner/"><u>Steps to Resolve Windows Can’t Access Fingerprint Scanner</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/understanding-abbyy-finance-reports-unveiling-insights-into-client-discontentment/"><u>Understanding ABBYY Finance Reports: Unveiling Insights Into Client Discontentment</u></a></li>
 </ul></div>
 
