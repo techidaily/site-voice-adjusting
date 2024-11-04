@@ -1,7 +1,7 @@
 ---
 title: "Resolving Computer Malfunctions: Keep Your Battlefield 2042 Run Smoothly Without Crashes"
-date: 2024-10-28T21:27:46.828Z
-updated: 2024-10-29T17:29:35.440Z
+date: 2024-10-30T16:39:36.164Z
+updated: 2024-11-04T16:43:57.734Z
 tags:
   - win11
   - win10
@@ -51,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/0de73caf3bb5c02daed1ee386cf09afb53bbd23f4
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. You’ll need the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) to do this and you’ll be prompted to upgrade.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
@@ -64,18 +64,18 @@ thumbnail: https://thmb.techidaily.com/0de73caf3bb5c02daed1ee386cf09afb53bbd23f4
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Stop overclocking
 
  Many players would like to overclock the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking usually crashes the game. To prevent game crashes, you should reset the CPU or the graphics card to the manufacturer specifications.
 
  Some players reported that Control may crash when they’re using MSI Afterburner or Zotac Firestorm. So if you’ve enabled MSI Afterburner or Zotac Firestorm, try disabling them to see if this issue persists. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Use a reduced settings profile for graphics-related features
 
@@ -83,18 +83,25 @@ thumbnail: https://thmb.techidaily.com/0de73caf3bb5c02daed1ee386cf09afb53bbd23f4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-setting-1024x592.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-settings-1024x613.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-system-requirements.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  _The system requirements information is captured from Epic Games Launcher_
 
@@ -131,13 +138,6 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
 
@@ -152,6 +152,13 @@ Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select Intel Graphics Settings to open it.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click 3D to open the 3D settings.  
@@ -168,10 +175,10 @@ Here are the system requirements for Control:
  Launch Control again in reduced settings to see if it crashes or not. If the game still crashes, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Delete the “render.ini” file
@@ -219,16 +226,17 @@ Here are the system requirements for Control:
 1. In Epic Game Launcher, navigate to your **Library** . Click **the cog icon** on the lower-right corner of **Control** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-49-47.png)
 2. Click **Verify** to start verifying the game files.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 
  Launch Control again after you verified the integrity of the game files. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 9: Add Control as an exception to your 3rd party antivirus software
 
@@ -238,6 +246,13 @@ Here are the system requirements for Control:
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 10: Run Program Compatibility Troubleshooter
 
  If Control often crashes on your Windows 10 PC, you can try running Windows Program Compatibility Troubleshooter to run the game in Windows 7 mode. Here’s how to do it:
@@ -246,24 +261,10 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-12_12-24-18.png)
 2. In the Properties Window, navigate to**the Compatibility tab** , check the box next to**Run this program in compatibility mode for:** and select**Windows 7** from the drop-down list. Check the box next to**Run as an administrator** and then click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-12_14-25-41.png)
 3. Double-click the shortcut of Control on your desktop to launch it. This time Control will run in the compatibility mode you set in step 2.
 
 See if this fix works for you. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 11: Reinstall the game
 
@@ -291,19 +292,15 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-specialized-compilation-choosing-ringtones-with-ease/"><u>[Updated] 2024 Approved Specialized Compilation Choosing Ringtones with Ease</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-laugh-o-matic-crafting-gags-on-the-house-rate/"><u>[Updated] Laugh-O-Matic Crafting Gags on the House Rate</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-complete-youtube-editors-toolkit-for-post-publish-adjustments/"><u>[Updated] The Complete YouTube Editor's Toolkit for Post-Publish Adjustments</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-fix-a-non-responsive-windows-pc-health-scan-tool/"><u>How to Fix a Non-Responsive Windows PC Health Scan Tool</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-samsung-galaxy-m14-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Samsung Galaxy M14 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-ultimate-collection-optimal-fb-lite-videos/"><u>In 2024, Ultimate Collection Optimal FB Lite Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/listen-and-act-complimentary-recognition-software-for-2024/"><u>Listen and Act Complimentary Recognition Software for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/master-iso-streams-on-your-plex-library-a-step-by-step-guide-to-flawless-playback/"><u>Master ISO Streams on Your Plex Library: A Step-by-Step Guide to Flawless Playback</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-best-8-speech-to-text-apps-for-android-and-iphone/"><u>New 2024 Approved Best 8 Speech to Text Apps for Android and iPhone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-most-wallet-friendly-mp3-editing-suite-for-macos-users/"><u>New 2024 Approved Most Wallet-Friendly MP3 Editing Suite for macOS Users</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-from-novice-to-pro-comprehensive-guidelines-on-iphone-audio-recording-for-2024/"><u>New From Novice to Pro Comprehensive Guidelines on iPhone Audio Recording for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-soundtrack-sanctuary-the-finest-websites-offering-free-audio-selections-for-filmmakers/"><u>New In 2024, Soundtrack Sanctuary The Finest Websites Offering Free Audio Selections for Filmmakers</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-innovative-audio-editing-implementing-and-designing-keyframes-in-adobe-premiere-pro-mac-for-2024/"><u>New Innovative Audio Editing Implementing and Designing Keyframes in Adobe Premiere Pro (Mac) for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-mastering-audiovisual-updates-incorporating-sounds-in-avi-2023/"><u>New Mastering Audiovisual Updates Incorporating Sounds in AVI 2023</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-tailoring-content-creating-ideal-instagram-video-experiences-for-2024/"><u>[New] Tailoring Content Creating Ideal Instagram Video Experiences for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-hyperx-alloy-origins-core-mechanical-keyboard-evaluation-impressive-durability-meets-subpar-keycap-design-is-it-still-recommended/"><u>1. HyperX Alloy Origins Core Mechanical Keyboard Evaluation: Impressive Durability Meets Subpar Keycap Design - Is It Still Recommended?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-ios-excellence-leading-apps-to-unlock-youtube-videos/"><u>2024 Approved IOS Excellence Leading Apps to Unlock YouTube Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exclusive-vr-movie-experiences/"><u>Exclusive VR Movie Experiences</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-epson-wf-2750-up-and-running-free-driver-downloads-available-now/"><u>Get Your Epson WF-2750 Up and Running: Free Driver Downloads Available Now!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-ultimate-precision-machines-best-of-the-series/"><u>In 2024, Ultimate Precision Machines - Best of the Series</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-top-10-budget-friendly-options-premium-free-podcast-players-for-modern-smartphones-for-2024/"><u>New Top 10 Budget-Friendly Options Premium-Free Podcast Players for Modern Smartphones for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-voice-purification-solutions-a-comprehensive-list-for-all-singers-needs/"><u>New Voice Purification Solutions A Comprehensive List for All Singers Needs</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/top-5-funnier-call-enhancements-exciting-ways-to-transform-your-speech-patterns/"><u>Top 5 Funnier Call Enhancements Exciting Ways to Transform Your Speech Patterns</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-how-to-remove-sound-from-iphone-video-easy-guide/"><u>Updated How to Remove Sound From iPhone Video? Easy Guide</u></a></li>
 </ul></div>
 

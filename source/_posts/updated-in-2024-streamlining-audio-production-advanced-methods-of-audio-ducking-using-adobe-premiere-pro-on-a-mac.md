@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Streamlining Audio Production Advanced Methods of Audio Ducking Using Adobe Premiere Pro on a Mac
-date: 2024-10-23T17:25:37.039Z
-updated: 2024-10-29T16:14:20.695Z
+date: 2024-10-29T16:08:04.768Z
+updated: 2024-11-04T16:00:47.085Z
 tags: 
   - audio editing software
   - audio editing
@@ -57,10 +57,10 @@ Great! You can now preview the changes you have made and check the audio ducking
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
@@ -70,16 +70,10 @@ As you can see, the Premiere Pro audio ducking feature can get a bit complicated
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
@@ -109,10 +103,10 @@ Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -130,21 +124,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-realme-10t-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Realme 10T 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/epson-tm-t88v-easy-guide-to-downloading-and-updating-drivers-on-your-pc/"><u>EPSON TM-T88V: Easy Guide to Downloading & Updating Drivers on Your PC</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-realme-c67-4g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Realme C67 4G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/how-to-retrieve-lost-excel-workbook-data-on-windows-10-a-step-by-step-guide-4-strategies/"><u>How to Retrieve Lost Excel Workbook Data on Windows 10: A Step-by-Step Guide (4 Strategies)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-7-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 7 to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-best-free-and-cheap-mp3-editor-for-mac-for-2024/"><u>New Best Free and Cheap MP3 Editor for Mac for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-modifying-sound-intensity-in-video-and-music-files/"><u>New In 2024, Modifying Sound Intensity in Video and Music Files</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-perfect-your-playlist-a-compilation-of-elite-mp3-enhancement-services-for-2024/"><u>New Perfect Your Playlist A Compilation of Elite MP3 Enhancement Services for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-precision-listening-top-audio-customization-techniques/"><u>New Precision Listening Top Audio Customization Techniques</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/pathfinder-elite/"><u>Pathfinder Elite</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/prodigious-pcs-the-pinnacle-of-technology-for-2024/"><u>Prodigious PCs - The Pinnacle of Technology for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-and-downloading-canon-imageclass-mf4800-drivers/"><u>Step-by-Step Guide: Updating & Downloading Canon ImageCLASS MF4800 Drivers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/strategizing-visibility-for-podcasts-through-design-for-2024/"><u>Strategizing Visibility for Podcasts Through Design for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-balancing-the-scales-normalizing-sound-volume-for-optimal-viewing-with-vlc/"><u>Updated Balancing the Scales Normalizing Sound Volume for Optimal Viewing with VLC</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-final-cut-pros-audio-mastery-unlocking-potential-through-waveform-graphics-and-animated-soundscapes/"><u>Updated Final Cut Pros Audio Mastery Unlocking Potential Through Waveform Graphics and Animated Soundscapes</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-where-can-i-find-button-sound-effect-for-2024/"><u>Updated Where Can I Find Button Sound Effect for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-clear-conferencing-backdrops-blurring-for-better-presence-for-2024/"><u>[New] Clear Conferencing Backdrops Blurring for Better Presence for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-fresh-off-the-press-film-review-and-complementary-options-for-2024/"><u>[New] Fresh-Off-the-Press Film Review and Complementary Options for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-implementing-cross-browser-compatibility-in-web-development/"><u>[New] Implementing Cross-Browser Compatibility in Web Development</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-mastering-screen-time-top-6-video-engagement-methods/"><u>[Updated] Mastering Screen Time Top 6 Video Engagement Methods</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-extracting-youtube-images-online-desktop-tools-and-terminal-tactics/"><u>2024 Approved Extracting YouTube Images Online, Desktop Tools & Terminal Tactics</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-top-5-chromebook-sniping-apps-essential-clients-reviewed/"><u>2024 Approved Top 5 Chromebook Sniping Apps Essential Clients Reviewed</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-script-to-screen-on-a-budget-7-essential-filmmaking-software-for-2024/"><u>From Script to Screen on a Budget 7 Essential Filmmaking Software for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-reversing-the-flow-a-comprehensive-list-of-advanced-audio-reversal-tools/"><u>In 2024, Reversing the Flow A Comprehensive List of Advanced Audio Reversal Tools</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/maximizing-speaker-output-cost-free-tips-for-windows-users-for-2024/"><u>Maximizing Speaker Output Cost-Free Tips for Windows Users for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-crowded-online-spaces-offering-no-cost-guitar-song-lines-and-artwork/"><u>New Crowded Online Spaces Offering No-Cost Guitar Song Lines and Artwork</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-exploring-the-best-voice-mimicry-applications-of-the-year/"><u>New In 2024, Exploring the Best Voice Mimicry Applications of the Year</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-integrating-audio-elements-within-mixed-media-videos-for-2024/"><u>New Integrating Audio Elements Within Mixed Media Videos for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-sound-off-with-flair-enhancing-high-pitched-vocalization-in-video-content-creation-for-2024/"><u>New Sound Off with Flair Enhancing High-Pitched Vocalization in Video Content Creation for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/videography-vanguard-in-depth-sony-fdr-x1000-review/"><u>Videography Vanguard In-Depth Sony FDR-X1000 Review</u></a></li>
 </ul></div>
 

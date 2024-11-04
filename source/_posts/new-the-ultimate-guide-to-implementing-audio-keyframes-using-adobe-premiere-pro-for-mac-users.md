@@ -1,7 +1,7 @@
 ---
 title: New The Ultimate Guide to Implementing Audio Keyframes Using Adobe Premiere Pro for Mac Users
-date: 2024-10-25T19:18:27.840Z
-updated: 2024-10-29T17:31:59.607Z
+date: 2024-10-30T16:49:29.994Z
+updated: 2024-11-04T16:27:11.878Z
 tags: 
   - audio editing software
   - audio editing
@@ -67,6 +67,13 @@ Once you have enabled the audio keyframe options in Premiere Pro, you can view k
 
 ![Select Keyframes in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/select-keyframes-adobe-premiere-pro.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Fade Audio In/Out with Keyframes in Adobe Premiere Pro on Mac?
 
 Once you have learned how to use the Adobe Premiere keyframe feature, you can apply all kinds of transitions and effects to a segment. Let’s suppose you wish to implement fade-in or out features for any segment. In this case, we will use the Clip Keyframing option in Premiere Pro to achieve these transitions the way we like.
@@ -79,19 +86,6 @@ If you want, you can just right-click the track, go to the **Show Clip Keyframes
 
 ![Show Clip Keyframes in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/show-clip-keyframes-adobe-premiere-pro.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2: Apply Fade-in or Out options**
 
 Once you have clip keyframes in your track, you can easily do whatever you like. You can use the **Pen** tool or press the CMD key on your Mac to select the starting and the ending of the clip.
@@ -101,10 +95,10 @@ Now, go to the audio segment from the timeline and simply place the audio level 
 ![Fade In and Out in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/fade-in-out-adobe-premiere-pro.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Pro Tip: Use Inbuilt Fade In/Out Transitions**
@@ -116,16 +110,10 @@ For this, you can just go to its **Effects** \> **Audio Transitions** option. To
 ![Crossfade Effects in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/crossfade-effects-adobe-premiere-pro.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 In the same way, you can also go to **Effects** \> **Audio Transitions** \> **Crossfade** and choose the “Constant Gain” feature. You can drag and drop the Contact Gain effect on any segment to implement the fade-in effect.
@@ -135,10 +123,16 @@ That’s a wrap, everyone! I’m sure that after reading this post, you would be
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -156,14 +150,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-30-powerful-freegame-hashtags-for-dominating-youtube/"><u>[New] In 2024, 30 Powerful FreeGame Hashtags for Dominating YouTube</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-whats-new-in-youtube-tv-updates-and-features/"><u>[Updated] In 2024, What's New in YouTube TV Updates & Features?</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-nokia-g310-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Nokia G310 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/easy-methods-for-downloading-vimeo-clips-for-2024/"><u>Easy Methods for Downloading Vimeo Clips for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-binge-on-christmas-classics-enjoy-9-whole-film-flicks-no-charge/"><u>In 2024, Binge on Christmas Classics Enjoy 9 Whole-Film Flicks No Charge</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-sound-engineers-playbook-techniques-for-distilling-song-beats-through-technology/"><u>In 2024, The Sound Engineers Playbook Techniques for Distilling Song Beats Through Technology</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-ultimate-list-of-no-cost-web-based-digital-audio-workstations-daws-updated/"><u>In 2024, Ultimate List of No-Cost, Web-Based Digital Audio Workstations (DAWs) - Updated</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-ultimate-guide-to-the-top-8-advanced-speech-recognition-tools-on-various-operating-systems/"><u>New 2024 Approved The Ultimate Guide to the Top 8 Advanced Speech-Recognition Tools on Various Operating Systems</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-modifying-sound-intensity-in-video-and-music-files/"><u>New Modifying Sound Intensity in Video and Music Files</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-preserving-your-periscope-content-a-detailed-process/"><u>[New] Preserving Your Periscope Content A Detailed Process</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-exclusive-roundup-best-windows-11-video-recording-options/"><u>[Updated] 2024 Approved Exclusive Roundup Best Windows 11 Video Recording Options</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-remedy-screen-disruptions-during-live-streams/"><u>[Updated] Remedy Screen Disruptions During Live Streams</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-realme-11-pro-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Realme 11 Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-basic-screen-capture-windows-10-version/"><u>2024 Approved Basic Screen Capture, Windows 10 Version</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cambia-mpeg-a-formato-wma-sin-costo-con-el-convertidor-de-archivos-multimedia-on-line-gratuito-de-movavi/"><u>Cambia MPEG a Formato WMA Sin Costo Con El Convertidor De Archivos Multimedia On-Line Gratuito De Movavi</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-securing-an-annotate-free-video-experience-tips-for-new-avi-users/"><u>In 2024, Securing an Annotate-Free Video Experience Tips for New AVI Users</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-top-10-digital-audio-workstation-tools-free-vs-paid-options/"><u>In 2024, Top 10 Digital Audio Workstation Tools Free vs Paid Options</u></a></li>
+<li><a href="https://win-blog.techidaily.com/is-your-xbox-live-experience-interrupted-today-heres-the-latest-status-report/"><u>Is Your Xbox Live Experience Interrupted Today? Here's the Latest Status Report.</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-10-best-sources-to-download-free-outro-music-no-copyright-for-2024/"><u>New 10 Best Sources to Download Free Outro Music No Copyright for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-decoding-omegle-a-deep-dive-into-online-gaming-platforms-with-safety-focus/"><u>New Decoding Omegle A Deep Dive Into Online Gaming Platforms with Safety Focus</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-exploring-the-most-popular-websites-for-chilling-soundtracks-2023-rankings/"><u>New Exploring the Most Popular Websites for Chilling Soundtracks (2023 Rankings)</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-experts-picks-8-superior-rainfall-noise-resources-available-for-downloading/"><u>New In 2024, The Experts Picks 8 Superior Rainfall Noise Resources Available for Downloading</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transformez-votre-fichier-amv-en-format-flv-sans-frais-solutions-rapides-et-faciles-avec-movavi/"><u>Transformez Votre Fichier AMV en Format FLV Sans Frais - Solutions Rapides Et Faciles Avec Movavi</u></a></li>
 </ul></div>
 

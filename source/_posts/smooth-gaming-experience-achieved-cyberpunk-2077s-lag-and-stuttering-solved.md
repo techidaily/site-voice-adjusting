@@ -1,7 +1,7 @@
 ---
 title: "Smooth Gaming Experience Achieved: Cyberpunk 2077'S Lag and Stuttering Solved!"
-date: 2024-10-25T23:52:05.509Z
-updated: 2024-10-29T22:20:34.993Z
+date: 2024-10-28T16:26:33.111Z
+updated: 2024-11-04T16:00:20.734Z
 tags:
   - win11
   - win10
@@ -69,22 +69,43 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press the **Windows logo key** and type **cmd** . Select **Run as Administrator** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press **Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this, **return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After changing your power plan, you can then check it there’s any improvements in Cyberpunk 2077.
 
  if this trick doesn’t give you luck, you can move on to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -119,10 +140,16 @@ First visit the website of your graphics card manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -141,14 +168,14 @@ And here’s a simple guide for that:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Then wait for Windows to download and install the available system updates.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you haven’t been updating for a while,**repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -168,21 +195,14 @@ And here’s enable HAGS:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-02.jpg)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
@@ -195,6 +215,13 @@ Now you can launch Cyberpunk 2077 and check the gameplay.
 
  If enabling HAGS doesn’t do the trick for you, you can continue to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Lower your in-game settings
 
  New titles tend to be buggy. But there’s still a way you can save your $60 cyberpunk 2077.[According to some gamers](https://www.reddit.com/r/PS5/comments/ka3o13/cyberpunk%5F2077%5Fruns%5Fat%5F60fps%5Fnever%5Fa%5Fdrop%5Fdown/) , lowering specific in-game settings could drastically improve the experience. You can try the same and see how things go.
@@ -205,37 +232,16 @@ To change the in-game graphics settings, simply follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-1.jpg)
 2. Navigate to the**GAMEPLAY** tab. Under the**Performance** section, set**Crowd Density** to**Low** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-2.jpg)
 3. Under the**Miscellaneous** section, set**Enable Analytics** to**OFF** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-3.jpg)
 4. Navigate to the**GRAPHICS** tab. Under the**Basic** section, set both**Film Grain** and**Chromatic Aberration** to**OFF** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-4.jpg)
 5. The next two settings are optional. You can try turning off**Ray Tracing** and see if it improves the performance.**DLSS** is a new RTX technology that uses AI to boost your FPS. (Sounds fancy.) You can try setting it to**Performance** or**Ultra Performance** and see if it really helps. (Doing so might make the game seem blurry.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  For more tuning details, check out[this article](https://www.tomshardware.com/news/cyberpunk-2077-pc-benchmarks-settings-performance-analysis) .
 
@@ -258,21 +264,24 @@ To change the in-game graphics settings, simply follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-mastering-sound-communication-on-whatsapp/"><u>[New] 2024 Approved Mastering Sound Communication on WhatsApp</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unlocking-smooth-streams-facebooks-buffering-breakthrough/"><u>[Updated] 2024 Approved Unlocking Smooth Streams - Facebook's Buffering Breakthrough</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-excellent-streamers-guide-to-360-degree-live-footage/"><u>2024 Approved Excellent Streamers' Guide to 360-Degree Live Footage</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/como-actualizar-el-disco-duro-en-windows-10-sin-reinstalacion-de-sistema/"><u>Cómo Actualizar El Disco Duro en Windows 10 Sin Reinstalación De Sistema</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oppo-reno-8t-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/filmmaking-with-ease-decoding-common-video-editing-hurdles-in-filmora/"><u>Filmmaking with Ease Decoding Common Video Editing Hurdles in Filmora</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-2023s-premier-action-cameras-on-motorcycle-gear-guide/"><u>In 2024, 2023'S Premier Action Cameras on Motorcycle Gear Guide</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-examining-the-usefulness-of-instagrams-selfie-validation/"><u>In 2024, Examining the Usefulness of Instagram's Selfie Validation</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-streamlining-sound-integration-a-fast-fix-manual-for-premiere-pro/"><u>In 2024, Streamlining Sound Integration A Fast Fix Manual for Premiere Pro</u></a></li>
-<li><a href="https://extra-information.techidaily.com/innovative-methods-for-time-loop-illusions/"><u>Innovative Methods for Time Loop Illusions</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-10-best-voice-recording-apps-for-android-devices-free-included/"><u>New 10 Best Voice Recording Apps for Android Devices Free Included</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-ultimate-guide-to-audio-based-text-extraction-techniques/"><u>New 2024 Approved The Ultimate Guide to Audio-Based Text Extraction Techniques</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-exploring-the-frontier-combining-images-with-soundscapes-2utopia-tech-review-2023-for-2024/"><u>New Exploring the Frontier Combining Images with Soundscapes 2Utopia Tech Review, 2023 for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-exploring-the-leading-10-cost-effective-podcast-production-applications/"><u>New Exploring the Leading 10 Cost-Effective Podcast Production Applications</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-how-to-replace-the-audio-track-in-videos-with-2-ways-step-by-step/"><u>New In 2024, How To Replace the Audio Track in Videos with 2 Ways Step by Step</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-perfecting-auditory-aesthetics-in-video-production/"><u>New Perfecting Auditory Aesthetics in Video Production</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-a-step-by-step-journey-through-the-landscape-of-instagram-reels/"><u>[Updated] 2024 Approved A Step-by-Step Journey Through the Landscape of Instagram Reels</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-youtubes-short-form-videos-10-tactics-for-dominance-in-views/"><u>[Updated] 2024 Approved Youtube's Short-Form Videos - 10 Tactics for Dominance in Views</u></a></li>
+<li><a href="https://blog-min.techidaily.com/videoeditorplus-grab-your-complimentary-unlock-code-today-and-begin-creating-masterpieces/"><u>[VIDEOEDITORPLUS]: Grab Your Complimentary Unlock Code Today & Begin Creating Masterpieces!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-become-the-brand-you-want-with-our-exclusive-set-of-free-graphics/"><u>2024 Approved Become the Brand You Want With Our Exclusive Set of FREE Graphics!</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-from-a-symphony-of-surroundings-to-silent-solitude-the-pathway-to-muting-background-noise/"><u>2024 Approved From a Symphony of Surroundings to Silent Solitude The Pathway to Muting Background Noise</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/download-make-mkv-gratis-su-mac-esegui-facile-le-tue-copie-di-dvd-e-blu-ray/"><u>Download Make MKV Gratis Su Mac – Esegui Facile Le Tue Copie Di DVD E Blu-Ray</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-honor-magic-v2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-samsung-galaxy-z-flip-5-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Samsung Galaxy Z Flip 5 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-top-10-safe-chat-platforms-for-socializing-digitally/"><u>In 2024, Top 10 Safe Chat Platforms for Socializing Digitally</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/marketing-mastery-series-top-podcasts-to-guide-you-through-social-medias-impact/"><u>Marketing Mastery Series Top Podcasts to Guide You Through Social Medias Impact</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-mastering-your-music-on-a-chromebook-the-top-8-daws-that-will-elevate-your-sound-updated-list-2023/"><u>New 2024 Approved Mastering Your Music on a Chromebook The Top 8 DAWs that Will Elevate Your Sound (Updated List, 2023)</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-clearing-the-air-understanding-digital-audio-workstations/"><u>New Clearing the Air Understanding Digital Audio Workstations</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-conquering-complex-audioscapes-a-no-nonsense-guide-to-effective-track-combination-in-premiere-pro-for-2024/"><u>New Conquering Complex Audioscapes A No-Nonsense Guide to Effective Track Combination in Premiere Pro for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-crafting-the-ultimate-strum-a-comprehensive-look-at-the-top-7-daws-designed-for-guitar-recordings/"><u>New Crafting the Ultimate Strum A Comprehensive Look at the Top 7 DAWs Designed for Guitar Recordings</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-mastering-the-art-of-flawless-podcast-production-your-comprehensive-tutorial-for-2024/"><u>New Mastering the Art of Flawless Podcast Production Your Comprehensive Tutorial for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-art-of-gamers-vocal-disguise-selecting-the-ultimate-toolkit/"><u>New The Art of Gamers Vocal Disguise Selecting the Ultimate Toolkit</u></a></li>
+<li><a href="https://win-data.techidaily.com/recuperation-des-fichiers-dimages-egares-dans-windows-11-ou-10-guide-de-solution/"><u>Recupération Des Fichiers D'Images Égarés Dans Windows 11 Ou 10 : Guide De Solution</u></a></li>
+<li><a href="https://facebook.techidaily.com/understanding-the-altered-significance-in-facebooks-recent-pages-updates/"><u>Understanding the Altered Significance in Facebook's Recent Pages Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-filer-strive-for-a-streamlined-experience/"><u>Windows 11 Filer: Strive for a Streamlined Experience</u></a></li>
 </ul></div>
 

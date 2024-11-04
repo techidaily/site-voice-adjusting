@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Mastering Sound Editing Shorten Audio Sections in iMovie for Mac and iPhone
-date: 2024-10-23T17:28:35.606Z
-updated: 2024-10-29T20:29:20.688Z
+date: 2024-10-29T16:46:24.636Z
+updated: 2024-11-04T16:22:14.285Z
 tags: 
   - audio editing software
   - audio editing
@@ -30,27 +30,20 @@ Sometimes, we find the desired audio or soundtrack for our videos longer or shor
 
 Cutting music is audio editing carried out when the music or soundtrack seems longer than desired. To cut music or soundtrack in iMovie using Mac involves the following steps:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1: Adjust the Playhead to Cut the Clip
 
 You can cut an audio clip only when the specified audio is in the timeline. To perform the operation, right-click on the clip and pick out a split clip. This operation cuts the clip into two and divides the two pieces wherever the playhead is situated.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 2: Select Split Clip
 
 Right-click and select the **Split Clip**. Once this step is over, you have successfully cut the audio clip.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: Cut Audio in iMovie Alternative – [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -72,23 +65,9 @@ You can get both the Windows and Mac versions of this great video editor. It emb
 
 Using Filmora is quite effortless. The following tutorial will display how to cut audio in it easily and quickly.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 1: Import MP3 Files for Editing
 
 Firstly, drag the specific MP3 file or audio clip into the media library, or you can directly import audio files or video from portable devices such as your digital camera, smartphone, or camcorder, etc.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 2: Drag MP3 Files to the Timeline below for Cutting
 
@@ -97,6 +76,13 @@ Filmora provides two ways to cut audio/video files. You can either select to cut
 Move the slider ahead to the cutting point within the midsection, and then tap the scissor icon to split it into little sections as desired.
 
 When executed, please select the part that you don't want to, hit the **Delete** button to remove.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 3: Export to Save
 
@@ -184,11 +170,25 @@ The audio editing window also contains primary noise reduction and audio equaliz
 
 iMovie permits you to adjust the audio within the clips themselves, each volume as a bar. You can shift up and down to increase or decrease the audio level. The clips also have "fade in" and "fade out" buttons at the beginning and end, which are draggable to adjust the fade length.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Finally, with the answers to the question, how to cut audio in iMovie, you can follow the simple step guide and feel free to edit your audio or video to your taste using iMovie or Wondershare Filmora.
 
 ![author avatar](https://images.wondershare.fr/filmora/filmora/MarionDubois.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Marion Dubois
 
@@ -205,18 +205,19 @@ Follow @Marion Dubois
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-maximize-earnings-navigating-youtubes-partner-program-updates/"><u>[New] 2024 Approved Maximize Earnings Navigating YouTube's Partner Program Updates</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-clash-of-legends-5-iconic-fist-fighters-in-virtual-world-for-2024/"><u>[New] Clash of Legends 5 Iconic Fist-Fighters in Virtual World for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-affluent-streaming-stars/"><u>[New] In 2024, Affluent Streaming Stars</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-perfecting-audio-attenuation-a-focus-on-lumafusions-tools/"><u>[New] Perfecting Audio Attenuation A Focus on Lumafusion's Tools</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-seamless-subtitle-conversion-at-your-fingertips-top-8-software-for-windowsmacos-srt-transition/"><u>[New] Seamless Subtitle Conversion at Your Fingertips - Top 8 Software for Windows/MacOS SRT Transition</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/enhancing-instagram-presence-with-picture-borders-for-2024/"><u>Enhancing Instagram Presence with Picture Borders for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-step-by-step-analysis-of-substitutes-for-apowersofts-audio-recorder/"><u>In 2024, Step-by-Step Analysis of Substitutes for Apowersofts Audio Recorder</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-sync-your-sound-step-by-step-audio-editing-in-avidemux-for-the-modern-producer/"><u>In 2024, Sync Your Sound Step-by-Step Audio Editing in Avidemux for the Modern Producer</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-online-communities-with-leading-sites-like-facebook-twitter-instagram-and-youtube/"><u>Navigating Online Communities with Leading Sites Like Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-10plus-free-online-mp3-to-text-converters/"><u>New In 2024, 10+ FREE Online MP3 to Text Converters</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-learn-to-embed-songs-in-your-videos-without-investment/"><u>New In 2024, Learn to Embed Songs in Your Videos Without Investment</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-tier-m4r-editors-unveiled-streamline-your-ringtones-and-mp3s-like-a-pro/"><u>Top-Tier M4R Editors Unveiled: Streamline Your Ringtones and MP3s Like a Pro</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-xiaomi-redmi-note-12t-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Xiaomi Redmi Note 12T Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-remove-unsolicited-podcast-episodes-on-spotify-app/"><u>[New] Remove Unsolicited Podcast Episodes on Spotify App</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-speedy-fortnite-cover-art-creation-for-2024/"><u>[Updated] Speedy Fortnite Cover Art Creation for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-vivo-x-flip-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Vivo X Flip to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-locating-authentic-bell-ringing-audio-samples/"><u>2024 Approved Locating Authentic Bell Ringing Audio Samples</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-professional-gamers-showcase-live-recording-in-obs/"><u>2024 Approved Professional Gamers Showcase - Live Recording in OBS</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-ace-3-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock OnePlus Ace 3 Phone without Google Account?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-disconnects-and-fixes-javascript-issues-in-discord-win-11/"><u>Mastering Disconnects & Fixes: JavaScript Issues in Discord Win 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/maximizing-remote-team-dynamics-with-skypes-screen-sharing-technology/"><u>Maximizing Remote Team Dynamics with Skype’s Screen Sharing Technology</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/navigating-the-synergy-between-soundtracks-and-photographic-frames-for-2024/"><u>Navigating the Synergy Between Soundtracks and Photographic Frames for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-alternatives-to-facetime-androids-leading-video-calling-solutions/"><u>New 2024 Approved Alternatives to FaceTime Androids Leading Video Calling Solutions</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-a-comprehensive-collection-of-secure-efficient-and-fun-chatting-apps-for-strangers/"><u>New In 2024, A Comprehensive Collection of Secure, Efficient, and Fun Chatting Apps for Strangers</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-leading-online-music-production-platforms-reviewed-compare-free-and-subscription-based-services/"><u>New In 2024, The Leading Online Music Production Platforms Reviewed – Compare Free & Subscription-Based Services</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-unlock-your-phones-potential-with-these-top-10-voice-recorder-apps-ios/"><u>New In 2024, Unlock Your Phones Potential with These Top 10 Voice Recorder Apps (iOS)</u></a></li>
+<li><a href="https://common-error.techidaily.com/unsticking-destiny-2-expert-tips-for-fixing-initialization-delays-in-your-gameplay/"><u>Unsticking Destiny 2: Expert Tips for Fixing Initialization Delays in Your Gameplay</u></a></li>
 </ul></div>
 

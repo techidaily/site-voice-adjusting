@@ -1,7 +1,7 @@
 ---
 title: "Diving Deep: A Closer Look at Samsung's Latest Marvel - The Galaxy S2lete) to the 'Lord of the Rings', One Might Say, It Is a Journey Through Middle-Earth."
-date: 2024-10-24T19:33:59.943Z
-updated: 2024-10-29T23:27:27.155Z
+date: 2024-10-31T16:53:59.166Z
+updated: 2024-11-04T17:05:40.102Z
 categories:
   - BestProducts
 description: "This Article Describes Diving Deep: A Closer Look at Samsung's Latest Marvel - The Galaxy S2lete) to the 'Lord of the Rings', One Might Say, It Is a Journey Through Middle-Earth."
@@ -68,13 +68,20 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 
 ![Fitbit Versa 3](https://www.lifewire.com/thmb/ceE1xxVfUTF44pCOtEXiO6JW_IA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fitbit-Versa-3-04-ef922812d0444da4a7277e91efe2fcf8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Yoona Wagener
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Design: Sleek and smart-looking
@@ -86,13 +93,6 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
  In running mode, GPS signal capture was mostly instant, but it also frequently dropped.
 
  This smartwatch is capable of storing five different watch faces, and while they’re easy to find, downloading a new face, just like all apps—took quite a while. The SPO2 watch face is compatible with the Versa 3, but you’ll have to pay for the Fitbit Premium app subscription to access this data in any meaningful way.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Comfort: Lightweight for all-day wear
 
@@ -116,13 +116,6 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 
 ![Fitbit Versa 3](https://www.lifewire.com/thmb/XaHqGkkkpkk1u4lozEYs71XuROc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fitbit-Versa-3-05-95e58759793b422db3ebd22cf177f2ba.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Yoona Wagener
 
 ## Battery: Lasts for a solid six days
@@ -130,6 +123,19 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
  Like the Fitbit Sense, the Fitbit Versa 3 is supposed to last for over six days on a single charge when the display is not set to “always on.” My experience yielded six days before the battery was critically low. This could be because I chose to download and use the Fitbit SPO2 watch face that measures blood oxygen saturation. Fitbit says this face could accelerate the need for charging. Otherwise, I used[GPS](https://www.lifewire.com/what-is-gps-how-it-works-4688647) for about 30 minutes each day and only streamed music via Spotify for 2 hours total.
 
  It charged from critically low to 100 percent in about 1.25 hours, which is in line with the 1-2 hour estimation by the manufacturer. A quick charge brought the device from 9 percent to 29 percent, which tracks with the claim that a 12-minute charge would bring it up to a full day of battery life.
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Software/Key Features: Wellness and convenience features reign
 
@@ -147,13 +153,20 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 
 ![Fitbit Versa 3](https://www.lifewire.com/thmb/2f-G8JEK0Z63WAJEd2yrsI_9jDg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fitbit-Versa-3-03-00c26852cbc94711a4bb6660b02e2550.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Yoona Wagener
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Price: Less costly than similar models
@@ -161,13 +174,6 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
  For $230, the Fitbit Versa 3 is less expensive than similar feature-rich smartwatches. Other models like the Samsung Galaxy Watch Active2, come with available LTE, for even more connectivity and standalone convenience—and a significant price bump.
 
  The Versa 3 is also about $100 cheaper than the Fitbit Sense, which offers a few more wellness-tracking flourishes such as the ECG app and EDA responses. The smartwatch claims to offer similarly accurate heart rate monitoring and onboard GPS and some users will still benefit from the array of wellness-centric features like reminders to move, food and water tracking, guided breathing, and all the smart features the more costly Sense has too.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fitbit Versa 3 vs. Samsung Galaxy Watch Active2
 
@@ -211,24 +217,20 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-ios-handbook-for-effective-youtube-video-posting/"><u>[New] IOS Handbook for Effective YouTube Video Posting</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-basic-tips-for-windows-clown-phonetics-modification/"><u>2024 Approved Basic Tips for Windows Clown Phonetics Modification</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-from-action-to-archive-top-screenshot-tools-reviewed/"><u>2024 Approved From Action to Archive Top Screenshot Tools Reviewed</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-videos-with-tiktok-effects/"><u>2024 Approved Transform Videos with TikTok Effects</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/battle-of-smart-speakers-distinguishing-the-echo-dot-from-homepod-mini/"><u>Battle of Smart Speakers: Distinguishing the Echo Dot From HomePod Mini</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723013246628-expert-tips-for-fixing-crashes-in-football-manager-201-grove-your-game-with-these-solutions/"><u>Expert Tips for Fixing Crashes in Football Manager 201 Grove Your Game with These Solutions!</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 without Losing Any Content? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-x-video-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone X Video to Computer? | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/melodic-mastery-mac-studio-tips-for-2024/"><u>Melodic Mastery Mac Studio Tips for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-power-in-windows-11-banishing-slowness/"><u>Unleash Power in Windows 11: Banishing Slowness</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-mastering-your-podcast-sound-with-these-10-premier-audio-editing-software-options-free-or-paid/"><u>Updated In 2024, Mastering Your Podcast Sound with These 10 Premier Audio Editing Software Options (Free or Paid)</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-the-art-of-sonic-depth-incorporating-virtual-reverberation-into-your-windows-based-audio-projects/"><u>Updated In 2024, The Art of Sonic Depth Incorporating Virtual Reverberation Into Your Windows-Based Audio Projects</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-integrating-audio-into-digital-videos-a-comprehensive-guide/"><u>Updated Integrating Audio Into Digital Videos A Comprehensive Guide</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-sony-vegas-audio-editor-how-to-edit-audio-in-vegas-pro/"><u>Updated Sony Vegas Audio Editor How to Edit Audio in Vegas Pro</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-sound-purification-techniques-how-to-combat-persistent-echoes-and-hiss/"><u>Updated Sound Purification Techniques How to Combat Persistent Echoes and Hiss</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-the-beat-engineers-handbook-designing-sounds-for-the-silver-screen-for-2024/"><u>Updated The Beat Engineers Handbook Designing Sounds for the Silver Screen for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-top-10-acapella-extractors-online-and-on-the-go-solutions-for-2024/"><u>Updated Top 10 Acapella Extractors Online and On-the-Go Solutions for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-top-8-free-and-premium-tools-to-enhance-your-logic-pro-x-experience/"><u>Updated Top 8 Free and Premium Tools to Enhance Your Logic Pro X Experience</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-unveiling-8-crucial-video-game-auditory-elements-all-free/"><u>Updated Unveiling 8 Crucial Video Game Auditory Elements - All Free</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-guide-to-fb-video-repositories-windows-and-macos-for-2024/"><u>[New] Guide to FB Video Repositories Windows & macOS for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-top-10-must-have-features-in-drone-gimbals-for-2024/"><u>[New] Top 10 Must-Have Features in Drone Gimbals for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/audio-tranquility-in-action-fading-and-pulsating-sounds-made-easy-in-adobe-after-effects-for-2024/"><u>Audio Tranquility in Action Fading and Pulsating Sounds Made Easy in Adobe After Effects for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-silence-voice-in-iphone-footage-5-steps-you-need-to-know/"><u>How to Silence Voice in iPhone Footage: 5 Steps You Need to Know</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-vivo-v29-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Vivo V29 Phone Screen?</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-top-5-sources-for-legal-comedy-soundtracks-online/"><u>In 2024, Top 5 Sources for Legal Comedy Soundtracks Online</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-infinix-hot-30i-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Infinix Hot 30i Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-version-of-universal-bluetooth-drivers-for-windows-systems-free-download/"><u>Latest Version of Universal Bluetooth Drivers for Windows Systems - Free Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722965563839-netgear-a6100-user-heres-where-you-can-download-the-newest-windows-driver/"><u>Netgear A6100 User? Here's Where You Can Download the Newest Windows Driver!</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-elevating-music-management-the-best-rated-platforms-for-mp3-file-metadata-editing/"><u>New In 2024, Elevating Music Management The Best-Rated Platforms for MP3 File Metadata Editing</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-mastering-the-art-of-deleting-percussive-sounds-from-audio-tracks/"><u>New In 2024, Mastering the Art of Deleting Percussive Sounds From Audio Tracks</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-ultimate-process-rewiring-audio-in-film-projects-for-2024/"><u>New The Ultimate Process Rewiring Audio in Film Projects for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-alert-top-rated-gaming-soundbar-now-just-150-cheaper-on-amazon-exclusive-review-by-zdnet/"><u>Unbeatable Deal Alert: Top-Rated Gaming Soundbar Now Just $150 Cheaper on Amazon - Exclusive Review by ZDNet</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-mastering-the-art-of-downloading-podcast-episodes-on-laptops-and-desktops/"><u>Updated 2024 Approved Mastering the Art of Downloading Podcast Episodes on Laptops and Desktops</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-windows-and-mac-top-rated-video-tagging-software/"><u>Updated In 2024, Windows and Mac Top-Rated Video Tagging Software</u></a></li>
 </ul></div>
 
