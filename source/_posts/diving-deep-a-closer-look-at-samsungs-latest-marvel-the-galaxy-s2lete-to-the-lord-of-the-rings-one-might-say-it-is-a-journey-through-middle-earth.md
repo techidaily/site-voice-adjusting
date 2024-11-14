@@ -1,7 +1,7 @@
 ---
 title: "Diving Deep: A Closer Look at Samsung's Latest Marvel - The Galaxy S2lete) to the 'Lord of the Rings', One Might Say, It Is a Journey Through Middle-Earth."
-date: 2024-10-31T16:53:59.166Z
-updated: 2024-11-04T17:05:40.102Z
+date: 2024-11-09T18:34:03.296Z
+updated: 2024-11-13T18:06:42.545Z
 categories:
   - BestProducts
 description: "This Article Describes Diving Deep: A Closer Look at Samsung's Latest Marvel - The Galaxy S2lete) to the 'Lord of the Rings', One Might Say, It Is a Journey Through Middle-Earth."
@@ -38,9 +38,23 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 
 4.8
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fitbit Versa 3
 
 ![Fitbit Versa 3](https://www.lifewire.com/thmb/fpj6dU7VhqBf5ukwxKiaOimQtf4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fitbit-Versa-3-Hero5x4-3bcbedf50dc940008e9c10ee237c88a3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Yoona Wagener
 
@@ -68,21 +82,7 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 
 ![Fitbit Versa 3](https://www.lifewire.com/thmb/ceE1xxVfUTF44pCOtEXiO6JW_IA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fitbit-Versa-3-04-ef922812d0444da4a7277e91efe2fcf8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Yoona Wagener
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Design: Sleek and smart-looking
 
@@ -101,6 +101,13 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
  Shoppers looking for the best-fitting smartwatches for women will appreciate the standard small band and the option of swapping it out with the provided large band if you need extra notches. While comfortable to wear because of the light build, finding the right fit, especially after I briefly removed the watch, was a bit tricky at first. But once I got it in the right place, I barely noticed it over the course of a full day.
 
 ![Fitbit Versa 3](https://www.lifewire.com/thmb/R_j7dFFwnlWoGyar6N0dYZREqIM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fitbit-Versa-3-02-8b212782c0f245459f26ffaa0e2982e2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Yoona Wagener
 
@@ -124,19 +131,6 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 
  It charged from critically low to 100 percent in about 1.25 hours, which is in line with the 1-2 hour estimation by the manufacturer. A quick charge brought the device from 9 percent to 29 percent, which tracks with the claim that a 12-minute charge would bring it up to a full day of battery life.
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Software/Key Features: Wellness and convenience features reign
 
  The Fitbit Versa 3 runs on the Fitbit OS and benefits from several upgrades. The latest smart features include a built-in speaker and microphone, which Android users can use to respond to phone calls along with sending replies and emojis when the phone is nearby. Sadly, iPhone users can only answer or reject calls and view notifications.
@@ -154,19 +148,19 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 ![Fitbit Versa 3](https://www.lifewire.com/thmb/2f-G8JEK0Z63WAJEd2yrsI_9jDg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fitbit-Versa-3-03-00c26852cbc94711a4bb6660b02e2550.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Yoona Wagener
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Price: Less costly than similar models
@@ -217,20 +211,22 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-guide-to-fb-video-repositories-windows-and-macos-for-2024/"><u>[New] Guide to FB Video Repositories Windows & macOS for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-top-10-must-have-features-in-drone-gimbals-for-2024/"><u>[New] Top 10 Must-Have Features in Drone Gimbals for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/audio-tranquility-in-action-fading-and-pulsating-sounds-made-easy-in-adobe-after-effects-for-2024/"><u>Audio Tranquility in Action Fading and Pulsating Sounds Made Easy in Adobe After Effects for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-silence-voice-in-iphone-footage-5-steps-you-need-to-know/"><u>How to Silence Voice in iPhone Footage: 5 Steps You Need to Know</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-vivo-v29-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Vivo V29 Phone Screen?</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-top-5-sources-for-legal-comedy-soundtracks-online/"><u>In 2024, Top 5 Sources for Legal Comedy Soundtracks Online</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-infinix-hot-30i-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Infinix Hot 30i Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-version-of-universal-bluetooth-drivers-for-windows-systems-free-download/"><u>Latest Version of Universal Bluetooth Drivers for Windows Systems - Free Download</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722965563839-netgear-a6100-user-heres-where-you-can-download-the-newest-windows-driver/"><u>Netgear A6100 User? Here's Where You Can Download the Newest Windows Driver!</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-elevating-music-management-the-best-rated-platforms-for-mp3-file-metadata-editing/"><u>New In 2024, Elevating Music Management The Best-Rated Platforms for MP3 File Metadata Editing</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-mastering-the-art-of-deleting-percussive-sounds-from-audio-tracks/"><u>New In 2024, Mastering the Art of Deleting Percussive Sounds From Audio Tracks</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-ultimate-process-rewiring-audio-in-film-projects-for-2024/"><u>New The Ultimate Process Rewiring Audio in Film Projects for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-alert-top-rated-gaming-soundbar-now-just-150-cheaper-on-amazon-exclusive-review-by-zdnet/"><u>Unbeatable Deal Alert: Top-Rated Gaming Soundbar Now Just $150 Cheaper on Amazon - Exclusive Review by ZDNet</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-mastering-the-art-of-downloading-podcast-episodes-on-laptops-and-desktops/"><u>Updated 2024 Approved Mastering the Art of Downloading Podcast Episodes on Laptops and Desktops</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-windows-and-mac-top-rated-video-tagging-software/"><u>Updated In 2024, Windows and Mac Top-Rated Video Tagging Software</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-10-tools-to-record-zoom-meeting-for-2024/"><u>[New] 10 Tools to Record Zoom Meeting for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-essential-guide-to-hashtagging-for-game-focused-yt-channels/"><u>[Updated] In 2024, Essential Guide to Hashtagging for Game-Focused YT Channels</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-social-snapshots-highest-view-counts/"><u>[Updated] In 2024, Social Snapshots Highest View Counts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-transforming-photos-remove-background-with-ease/"><u>[Updated] Transforming Photos Remove Background with Ease</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-the-key-to-unlocking-the-best-video-production-talents/"><u>2024 Approved The Key to Unlocking the Best Video Production Talents</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/audiophiles-manual-to-volume-control-on-digital-media-updated-for-2024/"><u>Audiophiles Manual to Volume Control on Digital Media – Updated for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-iphone-12-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from iPhone 12 Safe and Legal</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-novice-writers-guide-to-boosting-brand-visibility-through-content-creation/"><u>In 2024, The Novice' Writers' Guide to Boosting Brand Visibility Through Content Creation</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/mastering-the-art-of-spotify-downloads-a-comprehensive-guide-for-music-lovers/"><u>Mastering the Art of Spotify Downloads A Comprehensive Guide for Music Lovers</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-15-best-montage-music-for-different-video-types/"><u>New In 2024, 15 Best Montage Music for Different Video Types</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-elegant-sound-sculpting-an-overview-of-leading-audio-editors-features-perks-and-pitfalls/"><u>New In 2024, Elegant Sound Sculpting An Overview of Leading Audio Editors Features, Perks & Pitfalls</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-incorporating-sound-techniques-for-embedding-audio-in-quicktime-media/"><u>New In 2024, Incorporating Sound Techniques for Embedding Audio in QuickTime Media</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-mastering-sound-integrating-audio-with-visuals-in-film-production/"><u>New In 2024, Mastering Sound Integrating Audio with Visuals in Film Production</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-inside-americas-favorite-non-omegle-video-chat-websites-a-current-ranking-guide/"><u>New Inside Americas Favorite Non-Omegle Video Chat Websites A Current Ranking Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-mastering-melody-match-identifying-tunes-on-your-iphone-devices/"><u>New Mastering Melody Match Identifying Tunes on Your iPhone Devices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/streamlining-gaming-experience-how-to-record-games-obs-for-2024/"><u>Streamlining Gaming Experience How to Record Games OBS for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-best-online-video-editors-for-vertical-format-videos/"><u>Updated In 2024, The Best Online Video Editors for Vertical Format Videos</u></a></li>
 </ul></div>
 

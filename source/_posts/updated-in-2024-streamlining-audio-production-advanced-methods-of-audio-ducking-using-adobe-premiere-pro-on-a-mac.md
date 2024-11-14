@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Streamlining Audio Production Advanced Methods of Audio Ducking Using Adobe Premiere Pro on a Mac
-date: 2024-10-29T16:08:04.768Z
-updated: 2024-11-04T16:00:47.085Z
+date: 2024-11-08T17:54:57.816Z
+updated: 2024-11-13T18:13:57.397Z
 tags: 
   - audio editing software
   - audio editing
@@ -57,10 +57,10 @@ Great! You can now preview the changes you have made and check the audio ducking
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
@@ -70,10 +70,16 @@ As you can see, the Premiere Pro audio ducking feature can get a bit complicated
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
@@ -103,10 +109,10 @@ Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -124,19 +130,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-clear-conferencing-backdrops-blurring-for-better-presence-for-2024/"><u>[New] Clear Conferencing Backdrops Blurring for Better Presence for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-fresh-off-the-press-film-review-and-complementary-options-for-2024/"><u>[New] Fresh-Off-the-Press Film Review and Complementary Options for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-implementing-cross-browser-compatibility-in-web-development/"><u>[New] Implementing Cross-Browser Compatibility in Web Development</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-mastering-screen-time-top-6-video-engagement-methods/"><u>[Updated] Mastering Screen Time Top 6 Video Engagement Methods</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-extracting-youtube-images-online-desktop-tools-and-terminal-tactics/"><u>2024 Approved Extracting YouTube Images Online, Desktop Tools & Terminal Tactics</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-top-5-chromebook-sniping-apps-essential-clients-reviewed/"><u>2024 Approved Top 5 Chromebook Sniping Apps Essential Clients Reviewed</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-script-to-screen-on-a-budget-7-essential-filmmaking-software-for-2024/"><u>From Script to Screen on a Budget 7 Essential Filmmaking Software for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-reversing-the-flow-a-comprehensive-list-of-advanced-audio-reversal-tools/"><u>In 2024, Reversing the Flow A Comprehensive List of Advanced Audio Reversal Tools</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/maximizing-speaker-output-cost-free-tips-for-windows-users-for-2024/"><u>Maximizing Speaker Output Cost-Free Tips for Windows Users for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-crowded-online-spaces-offering-no-cost-guitar-song-lines-and-artwork/"><u>New Crowded Online Spaces Offering No-Cost Guitar Song Lines and Artwork</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-exploring-the-best-voice-mimicry-applications-of-the-year/"><u>New In 2024, Exploring the Best Voice Mimicry Applications of the Year</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-integrating-audio-elements-within-mixed-media-videos-for-2024/"><u>New Integrating Audio Elements Within Mixed Media Videos for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-sound-off-with-flair-enhancing-high-pitched-vocalization-in-video-content-creation-for-2024/"><u>New Sound Off with Flair Enhancing High-Pitched Vocalization in Video Content Creation for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/videography-vanguard-in-depth-sony-fdr-x1000-review/"><u>Videography Vanguard In-Depth Sony FDR-X1000 Review</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-mastery-comprehensive-editing-for-lifelong-learners/"><u>2024 Approved YouTube Mastery Comprehensive Editing for Lifelong Learners</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/accelerate-engagement-quick-instagram-likes-and-videos-strategy-for-2024/"><u>Accelerate Engagement Quick Instagram Likes and Videos Strategy for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/before-your-windows-10-becomes-unsupported-top-5-options-revealed-by-zdnet/"><u>Before Your Windows 10 Becomes Unsupported: Top 5 Options Revealed by ZDNet</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-the-world-of-digital-sound-capture-a-deep-dive/"><u>In 2024, Navigating the World of Digital Sound Capture A Deep Dive</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Nokia 105 Classic? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-ultimate-guide-to-the-top-8-advanced-speech-recognition-tools-on-various-operating-systems/"><u>New The Ultimate Guide to the Top 8 Advanced Speech-Recognition Tools on Various Operating Systems</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-ultimate-list-of-windows-compatible-daws-a-guide-to-the-best-free-and-paid-options-for-2024/"><u>New The Ultimate List of Windows-Compatible DAWs A Guide to the Best Free & Paid Options for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/perfect-your-youtube-videos-after-publishing/"><u>Perfect Your YouTube Videos After Publishing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/prime-facebook-extra-tools-secure-file-grabber-firefox-version-for-2024/"><u>Prime Facebook Extra Tools Secure File Grabber, Firefox Version for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-task-manager-freeze-a-comprehensive-fix-guide/"><u>Solve Task Manager Freeze: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-worlds-best-imagery-with-no-monetary-investment-for-2024/"><u>Unlocking the World's Best Imagery with No Monetary Investment for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-essential-sound-editing-apps-for-mobile-iphone-and-ipad-edition-2023-edition/"><u>Updated 2024 Approved Essential Sound Editing Apps for Mobile IPhone & iPad Edition, 2023 Edition</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-top-tier-tempo-tune-videography-tools/"><u>Updated 2024 Approved Top-Tier Tempo Tune Videography Tools</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-6-best-free-daw-software-for-beginners-to-use-for-2024/"><u>Updated 6 Best Free DAW Software for Beginners to Use for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-breathing-life-into-your-sound-a-comprehensive-guide-to-modifying-your-natural-voice-for-2024/"><u>Updated Breathing Life Into Your Sound A Comprehensive Guide to Modifying Your Natural Voice for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-expert-tips-for-seamless-audio-overlay-on-videos-using-filmora/"><u>Updated Expert Tips for Seamless Audio Overlay on Videos Using Filmora</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-how-to-recognize-songs-on-iphone-in-2024/"><u>Updated How to Recognize Songs on iPhone, In 2024</u></a></li>
 </ul></div>
 

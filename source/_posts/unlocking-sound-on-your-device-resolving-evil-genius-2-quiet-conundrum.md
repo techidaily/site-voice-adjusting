@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Sound on Your Device: Resolving 'Evil Genius 2' Quiet Conundrum"
-date: 2024-11-03T16:17:44.830Z
-updated: 2024-11-04T16:32:54.400Z
+date: 2024-11-07T17:18:22.353Z
+updated: 2024-11-13T16:19:42.804Z
 tags:
   - win11
   - win10
@@ -28,13 +28,6 @@ Many players have reported that the Elden Ring multiplayer can not work. Even af
 5. **[Run Fortect to repair system files](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Update your Windows system](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Before getting started
 
  When you encounter the Elden Ring multiplayer problem, you can perform checks below first.
@@ -53,10 +46,10 @@ Many players have reported that the Elden Ring multiplayer can not work. Even af
  If your internet speed is too low, you can try to[speed up the internet](https://tools.techidaily.com/drivereasy/download/) or just call your ISP.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1: Optimize Elden Ring’s network settings
@@ -73,6 +66,13 @@ Many players have reported that the Elden Ring multiplayer can not work. Even af
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-10_14-39-232222.jpg)
 
  After you optimize the Elden Ring’s network settings, you can check if it works. If not, move to the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Update your network drivers
 
@@ -101,10 +101,10 @@ Here are two ways to update your network drivers.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-network-adapter-driver-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After updating your network drivers, see if your Elden Ring multiplayer works. If not, move to the next method.
@@ -117,29 +117,29 @@ Here are two ways to update your network drivers.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-10_18-11-58加水印.jpg)
 2. Right-click**ELDEN RING** and select**Properties…** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-10_18-05-493333.jpg)
 3. Click the**UPDATES** tab on the left panel.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-11_14-14-13-update-1.jpg)
 4. Click**Always keep this game updated** under AUTOMATIC UPDATES. Whenever there is an available update, Steam will update the game automatically.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-11_14-12-34update-3.jpg)
 
  After enabling auto-dates of Elden Ring, you can check if your Elden Ring multiplayer works. If not, move to the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4: Verify integrity of game files
 
@@ -152,17 +152,17 @@ Here are two ways to update your network drivers.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-10_18-05-493333.jpg)
 3. Click the**Installed Files** and select**Verify integrity of game files** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Verify-integrity-of-game-files.jpg)
 4. Steam will verify the game files. It may take a few minutes. Once the process is complete, click the**Close** button.
 
 5. After validating Steam files, check if your Elden Ring multiplayer works normally. If not, move to the next method.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 5: Run Fortect to repair system files
 
@@ -175,29 +175,29 @@ Here are two ways to update your network drivers.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -250,20 +250,20 @@ Here are two ways to update your network drivers.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-10-fastest-growing-youtube-channels-to-light-up-your-mind-for-2024/"><u>[Updated] 10 Fastest Growing YouTube Channels to Light Up Your Mind for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-saving-on-cloud-space-expenses-detailed-analysis-and-tips/"><u>[Updated] 2024 Approved Saving on Cloud Space Expenses Detailed Analysis & Tips</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-leading-you-to-8-superior-zero-cost-3d-videos-solutions/"><u>[Updated] In 2024, Leading You to 8 Superior, Zero-Cost 3D Videos Solutions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-optimal-energy-solutions-for-gopro-hero5-certified-and-third-party/"><u>[Updated] Optimal Energy Solutions for GoPro Hero5 Certified & Third-Party</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-comprehensive-guide-to-remove-images-background-in-canva/"><u>A Comprehensive Guide to Remove Image’s Background In Canva</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Tecno Pop 7 Pro | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/choosing-your-next-game-pc-key-features-essential/"><u>Choosing Your Next Game PC: Key Features Essential</u></a></li>
-<li><a href="https://win-blog.techidaily.com/defeat-call-of-duty-modern-warfare-dev-error-604-essential-fixes-for-gamers-on-pc-and-xbox/"><u>Defeat Call of Duty: Modern Warfare Dev Error ✖️604 - Essential Fixes for Gamers on PC and Xbox!</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/transformative-soundscape-design-proven-strategies-for-smooth-volume-fading-and-elevating-with-adobe-after-effects/"><u>Transformative Soundscape Design Proven Strategies for Smooth Volume Fading and Elevating with Adobe After Effects</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/unlocking-instagrams-video-sharing-limits-for-2024/"><u>Unlocking Instagram's Video Sharing Limits for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/unveiling-the-most-accessible-and-affordable-browser-based-daw-tools-for-2024/"><u>Unveiling the Most Accessible and Affordable Browser-Based DAW Tools for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-the-sound-detectives-handbook-extracting-silence-from-video-files-in-iosos-x-systems/"><u>Updated 2024 Approved The Sound Detectives Handbook Extracting Silence From Video Files in iOS/OS X Systems</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-unlocking-speech-from-melody-top-3-online-methods-for-mp3-to-text-conversion/"><u>Updated 2024 Approved Unlocking Speech From Melody Top 3 Online Methods for MP3-to-Text Conversion</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-discovering-the-ultimate-voice-overhaul-mobile-tools/"><u>Updated Discovering the Ultimate Voice Overhaul Mobile Tools</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-best-vocal-trackers-essential-software-for-seamless-sound-capture/"><u>Updated In 2024, Best Vocal Trackers Essential Software for Seamless Sound Capture</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-which-cameras-rule-the-field-gopro-hero-vs-sony-x1000v-clashes/"><u>[New] 2024 Approved Which Cameras Rule the Field? GoPro Hero Vs. Sony X1000V Clashes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-top-10-budget-friendly-tools-to-sharing-screens-across-pcs/"><u>[New] In 2024, Top 10 Budget-Friendly Tools to Sharing Screens Across PCs</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-adobe-audition-expertise-eliminating-unwanted-sounds-and-noise/"><u>2024 Approved Adobe Audition Expertise Eliminating Unwanted Sounds and Noise</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/before-you-level-up-5-imperative-points-to-review-when-shopping-for-consoles/"><u>Before You Level Up: 5 Imperative Points to Review When Shopping for Consoles</u></a></li>
+<li><a href="https://driver-install.techidaily.com/conflict-detection-mechanisms/"><u>Conflict Detection Mechanisms</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-zoom-woes-streamline-windows-crash-code-1132/"><u>Fixing Zoom Woes: Streamline Windows Crash Code 1132</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-capture-and-share-your-games-like-a-pro-with-these-windows-11-tactics/"><u>In 2024, Capture and Share Your Games Like a Pro with These Windows 11 Tactics</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-discovering-tools-to-emulate-natural-human-digestive-resonances-in-media-projects/"><u>New Discovering Tools to Emulate Natural Human Digestive Resonances in Media Projects</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-how-to-install-and-use-autotune-in-audacity-for-2024/"><u>New How to Install and Use Autotune in Audacity for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-how-to-add-video-and-audio-transition-between-scenesclips/"><u>New In 2024, How to Add Video and Audio Transition Between Scenes/Clips</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/normalizing-volume-in-vlc-a-step-by-step-guide/"><u>Normalizing Volume in VLC A Step-by-Step Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/premiere-mixer-expert-for-windows-10-ecosystems-for-2024/"><u>Premiere Mixer Expert for Windows 10 Ecosystems for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/streamlined-methods-for-obtaining-pitched-ding-sound-files-online-the-top-10-list-for-2024/"><u>Streamlined Methods for Obtaining Pitched Ding Sound Files Online - The Top 10 List for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Oppo F25 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
 

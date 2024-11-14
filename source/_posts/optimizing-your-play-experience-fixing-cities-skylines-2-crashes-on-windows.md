@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Your Play Experience: Fixing Cities: Skylines 2 Crashes on Windows"
-date: 2024-10-30T16:43:07.710Z
-updated: 2024-11-04T16:24:28.455Z
+date: 2024-11-10T17:45:08.334Z
+updated: 2024-11-13T18:29:55.240Z
 tags:
   - win11
   - win10
@@ -33,19 +33,6 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
 8. **[Run your game in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check your PC specs
 
  Total War: Warhammer 2 is a fantastic game, however, it’s one of the most demanding when it comes to your hardware. The game won’t work well unless your computer can handle it.
@@ -67,13 +54,6 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-00-43.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Check your operating system, processor,**and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-00-47.jpg)
@@ -82,7 +62,21 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-00-51.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Make sure your PC meets the minimum specs, then go ahead with the fix below. (If your computer doesn’t meet the minimum specs, the only solution would be upgrading your PC.)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Restart your computer
 
@@ -91,13 +85,6 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
  So you should close unnecessary programs while gaming, especially your overlay applications. To do it, the quickest way is to turn off your computer and turn it back on.
 
  If the crashing issue still exists after killing unnecessary programs, move on to Fix 3, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Run your game as an administrator
 
@@ -116,6 +103,13 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
 **4)**  Restart_Total War: WARHAMMER II_ from Steam.
 
 If your game crashes again, then try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Roll back/Update your graphics driver
 
@@ -184,13 +178,6 @@ If your issue persists, then move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-04-33.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Right-click **Total War: WARHAMMER II** and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-04-38.jpg)
@@ -204,6 +191,13 @@ If your issue persists, then move on to the next fix below.
 **5)** Relaunch your game after the process is complete.
 
 If the game is still unplayable, check the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Run your game with DirectX 11
 
@@ -219,6 +213,13 @@ If the game is still unplayable, check the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-49-48.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** If there is any content on the box, clear it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-53-08.jpg)
@@ -229,6 +230,13 @@ If the game is still unplayable, check the next fix, below.
 
 If your game still won’t launch properly, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 7: Check for Windows Firewall
 
  The game crashing issue can happen if your game is blocked by Windows Firewall. So, you should check the Firewall settings and ensure the program is allowed in Firewall. Here is how：
@@ -237,33 +245,19 @@ If your game still won’t launch properly, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-00-40-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Type**control** and then press the**Enter key** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-12-04-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Under**View by** , select**Small icons** , then click**Windows Defender Firewall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-20-25.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Click**Allow an app or feature through Windows Defender Firewall** .
@@ -322,6 +316,13 @@ If this method doesn’t work for you, move on to try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-31-33.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-31-39.jpg)
@@ -333,13 +334,6 @@ If this method doesn’t work for you, move on to try the fix below.
 **5)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-32-53.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)**  Follow the on-screen instructions to uninstall Steam.
 
@@ -374,20 +368,20 @@ If this method doesn’t work for you, move on to try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-how-to-zoom-inout-in-instagram-stories/"><u>[New] How to Zoom In/Out in Instagram Stories</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-pro-vs-pop-analyzing-gopro-and-polaroids-video-capabilities/"><u>[New] Pro Vs. Pop Analyzing GoPro and Polaroid's Video Capabilities</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-minimca-houses-best-abode-guides-for-new-players/"><u>[Updated] MiniMCA Houses Best Abode Guides for New Players</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-hacks-and-best-practices-for-dominating-in-subway-surfers/"><u>Essential Hacks & Best Practices for Dominating in Subway Surfers</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-to-clone-a-hard-drive-on-windows-servers-2003-2016-2019-and-2022-no-need-for-fresh-install/"><u>How to Clone a Hard Drive on Windows Servers: 2003, 2016, 2019 & 2022 - No Need for Fresh Install</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-restore-functionality-of-logitech-devices-using-the-options-app-in-windows/"><u>How to Restore Functionality of Logitech Devices Using the Options App in Windows</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-10-best-apps-to-speed-audio-speed-on-mobile/"><u>In 2024, 10 Best Apps to Speed Audio Speed on Mobile</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-voice-tracking-vaults-discover-the-top-10-free-sound-resource-pages-of-today/"><u>In 2024, Voice-Tracking Vaults Discover the Top 10 Free Sound Resource Pages of Today</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/inside-the-world-of-chatgpt-plus-membership/"><u>Inside the World of ChatGPT Plus Membership</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/insight-into-the-progressive-developments-of-nero-waveedit/"><u>Insight Into the Progressive Developments of Nero WaveEdit</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/iphone-savvy-crafting-elegant-time-stretched-videos-for-2024/"><u>IPhone Savvy Crafting Elegant Time-Stretched Videos for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-cutting-edge-of-audio-production-adding-professional-voiceovers-to-your-vids/"><u>New 2024 Approved The Cutting-Edge of Audio Production Adding Professional Voiceovers to Your Vids</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-ultimate-list-of-8-chromebook-compatible-digital-audio-workstations-for-composers-and-producers/"><u>New 2024 Approved The Ultimate List of 8 Chromebook-Compatible Digital Audio Workstations for Composers and Producers</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-achieving-superior-sound-in-mp4-videos-a-comprehensive-guide-for-2024/"><u>New Achieving Superior Sound in MP4 Videos A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-elevate-your-mac-experience-master-the-art-of-sound-recording-with-these-5-proven-tips-for-2024/"><u>New Elevate Your Mac Experience Master the Art of Sound Recording with These 5 Proven Tips for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-7-best-adblock-apps-for-android/"><u>[New] 7 Best AdBlock Apps for Android</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-identifying-top-8-linux-tools-for-immediate-screenshots-for-2024/"><u>[Updated] Identifying Top 8 Linux Tools for Immediate Screenshots for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/19522205-2024-approved-boost-production-value-with-free-sfx-libraries/"><u>2024 Approved Boost Production Value with Free SFX Libraries</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-enhancing-tweets-for-exceptional-hd-quality/"><u>2024 Approved Enhancing Tweets for Exceptional HD Quality</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-drivers-hp-color-laserjet-pro-mfp-m477-printer-software/"><u>Download Drivers: HP Color LaserJet Pro MFP M477 Printer Software</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/experience-next-level-personalization-with-our-site-optimized-by-cookiebot-technology/"><u>Experience Next-Level Personalization with Our Site Optimized by Cookiebot Technology</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlocking-the-potential-of-monetized-vlogs/"><u>In 2024, Unlocking the Potential of Monetized Vlogs</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-ultimate-guide-to-essential-sound-processing-techniques-for-modern-music-production-for-2024/"><u>New The Ultimate Guide to Essential Sound Processing Techniques for Modern Music Production for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-ultimate-tips-for-editing-audios-using-avidemux-2023-edition/"><u>New Ultimate Tips for Editing Audios Using Avidemux - 2023 Edition</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-voice-altering-revolution-transforming-the-way-you-communicate-in-google-meet/"><u>New Voice-Altering Revolution Transforming the Way You Communicate in Google Meet</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/samsung-galaxy-fit2-embrace-a-fitter-lifestyle-with-this-compact-convenient-wearable-gadget/"><u>Samsung Galaxy Fit2: Embrace a Fitter Lifestyle with This Compact, Convenient Wearable Gadget</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/k-youtube-numbers-for-enhanced-performance-for-2024/"><u>Unlock YouTube Numbers for Enhanced Performance for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-title-the-enigmatic-world-of-fibonacci-sequences-and-their-mathematical-implications-in-modern-science/"><u>Updated 2024 Approved Title The Enigmatic World of Fibonacci Sequences and Their Mathematical Implications in Modern Science</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-exploring-the-future-of-android-calls-beyond-apples-facetime-for-2024/"><u>Updated Exploring the Future of Android Calls Beyond Apples FaceTime for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-four-essential-steps-for-streamlined-sound-standardization/"><u>Updated Four Essential Steps for Streamlined Sound Standardization</u></a></li>
 </ul></div>
 

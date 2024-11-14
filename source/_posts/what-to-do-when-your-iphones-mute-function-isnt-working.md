@@ -1,7 +1,7 @@
 ---
 title: What To Do When Your iPhone's Mute Function Isn't Working
-date: 2024-11-01T16:40:35.299Z
-updated: 2024-11-04T16:09:12.983Z
+date: 2024-11-06T19:23:14.276Z
+updated: 2024-11-13T16:49:35.155Z
 tags:
   - iphone
   - apple
@@ -64,33 +64,39 @@ Close
 ![AssistiveTouch settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![customizing AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-2.jpg)
 
 ![adding a new button to the AssistiveTouch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![selecting Mute action for the new AssistiveTouch button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Mute action in AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -109,6 +115,13 @@ Follow these simple instructions to get this done:
 
 ![adding Mute action to Double-Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
  Once set up, muting and unmuting your iPhone should be even easier. Simply perform the gesture to which you've assigned the Mute action, and it'll mute the device. Repeat it again to unmute.
@@ -125,13 +138,6 @@ Close
 ![iPhone Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-1.jpg)
 
 ![Back Tap feature under Touch Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -151,10 +157,10 @@ Close
  With certain iPhone cases, especially thicker ones, you might need to tap harder for the iPhone to register your taps and trigger the action.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Broken iPhone Ring/Silent Switch? No Problem
@@ -178,22 +184,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-gopro-hero5-black-vs-gopro-hero4-silver/"><u>[New] GoPro Hero5 Black vs GoPro Hero4 Silver</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-the-important-aspects-of-leveraging-youtubes-sound-selection/"><u>2024 Approved The Important Aspects of Leveraging YouTubes Sound Selection</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-realme-c55-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Realme C55</u></a></li>
-<li><a href="https://facebook.techidaily.com/digital-harmony-taking-leisinasse-using-facebook-timer/"><u>Digital Harmony: Taking Leisinasse Using Facebook Timer</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-guide-solving-iphone-mov-file-playback-issues-and-troubleshooting-tips/"><u>Effortless Guide: Solving iPhone MOV File Playback Issues & Troubleshooting Tips</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/how-to-retrieve-deleted-unsaved-worksheets-from-excel-2016-using-the-power-of-ifind-data-recovery/"><u>How to Retrieve Deleted Unsaved Worksheets From Excel 2016 Using the Power of IFind Data Recovery</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-ultimate-guide-to-drying-out-distorted-sounds-three-effective-methods/"><u>In 2024, The Ultimate Guide to Drying Out Distorted Sounds Three Effective Methods</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-top-10-best-talk-with-strangers-apps/"><u>New 2024 Approved Top 10 Best Talk with Strangers Apps</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-commanding-attention-techniques-for-higher-pitched-voice-in-digital-storytelling/"><u>New Commanding Attention Techniques for Higher Pitched Voice in Digital Storytelling</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-how-to-increase-volume-of-the-media-files/"><u>New How to Increase Volume of the Media Files</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-efficient-methods-for-turning-whatsapp-audio-into-mp3-files-in-minutes/"><u>New In 2024, Efficient Methods for Turning WhatsApp Audio Into MP3 Files in Minutes</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-mastering-podcasting-a-look-at-the-premier-hosting-services/"><u>New In 2024, Mastering Podcasting A Look at the Premier Hosting Services</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-recommendations-for-music-video-editors/"><u>New Recommendations for Music Video Editors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/pixel-watch-releasing-soon-get-the-lowdown-on-latest-price-estimates-specs-and-release-plans/"><u>Pixel Watch Releasing Soon? Get the Lowdown on Latest Price Estimates, Specs & Release Plans</u></a></li>
-<li><a href="https://games-able.techidaily.com/ranking-processor-and-graphics-card-improvements/"><u>Ranking Processor and Graphics Card Improvements</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/reat-video-platform-debate-vimeo-and-youtube/"><u>The Great Video Platform Debate Vimeo & YouTube</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-xiaomi-redmi-k70e-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Xiaomi Redmi K70E Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-inside-the-magic-understanding-srts-impact/"><u>[New] 2024 Approved Inside the Magic Understanding SRT's Impact</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-enhance-your-gaming-sims-4-on-camera-techniques-for-2024/"><u>[New] Enhance Your Gaming Sims 4 on Camera Techniques for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-selecting-the-right-gear-a-filmmakers-checklist-for-2024/"><u>[Updated] Selecting the Right Gear A Filmmaker's Checklist for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-next-gen-performance-with-apples-new-macbook-air-models-13-and-15-boasting-the-revolutionary-m3-processor-what-to-know-gizmohub/"><u>Experience Next-Gen Performance with Apple's New MacBook Air Models (13 and 15) Boasting the Revolutionary M3 Processor: What to Know | GizmoHub</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-nokia-c300-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Nokia C300</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Lava Blaze 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-ultimate-guide-to-audio-based-text-extraction-techniques/"><u>New The Ultimate Guide to Audio-Based Text Extraction Techniques</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/omoton-t1-tablet-stand-review-a-sturdy-and-affordable-option/"><u>Omoton T1 Tablet Stand Review: A Sturdy And Affordable Option</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/text-to-audio-conversion-from-words-to-mp3-across-all-devices/"><u>Text-to-Audio Conversion From Words to MP3 Across All Devices</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-complete-blueprint-to-convert-spotify-songs-into-playable-formats-for-2024/"><u>The Complete Blueprint to Convert Spotify Songs Into Playable Formats for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-ultimate-guide-to-the-9-most-reliable-podcast-microphones/"><u>Updated 2024 Approved Ultimate Guide to the 9 Most Reliable Podcast Microphones</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-unveiling-the-finest-8-android-based-digital-audio-workstations-of-this-year/"><u>Updated 2024 Approved Unveiling the Finest 8 Android-Based Digital Audio Workstations of This Year</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-a-comprehensive-walkthrough-to-record-audio-on-powerpoint-dual-platform-approach-for-pcs-and-macs/"><u>Updated A Comprehensive Walkthrough to Record Audio on PowerPoint Dual Platform Approach for PCs & Macs</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-elevate-logic-pro-x-discover-the-most-valuable-free-and-paid-plugins-for-your-studio/"><u>Updated Elevate Logic Pro X Discover the Most Valuable Free and Paid Plugins for Your Studio</u></a></li>
+<li><a href="https://win-blog.techidaily.com/witcher-3-pc-version-optimization-tips-to-prevent-game-crashes-and-lag/"><u>Witcher 3 - PC Version Optimization Tips to Prevent Game Crashes and Lag</u></a></li>
 </ul></div>
 
