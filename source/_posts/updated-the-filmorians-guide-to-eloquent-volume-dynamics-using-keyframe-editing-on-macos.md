@@ -1,7 +1,7 @@
 ---
 title: Updated The Filmorians Guide to Eloquent Volume Dynamics Using Keyframe Editing on macOS
-date: 2024-11-12T19:31:04.568Z
-updated: 2024-11-13T17:23:03.445Z
+date: 2024-11-10T07:51:03.298Z
+updated: 2024-11-14T11:02:02.905Z
 tags: 
   - audio editing software
   - audio editing
@@ -53,10 +53,10 @@ Now, click on the keyframe icon on the left side panel, make the volume adjustme
 To add the second **audio keyframe**, move the playhead to the desired spot, and once done, perform step 3 again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Modify Audio Keyframes in Filmora for Mac?
@@ -86,10 +86,10 @@ If you want to lower the volume of other clips in the video, you can use the “
 It’s not just one, but Filmora offers five attractive choices to modify the created **audio keyframe**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: How to Fade In/Out Audio with Keyframes in Filmora for Mac?
@@ -110,10 +110,10 @@ Now that you are familiar with the method to add **Filmora keyframes** for audio
 * Dragging the **fade audio in the** handle at the beginning of the clip will impose the effect and set its duration automatically. Pulling the **fade audio out** handle at the end of the clip will impose the fade-out effect.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -123,10 +123,10 @@ No doubt, Wondershare Filmora is the best choice to carry over your **audio keyf
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -144,24 +144,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-best-cameras-for-quality-youtube-content/"><u>[New] In 2024, Best Cameras for Quality YouTube Content</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-bringing-clarity-to-online-meetings-free-and-paid-zoom-transcribing-pros/"><u>[New] In 2024, Bringing Clarity to Online Meetings Free & Paid Zoom Transcribing Pros</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-exploring-the-void-of-originality-in-vr-content/"><u>[Updated] 2024 Approved Exploring the Void of Originality in VR Content</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pro-photo-expertise-at-your-fingertips-with-these-tips/"><u>[Updated] Pro Photo Expertise at Your Fingertips with These Tips</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-unlocking-sound-customization-adjusting-loudness-in-videoaudio-archives/"><u>2024 Approved Unlocking Sound Customization Adjusting Loudness in Video/Audio Archives</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-iphone-se-2022-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From iPhone SE (2022)</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-realme-11-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Realme 11 5G</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/charting-new-horizebs-with-cutting-edge-verizon-5g-solutions/"><u>Charting New Horizebs with Cutting-Edge Verizon 5G Solutions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/detailed-analysis-the-future-in-sound-with-sony-wh-1000xm4/"><u>Detailed Analysis: The Future in Sound with Sony WH-1000XM4</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/exploring-audio-representation-displaying-sound-waves-and-adding-animated-elements-to-your-projects-in-final-cut-pro-for-2024/"><u>Exploring Audio Representation Displaying Sound Waves & Adding Animated Elements to Your Projects in Final Cut Pro for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-roblox-launch-troubles-pro-tips-and-solutions-for-the-modern-player/"><u>Mastering Roblox Launch Troubles: Pro Tips and Solutions for the Modern Player</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-exploring-the-aural-landscape-finding-professional-sound-design-resources/"><u>New Exploring the Aural Landscape Finding Professional Sound Design Resources</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-how-to-create-video-with-music-for-free/"><u>New How to Create Video with Music for FREE</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-hunting-down-vintage-inspired-brushstroke-audio-assets/"><u>New Hunting Down Vintage-Inspired Brushstroke Audio Assets</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/the-elite-selection-of-virtual-audio-editing-experts-for-2024/"><u>The Elite Selection of Virtual Audio Editing Experts for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-samsung-galaxy-a05-by-drfone-android/"><u>Universal Unlock Pattern for Samsung Galaxy A05</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-navigate-the-world-of-online-file-management-the-five-leading-mp3-taggers-unveiled/"><u>Updated 2024 Approved Navigate the World of Online File Management The Five Leading MP3 Taggers Unveiled</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-5-best-websites-to-download-royalty-free-comedy-background-music/"><u>Updated 5 Best Websites to Download Royalty Free Comedy Background Music</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-perfected-acoustic-parameters-for-electronics-optimization-for-2024/"><u>Updated Perfected Acoustic Parameters for Electronics Optimization for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-encase-full-browser-window-for-2024/"><u>[New] Encase Full Browser Window for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-transform-your-facebook-presence-with-dynamic-slideshows/"><u>[Updated] 2024 Approved Transform Your Facebook Presence with Dynamic Slideshows</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-accessing-and-saving-fb-stories-made-simple-5-top-tactics-mobiledesktop-for-2024/"><u>[Updated] Accessing & Saving FB Stories Made Simple 5 Top Tactics (Mobile/Desktop) for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-taking-your-instagram-game-up-a-notch-advanced-tracking-tools-overview/"><u>[Updated] In 2024, Taking Your Instagram Game Up a Notch Advanced Tracking Tools Overview</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-cutting-out-clutter-strategies-to-refine-audible-landscapes-with-web-based-audio-processors/"><u>2024 Approved Cutting Out Clutter Strategies to Refine Audible Landscapes with Web-Based Audio Processors</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-the-art-of-sonic-depth-incorporating-virtual-reverberation-into-your-windows-based-audio-projects/"><u>2024 Approved The Art of Sonic Depth Incorporating Virtual Reverberation Into Your Windows-Based Audio Projects</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-upgraded-audio-methods-for-video-enhancement-the-current-state-of-practice/"><u>2024 Approved Upgraded Audio Methods for Video Enhancement The Current State of Practice</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/comprehensive-tutorial-how-to-update-or-reinstall-sharp-printer-drivers-on-windows-pcs/"><u>Comprehensive Tutorial: How to Update or Reinstall Sharp Printer Drivers on Windows PCs</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-epson-wf-3540-driver-software-for-windows-pc/"><u>Download & Install Epson WF-3540 Driver Software for Windows PC</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/explore-the-leading-audio-editors-a-windows-and-mac-comparison-guide/"><u>Explore the Leading Audio Editors A Windows & Mac Comparison Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-xiaomi-redmi-note-13-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Xiaomi Redmi Note 13 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/prepare-yourself-even-more-prime-video-commercials-on-the-way-from-amazon/"><u>Prepare Yourself: Even More Prime Video Commercials on the Way From Amazon</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719578407692-swiftlearnbangla-master-language-with-minutes/"><u>SwiftLearnBangla: Master Language with Minutes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-pc-download-the-latest-intel-wireless-ax2-drivers-for-windows-1110/"><u>Update Your PC: Download the Latest Intel Wireless AX2# Drivers for Windows 11/10</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-innovations-in-audio-production-adding-subtle-fading-techniques-to-your-toolkit/"><u>Updated 2024 Approved Innovations in Audio Production Adding Subtle Fading Techniques to Your Toolkit</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-precision-audio-processing-effective-methods-to-eliminate-echoes-and-dampen-reverb-for-pristine-soundtracks/"><u>Updated 2024 Approved Precision Audio Processing Effective Methods to Eliminate Echoes and Dampen Reverb for Pristine Soundtracks</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-audio-dynamics-in-motion-blending-auditory-data-with-kinetic-graphics-in-adobe-premiere-pros-environment/"><u>Updated Audio Dynamics in Motion Blending Auditory Data with Kinetic Graphics in Adobe Premiere Pros Environment</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-essential-directories-the-premier-10-sites-for-acquiring-montage-soundtracks/"><u>Updated Essential Directories The Premier 10 Sites for Acquiring Montage Soundtracks</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-mastering-audio-manipulation-speed-and-pitch-adjustments-in-adobe-rush-for-2024/"><u>Updated Mastering Audio Manipulation Speed and Pitch Adjustments in Adobe Rush for 2024</u></a></li>
 </ul></div>
 

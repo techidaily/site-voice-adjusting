@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: When Cortana Stops Responding"
-date: 2024-11-06T17:44:37.504Z
-updated: 2024-11-13T17:50:36.696Z
+date: 2024-11-10T10:43:59.890Z
+updated: 2024-11-14T11:52:47.862Z
 tags:
   - win11
   - win10
@@ -30,22 +30,15 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
 5. [Reset Cortana](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 1: Reboot your Windows 10 PC
 
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 2: Check your region and language settings
 
@@ -59,9 +52,23 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Region & language.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Make sure the region and language settings is matched with yours.
 
@@ -85,13 +92,6 @@ Check your region and language settings on your computer:
 
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 4: Update your Microphone driver and audio driver
 
  This problem could be also caused by an old or incorrect Microphone driver or audio driver. You can update your drivers to solve this problem.
@@ -112,26 +112,26 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8cc9febab7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Click the  **Update**  button next to all flagged drivers to automatically download and install the correct version of their driver (you can do this with the FREE version).
 
 Or click  **Update All** to automatically download and install the correct version of  _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Reboot your Windows 10 and try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 5: Reset your Cortana
@@ -143,10 +143,10 @@ Or click  **Update All** to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb16d80e39a.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click the button beside **On** in **Hey Cortana** to turn off it. You should then see the **Off**  status.
@@ -177,18 +177,24 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-mastering-multimedia-posts-multiphotograph-and-video-uploads-on-instagram-for-2024/"><u>[New] Mastering Multimedia Posts Multiphotograph & Video Uploads on Instagram for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-essential-guide-to-du-recorder-functionality/"><u>[Updated] 2024 Approved The Essential Guide to Du Recorder Functionality</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-enhance-engagement-sharing-videos-on-instagram/"><u>[Updated] In 2024, Enhance Engagement Sharing Videos on Instagram</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-unfollowers-alert-on-your-instagram-map/"><u>2024 Approved Unfollowers Alert on Your Instagram Map</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/convertir-archivo-flv-a-formato-m4a-de-forma-gratuita-online-con-conversor-video/"><u>Convertir Archivo FLV a Formato M4A De Forma Gratuita Online Con Conversor Video</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/guia-rapida-para-migrar-archivos-desde-hdd-hacia-una-ssd-en-windows-10-mediante-dos-tecnicas-efectivas/"><u>Guía Rápida Para Migrar Archivos Desde HDD Hacia Una SSD en Windows 10 Mediante Dos Técnicas Efectivas</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/instantaneous-strategies-for-silencing-auditory-ground-hum/"><u>Instantaneous Strategies for Silencing Auditory Ground Hum</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-techno-tranquility-a-curated-selection-of-websites-for-a-peaceful-mental-escape/"><u>New Techno Tranquility A Curated Selection of Websites for a Peaceful Mental Escape</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-best-digital-audio-trimmer-tools-of-the-future/"><u>New The Best Digital Audio Trimmer Tools of the Future</u></a></li>
-<li><a href="https://video-capture.techidaily.com/ultimate-selection-of-6-leading-online-slide-show-creators-including-tutorials/"><u>Ultimate Selection of 6 Leading Online Slide Show Creators Including Tutorials</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-essential-audio-recorders-the-top-mp3-software-compatible-with-pc-and-mac-os/"><u>Updated Essential Audio Recorders The Top MP3 Software Compatible with PC & Mac OS</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/where-can-i-find-cricket-sound-effect-in-2024/"><u>Where Can I Find Cricket Sound Effect, In 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-streamline-your-screens-with-a-three-column-board-setup/"><u>Windows 11: Streamline Your Screens with a Three-Column Board Setup</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-advanced-slidecasting-powerpoint-and-webcam-perfection/"><u>[New] 2024 Approved Advanced Slidecasting PowerPoint & Webcam Perfection</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-leading-iphone-apps-the-ultimate-guide-to-removing-photo-clutter-for-2024/"><u>[New] Leading iPhone Apps The Ultimate Guide to Removing Photo Clutter for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-essential-techniques-for-saving-mobile-gameplay/"><u>[Updated] 2024 Approved Essential Techniques for Saving Mobile Gameplay</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-mastering-audio-downloads-a-guide-to-collecting-podcast-episodes-on-pc/"><u>2024 Approved Mastering Audio Downloads A Guide to Collecting Podcast Episodes on PC</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-ultimate-audio-adjustment-guide-for-electronics/"><u>2024 Approved Ultimate Audio Adjustment Guide for Electronics</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-honor-magic-6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/a-beginners-handbook-to-professional-music-video-editing-for-2024/"><u>A Beginners Handbook to Professional Music Video Editing for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/descarga-rapida-e-ininterrumpible-de-videos-4k-las-aplicaciones-gratuitas-mas-efectivas-para-sus-listas-de-reproduccion-favoritas/"><u>Descarga Rápida E Ininterrumpible De Videos 4K: Las Aplicaciones Gratuitas Más Efectivas Para Sus Listas De Reproducción Favoritas</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-expertly-curated-list-of-premier-audio-trimming-software-websites/"><u>New 2024 Approved Expertly Curated List of Premier Audio Trimming Software Websites</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-online-audio-enhancement-a-step-by-step-guide-to-adjusting-speed-and-pitch/"><u>New 2024 Approved Online Audio Enhancement A Step-by-Step Guide to Adjusting Speed & Pitch</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-achieving-optimal-sound-levels-with-audacitys-volume-slider/"><u>New Achieving Optimal Sound Levels with Audacitys Volume Slider</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-enhance-your-sound-system-explore-the-best-5-car-audio-mixers-compatible-with-mac-computers/"><u>New In 2024, Enhance Your Sound System Explore the Best 5 Car Audio Mixers Compatible with Mac Computers</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/revolutionizing-voice-capture-the-best-8-free-online-recorders-available/"><u>Revolutionizing Voice Capture - The Best 8 Free Online Recorders Available</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-smarter-way-to-drive-in-depth-look-at-the-escort-ix-your-self-improving-radar-detective/"><u>The Smarter Way to Drive: In-Depth Look at the Escort iX - Your Self-Improving Radar Detective</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-xiaomi-14-ultra-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Xiaomi 14 Ultra Phone</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-corsair-icue-connectivity-problems-on-windows-11-pcs/"><u>Troubleshooting Corsair iCUE Connectivity Problems on Windows 11 PCs</u></a></li>
+<li><a href="https://win-news.techidaily.com/ultimate-tutorial-on-retrieving-guitar-tricks-videos-as-high-quality-files-mp4-mov-mp3-avi/"><u>Ultimate Tutorial on Retrieving Guitar Tricks Videos as High-Quality Files (MP4, MOV, MP3, AVI)</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-harmonious-hacks-free-music-resources-for-video-craftsmanship/"><u>Updated Harmonious Hacks Free Music Resources for Video Craftsmanship</u></a></li>
+<li><a href="https://win-news.techidaily.com/wd-my-passport-avec-les-meilleures-fonctionnalites-de-sauvegarde-aomei-backupper-enrichi/"><u>WD My Passport Avec Les Meilleures Fonctionnalités De Sauvegarde : AOMEI Backupper Enrichi</u></a></li>
 </ul></div>
 

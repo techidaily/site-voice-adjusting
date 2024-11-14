@@ -1,7 +1,7 @@
 ---
 title: Sea of Thieves Won't Open? Here's What You Can Do
-date: 2024-11-06T16:19:25.165Z
-updated: 2024-11-13T19:10:42.637Z
+date: 2024-11-13T06:57:06.874Z
+updated: 2024-11-14T10:01:12.385Z
 tags:
   - win11
   - win10
@@ -56,14 +56,21 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/properties.jpg)
 3. Under the **Compatibility** tab, tick **Run this program as an administrator** . Then click **OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/ad.jpg)
 4. Run the game to check whether the problem is solved or not.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Do an App reset
@@ -81,10 +88,10 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 6. Find and click **Sea of Thieves** on the list.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Click **Advanced Options** and click**Reset** .  
@@ -100,28 +107,8 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/timelanguage.jpg)
 2. Open the**Set time automatically** button.  
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/time.jpg)
 3. Check your time zone and date.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Click **Region** and check your region is corrected.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/region-1.jpg)
@@ -130,13 +117,6 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 6. Run Sea of Thieves to check.
 
 **Note** : If your language and region is set to **English (United States)** already please change it to **English (United Kingdom)** instead.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Run Powershell
 
@@ -147,8 +127,22 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/powershell.jpg)
 3. Copy and paste the following into the Powershell window and press Enter.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  **Get-AppXPackage | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($\_.InstallLocation)\\AppXManifest.xml”}**
 4. Run Sea of Thieves to check.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Update your drivers and programs
 
@@ -179,21 +173,15 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Reboot your PC and run Sea of Thieves to check.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable incompatible apps
 
@@ -226,18 +214,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-quick-recording-trick-webcam-plus-display-on-the-fly/"><u>[New] In 2024, Quick Recording Trick Webcam + Display on the Fly</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-magixs-acid-pro-reviewed-comparing-similar-software/"><u>[Updated] 2024 Approved Magix's ACID Pro Reviewed Comparing Similar Software</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-aesthetic-fusion-studio-ultimate-photo-alchemy/"><u>2024 Approved Aesthetic Fusion Studio Ultimate Photo Alchemy</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/automated-conversion-tracking-enhanced-with-the-power-of-cookiebot-technology/"><u>Automated Conversion Tracking: Enhanced with the Power of Cookiebot Technology</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Realme C33 2023? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-refresh-the-software-of-your-apple-studio-display-expert-advice-from-zdnet/"><u>How To Refresh The Software of Your Apple Studio Display - Expert Advice From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-the-new-goliath-of-computing-amperes-revolutionary-512-core-ampereone-aurora-with-advanced-ai-capabilities-and-compatibility-with-high-bandwidth78/"><u>Introducing the New Goliath of Computing: Ampere's Revolutionary 512-Core AmpereOne Aurora with Advanced AI Capabilities and Compatibility with High Bandwidth Memory</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-arm-support-now-live-upgrade-your-filmora-x-experience/"><u>New ARM Support Now Live Upgrade Your Filmora X Experience</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-deconstructing-the-efficacy-of-sound-forge-in-music-production/"><u>New In 2024, Deconstructing the Efficacy of Sound Forge in Music Production</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-add-music-to-igtv/"><u>Updated 2024 Approved Add Music to IGTV</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-how-to-mute-audio-from-video/"><u>Updated 2024 Approved How to Mute Audio From Video</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-the-guide-to-enhancing-avi-files-with-audio-tracks/"><u>Updated 2024 Approved The Guide to Enhancing AVI Files with Audio Tracks</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-5-best-cellphone-tunes-of-the-year/"><u>Updated In 2024, 5 Best Cellphone Tunes of the Year</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-becoming-a-pro-at-using-a-tripod-for-clear-high-quality-vlogs/"><u>[Updated] Becoming a Pro at Using a Tripod for Clear, High-Quality Vlogs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-detailed-look-logitechs-elite-4k-webcam-review-for-2024/"><u>[Updated] Detailed Look Logitech’s Elite 4K Webcam Review for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-capturing-the-sonic-imprint-of-pressing-a-buttons/"><u>2024 Approved Capturing the Sonic Imprint of Pressing a Buttons</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/boost-your-conversions-building-irresistible-email-signup-forms-detailed-tips-and-techniques-with-massmail-demo/"><u>Boost Your Conversions: Building Irresistible Email Signup Forms, Detailed Tips & Techniques with MassMail Demo</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-3-top-ranked-online-tools-for-enhancing-audio-clarity/"><u>In 2024, 3 Top-Ranked Online Tools for Enhancing Audio Clarity</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-a-step-by-step-approach-to-implementing-audio-volume-diminuation-for-2024/"><u>New A Step-by-Step Approach to Implementing Audio Volume Diminuation for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-eliminating-audible-hum-techniques-for-silence-in-recorded-sounds-for-2024/"><u>New Eliminating Audible Hum Techniques for Silence in Recorded Sounds for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-from-silence-to-sight-adding-images-to-your-music-playlist-creative-sound-design/"><u>New From Silence to Sight Adding Images to Your Music Playlist Creative Sound Design</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/nintendo-switch-online-status-understanding-connection-issues-or-user-errors/"><u>Nintendo Switch Online Status: Understanding Connection Issues or User Errors?</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-unable-to-connect-to-microsoft-exchange-challenge-in-outlook/"><u>Overcoming the Unable to Connect to Microsoft Exchange Challenge in Outlook</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-samsung-galaxy-s23-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Samsung Galaxy S23</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/step-by-step-guide-embedding-vimeo-videos-into-presentations-for-2024/"><u>Step-by-Step Guide Embedding Vimeo Videos Into Presentations for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/superb-video-connections-adventures/"><u>Superb Video Connections Adventures</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-comprehensive-analysis-of-audio-editing-software-sound-forge-edition-for-2024/"><u>Updated Comprehensive Analysis of Audio Editing Software Sound Forge Edition for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-step-by-step-adding-and-eliminating-audacity-from-chromebooks/"><u>Updated In 2024, Step-by-Step Adding and Eliminating Audacity From Chromebooks</u></a></li>
 </ul></div>
 

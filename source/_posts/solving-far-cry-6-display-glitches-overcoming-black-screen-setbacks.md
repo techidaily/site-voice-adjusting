@@ -1,7 +1,7 @@
 ---
 title: "Solving Far Cry 6 Display Glitches: Overcoming Black Screen Setbacks"
-date: 2024-11-10T18:08:27.616Z
-updated: 2024-11-13T16:25:27.614Z
+date: 2024-11-09T07:37:47.096Z
+updated: 2024-11-14T00:55:20.136Z
 tags:
   - win11
   - win10
@@ -39,14 +39,14 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 2. In the Compatibility tab, click**Run this program in compatibility mode for** . Then choose the system in the drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 3. Click **OK** then run Fallout 4 to check.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update Graphics Card Drivers
 
@@ -62,14 +62,21 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2019/07/NVIDIA-Geoforce-7.jpg)
 
----
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 3: Edit configuration files
 
@@ -87,13 +94,6 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Lower the graphics settings in the game
 
  It is possible that the game can be crashed because your graphics card cannot capable of the high settings in the game. So if you’re using an old graphics card, you can try this method to fix the problem.
@@ -103,20 +103,14 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4-1.jpg)
 3. Tick the**Windowed Mode** and**Borderless** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.1.jpg)
 
-4. Click**Advanced** . Lower the settings and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.2.jpg)
-
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. Click**Advanced** . Lower the settings and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.2.jpg)
 
 5. Run the game to check the problem will appear or not.
 
@@ -149,19 +143,22 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/xpert-tips-for-eradicating-extra-green-on-youtube-videos-mac/"><u>[New] Expert Tips for Eradicating Extra Green on YouTube Videos (Mac)</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-reel-effect-creating-compelling-loops-on-ig/"><u>[Updated] The Reel Effect Creating Compelling Loops on IG</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/captura-total-de-pantalla-optimizada-el-record-perfecto-para-pcs-con-windows/"><u>Captura Total De Pantalla Optimizada: El Récord Perfecto Para PCs Con Windows</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/expert-tips-diy-pc-maintenance-and-troubleshooting-techniques-used-by-professional-technicians/"><u>Expert Tips: DIY PC Maintenance & Troubleshooting Techniques Used by Professional Technicians</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-harmonic-hub-curating-exceptional-dj-visual-downloads/"><u>In 2024, Harmonic Hub Curating Exceptional DJ Visual Downloads</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-motorola-edgeplus-2023-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Motorola Edge+ (2023) Phone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-charting-out-the-leading-audio-reverse-programs-a-targeted-review-for-computers-and-phones/"><u>New 2024 Approved Charting Out the Leading Audio Reverse Programs A Targeted Review for Computers & Phones</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-discovering-the-leading-8-voice-command-programs-for-desktop-and-mobile-devices/"><u>New 2024 Approved Discovering the Leading 8 Voice Command Programs for Desktop and Mobile Devices</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-omegle-resurgence-overcoming-a-profile-ban-and-reconnecting-with-others/"><u>New 2024 Approved Omegle Resurgence Overcoming a Profile Ban and Reconnecting with Others</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-advanced-techniques-for-audio-video-detachment-in-adobe-premiere-pro-projects-for-2024/"><u>New Advanced Techniques for Audio-Video Detachment in Adobe Premiere Pro Projects for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-mastering-sound-separation-techniques-for-isolating-audio-from-videos-for-2024/"><u>New Mastering Sound Separation Techniques for Isolating Audio From Videos for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/techs-clash-of-titans-top-six/"><u>Tech's Clash of Titans: Top Six</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/techniques-to-write-persuasive-videographic-dialogues/"><u>Techniques to Write Persuasive Videographic Dialogues</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-samsung-galaxy-f15-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Samsung Galaxy F15 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-rise-to-prominence-6-game-changing-approaches-for-instagram-verification-and-fan-increase-for-2024/"><u>[New] Rise to Prominence 6 Game-Changing Approaches for Instagram Verification & Fan Increase for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-sensational-screens-the-top-10-tech-for-live-recordings-for-2024/"><u>[New] Sensational Screens The Top 10 Tech for Live Recordings for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-quickcapturepro-the-definitive-guide-to-windows-snaps/"><u>[Updated] 2024 Approved QuickCapturePro The Definitive Guide to Windows Snaps</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-unveiling-the-best-android-and-ios-apps-for-monitoring-big-day-timers/"><u>[Updated] 2024 Approved Unveiling the Best Android & iOS Apps for Monitoring Big Day Timers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-filmmakers-approach-to-classroom-instructional-videos/"><u>[Updated] A Filmmaker’s Approach to Classroom Instructional Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-essential-techniques-for-screen-casts-ezvide-edition/"><u>2024 Approved Essential Techniques for Screen Casts - EZvide Edition</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96292913-9781620558959-encounters-with-nature-spirits-3rd-ed/"><u>Encounters with Nature Spirits (3rd ed.) | Free Book</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/eu-ai-regulation-impact-on-chatgpt/"><u>EU AI Regulation: Impact on ChatGPT</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-essential-8-free-apps-for-reducing-mobile-video-sizes/"><u>In 2024, Essential 8 Free Apps for Reducing Mobile Video Sizes</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-from-voice-to-verse-a-novices-guide-to-creating-a-polished-podcast-masterpiece/"><u>In 2024, From Voice to Verse A Novices Guide to Creating a Polished Podcast Masterpiece</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-selecting-the-premier-windows-application-for-auditory-emptying-in-videos/"><u>In 2024, Selecting the Premier Windows Application for Auditory Emptying in Videos</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/incorporate-melodies-into-gif-file-on-pc/"><u>Incorporate Melodies Into GIF File on PC</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-mastering-premiere-pro-simplified-guide-to-managing-audio-layers/"><u>New 2024 Approved Mastering Premiere Pro Simplified Guide to Managing Audio Layers</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-explore-the-best-8-audio-editing-platforms-available-for-mac-and-pc-users-for-2024/"><u>New Explore the Best 8 Audio Editing Platforms Available for Mac & PC Users for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-how-to-select-superb-instrumental-tracks-for-enhanced-video-vibes-for-2024/"><u>New How to Select Superb Instrumental Tracks for Enhanced Video Vibes for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-increase-video-volume-and-make-video-sounds-louder-video-volume-booster/"><u>New Increase Video Volume & Make Video Sounds Louder -Video Volume Booster</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-innovations-and-standouts-10-premier-podcast-hosting-providers/"><u>New Innovations and Standouts 10 Premier Podcast Hosting Providers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Silent Interludes, Harmonious Sounds Expert Techniques for Audio Ducking in Adobe Premiere Pro on a Mac Computer for 2024
-date: 2024-11-06T18:20:41.849Z
-updated: 2024-11-13T16:58:41.993Z
+date: 2024-11-09T05:43:13.895Z
+updated: 2024-11-13T17:58:22.025Z
 tags: 
   - audio editing software
   - audio editing
@@ -57,16 +57,10 @@ Great! You can now preview the changes you have made and check the audio ducking
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
@@ -76,10 +70,10 @@ As you can see, the Premiere Pro audio ducking feature can get a bit complicated
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
@@ -109,10 +103,10 @@ Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -130,21 +124,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-essential-scripts-for-advanced-affects-workflows/"><u>[Updated] In 2024, Essential Scripts for Advanced Affects Workflows</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-streamlining-social-media-posts-with-srt-file-integration-tips/"><u>[Updated] Streamlining Social Media Posts with SRT File Integration Tips</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-exploring-top-tier-gopro-cameras-max-vs-hero-11/"><u>2024 Approved Exploring Top-Tier GoPro Cameras Max Vs. Hero 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/disable-touchpad-when-connected-to-mouse-on-windows-10/"><u>Disable Touchpad When Connected to Mouse on Windows 10</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/harnessing-your-cameras-power-for-live-online-content-on-personal-computers/"><u>Harnessing Your Camera's Power for Live Online Content on Personal Computers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-a-guide-to-copyright-free-tracks-perfect-for-videographic-artistry/"><u>In 2024, A Guide to Copyright-Free Tracks Perfect for Videographic Artistry</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-7-types-of-audio-effects-you-should-know/"><u>New 2024 Approved 7 Types of Audio Effects You Should Know</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-ethereal-soundscapes-review-analyzing-best-in-class-audio-editors-and-their-pros-cons-and-alternatives/"><u>New 2024 Approved Ethereal Soundscapes Review Analyzing Best-in-Class Audio Editors and Their Pros, Cons, and Alternatives</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-preferred-6-web-linked-audiophone-extraction-devices/"><u>New 2024 Approved Preferred 6 Web-Linked Audiophone Extraction Devices</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-8-best-intro-sound-effects-for-youtubers/"><u>New 8 Best Intro Sound Effects for Youtubers</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-elevating-audio-standards-top-10-sound-upgraders-for-smartphones-androidios-for-2024/"><u>New Elevating Audio Standards Top 10 Sound Upgraders for Smartphones (Android/iOS) for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-marketing-mastery-series-top-podcasts-to-guide-you-through-social-medias-impact/"><u>New In 2024, Marketing Mastery Series Top Podcasts to Guide You Through Social Medias Impact</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/optimizing-your-tech-setup-with-expert-advice-from-toms-hardware/"><u>Optimizing Your Tech Setup with Expert Advice From Tom's Hardware</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resetting-lenovo-pcs-a-comprehensive-walkthrough-of-factory-default-procedures/"><u>Resetting Lenovo PCs – A Comprehensive Walkthrough of Factory Default Procedures</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-notepad-in-w11-with-insightful-ai/"><u>Transform Notepad in W11 with Insightful AI</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-giggle-factory-gratis-memo-makers-available/"><u>[New] Giggle Factory Gratis Memo Makers Available</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/astering-mobile-asmr-must-have-apps-for-2024/"><u>[New] Mastering Mobile ASMR Must-Have Apps for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-honor-magic-6-frp-bypass-by-drfone-android/"><u>About Honor Magic 6 FRP Bypass</u></a></li>
+<li><a href="https://article-posts.techidaily.com/decoding-windows-11-new-functionality-for-2024/"><u>Decoding Windows 11 New Functionality for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-oppo-reno-11f-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Oppo Reno 11F 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-practical-pitch-isolators-from-rookies-to-vocal-maestros/"><u>In 2024, Practical Pitch Isolators From Rookies to Vocal Maestros</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/in-depth-guide-to-windows-11-on-lumia-phones-specs-release-dates-and-cost-breakdown-for-models-950950-xl/"><u>In-Depth Guide to Windows 11 on Lumia Phones: Specs, Release Dates, and Cost Breakdown for Models 950/950 XL</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/listen-up-write-it-down-comprehensive-guide-to-free-audio-to-text-apps-for-android-and-ios-for-2024/"><u>Listen Up, Write It Down Comprehensive Guide to Free Audio-to-Text Apps for Android and iOS for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-a-detailed-walkthrough-incorporating-soundtracks-into-your-imovie-narratives/"><u>New A Detailed Walkthrough Incorporating Soundtracks Into Your iMovie Narratives</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-audio-splitter-how-to-split-audio-files-easily/"><u>New In 2024, Audio Splitter How to Split Audio Files Easily</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-artisans-guide-to-using-garageband-for-recording-and-editing-audio-projects/"><u>New In 2024, The Artisans Guide to Using GarageBand for Recording and Editing Audio Projects</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-beat-makers-playbook-ranking-the-top-8-daw-applications-for-contemporary-urban-music/"><u>New In 2024, The Beat Makers Playbook Ranking the Top 8 DAW Applications for Contemporary Urban Music</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-mastering-audio-clarity-simplified-techniques-for-noise-elimination-in-audacity-and-filmorapro/"><u>New Mastering Audio Clarity Simplified Techniques for Noise Elimination in Audacity & FilmoraPro</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-tempo-transitions-the-art-of-syncing-your-footage-to-music-pulses-using-adobe-premiere-pros-tools/"><u>New Tempo Transitions The Art of Syncing Your Footage to Music Pulses Using Adobe Premiere Pros Tools</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-2023-guide-to-integrating-creative-audio-elements-into-your-film-projects/"><u>New The 2023 Guide to Integrating Creative Audio Elements Into Your Film Projects</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quick-access-to-xps-movie-making-tools-for-2024/"><u>Quick Access to XP's Movie Making Tools for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-startech-driver-conflicts-on-windows-10-8-and-7-solutions-exposed/"><u>Resolving StarTech Driver Conflicts on Windows 10, 8 & 7 - Solutions Exposed</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/your-pathway-to-instagram-stardom-top-video-strategies-for-2024/"><u>Your Pathway to Instagram Stardom Top Video Strategies for 2024</u></a></li>
 </ul></div>
 
