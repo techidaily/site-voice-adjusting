@@ -1,7 +1,7 @@
 ---
 title: Updated Unleashing Your Creative Potential The Comprehensive Guide to Volume Automation and Ducking with Adobe Premiere Pro (Mac Edition) for 2024
-date: 2024-11-06T19:03:44.595Z
-updated: 2024-11-14T13:01:10.291Z
+date: 2024-11-16T23:51:17.901Z
+updated: 2024-11-24T08:06:25.497Z
 tags: 
   - audio editing software
   - audio editing
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb887
 Too many times, while mixing voiceover with the background music in a video, the dialogues don’t seem to be audible. That’s when we follow the process of audio ducking in **Premiere Pro** that would automatically lower the volume of the background music whenever there is a dialogue.
 
 The best thing about Premiere Pro audio ducking is that it is an automatic process and we don’t need to put a lot of effort. To make your job easier, I’m going to let you know how to use the Adobe Premiere Pro audio ducking feature in a step by step manner in this guide.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: How to Use Audio Ducking to Balance Music and Voiceover in Adobe Premiere Pro on Mac?
 
@@ -57,10 +61,7 @@ Great! You can now preview the changes you have made and check the audio ducking
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
@@ -70,10 +71,7 @@ As you can see, the Premiere Pro audio ducking feature can get a bit complicated
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
@@ -103,10 +101,7 @@ Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -124,16 +119,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-free-windows-software-perfect-tv-recording-techniques/"><u>[New] 2024 Approved Free Windows Software Perfect TV Recording Techniques</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/advanced-techniques-using-jump-cuts-effectively-for-2024/"><u>Advanced Techniques Using Jump Cuts Effectively for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone 14 Pro Max</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-xiaomi-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Xiaomi ?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Infinix Smart 7 HD? | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-essential-list-of-top-10-audio-editors-for-windows-and-mac-platforms/"><u>New 2024 Approved The Essential List of Top 10 Audio Editors for Windows & Mac Platforms</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/1714909721305-new-how-to-make-your-voice-deeper-with-filmora/"><u>New How to Make Your Voice Deeper With Filmora</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-virtual-exploration-a-tactical-approach-for-2024/"><u>The Art of Virtual Exploration A Tactical Approach for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-leading-the-pack-the-top-10-sites-offering-a-rich-array-of-montage-based-soundscapes/"><u>Updated 2024 Approved Leading the Pack The Top 10 Sites Offering a Rich Array of Montage-Based Soundscapes</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-the-ultimate-guide-to-silencing-sounds-cutting-audio-from-iphonesmac-videos-for-2024/"><u>Updated The Ultimate Guide to Silencing Sounds Cutting Audio From iPhones/Mac Videos for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-trail-the-echoes-of-game-soundscape/"><u>Updated Trail the Echoes of Game Soundscape</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-streamlining-sound-recording-a-filmmakers-handbook-on-voice-overs/"><u>[New] 2024 Approved Streamlining Sound Recording A Filmmaker's Handbook on Voice-Overs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-create-a-square-video-for-instagram-in-imovie-in-2024/"><u>[New] How to Create a Square Video for Instagram in iMovie, In 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-enhancing-video-soundtracks-on-digital-platforms/"><u>[Updated] 2024 Approved Enhancing Video Soundtracks on Digital Platforms</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-top-15-audio-collections-matching-melodies-with-every-type-of-visual-narrative/"><u>2024 Approved Top 15 Audio Collections Matching Melodies with Every Type of Visual Narrative</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-motorola-moto-g34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/echoes-within-formats-mp4s-guide-to-effortless-audio-retrieval-techniques/"><u>Echoes Within Formats MP4s Guide to Effortless Audio Retrieval Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-curbing-elevated-starfield-cpu-consumption/"><u>Effective Solutions for Curbing Elevated Starfield CPU Consumption</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Realme 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Tecno Spark Go (2023)? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-chrome-os-users-installation-and-removal-of-audacity-for-advanced-sound-editing/"><u>New In 2024, Chrome OS Users Installation and Removal of Audacity for Advanced Sound Editing</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-sound-engineers-playbook-techniques-for-distilling-song-beats-through-technology/"><u>New In 2024, The Sound Engineers Playbook Techniques for Distilling Song Beats Through Technology</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleashing-creativity-this-festive-season-essential-gift-ideas-for-handy-diyers-as-recommended/"><u>Unleashing Creativity This Festive Season: Essential Gift Ideas for Handy DIYers, as Recommended</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-decoding-youtubes-comprehensive-audible-archive/"><u>Updated In 2024, Decoding YouTubes Comprehensive Audible Archive</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-the-art-of-low-pitched-audio-transforming-your-voice-in-filmora-2023/"><u>Updated In 2024, The Art of Low-Pitched Audio Transforming Your Voice in Filmora 2023</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-zte-nubia-z60-ultra-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your ZTE Nubia Z60 Ultra Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated How to Lower Volume of the Media Files
-date: 2024-11-03T16:21:11.861Z
-updated: 2024-11-04T16:20:59.745Z
+date: 2024-11-22T00:50:23.566Z
+updated: 2024-11-23T17:08:31.492Z
 tags: 
   - audio editing software
   - audio editing
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Lower Volume of the Media Files Step by Step Guide
 
 ### 1 Add media files you want to lower volume
@@ -39,10 +43,7 @@ thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3
 ![lower volume](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2 Lower volume of the media files
@@ -54,10 +55,7 @@ thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3
 ![how to lower volume](https://images.wondershare.com/images/multimedia/video-editor/change-volume.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3 Save the files
@@ -65,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3
  Then hit the “Create” icon to save the edited files. You can save your files to different formats such as WMV, MOV, AVI, MKV, MP4 or save to play on different devices such as iPhone, iPad, PSP and Zune. To do this, switch to the related tab, enter the preset settings and press "Create" to begin the export. The exported file should have the same video, but with louder audio. You can also burn the files to DVD or directly upload to YouTube if you choose.
 
 ![software to lower volume](https://images.wondershare.com/images/multimedia/video-editor/apple-device.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  See, it's so easy to lower the volume of the media files. Besides this function, this powerful video editing tool also supports trimming, cropping, adding video effects and loads more. Now just download it and explore more features of it!
 
@@ -75,20 +77,10 @@ thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -105,24 +97,15 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-craft-a-one-of-a-kind-digital-gag-now/"><u>[New] Craft a One-of-a-Kind Digital Gag Now</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-expert-techniques-for-saving-vimeo-videos-as-high-quality-mp4s-for-2024/"><u>[New] Expert Techniques for Saving Vimeo Videos as High-Quality MP4s for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/lash-fixing-fame-is-it-youtubes-shorts-or-tiktok-for-quick-content-conquest-in-2024/"><u>[New] Flash-Fixing Fame Is It YouTubes Shorts or TikTok for Quick Content Conquest, In 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-full-access-to-sierras-documents-and-desktop-in-the-cloud/"><u>[New] In 2024, Full Access to Sierra's Documents and Desktop in the Cloud</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-the-art-of-using-telegram-web/"><u>[Updated] Mastering the Art of Using Telegram Web</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-seamless-idevice-screen-saving-tricks/"><u>[Updated] Seamless iDevice Screen Saving Tricks</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-the-potential-of-feast-filled-videography/"><u>[Updated] Unlocking the Potential of Feast-Filled Videography</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/breaking-into-the-digital-realm-the-wirecast-approach-for-youtube-streamers-for-2024/"><u>Breaking Into the Digital Realm The WireCast Approach for YouTube Streamers for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/keyboard-shortcuts-that-power-up-win11/"><u>Keyboard Shortcuts That Power Up Win11</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/leading-6-digital-sound-snipping-applications-for-2024/"><u>Leading 6 Digital Sound Snipping Applications for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/mastering-audio-integration-combining-sounds-for-your-videography-project-for-2024/"><u>Mastering Audio Integration Combining Sounds for Your Videography Project for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-mastering-sound-intervals-techniques-for-manipulating-audio-timestamps-in-final-cut-pro-x/"><u>New 2024 Approved Mastering Sound Intervals Techniques for Manipulating Audio Timestamps in Final Cut Pro X</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-discover-the-best-no-cost-internet-accessible-daw-platforms-for-todays-audio-engineers/"><u>New Discover the Best No-Cost, Internet-Accessible DAW Platforms for Todays Audio Engineers</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-efficient-methods-for-turning-whatsapp-audio-into-mp3-files-in-minutes/"><u>New Efficient Methods for Turning WhatsApp Audio Into MP3 Files in Minutes</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-how-to-enhance-your-mkv-2023-file-with-audio-content/"><u>New In 2024, How to Enhance Your MKV-2023 File with Audio Content</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-proven-strategies-for-selecting-elite-sound-engineers-in-modern-filmmaking/"><u>New In 2024, Proven Strategies for Selecting Elite Sound Engineers in Modern Filmmaking</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-omegle-uncovered-delving-into-internet-based-social-sessions-security-landscape-for-2024/"><u>New Omegle Uncovered Delving Into Internet-Based Social Sessions Security Landscape for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-revitalize-audio-diminishments-in-video-presentation-for-2024/"><u>New Revitalize Audio Diminishments in Video Presentation for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722973597595-quick-install-download-hp-officejet-5740-printer-drivers-today/"><u>Quick Install: Download HP OfficeJet 5740 Printer Drivers Today</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-turn-your-mobile-videos-into-profitable-content-on-youtube/"><u>[New] 2024 Approved Turn Your Mobile Videos Into Profitable Content on YouTube</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-adobes-art-of-amusement-and-jest/"><u>2024 Approved Adobe's Art of Amusement and Jest</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-from-amateur-to-expert-audio-normalization-mastery-with-davinci-resolve/"><u>2024 Approved From Amateur to Expert Audio Normalization Mastery with DaVinci Resolve</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-samsung-galaxy-a15-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-itel-s23plus-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Itel S23+ Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-guides-to-efface-auditory-components-from-cinematic-pieces/"><u>In 2024, Guides to Efface Auditory Components From Cinematic Pieces</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/instructional-series-altering-the-auditory-component-of-digital-clips-for-2024/"><u>Instructional Series Altering the Auditory Component of Digital Clips for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-how-to-add-music-to-a-video-online-for-free/"><u>New How to Add Music to a Video Online for Free</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-your-android-alternative-methods-to-boot-without-a-power-button/"><u>Unlocking Your Android: Alternative Methods to Boot Without a Power Button</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/watching-netflix-on-a-game-boy-feasible-with-the-nintendo-switch/"><u>Watching Netflix on a Game Boy - Feasible With the Nintendo Switch?</u></a></li>
 </ul></div>
 

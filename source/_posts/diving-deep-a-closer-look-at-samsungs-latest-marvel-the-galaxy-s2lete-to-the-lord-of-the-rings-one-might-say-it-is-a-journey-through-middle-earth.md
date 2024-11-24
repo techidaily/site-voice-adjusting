@@ -1,7 +1,7 @@
 ---
 title: "Diving Deep: A Closer Look at Samsung's Latest Marvel - The Galaxy S2lete) to the 'Lord of the Rings', One Might Say, It Is a Journey Through Middle-Earth."
-date: 2024-11-09T17:22:00.749Z
-updated: 2024-11-13T16:18:31.690Z
+date: 2024-11-22T23:45:31.166Z
+updated: 2024-11-24T04:35:36.446Z
 categories:
   - BestProducts
 description: "This Article Describes Diving Deep: A Closer Look at Samsung's Latest Marvel - The Galaxy S2lete) to the 'Lord of the Rings', One Might Say, It Is a Journey Through Middle-Earth."
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 ## Boost Your Health Journey: Experience a New Level of Motivation and Tracking with the Fitbit Versa S 3, Featuring Inbuilt GPS Technology and Fitness Applications
 
 4.8
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fitbit Versa 3
 
@@ -43,10 +47,7 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 ![Fitbit Versa 3](https://www.lifewire.com/thmb/fpj6dU7VhqBf5ukwxKiaOimQtf4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fitbit-Versa-3-Hero5x4-3bcbedf50dc940008e9c10ee237c88a3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Yoona Wagener
@@ -75,14 +76,11 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 
 ![Fitbit Versa 3](https://www.lifewire.com/thmb/ceE1xxVfUTF44pCOtEXiO6JW_IA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fitbit-Versa-3-04-ef922812d0444da4a7277e91efe2fcf8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Yoona Wagener
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Design: Sleek and smart-looking
 
@@ -94,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 
  This smartwatch is capable of storing five different watch faces, and while they’re easy to find, downloading a new face, just like all apps—took quite a while. The SPO2 watch face is compatible with the Versa 3, but you’ll have to pay for the Fitbit Premium app subscription to access this data in any meaningful way.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Comfort: Lightweight for all-day wear
 
  I found the Fitbit Versa 3 to be pleasantly lightweight and easy to wear for the whole day. Sleeping with it was never an issue, and the sleep mode setting was easy to turn on for uninterrupted sleep. Showering with the device was also uneventful, though I found that the side button was somehow turned on by contact with the water. I’m not sure how this bodes for swimming workouts with this device, which it’s supposed to be able to handle with its 50-meter water resistance.
@@ -103,13 +105,6 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 ![Fitbit Versa 3](https://www.lifewire.com/thmb/R_j7dFFwnlWoGyar6N0dYZREqIM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fitbit-Versa-3-02-8b212782c0f245459f26ffaa0e2982e2.jpg)
 
  Lifewire / Yoona Wagener
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Performance: Accuracy slightly questionable
 
@@ -126,10 +121,7 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
  Lifewire / Yoona Wagener
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Battery: Lasts for a solid six days
@@ -139,10 +131,7 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
  It charged from critically low to 100 percent in about 1.25 hours, which is in line with the 1-2 hour estimation by the manufacturer. A quick charge brought the device from 9 percent to 29 percent, which tracks with the claim that a 12-minute charge would bring it up to a full day of battery life.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Software/Key Features: Wellness and convenience features reign
@@ -211,14 +200,20 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-securely-save-your-favorite-videos-with-these-download-tools/"><u>[Updated] Securely Save Your Favorite Videos with These Download Tools</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-reclaim-social-life-overcoming-a-hack-on-facebook/"><u>2024 Approved Reclaim Social Life Overcoming a Hack on Facebook</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-lava-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Lava Phone that is Locked?</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-mastering-mp3-file-modification-a-step-by-step-guide/"><u>In 2024, Mastering MP3 File Modification A Step-by-Step Guide</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-unlocking-the-power-of-language-adaptation-advanced-techniques-for-video-dubbing-via-filmora/"><u>In 2024, Unlocking the Power of Language Adaptation Advanced Techniques for Video Dubbing via Filmora</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-top-10-best-talk-with-strangers-apps/"><u>New 2024 Approved Top 10 Best Talk with Strangers Apps</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-commanding-attention-techniques-for-higher-pitched-voice-in-digital-storytelling/"><u>New Commanding Attention Techniques for Higher Pitched Voice in Digital Storytelling</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/resolving-intel-hd-graphics-630-driver-problems-on-your-windows-pc/"><u>Resolving Intel HD Graphics 630 Driver Problems on Your Windows PC</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-essential-guide-to-the-3rd-gen-echo-dot-2e-how-this-tiny-device-packs-all-in-one-alexa-functionality/"><u>The Essential Guide to the 3Rd Gen Echo Dot (2E): How This Tiny Device Packs All-in-One Alexa Functionality</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-mastering-soundscapes-the-ultimate-guide-to-iphoneipad-podcast-downloads/"><u>[New] 2024 Approved Mastering Soundscapes The Ultimate Guide to iPhone/iPad Podcast Downloads</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-top-10-emulator-selections-for-mobile-gba-players/"><u>[New] 2024 Approved Top 10 Emulator Selections for Mobile GBA Players</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-methods-for-flipping-image-colors/"><u>2024 Approved Expert Methods for Flipping Image Colors</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-vivo-t2-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/brainiacs-guide-to-best-gk-quizzes-online/"><u>Brainiac's Guide to Best GK Quizzes Online</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guide-transferring-dvd-content-into-popular-video-formats-such-as-mp4-avi-or-mov/"><u>Guide: Transferring DVD Content Into Popular Video Formats Such as MP4, AVI, or MOV</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-nokia-c12-plus-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Nokia C12 Plus to New Phone | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-5-best-cellphone-tunes-of-the-year/"><u>New 5 Best Cellphone Tunes of the Year</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-how-to-generate-a-noise-free-avi-version-for-presentation-purposes/"><u>New In 2024, How to Generate a Noise-Free AVI Version for Presentation Purposes</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-futures-frontiers-unveiling-the-best-5-audio-video-fusion-technologies/"><u>The Futures Frontiers Unveiling the Best 5 Audio Video Fusion Technologies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-17-graphics-programs-the-ultimate-guide-to-choosing-the-right-one/"><u>Top 17 Graphics Programs: The Ultimate Guide to Choosing the Right One</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-masterful-audio-blenders-perfecting-the-art-of-online-content-delivery/"><u>Updated 2024 Approved Masterful Audio Blenders Perfecting the Art of Online Content Delivery</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-mastering-the-art-of-syncing-sound-and-imagery/"><u>Updated 2024 Approved Mastering the Art of Syncing Sound and Imagery</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-sneak-peek-into-the-secret-of-silent-videos-in-windows-10-no-additional-software/"><u>Updated In 2024, Sneak Peek Into the Secret of Silent Videos in Windows 10 (No Additional Software)</u></a></li>
 </ul></div>
 

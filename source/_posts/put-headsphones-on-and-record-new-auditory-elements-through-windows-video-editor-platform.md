@@ -1,7 +1,7 @@
 ---
 title: Put Headsphones On & Record New Auditory Elements Through Windows Video Editor Platform
-date: 2024-10-30T16:17:01.715Z
-updated: 2024-11-04T16:36:21.098Z
+date: 2024-11-18T05:23:27.639Z
+updated: 2024-11-23T17:21:45.548Z
 tags: 
   - audio editing software
   - audio editing
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5
 
 ![ Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-interface.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click on the **Open** button in the Add Videos and Photos window and your clip will be imported into the software.
 
 **Step 2:** After you added a clip to the storyboard you can preview it in order to decide which parts of the video you'd like to mute. Click on the **Edit** menu in the software's ribbon, to gain access to the video editing tools Windows Movie Maker has to offer.
@@ -50,14 +54,11 @@ thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5
 
 ![ Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/mute-video-audio-windows-movie-maker.jpg)
 
- Drag the slider all the way to the left to mute the audio. Click the **Play button** in the preview window to make sure that video's sound is muted.
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Drag the slider all the way to the left to mute the audio. Click the **Play button** in the preview window to make sure that video's sound is muted.
 
 ## Part 2: Adding a New Audio Clip to a Video
 
@@ -68,10 +69,7 @@ thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5
 ![ Windows Movie Maker Audio Editing]( https://images.wondershare.com/filmora/article-images/add-music-windows-movie-maker.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A drop-down menu will appear offering you to select music from an online source or to import an audio file from your computer. Moreover, you can select the starting point of the song you're importing so you don't have to adjust the position of the audio file in your project manually.
@@ -83,10 +81,7 @@ thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5
 ![ Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-save.jpg )
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Wondershare Filmora - A Better Way to Replace Audio Files in Videos on Windows OS
@@ -103,16 +98,13 @@ thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to add a new audio clip to your project and replace the old one, you should select the existing audio file and press the delete button on your keyboard. You can then drag and drop the new audio file to the timeline from the software's Media Bin, or the **Music tab**, in case you decide to use songs featured in Filmora's music library. You can cut, trim or adjust the start and end position of the audio file or use some of the audio effects the software offers. When done, click on the **Export** button and select the output format that is most suitable for the project you're working on.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Conclusion**
 
@@ -135,24 +127,15 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-from-clicks-to-cash-how-jake-paul-leveraged-youtube/"><u>[New] 2024 Approved From Clicks to Cash How Jake Paul Leveraged YouTube</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-elevate-your-gaming-experience-with-these-5-techniques-on-windows-11/"><u>[New] In 2024, Elevate Your Gaming Experience with These 5 Techniques on Windows 11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-top-10-list-free-image-layering-progs-iosandroid/"><u>2024 Approved Exclusive Top 10 List Free Image Layering Progs iOS/Android</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mp4aiffmovavi/"><u>在线免费MP4转换为AIFF：通过Movavi实现无障碍音频格式转换</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/best-methods-for-converting-mov-videos-into-high-quality-m4v-format-at-no-cost/"><u>Best Methods for Converting MOV Videos Into High-Quality M4V Format at No Cost</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ensure-your-hp-printer-works-perfectly-update-drivers-for-windows-1011/"><u>Ensure Your HP Printer Works Perfectly: Update Drivers for Windows 10/11</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Oppo Find N3 Flip | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-ultimate-guide-to-m4a-files-on-android-tips-and-tricks-for-todays-users/"><u>In 2024, The Ultimate Guide to M4A Files on Android Tips & Tricks for Todays Users</u></a></li>
-<li><a href="https://article-posts.techidaily.com/mastering-pip-feature-in-youtube-app-for-iphones/"><u>Mastering PIP Feature in YouTube App for iPhones</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-10-best-omegle-alternatives-meet-new-people-online/"><u>New 2024 Approved 10 Best Omegle Alternatives Meet New People Online</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-unblocking-omegle-a-step-by-step-plan-for-the-banned-user/"><u>New 2024 Approved Unblocking Omegle A Step-by-Step Plan for the Banned User</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-best-practices-for-eradicating-sound-from-windows-based-video-projects/"><u>New Best Practices for Eradicating Sound From Windows-Based Video Projects</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-navigating-the-modern-landscape-of-live-audio-capturing-for-streaming/"><u>New In 2024, Navigating the Modern Landscape of Live Audio Capturing for Streaming</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-leading-audio-tinkering-tools-ios-and-android-edition-revised/"><u>New In 2024, The Leading Audio Tinkering Tools IOS and Android Edition, Revised</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-quiet-revolution-cutting-edge-approaches-to-taming-sibilance-in-audio-editing/"><u>New In 2024, The Quiet Revolution Cutting-Edge Approaches to Taming Sibilance in Audio Editing</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-ultimate-guide-to-online-and-offline-video-to-audio-conversion-tools/"><u>New In 2024, Ultimate Guide to Online and Offline Video-to-Audio Conversion Tools</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-art-of-smooth-transitions-between-film-cuts-for-2024/"><u>New The Art of Smooth Transitions Between Film Cuts for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-for-restored-playability-correcting-compromised-game-data-in-windows-pcs/"><u>Step-by-Step Solutions for Restored Playability: Correcting Compromised Game Data in Windows PCs</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-poco-c51-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-instantly-boost-youtube-performance-master-render-and-upload/"><u>[New] Instantly Boost YouTube Performance - Master Render and Upload</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-audio-log-analysis-guidebook/"><u>[Updated] In 2024, Audio Log Analysis Guidebook</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-seamless-integration-from-gopro-to-popular-social-media-platforms-for-2024/"><u>[Updated] Seamless Integration From Gopro to Popular Social Media Platforms for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-ultimate-guide-to-spectacular-sound-art-ranking-the-top-5-visualizers/"><u>In 2024, The Ultimate Guide to Spectacular Sound Art Ranking the Top 5 Visualizers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-oppo-a1-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Oppo A1 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/macx-mediatrans-and/"><u>MacX MediaTrans: 完全ガイド！ダウンロード&インストールから最新の音楽編集術</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/mastering-sound-intervals-techniques-for-manipulating-audio-timestamps-in-final-cut-pro-x/"><u>Mastering Sound Intervals Techniques for Manipulating Audio Timestamps in Final Cut Pro X</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-auto-transcription-experts-choice-top-6-software-picks/"><u>New 2024 Approved The Auto-Transcription Experts Choice – Top 6 Software Picks</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-clearer-soundscapes-strategies-to-eradicate-unwanted-whistling-noises/"><u>New Clearer Soundscapes Strategies to Eradicate Unwanted Whistling Noises</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/reshape-your-videos-a-step-by-step-guide/"><u>Reshape Your Videos A Step-by-Step Guide</u></a></li>
 </ul></div>
 

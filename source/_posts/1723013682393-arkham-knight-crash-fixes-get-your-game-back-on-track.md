@@ -1,7 +1,7 @@
 ---
 title: Arkham Knight Crash Fixes – Get Your Game Back on Track
-date: 2024-11-07T18:36:28.985Z
-updated: 2024-11-13T17:14:12.942Z
+date: 2024-11-18T22:04:05.685Z
+updated: 2024-11-24T05:23:49.029Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ This award-winning Arkham trilogy offers the ultimate and complete Batman experi
 
  If your Batman Arkham Knight keeps crashing or giving your fatal errors, don’t worry. It can be fixed quite easily.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  First, make sure your PC meets the minimum[**system requirements**](https://dcgamessupport.wbgames.com/hc/en-us/articles/360001045728-What-are-the-PC-system-requirements-for-Batman-Arkham-Knight-) for Batman: Arkham Knight. If your PC specs are good to go, try the following fixes. You don’t have to try them all; just walk your way down until you find the one that works for you.
@@ -29,13 +33,6 @@ This award-winning Arkham trilogy offers the ultimate and complete Batman experi
 4. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Rename your DLL files](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Turn off smoke/fog](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1\. Verifying game files
 
@@ -53,13 +50,6 @@ This award-winning Arkham trilogy offers the ultimate and complete Batman experi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Verify-Integrity-of-Game-Files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Steam will verify the game’s files – this process may take several minutes.
 
 ##### For Epic Games
@@ -70,16 +60,13 @@ This award-winning Arkham trilogy offers the ultimate and complete Batman experi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/three-dots.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Once open, click **Verify**  in the drop-down navigation.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now try launching your game again and play for a while to test the issue. If Batman Arkham Knight crashing persists, you can try the next fix below.
 
@@ -107,6 +94,10 @@ There are mainly two ways for you to download the latest drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 
  4) Once the driver is updated, reboot your PC for the changes to take effect.
@@ -126,6 +117,10 @@ There are mainly two ways for you to download the latest drivers:
 
  If your Batman Arkham Knight keeps crashing, you should reset them to chipset manufacturer specifications. Sometimes, the latest graphics driver may affect the safe limit, so if this issue happens after a driver update, you can either roll back the driver or stop overclocking.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5\. Rename your DLL files
 
  Some users fixed this crashing issue by renaming the PhysXDevice64.dll file in the installation folder. If the DLL file gets corrupted, it’s very likely that your Batman Arkham Knight will keep crashing. Here’s how to fix this:
@@ -143,10 +138,7 @@ There are mainly two ways for you to download the latest drivers:
 If the crashing issue still persists, you can reinstall the whole game.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6\. Turn off smoke/fog
@@ -180,22 +172,20 @@ If the crashing issue still persists, you can reinstall the whole game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/1716069293527-new-2024-approved-little-legends-top-gaming-adventures/"><u>[New] 2024 Approved Little Legends Top Gaming Adventures!</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-effective-online-channels-for-youtube-advertising/"><u>[New] In 2024, Effective Online Channels for YouTube Advertising</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-superior-graphics-processors-in-4k-territory-for-2024/"><u>[Updated] Superior Graphics Processors in 4K Territory for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-art-of-nba-streaming-discover-the-best-15-techniques/"><u>[Updated] The Art of NBA Streaming - Discover the Best 15 Techniques</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-real-time-recording-battle-obs-studio-against-fraps/"><u>2024 Approved Real-Time Recording Battle OBS Studio Against Fraps</u></a></li>
-<li><a href="https://facebook.techidaily.com/detailed-tutorial-setting-up-fbs-mobile-generator/"><u>Detailed Tutorial: Setting Up FB's Mobile Generator</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-safe-is-your-ai-companion-unpacking-the-threats-of-neural-network-mining/"><u>How Safe Is Your AI Companion: Unpacking the Threats of Neural Network Mining</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-13t-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi 13T Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-14-pro-max-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 14 Pro Max When Its Locked Within Seconds | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-10-best-nature-sounds-apps-for-ios-and-android/"><u>New In 2024, 10 Best Nature Sounds Apps for iOS and Android</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-from-raw-footage-to-hit-vids-a-step-by-step-guide-for-editors/"><u>New In 2024, From Raw Footage to Hit Vids A Step-by-Step Guide for Editors</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-ultimate-list-of-the-most-accessible-no-cost-daw-programs-for-emerging-producers-for-2024/"><u>New The Ultimate List of the Most Accessible, No-Cost DAW Programs for Emerging Producers for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-zen-of-zooming-tips-and-tricks-for-keeping-conversations-quiet-on-devices/"><u>New The Zen of Zooming Tips and Tricks for Keeping Conversations Quiet on Devices</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-discover-the-best-7-online-services-for-precise-audio-reduction/"><u>Updated 2024 Approved Discover the Best 7 Online Services for Precise Audio Reduction</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-the-mp3-editors-playbook-simple-steps-for-improved-audio-output/"><u>Updated 2024 Approved The MP3 Editors Playbook Simple Steps for Improved Audio Output</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-cutting-edge-audio-editing-with-sony-vegas-pro-complete-guide/"><u>Updated Cutting Edge Audio Editing with Sony Vegas Pro – Complete Guide</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-audiovisual-beat-engineering-taking-audio-separates-for-creative-endeavors/"><u>Updated In 2024, Audiovisual Beat Engineering Taking Audio Separates for Creative Endeavors</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-ultimate-free-screen-cast-tools-for-windows-ranked-1-5-for-2024/"><u>[New] Ultimate Free Screen Cast Tools for Windows, Ranked #1-5 for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-documenting-xbox-gaming-tips-and-tricks-for-2024/"><u>[Updated] Documenting Xbox Gaming Tips & Tricks for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-depth-look-at-gecata-capture-tool/"><u>[Updated] In-Depth Look at Gecata Capture Tool</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-maximize-storage-essential-xbox-drive-picks-reviewed/"><u>2024 Approved Maximize Storage Essential Xbox Drive Picks Reviewed</u></a></li>
+<li><a href="https://video-capture.techidaily.com/capturing-victories-effective-strategies-with-w11-for-2024/"><u>Capturing Victories Effective Strategies with W11 for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-mastering-live-sound-techniques-for-capturing-real-time-audio-broadcasts/"><u>In 2024, Mastering Live Sound Techniques for Capturing Real-Time Audio Broadcasts</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-pro-streamers-compendium-essential-livestream-software-and-hardware-for-success/"><u>In 2024, Pro Streamer's Compendium Essential Livestream Software and Hardware for Success</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-ultimate-guide-to-real-time-audio-recording-in-the-digital-age/"><u>In 2024, The Ultimate Guide to Real-Time Audio Recording in the Digital Age</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/integrate-audio-with-animated-image-in-windows-environment/"><u>Integrate Audio with Animated Image in Windows Environment</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-melody-matchers-the-premier-music-detection-apps-compatible-with-android-smartphones/"><u>New 2024 Approved Melody Matchers The Premier Music Detection Apps Compatible with Android Smartphones</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-ultimate-guide-8-leading-music-creation-suites-for-mac-and-windows/"><u>New 2024 Approved The Ultimate Guide 8 Leading Music Creation Suites for Mac & Windows</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-elevating-your-home-films-auditory-impact-a-2023-perspective/"><u>New Elevating Your Home Films Auditory Impact A 2023 Perspective</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-exploring-the-best-audio-blending-software-top-picks-free-of-charge/"><u>New In 2024, Exploring the Best Audio Blending Software - Top Picks , Free of Charge!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/resolution-steps-fixing-windows-media-player-error-during-audiovideo-playback/"><u>Resolution Steps: Fixing 'Windows Media Player Error' During Audio/Video Playback</u></a></li>
 </ul></div>
 

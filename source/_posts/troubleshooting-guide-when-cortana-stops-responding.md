@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: When Cortana Stops Responding"
-date: 2024-11-10T10:43:59.890Z
-updated: 2024-11-14T11:52:47.862Z
+date: 2024-11-16T21:00:16.842Z
+updated: 2024-11-24T07:17:40.674Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
 
 **Cortana not working?**  I believe it’s one of your pet hates. Don’t panic. Usually it’s an easy problem to fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do I fix Cortana not working?
 
  Here are 5 methods you can try to fix this glitch. Please work your way down the list until you find the that works.
@@ -28,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
 3. [Make sure your Windows 10 system is up-to-date](https://tools.techidaily.com/drivereasy/download/)
 4. [Update your Microphone driver and audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Reset Cortana](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 1: Reboot your Windows 10 PC
 
@@ -52,27 +49,21 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Region & language.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Make sure the region and language settings is matched with yours.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Try Cortana again to see if it works.
 
@@ -119,20 +110,10 @@ Or click  **Update All** to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Reboot your Windows 10 and try Cortana again to see if it works.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 5: Reset your Cortana
 
@@ -143,10 +124,7 @@ Or click  **Update All** to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb16d80e39a.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click the button beside **On** in **Hey Cortana** to turn off it. You should then see the **Off**  status.
@@ -156,6 +134,10 @@ Or click  **Update All** to automatically download and install the correct versi
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb180855417.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Try Cortana again to see if it works.
 
@@ -177,24 +159,22 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-advanced-slidecasting-powerpoint-and-webcam-perfection/"><u>[New] 2024 Approved Advanced Slidecasting PowerPoint & Webcam Perfection</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-leading-iphone-apps-the-ultimate-guide-to-removing-photo-clutter-for-2024/"><u>[New] Leading iPhone Apps The Ultimate Guide to Removing Photo Clutter for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-essential-techniques-for-saving-mobile-gameplay/"><u>[Updated] 2024 Approved Essential Techniques for Saving Mobile Gameplay</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-mastering-audio-downloads-a-guide-to-collecting-podcast-episodes-on-pc/"><u>2024 Approved Mastering Audio Downloads A Guide to Collecting Podcast Episodes on PC</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-ultimate-audio-adjustment-guide-for-electronics/"><u>2024 Approved Ultimate Audio Adjustment Guide for Electronics</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-honor-magic-6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Honor Magic 6 Pro | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/a-beginners-handbook-to-professional-music-video-editing-for-2024/"><u>A Beginners Handbook to Professional Music Video Editing for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/descarga-rapida-e-ininterrumpible-de-videos-4k-las-aplicaciones-gratuitas-mas-efectivas-para-sus-listas-de-reproduccion-favoritas/"><u>Descarga Rápida E Ininterrumpible De Videos 4K: Las Aplicaciones Gratuitas Más Efectivas Para Sus Listas De Reproducción Favoritas</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-expertly-curated-list-of-premier-audio-trimming-software-websites/"><u>New 2024 Approved Expertly Curated List of Premier Audio Trimming Software Websites</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-online-audio-enhancement-a-step-by-step-guide-to-adjusting-speed-and-pitch/"><u>New 2024 Approved Online Audio Enhancement A Step-by-Step Guide to Adjusting Speed & Pitch</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-achieving-optimal-sound-levels-with-audacitys-volume-slider/"><u>New Achieving Optimal Sound Levels with Audacitys Volume Slider</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-enhance-your-sound-system-explore-the-best-5-car-audio-mixers-compatible-with-mac-computers/"><u>New In 2024, Enhance Your Sound System Explore the Best 5 Car Audio Mixers Compatible with Mac Computers</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/revolutionizing-voice-capture-the-best-8-free-online-recorders-available/"><u>Revolutionizing Voice Capture - The Best 8 Free Online Recorders Available</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-smarter-way-to-drive-in-depth-look-at-the-escort-ix-your-self-improving-radar-detective/"><u>The Smarter Way to Drive: In-Depth Look at the Escort iX - Your Self-Improving Radar Detective</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-xiaomi-14-ultra-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Xiaomi 14 Ultra Phone</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-corsair-icue-connectivity-problems-on-windows-11-pcs/"><u>Troubleshooting Corsair iCUE Connectivity Problems on Windows 11 PCs</u></a></li>
-<li><a href="https://win-news.techidaily.com/ultimate-tutorial-on-retrieving-guitar-tricks-videos-as-high-quality-files-mp4-mov-mp3-avi/"><u>Ultimate Tutorial on Retrieving Guitar Tricks Videos as High-Quality Files (MP4, MOV, MP3, AVI)</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-harmonious-hacks-free-music-resources-for-video-craftsmanship/"><u>Updated Harmonious Hacks Free Music Resources for Video Craftsmanship</u></a></li>
-<li><a href="https://win-news.techidaily.com/wd-my-passport-avec-les-meilleures-fonctionnalites-de-sauvegarde-aomei-backupper-enrichi/"><u>WD My Passport Avec Les Meilleures Fonctionnalités De Sauvegarde : AOMEI Backupper Enrichi</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/ttamp3movavi/"><u>線上即時TTA到MP3轉換：使用Movavi進行快速、無限制的音效改編</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-beginners-insight-into-streaming-media-players-and-how-they-work/"><u>A Beginner's Insight Into Streaming Media Players and How They Work</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/idea-generation-techniques-combining-mind-maps-with-chatgpt-for-enhanced-brainstnign/"><u>Idea Generation Techniques: Combining Mind Maps with ChatGPT for Enhanced Brainstnign</u></a></li>
+<li><a href="https://win11.techidaily.com/masterful-clickers-the-best-auto-click-cars-and-keys/"><u>Masterful Clickers: The Best Auto Click Cars & Keys</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-best-12-sports-streaming-sites-free-and-paid/"><u>New In 2024, Best 12 Sports Streaming Sites (Free & Paid)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/no-more-hassle-record-games-like-pros-for-2024/"><u>No More Hassle Record Games Like Pros for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-ordinary-pictures-into-art-using-pixlr-secrets-for-2024/"><u>Transform Ordinary Pictures Into Art Using Pixlr Secrets for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-ranking-the-ultimate-selection-the-9-superior-podcast-microphones/"><u>Updated In 2024, Ranking the Ultimate Selection The 9 Superior Podcast Microphones</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-the-three-simplest-and-costless-audio-to-text-solutions-for-todays-world-step-by-step/"><u>Updated In 2024, The Three Simplest and Costless Audio-to-Text Solutions for Todays World (Step by Step)</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-your-guide-to-the-top-6-fee-free-digital-soundscape-editors-on-the-web/"><u>Updated In 2024, Your Guide to the Top 6 Fee-Free Digital Soundscape Editors on the Web</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-pinnacle-mac-sound-segregation-technology-new-2024-improvements/"><u>Updated Pinnacle Mac Sound Segregation Technology – New 2024 Improvements</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-the-ultimate-breakthrough-in-video-derived-audio-extraction/"><u>Updated The Ultimate Breakthrough in Video-Derived Audio Extraction</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-tips-for-incorporating-audio-elements-into-updated-mkv-video-files/"><u>Updated Tips for Incorporating Audio Elements Into Updated MKV Video Files</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-unveiling-the-6-top-rated-digital-libraries-for-haunting-audio-effects-2e-update-for-2024/"><u>Updated Unveiling the 6 Top-Rated Digital Libraries for Haunting Audio Effects (2E Update) for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-voice-capturing-made-easy-an-in-depth-look-at-vocaroos-functionality/"><u>Updated Voice Capturing Made Easy An In-Depth Look at Vocaroos Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-best-weather-app-picks-compiled/"><u>Window's Best Weather App Picks, Compiled</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/your-essential-guide-to-unmissable-gaming-adventures/"><u>Your Essential Guide to Unmissable Gaming Adventures</u></a></li>
 </ul></div>
 
