@@ -1,7 +1,7 @@
 ---
 title: "Brighten Up Your Gameplay: Fixing the Dark Mode Bug in Call of Duty: WWII on Windows!"
-date: 2024-11-22T05:07:37.195Z
-updated: 2024-11-24T01:09:26.138Z
+date: 2024-11-25T00:34:11.586Z
+updated: 2024-12-02T06:48:38.184Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/a6cda5d3da29aa302f42489d12b2f7ee98a977d6c
 
 See a black screen when playing CoD: WWII? Although this is an annoying issue, you’re definitely not the only person to experience it. And more importantly, this is fixable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -27,10 +31,6 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
 4. **[Reinstall your game](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Switch out of your game, then switch back in
 
@@ -49,10 +49,6 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
 2. Press the**Alt** and**Enter** keys on your keyboard at the same time to switch back to the full screen view.
 
  This should fix your black screen issue. But if not, then you should try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -86,20 +82,20 @@ OR
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-425.png)  
  You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Reinstall your game
@@ -110,6 +106,10 @@ OR
 2. Type**appwiz.cpl** , then press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
 3. Delete Call of Duty: World War II (right click this game in the list and select**Uninstall** ).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Download the game from where you purchased it.
 5. Try playing CoD: WWII and see if this fixes your black screen issue.
@@ -134,17 +134,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-bring-back-the-faded-step-by-step-on-transforming-prints-to-pixels/"><u>[New] In 2024, Bring Back the Faded Step-by-Step on Transforming Prints to Pixels</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-art-of-instagram-videography-capturing-attention/"><u>[New] In 2024, The Art of Instagram Videography Capturing Attention</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-unlocking-facebooks-potential-with-top-video-strategies-for-2024/"><u>[New] Unlocking Facebook's Potential with Top Video Strategies for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-efficiently-balancing-professional-commitments-and-creativity/"><u>[Updated] 2024 Approved Efficiently Balancing Professional Commitments & Creativity</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-honor-x50-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Honor X50 Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/innovate-with-ease-the-insiders-guide-to-windows-11-widgets/"><u>Innovate with Ease: The Insider's Guide to Window's 11 Widgets</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-enhancing-audio-quality-techniques-for-distraction-free-sounds-with-wondershare-filmora/"><u>New 2024 Approved Enhancing Audio Quality Techniques for Distraction-Free Sounds with Wondershare Filmora</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-audio-architects-guide-to-stripping-down-beats-online-for-2024/"><u>New The Audio Architects Guide to Stripping Down Beats Online for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/oming-shyness-in-the-spotlight-top-video-blogger-fears/"><u>Overcoming Shyness in the Spotlight Top Video Blogger Fears</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-wi-fi-problems-on-your-ios-devices-using-our-top-8-tips-and-tricks/"><u>Troubleshoot Wi-Fi Problems on Your iOS Devices Using Our Top 8 Tips and Tricks</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-final-cut-pro-sound-visualization-step-by-step-on-rendering-audio-waveforms-and-their-animation-integration/"><u>Updated In 2024, Final Cut Pro Sound Visualization Step-by-Step on Rendering Audio Waveforms and Their Animation Integration</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-understanding-audacitys-noise-suppression-techniques-step-by-step-guide-for-2024/"><u>Updated Understanding Audacitys Noise Suppression Techniques Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-minimizing-movement-blur-in-media/"><u>[Updated] Minimizing Movement Blur in Media</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-future-proof-audio-editing-platforms-top-choices/"><u>2024 Approved Future-Proof Audio Editing Platforms Top Choices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-15-pro-max-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 15 Pro Max Without iTunes</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-breezy-blogging-quick-video-concept-ideas/"><u>In 2024, Breezy Blogging Quick Video Concept Ideas</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-infinix-hot-40i-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Infinix Hot 40i Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leading-file-format-transformations-for-2024/"><u>Leading File Format Transformations for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-how-to-generate-a-noise-free-avi-version-for-presentation-purposes/"><u>New In 2024, How to Generate a Noise-Free AVI Version for Presentation Purposes</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-revealed-the-5-superior-mac-compatible-audio-mixers-for-2024/"><u>New Revealed The 5 Superior Mac-Compatible Audio Mixers for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/the-top-10-apple-iphone-13-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>The Top 10 Apple iPhone 13 Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/thrifty-cloud-haven-budget-storage-bulk-files-handling-for-2024/"><u>Thrifty Cloud Haven Budget Storage, Bulk Files Handling for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-selection-of-premium-ipad-pro-cases-for-202email-protected-thoroughly-tested-by-industry-experts-the-verge/"><u>Ultimate Selection of Premium iPad Pro Cases for 202([Email Protected]) - Thoroughly Tested by Industry Experts | The Verge</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-locate-vocal-noise-sample/"><u>Updated 2024 Approved Locate Vocal Noise Sample</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-audio-extractor-how-to-extract-audio-from-video/"><u>Updated In 2024, Audio Extractor How to Extract Audio From Video</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-navigating-through-music-production-software-landscape-can-magix-samplitude-be-considered-supreme-in-2024/"><u>Updated Navigating Through Music Production Software Landscape Can MAGIX Samplitude Be Considered Supreme, In 2024</u></a></li>
 </ul></div>
 
