@@ -1,7 +1,7 @@
 ---
 title: "Smooth Gaming Experience Achieved: Cyberpunk 2077'S Lag and Stuttering Solved!"
-date: 2024-11-27T08:17:27.670Z
-updated: 2024-12-02T11:20:54.156Z
+date: 2024-12-07T01:49:11.551Z
+updated: 2024-12-09T23:03:46.376Z
 tags:
   - win11
   - win10
@@ -56,10 +56,6 @@ Cyperpunk 2077 has been out for a while now, and there’re still reports about 
 
  If your setup is powerful enough for this title, you can continue to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Change your Power Plan to Ultimate Performance
 
  Windows users can control the way their PC uses power by selecting different power schemes. In the Windows 10 April 2018 update, Microsoft rolled out a power plan called Ultimate Performance, which could purportedly make the most of your hardware. So you can try this plan and see how it goes.
@@ -70,31 +66,27 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select **Ultimate Performance** . If you don’t see this power plan, simply continue to the next step to unhide it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press the **Windows logo key** and type **cmd** . Select **Run as Administrator** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press **Enter** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this, **return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After changing your power plan, you can then check it there’s any improvements in Cyberpunk 2077.
 
  if this trick doesn’t give you luck, you can move on to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -124,6 +116,10 @@ First visit the website of your graphics card manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -143,17 +139,21 @@ And here’s a simple guide for that:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Then wait for Windows to download and install the available system updates.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you haven’t been updating for a while,**repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  After installing all the system updates, restart your computer and test the gameplay in Cyberpunk 2077.
 
  If this method doesn’t help you, take a look at the next one below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Enable HAGS (hardware-accelerated GPU scheduling)
 
@@ -169,6 +169,10 @@ And here’s enable HAGS:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-02.jpg)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn on **Hardware-accelerated GPU scheduling** .  
@@ -190,28 +194,24 @@ To change the in-game graphics settings, simply follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-1.jpg)
 2. Navigate to the**GAMEPLAY** tab. Under the**Performance** section, set**Crowd Density** to**Low** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-2.jpg)
 3. Under the**Miscellaneous** section, set**Enable Analytics** to**OFF** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-3.jpg)
 4. Navigate to the**GRAPHICS** tab. Under the**Basic** section, set both**Film Grain** and**Chromatic Aberration** to**OFF** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-4.jpg)
 5. The next two settings are optional. You can try turning off**Ray Tracing** and see if it improves the performance.**DLSS** is a new RTX technology that uses AI to boost your FPS. (Sounds fancy.) You can try setting it to**Performance** or**Ultra Performance** and see if it really helps. (Doing so might make the game seem blurry.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  For more tuning details, check out[this article](https://www.tomshardware.com/news/cyberpunk-2077-pc-benchmarks-settings-performance-analysis) .
 
@@ -234,17 +234,17 @@ To change the in-game graphics settings, simply follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-optimal-online-sound-snatching/"><u>[New] Optimal Online Sound Snatching</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-spectacular-video-connections-quest-for-2024/"><u>[Updated] Spectacular Video Connections Quest for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-samsung-galaxy-f14-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Samsung Galaxy F14 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-lamicall-s-tablet-support-where-functionality-leads/"><u>In-Depth Analysis of Lamicall S Tablet Support: Where Functionality Leads</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/sony-vegas-audio-editor-a-step-by-step-tutorial-for-professionals/"><u>Sony Vegas Audio Editor A Step-by-Step Tutorial for Professionals</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138604085-9781787133075-star-power/"><u>Star Power | Free Book</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/the-experts-selection-of-windows-compatible-noise-cancellation-applications/"><u>The Experts Selection of Windows-Compatible Noise Cancellation Applications</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-mastering-pokemon-go-tips-and-tricks/"><u>Ultimate Guide: Mastering Pokémon Go - Tips and Tricks</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-navigating-m4a-file-compatibility-with-android-a-comprehensive-guide/"><u>Updated 2024 Approved Navigating M4A File Compatibility with Android A Comprehensive Guide</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-top-6-masterful-automated-speech-to-text-tools/"><u>Updated 2024 Approved Top 6 Masterful Automated Speech-to-Text Tools</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-exploring-the-possibilities-methods-for-vocal-variation-and-control-for-2024/"><u>Updated Exploring the Possibilities Methods for Vocal Variation and Control for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1725290185296-dvd/"><u>スマホにジャニーズDVD移植ガイド：専用アプリ利用で楽しむ方法</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-compile-of-premium-tiktok-backdrop-options/"><u>[New] Compile of Premium TikTok Backdrop Options</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-photographers-guide-to-maximizing-lunapic-potential/"><u>[New] The Photographer's Guide to Maximizing LunaPic Potential</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-aerial-mastery-with-husqvarna-h501x4-fpv-analysis/"><u>2024 Approved Aerial Mastery with Husqvarna H501X4 FPV Analysis</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-an-iconic-identity-on-instagram-with-these-9-tricks/"><u>2024 Approved Crafting an Iconic Identity on Instagram with These 9 Tricks</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/5-best-igtv-editor-apps-for-improved-layouts/"><u>5 Best IGTV Editor Apps for Improved Layouts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pushing-boundaries-with-dells-revolutionary-p2715q-monitor-review/"><u>In 2024, Pushing Boundaries with Dell's Revolutionary P2715Q Monitor Review</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/innovations-in-android-call-technology-the-best-replacements-for-facetime-outside-of-ios-for-2024/"><u>Innovations in Android Call Technology The Best Replacements for FaceTime Outside of iOS for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-best-liked-platforms-to-access-compilation-of-guitar-chord-diagrams-and-visual-themes-for-2024/"><u>New Best-Liked Platforms to Access Compilation of Guitar Chord Diagrams & Visual Themes for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-discovering-the-leading-8-voice-command-programs-for-desktop-and-mobile-devices/"><u>New Discovering the Leading 8 Voice Command Programs for Desktop and Mobile Devices</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-reverse-rhythms-2023s-most-memorable-inverted-melodies/"><u>New Reverse Rhythms 2023S Most Memorable Inverted Melodies</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-out-visual-rendering-errors/"><u>Smooth Out Visual Rendering Errors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-solving-common-issues-with-your-xbox-series-xs-gaming-headset/"><u>Troubleshooting Tips: Solving Common Issues with Your Xbox Series X/S Gaming Headset</u></a></li>
 </ul></div>
 

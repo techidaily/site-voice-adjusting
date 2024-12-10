@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Your Play Experience: Fixing Cities: Skylines 2 Crashes on Windows"
-date: 2024-11-19T01:24:35.621Z
-updated: 2024-11-24T08:56:50.930Z
+date: 2024-12-05T00:11:03.310Z
+updated: 2024-12-10T00:31:04.818Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
 8. **[Run your game in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Check your PC specs
 
  Total War: Warhammer 2 is a fantastic game, however, it’s one of the most demanding when it comes to your hardware. The game won’t work well unless your computer can handle it.
@@ -57,10 +53,6 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
 **2)**  Type **dxdiag**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-00-43.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**  Check your operating system, processor,**and memory** .
 
@@ -93,10 +85,6 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
 **3)** Click the**Compatibility** tab, then check**Run this program as an administrator** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-41-28.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)**  Restart_Total War: WARHAMMER II_ from Steam.
 
@@ -150,6 +138,10 @@ If your game crashes again, then try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-02-36.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -160,7 +152,7 @@ If your game crashes again, then try the next fix.
 If your issue persists, then move on to the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Verify the integrity of your game files
@@ -177,19 +169,23 @@ If your issue persists, then move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-04-38.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Click the **LOCAL FILES**  tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
 
  Wait for Steam to detect and fix any corrupted game files automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-04-44.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Relaunch your game after the process is complete.
 
 If the game is still unplayable, check the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Run your game with DirectX 11
 
@@ -209,6 +205,10 @@ If the game is still unplayable, check the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-53-08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)** Type**\-dx11** on the box and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-55-10.jpg)
@@ -227,10 +227,6 @@ If your game still won’t launch properly, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-12-04-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Under**View by** , select**Small icons** , then click**Windows Defender Firewall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-20-25.jpg)
@@ -238,10 +234,6 @@ If your game still won’t launch properly, move on to the next fix.
 **4)** Click**Allow an app or feature through Windows Defender Firewall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-23-02.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Click**Change settings** .
 
@@ -263,6 +255,10 @@ If your game still won’t launch properly, move on to the next fix.
 
 If this method doesn’t work for you, move on to try the fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 8: Run your game in compatibility mode
 
  Some Windows updates may not be compatible with_Total War: WARHAMMER II_ , causing it to crash. If you’re on 10, try running the game on Windows 7 mode. Here is how to do it:
@@ -275,17 +271,9 @@ If this method doesn’t work for you, move on to try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-05-16.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click the list box below to select **Windows 7** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-05-21-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)**  Relaunch your game to check if your issue had been resolved.
 
@@ -304,12 +292,16 @@ If this method doesn’t work for you, move on to try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-31-33.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-31-39.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Under **View by** , select **Category** , then click**Uninstall a program** .
 
@@ -319,6 +311,10 @@ If this method doesn’t work for you, move on to try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-32-53.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)**  Follow the on-screen instructions to uninstall Steam.
 
  **7)[Download](https://store.steampowered.com/about/)**  and install Steam.
@@ -326,6 +322,10 @@ If this method doesn’t work for you, move on to try the fix below.
 **8)** Right-click the **Steam icon**  and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-31-22-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **9)**  Move the**backup steamapps folder** you create before to your current directory location.
 
@@ -352,20 +352,24 @@ If this method doesn’t work for you, move on to try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-total-kinetic-analysis-exploration/"><u>[New] In 2024, Total Kinetic Analysis Exploration</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-cultivating-an-audience-naturally-youtubes-way/"><u>[Updated] Cultivating an Audience Naturally - YouTube's Way</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-boosting-engagement-perfect-time-stamping-techniques-for-videos/"><u>[Updated] In 2024, Boosting Engagement Perfect Time-Stamping Techniques for Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-mastering-videos-with-vida/"><u>[Updated] The Ultimate Guide to Mastering Videos with Vida</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/rt-with-confidence-best-apps-to-turn-spotify-into-youtube-channels-for-2024/"><u>Convert with Confidence Best Apps to Turn Spotify Into YouTube Channels for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-iphone-12-mini-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On iPhone 12 mini? Find the Best Solution Here</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-sound-engineers-playbook-techniques-for-distilling-song-beats-through-technology/"><u>In 2024, The Sound Engineers Playbook Techniques for Distilling Song Beats Through Technology</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-ultimate-guide-10-budget-friendly-online-tools-to-convert-mp3s-into-text-documents/"><u>In 2024, Ultimate Guide 10 Budget-Friendly Online Tools to Convert MP3s Into Text Documents</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-ultimate-list-of-no-cost-web-based-digital-audio-workstations-daws-updated/"><u>In 2024, Ultimate List of No-Cost, Web-Based Digital Audio Workstations (DAWs) - Updated</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-ultimate-ranking-8-best-ios-compatible-daws-for-ipad-and-iphone-enthusiasts/"><u>New 2024 Approved The Ultimate Ranking 8 Best iOS-Compatible DAWs for iPad and iPhone Enthusiasts</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-exploring-the-leading-8-android-daw-applications-to-amplify-your-audio-artistry/"><u>New Exploring the Leading 8 Android DAW Applications to Amplify Your Audio Artistry</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-proven-winners-the-best-7-audio-transitions-you-can-download-at-zero-price/"><u>New In 2024, Proven Winners The Best 7 Audio Transitions You Can Download at Zero Price</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-sounds-of-success-unveiling-the-top-8-cinematic-audio-wonders/"><u>New Sounds of Success Unveiling the Top 8 Cinematic Audio Wonders</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-issue-of-an-unresponsive-touch-screen-on-your-apple-watch/"><u>Solving the Issue of an Unresponsive Touch Screen on Your Apple Watch</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-clearing-your-google-chrome-browser-cache/"><u>Step-by-Step Guide: Clearing Your Google Chrome Browser Cache</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-hidden-dangers-of-high-follower-bloat-avoidance-tactics-for-2024/"><u>[New] The Hidden Dangers of High-Follower Bloat Avoidance Tactics for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-liberate-your-video-files-free-online-tools-for-facebook-videos-in-1080phd/"><u>[Updated] 2024 Approved Liberate Your Video Files - Free Online Tools for Facebook Videos in 1080P/HD</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-comprehensible-guide-to-marketing-on-snapchat/"><u>[Updated] 2024 Approved The Comprehensible Guide to Marketing on Snapchat</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-easy-transition-from-local-to-global-stream-spotify-playlists-on-youtube/"><u>[Updated] Easy Transition From Local to Global Stream Spotify Playlists on YouTube</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-excellent-collection-top-webcam-grips-and-mounts/"><u>[Updated] Excellent Collection Top Webcam Grips & Mounts</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/contemporary-techniques-for-crafting-effective-audio-echoes/"><u>Contemporary Techniques for Crafting Effective Audio Echoes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/early-launch-of-pixel-n-pro-unveiled-by-google-arriving-sooner-than-expected/"><u>Early Launch of Pixel N Pro Unveiled by Google, Arriving Sooner Than Expected!</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/expert-tips-for-gradually-diminishing-audio-volume/"><u>Expert Tips for Gradually Diminishing Audio Volume</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-oppo-find-x7-ultra-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Oppo Find X7 Ultra</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-asus-rog-phone-8-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Asus ROG Phone 8 Pro to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-finding-reverberant-bell-noise-in-digital-formats/"><u>In 2024, Finding Reverberant Bell Noise in Digital Formats</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-oppo-reno-10-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Oppo Reno 10 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-mastering-the-art-of-custom-ringtone-creation/"><u>In 2024, Mastering the Art of Custom Ringtone Creation</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-how-to-remove-background-noise-in-audio-wondershare-filmora-tutorial-for-2024/"><u>New How To Remove Background Noise In Audio Wondershare Filmora Tutorial for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-automating-your-voice-a-comprehensive-audacity-autotune-installation-and-usage-manual/"><u>New In 2024, Automating Your Voice A Comprehensive Audacity Autotune Installation and Usage Manual</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-pushing-boundaries-in-sound-design-top-5-innovative-audio-distortion-applications/"><u>New Pushing Boundaries in Sound Design Top 5 Innovative Audio Distortion Applications</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-zero-noise-videos-how-to-extract-audio-free-mp4mkvavimov-files/"><u>New Zero-Noise Videos How to Extract Audio-Free MP4/MKV/AVI/MOV Files</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-essential-list-of-leading-mp3-metadata-editors-in-the-cloud/"><u>The Essential List of Leading MP3 Metadata Editors in the Cloud</u></a></li>
+<li><a href="https://fox-within.techidaily.com/unlock-insights-with-effective-dialogue-techniques-in-archival-retrieval/"><u>Unlock Insights with Effective Dialogue Techniques in Archival Retrieval</u></a></li>
 </ul></div>
 

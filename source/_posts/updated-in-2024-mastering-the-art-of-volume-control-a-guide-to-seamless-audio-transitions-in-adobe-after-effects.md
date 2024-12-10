@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Mastering the Art of Volume Control A Guide to Seamless Audio Transitions in Adobe After Effects
-date: 2024-11-23T09:26:00.025Z
-updated: 2024-11-23T20:52:04.170Z
+date: 2024-12-03T04:31:44.080Z
+updated: 2024-12-10T00:07:28.741Z
 tags: 
   - audio editing software
   - audio editing
@@ -30,6 +30,10 @@ However, you will need to have at least basic video and sound editing skills to 
 
  **Read More to Get:** [Best Audio Mixer Software to Trim Your Sound Easily >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Adding the Fade In and Fade Out Effects to Audio Files in AE
 
 ### Step 1: Check audio waveform in After Effects
@@ -39,7 +43,11 @@ Once you've created a new project in AE and you've imported the audio files you'
 ![fade out/in audio waveform after effects](https://images.wondershare.com/filmora/filmorapro/fade-out-in-audio-after-effects-waveform.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2: Add a keyframe to the audio file
@@ -49,6 +57,10 @@ The next thing you will have to do is place the playhead at the exact location w
 ![Add keyframe to fade out/in audio](https://images.wondershare.com/filmora/filmorapro/add-keyframe-fade-in-out-audio.jpg)
 
 You may also like: [15 Free After Effects Templates to Power up Your Video](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 3: Complete Fade out/in audio in After Effects
 
@@ -60,27 +72,15 @@ Move the playhead to the location where you want the effect to end and add anoth
 
 The process of creating a fade in or a fade out effect in AE is quite simple, but it is up to you to discover creative ways of using these effects. Here are a few tips that can help you use these audio effects more creatively.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Avoid Hard Cuts
 
 A high pitch sound at the very begging of a new sequence can ruin your soundtrack and ultimately the entire video, so in case you've cut an audio file at the location where the sound peaks, you can apply a fade in effect to make the transition between two audio files softer.
 
 You may also like: [How to Cut Video in After Effects](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Be Mindful of Audio Compression
 
 [Audio compression](https://theproaudiofiles.com/compression-techniques/) is a process that reduces loud sounds and amplifies quiet sounds, resulting from the audio file's dynamic range being compressed. In most cases, you won't notice the effects of audio compression, but if you compress an audio file too much, you might get some unwanted side effects if you add a fade out effect to that file. That's why it is best to rely on the default audio compression features a video or audio editing app offers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Use the Fade In and Fade Out Effects Creatively
 
@@ -95,7 +95,7 @@ If you want to fade in/out audio easily, we recommend using [Filmora](https://to
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -113,18 +113,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-celebrating-the-best-movies-that-evoke-hope-and-courage/"><u>[New] 2024 Approved Celebrating the Best Movies that Evoke Hope and Courage</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-spruce-up-your-stories-with-effortless-animated-text-techniques/"><u>[New] 2024 Approved Spruce Up Your Stories With Effortless Animated Text Techniques</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-professional-macbook-webcam-capture-techniques-guide/"><u>[Updated] 2024 Approved Professional MacBook Webcam Capture Techniques Guide</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-how-to-brand-your-youtube-channel-to-get-more-subscribers-for-2024/"><u>[Updated] How to Brand Your YouTube Channel to Get More Subscribers for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-little-drivers-lively-gameplay-for-2024/"><u>[Updated] Little Drivers' Lively Gameplay for 2024</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/convertissez-la-vhs-gratuitement-en-digital-avec-movavi-online-guide-pratique/"><u>Convertissez La VHS Gratuitement en Digital Avec Movavi Online - Guide Pratique</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixes-and-solutions-end-red-dead-redemption-iis-frame-rate-hiccups-and-freezing-problems/"><u>Fixes and Solutions: End Red Dead Redemption II's Frame Rate Hiccups & Freezing Problems</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-enhancing-sound-quality-implementing-audio-ducking-techniques-in-adobe-premiere-pro-for-mac-users/"><u>New 2024 Approved Enhancing Sound Quality Implementing Audio Ducking Techniques in Adobe Premiere Pro for Mac Users</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-optimizing-pitch-alteration-in-audacity-a-guide-to-quality-retention/"><u>New 2024 Approved Optimizing Pitch Alteration in Audacity A Guide to Quality Retention</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-top-5-reverse-rhythm-soundtracks-of-the-year/"><u>New 2024 Approved Top 5 Reverse-Rhythm Soundtracks of the Year</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-achieving-superior-sound-in-mp4-videos-a-comprehensive-guide/"><u>New In 2024, Achieving Superior Sound in MP4 Videos A Comprehensive Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/top-roblox-screen-capture-tools-of-2024-for-pc-users/"><u>Top Roblox Screen Capture Tools of 2024 for PC Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-fast-instant-solutions-for-detected-battery-errors/"><u>Troubleshoot Fast: Instant Solutions for Detected Battery Errors</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-unwind-with-these-favorite-pc-games/"><u>[New] In 2024, Unwind with These Favorite PC Games</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-melodies-for-success-best-top-10-music-for-podcast-startups/"><u>[Updated] Melodies for Success Best Top 10 Music for Podcast Startups</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-visionary-audiovideo-makers-elite-digital-directory-for-2024/"><u>[Updated] Visionary Audio/Video Makers Elite Digital Directory for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-iphones-ultimate-strategy-for-seamless-podcast-downloading/"><u>2024 Approved IPhone's Ultimate Strategy for Seamless Podcast Downloading</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/cambia-formato-aac-a-mp4-gratuitamente-online-con-movavi/"><u>Cambia Formato AAC a MP4 Gratuitamente - Online Con Movavi</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-dreams-on-screen-the-best-motivational-movies/"><u>Crafting Dreams on Screen The Best Motivational Movies</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-15-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone 15 when Phone is Broken?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-the-essential-blueprint-setting-up-your-first-xbox-recorder/"><u>In 2024, The Essential Blueprint Setting Up Your First Xbox Recorder</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-from-silence-to-sight-adding-images-to-your-music-playlist-creative-sound-design/"><u>New 2024 Approved From Silence to Sight Adding Images to Your Music Playlist Creative Sound Design</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-audiophiles-manual-incorporating-pristine-sounds-in-mp4-videos-for-2024/"><u>New Audiophiles Manual Incorporating Pristine Sounds in MP4 Videos for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/tidal-downloader-pro-convert-and-save-your-favorite-tracks-from-tidal-as-mp4-mp3-or-flac-files/"><u>Tidal Downloader Pro: Convert and Save Your Favorite Tracks From Tidal as MP4, MP3 or FLAC Files</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-achieving-consistent-sound-levels-with-davinci-resolve/"><u>Updated 2024 Approved Achieving Consistent Sound Levels with DaVinci Resolve</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-global-top-rated-mp3-editing-applications/"><u>Updated In 2024, Global Top-Rated MP3 Editing Applications</u></a></li>
 </ul></div>
 

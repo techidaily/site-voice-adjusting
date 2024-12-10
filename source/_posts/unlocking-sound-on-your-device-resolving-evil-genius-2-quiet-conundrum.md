@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Sound on Your Device: Resolving 'Evil Genius 2' Quiet Conundrum"
-date: 2024-11-27T06:49:59.116Z
-updated: 2024-12-02T10:44:30.743Z
+date: 2024-12-08T21:41:48.349Z
+updated: 2024-12-09T18:00:02.565Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/24d9ad97cc4d2914a6f62f8ac9d6325300e284842
 Many players have reported that the Elden Ring multiplayer can not work. Even after restarting the game and PC, it still does not work. If you are the one looking for solutions, this article is tailored for you. You will learn 6 methods to solve the problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these methods
@@ -31,10 +31,6 @@ Many players have reported that the Elden Ring multiplayer can not work. Even af
 4. **[Verify integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Run Fortect to repair system files](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Update your Windows system](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Before getting started
 
@@ -53,10 +49,6 @@ Many players have reported that the Elden Ring multiplayer can not work. Even af
 
  If your internet speed is too low, you can try to[speed up the internet](https://tools.techidaily.com/drivereasy/download/) or just call your ISP.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Optimize Elden Ring’s network settings
 
  If your Elden Ring’s network is not set correctly, you may find your Elden Ring multiplayer cannot work. To solve this problem, you should check your Elden Ring’s network settings and try to optimize it.
@@ -65,15 +57,11 @@ Many players have reported that the Elden Ring multiplayer can not work. Even af
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-10_14-38-37.jpg)
 2. Click the**Network** tab on the top and then it will switch to the Network settings panel.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-10_14-25-55-network-settings.jpg)
 3. Click**Launch Setting** and then click the pointing arrow behind**Launch Setting** to select**Play Online** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-10_14-39-232222.jpg)
@@ -103,6 +91,10 @@ Here are two ways to update your network drivers.
 ![update drivers automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 1. You can choose to update the driver with a FREE version. Click the**Update** button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or you can click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-network-adapter-driver-1.jpg)
 
@@ -116,21 +108,25 @@ Here are two ways to update your network drivers.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-10_18-11-58加水印.jpg)
 2. Right-click**ELDEN RING** and select**Properties…** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-10_18-05-493333.jpg)
 3. Click the**UPDATES** tab on the left panel.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-11_14-14-13-update-1.jpg)
 4. Click**Always keep this game updated** under AUTOMATIC UPDATES. Whenever there is an available update, Steam will update the game automatically.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-11_14-12-34update-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After enabling auto-dates of Elden Ring, you can check if your Elden Ring multiplayer works. If not, move to the next method.
 
@@ -142,8 +138,16 @@ Here are two ways to update your network drivers.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-10_18-11-58加水印.jpg)
 2. Right-click**ELDEN RING** and select**Properties…** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-10_18-05-493333.jpg)
 3. Click the**Installed Files** and select**Verify integrity of game files** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Verify-integrity-of-game-files.jpg)
 4. Steam will verify the game files. It may take a few minutes. Once the process is complete, click the**Close** button.
@@ -161,16 +165,8 @@ Here are two ways to update your network drivers.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -192,6 +188,10 @@ Here are two ways to update your network drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-08_19-48-21-1.jpg)
 4. After you’ve installed the updates, restart your PC and launch Elden Ring multiplayer. Then check if the Elden Ring multiplayer problem has been solved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### on Windows 11
 
@@ -224,18 +224,22 @@ Here are two ways to update your network drivers.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/rime-line-up-the-best-9-free-youtube-logo-makers-reviewed-for-2024/"><u>[New] Prime Line-Up The Best 9 Free YouTube Logo Makers Reviewed for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-masterclass-approach-unveiling-the-secrets-of-flawless-mobizen-recordings/"><u>[Updated] 2024 Approved Masterclass Approach Unveiling the Secrets of Flawless Mobizen Recordings</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-dividing-opinions-is-mirrorless-better-than-dslr-for-vids-in-2024/"><u>[Updated] Dividing Opinions Is Mirrorless Better than DSLR for Vids, In 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-wallet-friendly-high-definition-equipment-for-2024/"><u>[Updated] Wallet-Friendly High-Definition Equipment for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/creating-personalized-ringtones-a-step-by-step-guide-for-ios-and-android-devices/"><u>Creating Personalized Ringtones: A Step-by-Step Guide for iOS and Android Devices</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/iphone-photography-techniques-for-clear-mirror-captures-for-2024/"><u>IPhone Photography Techniques for Clear Mirror Captures for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-essential-list-top-8-android-daws-revolutionizing-music-for-2024/"><u>New The Essential List Top 8 Android DAWs Revolutionizing Music for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-ultimate-windows-audio-cleanse-guide-efficacious-removal-of-background-noise-techniques/"><u>New Ultimate Windows Audio Cleanse Guide Efficacious Removal of Background Noise Techniques</u></a></li>
-<li><a href="https://extra-information.techidaily.com/podcast-dominance-through-effective-seo-strategies/"><u>Podcast Dominance Through Effective SEO Strategies</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/speaking-without-words-the-ultimate-collection-of-affordable-audio-to-text-conversion-apps-for-modern-smart-devices/"><u>Speaking Without Words The Ultimate Collection of Affordable Audio-to-Text Conversion Apps for Modern Smart Devices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/thousands-gain-access-to-apples-cutting-edge-artificial-intelligence-training-program-targeting-academia-and-alumni-networks-zdnet/"><u>Thousands Gain Access to Apple's Cutting-Edge Artificial Intelligence Training Program, Targeting Academia and Alumni Networks - ZDNet</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-enhancing-utorrents-downloading-efficiency/"><u>Troubleshooting and Enhancing uTorrent's Downloading Efficiency</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/ultimate-tips-for-editing-audios-using-avidemux-2023-edition/"><u>Ultimate Tips for Editing Audios Using Avidemux - 2023 Edition</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-dji-spark-review-best-mini-drone-for-taking-selfie/"><u>[Updated] DJI Spark Review Best Mini Drone for Taking Selfie</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/l-landmarks-understanding-mr-beasts-financial-growth-for-2024/"><u>Fiscal Landmarks Understanding Mr. Beast’s Financial Growth for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-7-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 7 without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-how-to-change-volume-in-media-files-with-filmora/"><u>In 2024, How to Change Volume in Media Files with Filmora</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/mastering-the-art-of-detaching-sound-from-visuals-in-adobe-premiere-pro/"><u>Mastering the Art of Detaching Sound From Visuals in Adobe Premiere Pro</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-advanced-methods-for-reducing-storage-space-needed-for-media-files-for-2024/"><u>New Advanced Methods for Reducing Storage Space Needed for Media Files for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-enhance-your-pc-audio-no-cost-methods-to-amplify-sound-on-windows-systems-for-2024/"><u>New Enhance Your PC Audio No-Cost Methods to Amplify Sound on Windows Systems for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-from-novice-to-pro-comprehensive-guidelines-on-iphone-audio-recording-for-2024/"><u>New From Novice to Pro Comprehensive Guidelines on iPhone Audio Recording for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-soundtrack-sanctuary-the-finest-websites-offering-free-audio-selections-for-filmmakers/"><u>New In 2024, Soundtrack Sanctuary The Finest Websites Offering Free Audio Selections for Filmmakers</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-mastering-audiovisual-updates-incorporating-sounds-in-avi-2023/"><u>New Mastering Audiovisual Updates Incorporating Sounds in AVI 2023</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-mastering-mac-audio-keyframe-techniques-in-adobe-premiere-pro/"><u>New Mastering Mac Audio Keyframe Techniques in Adobe Premiere Pro</u></a></li>
+<li><a href="https://win-blog.techidaily.com/opname-van-google-hangouts-in-6-vrije-tactiekpunten-met-movavi/"><u>Opname Van Google Hangouts in 6 Vrije Tactiekpunten Met Movavi</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/premium-screener-tech-perfect-for-youtube-videos-for-2024/"><u>Premium Screener Tech Perfect for YouTube Videos for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tailored-macos-tutorials-for-editing-srt-files-for-2024/"><u>Tailored macOS Tutorials for Editing SRT Files for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-top-10-free-video-sharing-platforms-for-personal-and-commercial-use/"><u>Updated In 2024, Top 10 Free Video Sharing Platforms for Personal and Commercial Use</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/windows-11-ntfs-file-system/"><u>Windows 11 NTFS FILE SYSTEMストップコードを一発で解決！３つのシンプルな誤動作改善手段</u></a></li>
 </ul></div>
 

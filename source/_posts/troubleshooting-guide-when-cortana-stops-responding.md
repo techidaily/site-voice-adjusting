@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: When Cortana Stops Responding"
-date: 2024-11-28T18:35:11.871Z
-updated: 2024-12-02T03:14:37.098Z
+date: 2024-12-08T16:29:36.371Z
+updated: 2024-12-09T22:31:19.130Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
 
 **Cortana not working?**  I believe it’s one of your pet hates. Don’t panic. Usually it’s an easy problem to fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do I fix Cortana not working?
 
  Here are 5 methods you can try to fix this glitch. Please work your way down the list until you find the that works.
@@ -33,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
 
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 2: Check your region and language settings
 
  If your region and language settings is mistaken or changed by accident, your Cortana can’t work.
@@ -41,13 +49,13 @@ Check your region and language settings on your computer:
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **I** at the same time to open the **Settings** window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click **Time** **& language** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Region & language.**
 
@@ -58,7 +66,7 @@ Check your region and language settings on your computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5) Try Cortana again to see if it works.
@@ -72,24 +80,16 @@ Check your region and language settings on your computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f33c9a31.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Install the available updates.
 
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 4: Update your Microphone driver and audio driver
 
@@ -111,10 +111,6 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8cc9febab7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Click the  **Update**  button next to all flagged drivers to automatically download and install the correct version of their driver (you can do this with the FREE version).
 
 Or click  **Update All** to automatically download and install the correct version of  _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
@@ -122,6 +118,10 @@ Or click  **Update All** to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
 
 4) Reboot your Windows 10 and try Cortana again to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 5: Reset your Cortana
 
@@ -159,18 +159,18 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-movavi-screencapturer-pro-review-and-analysis/"><u>[New] 2024 Approved Movavi ScreenCapturer Pro Review & Analysis</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-how-to-feature-music-on-instant-stories-for-2024/"><u>[New] How to Feature Music on Instant Stories for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-panorama-pixels-cutting-edge-photo-assembler/"><u>2024 Approved Panorama Pixels Cutting-Edge Photo Assembler</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-locate-and-restore-the-missing-d3dx9-39dll-component-on-windows/"><u>How to Locate and Restore the Missing D3dx9_ 39.dll Component on Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fuse-fast-edits-for-stunning-windows-photos/"><u>In 2024, Fuse Fast Edits for Stunning Windows Photos</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-top-rated-economical-timer-services/"><u>In 2024, Top-Rated Economical Timer Services</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tech-tips-keeping-intel-graphic-drivers-current-on-windows/"><u>Tech Tips: Keeping Intel Graphic Drivers Current on Windows</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-intuitive-vocal-modification-mechanisms-an-insight-into-operational-aspects-standards-and-workarounds/"><u>Updated In 2024, Intuitive Vocal Modification Mechanisms An Insight Into Operational Aspects, Standards, and Workarounds</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-tactile-audio-hunt-finding-the-click-and-clack-of-digital-interactions/"><u>Updated Tactile Audio Hunt Finding the Click and Clack of Digital Interactions</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-tailoring-auditory-experiences-to-your-videos-with-ease-and-precision/"><u>Updated Tailoring Auditory Experiences to Your Videos with Ease and Precision</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-top-10-premium-platforms-for-high-definition-video-wallpaper-acquisition-for-2024/"><u>Updated Top 10 Premium Platforms for High-Definition Video Wallpaper Acquisition for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-unconventional-chat-services-excellence-list-security-functionality-and-pleasure-for-2024/"><u>Updated Unconventional Chat Services Excellence List Security, Functionality, and Pleasure for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/1726030339355-windows-11/"><u>Windows 11の簡単ガイド:スライドショー制作手順集</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-insights-into-income-average-earnings-per-advertisement-playback/"><u>[New] 2024 Approved Insights Into Income Average Earnings per Advertisement Playback?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-achieving-high-quality-tiktok-videos-the-zoom-method-for-2024/"><u>[New] Achieving High-Quality TikTok Videos The Zoom Method for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-instagram-soundtracks-download-and-design-your-own/"><u>[New] Instagram Soundtracks Download & Design Your Own</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ourney-into-the-future-with-youtubes-top-vr-cinematography/"><u>[New] Journey Into the Future with YouTube’s Top VR Cinematography</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-best-hashtags-for-youtube-to-get-your-views-to-6-figures/"><u>[Updated] Best Hashtags for YouTube To Get Your Views to 6 Figures</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-how-to-capture-and-share-your-favorite-pics-on-social-platforms-with-obs/"><u>[Updated] How to Capture and Share Your Favorite Pics on Social Platforms with OBS</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-beginners-handbook-to-implementing-plugin-based-autotune-on-audacity-for-2024/"><u>New The Beginners Handbook to Implementing Plugin-Based Autotune on Audacity for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-top-10-free-audio-capture-tools-for-excellent-podcasts-updated/"><u>New Top 10 Free Audio Capture Tools for Excellent Podcasts (Updated)</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-unconventional-chat-services-excellence-list-security-functionality-and-pleasure/"><u>New Unconventional Chat Services Excellence List Security, Functionality, and Pleasure</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/unlocking-audio-potential-a-user-friendly-approach-to-track-combining-in-premiere-pro-for-2024/"><u>Unlocking Audio Potential A User-Friendly Approach to Track Combining in Premiere Pro for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-audio-synthesis-in-film-the-2023-process-of-capturing-and-adding-vocal-talent-to-visuals/"><u>Updated 2024 Approved Audio Synthesis in Film The 2023 Process of Capturing and Adding Vocal Talent to Visuals</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-compile-of-high-quality-sound-spectrum-templates-to-elevate-video-production-2023-update/"><u>Updated In 2024, Compile of High-Quality Sound Spectrum Templates to Elevate Video Production - 2023 Update</u></a></li>
 </ul></div>
 
