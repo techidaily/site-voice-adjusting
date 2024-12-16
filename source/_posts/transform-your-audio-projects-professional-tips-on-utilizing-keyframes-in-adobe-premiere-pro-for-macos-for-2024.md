@@ -1,7 +1,7 @@
 ---
 title: Transform Your Audio Projects Professional Tips on Utilizing Keyframes in Adobe Premiere Pro for macOS for 2024
-date: 2024-11-19T06:32:16.606Z
-updated: 2024-11-23T17:10:46.076Z
+date: 2024-12-13T07:40:50.641Z
+updated: 2024-12-16T05:01:38.089Z
 tags: 
   - audio editing software
   - audio editing
@@ -28,10 +28,6 @@ Keyframing is one of the most vital components in post-production that can be ap
 
 Therefore, with the Premiere Pro keyframe options, you can achieve a gradual flow in your tracks. Without much ado, I’m going to help you set up audio keyframes in Premiere Pro with their vital operations in this post.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Add Audio Keyframes in Adobe Premiere Pro on Mac?
 
 As I have mentioned, to apply adjustments or properties to a specific point in the audio track, we can use Adobe Premiere keyframes. As of now, there are two kinds of keyframes in Adobe Premiere – Clip Keyframe and Track Keyframe. Before you start adding keyframes in Premiere Pro, you should know their difference.
@@ -47,10 +43,6 @@ To start with, you can launch Adobe Premiere Pro, go to your Project > Import, a
 
 ![Import Audio Files in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/import-audio-files-adobe-premiere-pro.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Once the audio track is added to the project, you can further drag and drop it to the sequence section (timelines) at the bottom.
 
 ![Add Audio to Timeline in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/add-audio-to-timeline-adobe-premiere-pro.jpg)
@@ -60,6 +52,10 @@ Once the audio track is added to the project, you can further drag and drop it t
 The application would automatically render different keyframes already present in the track. For this, you need to first select the ribbon of your audio track from the timeline. Now, just right-click on the working area and click on the “Show Audio Keyframes” button from the context menu.
 
 ![Show Audio Keyframes in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/show-audio-keyframes-adobe-premiere-pro.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you want, you can also click on the “Show Keyframes” button that is depicted by a radio/circle icon on the timeline.
 
@@ -71,13 +67,13 @@ Now, you can view either clip or track keyframes for the track. For this, you ca
 
 ![Track Keyframes in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/track-keyframes-adobe-premiere-pro.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once you have enabled the audio keyframe options in Premiere Pro, you can view keyframes in a highlighted color. You can now take the assistance of the Pen tool or press the CMD key on your Mac to select keyframes. This will let you select the starting and ending keyframes in Premiere Pro so that you can easily apply the desired effect to the selected segment.
 
 ![Select Keyframes in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/select-keyframes-adobe-premiere-pro.gif)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Fade Audio In/Out with Keyframes in Adobe Premiere Pro on Mac?
 
@@ -91,6 +87,10 @@ If you want, you can just right-click the track, go to the **Show Clip Keyframes
 
 ![Show Clip Keyframes in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/show-clip-keyframes-adobe-premiere-pro.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Apply Fade-in or Out options**
 
 Once you have clip keyframes in your track, you can easily do whatever you like. You can use the **Pen** tool or press the CMD key on your Mac to select the starting and the ending of the clip.
@@ -100,7 +100,7 @@ Now, go to the audio segment from the timeline and simply place the audio level 
 ![Fade In and Out in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/fade-in-out-adobe-premiere-pro.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Pro Tip: Use Inbuilt Fade In/Out Transitions**
@@ -111,15 +111,15 @@ For this, you can just go to its **Effects** \> **Audio Transitions** option. To
 
 ![Crossfade Effects in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/crossfade-effects-adobe-premiere-pro.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 In the same way, you can also go to **Effects** \> **Audio Transitions** \> **Crossfade** and choose the “Constant Gain” feature. You can drag and drop the Contact Gain effect on any segment to implement the fade-in effect.
 
 That’s a wrap, everyone! I’m sure that after reading this post, you would be able to set up audio keyframes in Adobe Premiere Pro. Since adding keyframes in Premiere can be done automatically, it would save your time in audio editing and post-production. Mostly, the clip audio keyframing is used in Adobe to customize the sound at any desired segment. Apart from fade-in or out, there are tons of other effects that you can apply to your audio tracks with the help of keyframes. Go ahead and try the Adobe Premiere Pro keyframing feature and let us know about your experience in the comments.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -136,22 +136,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-essential-tips-and-tricks-for-professional-green-screen-videos/"><u>[New] In 2024, Essential Tips and Tricks for Professional Green Screen Videos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-terminating-your-linkedin-membership-an-essential-guide/"><u>[Updated] Terminating Your LinkedIn Membership An Essential Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-hues-a-collection-of-the-best-11-video-tutorials/"><u>2024 Approved Mastering Hues A Collection of the Best 11 Video Tutorials</u></a></li>
-<li><a href="https://location-fake.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/become-a-pro-at-networked-streams-with-vlc-for-2024/"><u>Become a Pro at Networked Streams with VLC for 2024</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/guia-para-solucionar-fotografias-perdidas-en-la-tarjeta-sd-de-su-camara/"><u>Guía Para Solucionar: Fotografías Perdidas en La Tarjeta SD De Su Cámara</u></a></li>
-<li><a href="https://win-dash.techidaily.com/guide-to-securing-latest-hp-840-g3-graphics-card-drivers-for-optimal-performance/"><u>Guide to Securing Latest HP 840 G3 Graphics Card Drivers for Optimal Performance</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-the-activation-lock-on-your-ipad-and-iphone-6s-plus-without-apple-account-by-drfone-ios/"><u>In 2024, How to Remove the Activation Lock On your iPad and iPhone 6s Plus without Apple Account</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-complete-guide-to-audio-manipulation-in-avidemux-for-2024/"><u>New The Complete Guide to Audio Manipulation in Avidemux for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-ultimate-list-of-windows-compatible-daws-a-guide-to-the-best-free-and-paid-options-for-2024/"><u>New The Ultimate List of Windows-Compatible DAWs A Guide to the Best Free & Paid Options for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-how-to-dub-a-video-video-dubbing-wondershare-filmora/"><u>Updated 2024 Approved How to Dub a Video Video Dubbing - Wondershare Filmora</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-top-tier-tempo-tune-videography-tools/"><u>Updated 2024 Approved Top-Tier Tempo Tune Videography Tools</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-voice-as-armor-harnessing-the-power-of-morphvox-to-amplify-your-gaming-persona-online/"><u>Updated 2024 Approved Voice as Armor Harnessing the Power of Morphvox to Amplify Your Gaming Persona Online</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-essential-guide-to-combining-multi-track-recordings-into-a-single-clip/"><u>Updated Essential Guide to Combining Multi-Track Recordings Into a Single Clip</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-expert-tips-for-seamless-audio-overlay-on-videos-using-filmora/"><u>Updated Expert Tips for Seamless Audio Overlay on Videos Using Filmora</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-how-to-improve-sound-quality-on-a-home-recorded-video-for-2024/"><u>Updated How to Improve Sound Quality on a Home Recorded Video for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/windows-10top5-n/"><u>Windows 10専用の最適なビデオキャプチャーツールTOP5 - 無料版提�n</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-11-best-streaming-audio-recorders/"><u>[New] In 2024, 11 Best Streaming Audio Recorders</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-from-airwaves-to-e-readers-how-to-save-web-tv-shows/"><u>[New] In 2024, From Airwaves To E-Readers How to Save Web TV Shows</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-layer-audio-onto-video-clips-in-premiere-pro/"><u>[Updated] Layer Audio Onto Video Clips in Premiere Pro</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-lenovo-laptop-a-complete-guide-to-recording-screens/"><u>2024 Approved Lenovo Laptop A Complete Guide to Recording Screens</u></a></li>
+<li><a href="https://fox-info.techidaily.com/gimp-tutorial-mastering-filters-and-layers-for-2024/"><u>GIMP Tutorial Mastering Filters & Layers for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-quickly-and-easily-share-a-youtube-playlist-for-2024/"><u>How to Quickly And Easily Share A YouTube Playlist for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-infinix-gt-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-elite-selection-of-virtual-audio-editing-experts/"><u>In 2024, The Elite Selection of Virtual Audio Editing Experts</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tailored-driver-setup-and-deployment-on-win-os/"><u>Tailored Driver Setup & Deployment on Win OS</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/titre-comment-transferer-facilement-des-fichiers-entre-dossiers-a-laide-de-logiciels-de-copie-automatique/"><u>Titre : Comment Transférer Facilement Des Fichiers Entre Dossiers À L'aide De Logiciels De Copie Automatique ?</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/top-10-gaming-voice-modification-tools-rankings-and-analysis/"><u>Top 10 Gaming Voice Modification Tools Rankings and Analysis</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-exploring-the-leading-edge-of-audio-production-does-magix-samplitude-hold-sway/"><u>Updated Exploring the Leading Edge of Audio Production Does MAGIX Samplitude Hold Sway?</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-mastering-audio-downloads-a-guide-to-collecting-podcast-episodes-on-pc/"><u>Updated In 2024, Mastering Audio Downloads A Guide to Collecting Podcast Episodes on PC</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-your-ultimate-source-list-the-top-picks-of-copyright-friendly-comic-soundtracks-websites/"><u>Updated Your Ultimate Source List The Top Picks of Copyright-Friendly Comic Soundtracks Websites</u></a></li>
 </ul></div>
 

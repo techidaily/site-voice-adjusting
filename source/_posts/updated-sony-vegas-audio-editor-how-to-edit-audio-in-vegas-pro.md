@@ -1,7 +1,7 @@
 ---
 title: Updated Sony Vegas Audio Editor How to Edit Audio in Vegas Pro
-date: 2024-12-08T23:09:55.733Z
-updated: 2024-12-09T19:41:39.535Z
+date: 2024-12-10T22:28:53.015Z
+updated: 2024-12-15T19:43:55.085Z
 tags: 
   - audio editing software
   - audio editing
@@ -28,6 +28,10 @@ Being the most commonly used professional video editing tool, Sony (Magix) Vegas
 
 **You May Also Like:** [How to Edit YouTube Audio >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Sony (Magix) Vegas Audio Editor: How to edit audio in Vegas Pro
 
 This tutorial is divided into 6 different sections that contain complete details about all possible audio track adjustments and customization options.
@@ -44,10 +48,6 @@ This tutorial is divided into 6 different sections that contain complete details
 First of all you need to import your desired audio file to timeline of Vegas Pro; it can be done by using drag and drop option directly. On Vegas timeline you will find so many sound adjustment options that appear on audio track header.
 
 ![Track header](https://images.wondershare.com/edit-audio-in-vegas-pro-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Mute the Audio Track: Press M
 
@@ -69,7 +69,7 @@ Those who want to control volume separately for different portions of audio file
 ![Mute audio to selected part](https://images.wondershare.com/edit-audio-in-vegas-pro-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Volume:** Check the deep blue line on selected event and then double click over it for addition of a marking point. Drag this point up or down for appropriate volume settings and use right click option for additional adjustments.
@@ -100,6 +100,10 @@ One can easily reverse his selected audio clip; simply right click over it and t
 
 ![Reverse audio](https://images.wondershare.com/edit-audio-in-vegas-pro-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Section 5: Noise Removal
 
 One classic feature of Vegas Pro is its Sound Restoration in Audio FX control. But it does not work as good compared to Audacity. Check this article to [see how to remove noise from audio](http://www.technospot.net/blogs/remove-background-noise-sony-vegas-audacity/)using Sony Vegas Pro & Audacity.
@@ -115,7 +119,7 @@ If you want to add specific effects to your audio files then use two simple meth
 ![To entire audio layer ](https://images.wondershare.com/edit-audio-in-vegas-pro-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **To an individual portion of the audio layer**
@@ -134,16 +138,12 @@ For additional personalization you need to use plug-in chain button from right c
 
 ![ Add audio effect](https://images.wondershare.com/edit-audio-in-vegas-pro-13.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** Make required adjustments with the help of slider or users can also open the drop down box on screen for selection of present templates as per need.
 
 ![audio preset templates](https://images.wondershare.com/edit-audio-in-vegas-pro-14.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Recommendation
@@ -157,7 +157,7 @@ The Vegas Pro is rated as a professional editing software tool due to its advanc
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -175,16 +175,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-innovative-pathways-broadcasting-facebook-videos-via-whatsapp/"><u>[New] 2024 Approved Innovative Pathways Broadcasting Facebook Videos via WhatsApp</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-can-you-lawfully-archive-youtube-content/"><u>In 2024, Can You Lawfully Archive YouTube Content?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-chucklechain-master-the-art-of-memes-at-home/"><u>In 2024, ChuckleChain Master the Art of Memes at Home</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-methods-to-manipulate-amplitude-in-mp3-wav-and-mpeg-files/"><u>In 2024, Methods to Manipulate Amplitude in MP3, WAV, and MPEG Files</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/instagram-how-to-watch-videos-quickly-and-smoothly-for-2024/"><u>Instagram How to Watch Videos Quickly & Smoothly for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-harmonyvoices-mastering-cross-platform-audio-synchronization-in-adobe-premiere-pro/"><u>New HarmonyVoices Mastering Cross-Platform Audio Synchronization in Adobe Premiere Pro</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-audiovisual-archive-top-10-digital-destinations-for-sound-track-download/"><u>New In 2024, Audiovisual Archive Top 10 Digital Destinations for Sound Track Download</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-chart-topping-radio-auditory-elements/"><u>New In 2024, Chart-Topping Radio Auditory Elements</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-stepping-up-the-game-how-to-tweak-audio-levels-in-audacity-for-2024/"><u>New Stepping Up the Game How to Tweak Audio Levels in Audacity for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-windows-11-microphone-problems/"><u>Step-by-Step Solutions for Windows 11 Microphone Problems</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/twice-the-joy-twice-the-fun-televised-repetition-made-easy-for-2024/"><u>Twice the Joy, Twice the Fun Televised Repetition Made Easy for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-stand-out-in-the-crowd-ingenious-tips-for-top-tinder-bios/"><u>[New] In 2024, Stand Out in the Crowd - Ingenious Tips for Top Tinder Bios</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-webpage-wonders-enhancing-with-youtubes-playlist-features/"><u>[New] In 2024, Webpage Wonders Enhancing with YouTube's Playlist Features</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-complete-review-lg-360-camera-cutting-edge-2023-edition/"><u>[Updated] The Complete Review LG 360 Camera - Cutting-Edge 2023 Edition</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-navigating-the-complexities-of-chroma-removal-kinemaster-edition/"><u>2024 Approved Navigating the Complexities of Chroma Removal (KineMaster Edition)</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-beat-architect-techniques-for-isolating-and-repurposing-kernels-in-audio/"><u>In 2024, The Beat Architect Techniques for Isolating and Repurposing Kernels in Audio</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/leading-11-ios-and-android-tools-for-professional-sound-engineering/"><u>Leading 11 iOS and Android Tools for Professional Sound Engineering</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-echoing-change-the-complete-process-of-substituting-auditory-elements-in-filmmaking-for-2024/"><u>New Echoing Change The Complete Process of Substituting Auditory Elements in Filmmaking for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-how-to-increase-volume-of-the-media-files/"><u>New In 2024, How to Increase Volume of the Media Files</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/resolving-sound-issues-during-powerpoint-presentations/"><u>Resolving Sound Issues During PowerPoint Presentations</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-photosavefailure-in-windows-11/"><u>Tackling PhotoSaveFailure in Windows 11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-top-11-screen-recorder-programs-for-mac-for-2024/"><u>The Top 11 Screen Recorder Programs for Mac for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-crackling-audio-problems-for-windows-10-and-windows-7-users/"><u>Troubleshooting and Fixing Crackling Audio Problems for Windows 10 and Windows 7 Users</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-power-of-portable-solar-energy-aaeusy-inverter-review-ensuring-stability-for-medical-equipment-use/"><u>Unveiling the Power of Portable Solar Energy: Aaeusy Inverter Review Ensuring Stability for Medical Equipment Use</u></a></li>
 </ul></div>
 

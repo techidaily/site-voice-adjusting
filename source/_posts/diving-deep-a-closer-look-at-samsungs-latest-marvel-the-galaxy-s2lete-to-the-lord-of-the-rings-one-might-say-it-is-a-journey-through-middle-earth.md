@@ -1,7 +1,7 @@
 ---
 title: "Diving Deep: A Closer Look at Samsung's Latest Marvel - The Galaxy S2lete) to the 'Lord of the Rings', One Might Say, It Is a Journey Through Middle-Earth."
-date: 2024-12-02T20:35:25.163Z
-updated: 2024-12-10T02:28:34.303Z
+date: 2024-12-14T19:12:04.174Z
+updated: 2024-12-15T22:36:26.005Z
 categories:
   - BestProducts
 description: "This Article Describes Diving Deep: A Closer Look at Samsung's Latest Marvel - The Galaxy S2lete) to the 'Lord of the Rings', One Might Say, It Is a Journey Through Middle-Earth."
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 ## Boost Your Health Journey: Experience a New Level of Motivation and Tracking with the Fitbit Versa S 3, Featuring Inbuilt GPS Technology and Fitness Applications
 
 4.8
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fitbit Versa 3
 
@@ -38,17 +42,9 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 
 4.8
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fitbit Versa 3
 
 ![Fitbit Versa 3](https://www.lifewire.com/thmb/fpj6dU7VhqBf5ukwxKiaOimQtf4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fitbit-Versa-3-Hero5x4-3bcbedf50dc940008e9c10ee237c88a3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Yoona Wagener
 
@@ -76,11 +72,11 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 
 ![Fitbit Versa 3](https://www.lifewire.com/thmb/ceE1xxVfUTF44pCOtEXiO6JW_IA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fitbit-Versa-3-04-ef922812d0444da4a7277e91efe2fcf8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Yoona Wagener
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Design: Sleek and smart-looking
 
@@ -93,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
  This smartwatch is capable of storing five different watch faces, and while they’re easy to find, downloading a new face, just like all apps—took quite a while. The SPO2 watch face is compatible with the Versa 3, but you’ll have to pay for the Fitbit Premium app subscription to access this data in any meaningful way.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Comfort: Lightweight for all-day wear
@@ -107,7 +103,7 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
  Lifewire / Yoona Wagener
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance: Accuracy slightly questionable
@@ -124,11 +120,19 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 
  Lifewire / Yoona Wagener
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Battery: Lasts for a solid six days
 
  Like the Fitbit Sense, the Fitbit Versa 3 is supposed to last for over six days on a single charge when the display is not set to “always on.” My experience yielded six days before the battery was critically low. This could be because I chose to download and use the Fitbit SPO2 watch face that measures blood oxygen saturation. Fitbit says this face could accelerate the need for charging. Otherwise, I used[GPS](https://www.lifewire.com/what-is-gps-how-it-works-4688647) for about 30 minutes each day and only streamed music via Spotify for 2 hours total.
 
  It charged from critically low to 100 percent in about 1.25 hours, which is in line with the 1-2 hour estimation by the manufacturer. A quick charge brought the device from 9 percent to 29 percent, which tracks with the claim that a 12-minute charge would bring it up to a full day of battery life.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Software/Key Features: Wellness and convenience features reign
 
@@ -153,10 +157,6 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
  For $230, the Fitbit Versa 3 is less expensive than similar feature-rich smartwatches. Other models like the Samsung Galaxy Watch Active2, come with available LTE, for even more connectivity and standalone convenience—and a significant price bump.
 
  The Versa 3 is also about $100 cheaper than the Fitbit Sense, which offers a few more wellness-tracking flourishes such as the ECG app and EDA responses. The smartwatch claims to offer similarly accurate heart rate monitoring and onboard GPS and some users will still benefit from the array of wellness-centric features like reminders to move, food and water tracking, guided breathing, and all the smart features the more costly Sense has too.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fitbit Versa 3 vs. Samsung Galaxy Watch Active2
 
@@ -200,24 +200,20 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-easy-to-use-free-youtube-downloader-with-mp3-support/"><u>[New] 2024 Approved Easy-to-Use Free YouTube Downloader with MP3 Support</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-democratize-music-distribution-via-social-media-for-2024/"><u>[New] Democratize Music Distribution via Social Media for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-ultimate-checklist-preparing-your-room-and-pc-for-oculus-rift/"><u>[New] Ultimate Checklist Preparing Your Room and PC for Oculus Rift</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-uncovering-top-tier-cloud-services-to-sustain-data/"><u>[New] Uncovering Top-Tier Cloud Services to Sustain Data</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-12-facebook-marketing-tips-for-business-beginners-and-pros/"><u>[Updated] 2024 Approved 12 Facebook Marketing Tips for Business (Beginners and Pros)</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-maximizing-vimeo-presence-with-movies-from-wmm/"><u>[Updated] 2024 Approved Maximizing Vimeo Presence with Movies From WMM</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-high-tech-equipment-picking-game/"><u>2024 Approved High-Tech Equipment Picking Game</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/dji-drones-range-spectrum-basic-vs-intermediate-advanced-vs-ultra-hd-for-2024/"><u>DJI Drones Range Spectrum Basic Vs Intermediate, Advanced Vs Ultra HD for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-itel-p55-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Itel P55 Phones? | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-depth-exploration-of-the-cutting-edge-technology-within-the-apple-iphone-15-pro/"><u>In-Depth Exploration of the Cutting-Edge Technology Within the Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-solo-artists-roadmap-to-auditory-fame-for-2024/"><u>The Solo Artist's Roadmap to Auditory Fame for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-imovie-basics-for-new-users-how-to-seamlessly-add-sounds-and-music/"><u>Updated In 2024, IMovie Basics for New Users How to Seamlessly Add Sounds and Music</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-the-best-iphone-recording-software-a-comprehensive-guide/"><u>Updated In 2024, The Best iPhone Recording Software - A Comprehensive Guide</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-time-sync-techniques-in-video-editing-creating-beats-aligned-cuts-with-premiere-pro-for-modern-filmmakers/"><u>Updated In 2024, Time-Sync Techniques in Video Editing Creating Beats-Aligned Cuts with Premiere Pro for Modern Filmmakers</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-top-10-video-chat-sites-to-meet-funny-strangers/"><u>Updated In 2024, Top 10 Video Chat Sites to Meet Funny Strangers</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-quieting-the-cinematic-chaos-techniques-for-audio-trimming-in-imovie-videos-for-2024/"><u>Updated Quieting the Cinematic Chaos Techniques for Audio Trimming in iMovie Videos for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-the-art-of-sound-integration-a-detailed-tutorial-on-video-audio-addition/"><u>Updated The Art of Sound Integration A Detailed Tutorial on Video Audio Addition</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-the-pace-adjuster-how-to-modify-musical-velocity-while-upholding-original-frequencies-for-2024/"><u>Updated The Pace Adjuster How to Modify Musical Velocity While Upholding Original Frequencies for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-transforming-everyday-mac-users-into-pro-voice-recording-enthusiasts-a-beginners-approach-for-2024/"><u>Updated Transforming Everyday Mac Users Into Pro Voice Recording Enthusiasts A Beginners Approach for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-understanding-sudden-pause-in-photobooth-videos-for-2024/"><u>[Updated] Understanding Sudden Pause in Photobooth Videos for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-from-apple-iphone-xr-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock From Apple iPhone XR Online</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/expert-picked-screen-capturers-of-movies/"><u>Expert-Picked Screen Capturers of Movies</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-vivo-y27-4g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Vivo Y27 4G</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-motorola-moto-g-5g-2023-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Motorola Moto G 5G (2023) to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-channel-control-center-creator-studio-essentials/"><u>In 2024, Channel Control Center Creator Studio Essentials</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96370919-9780876046319-meditation-prayer-affirmation/"><u>Meditation, Prayer & Affirmation | Free Book</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-through-vlc-features-settings-and-troubleshooting-mac/"><u>Navigating Through VLC Features, Settings & Troubleshooting (Mac)</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-unlocking-creative-power-in-logic-pro-x-with-these-top-8-plugins/"><u>New Unlocking Creative Power in Logic Pro X with These Top 8 Plugins</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/removing-audio-from-video-online-5-ways-for-2024/"><u>Removing Audio From Video Online 5 Ways for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/sounds-of-success-unveiling-the-top-8-cinematic-audio-wonders-for-2024/"><u>Sounds of Success Unveiling the Top 8 Cinematic Audio Wonders for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-chronicles-of-intellectual-machines-uncovering-when-artificial-intelligence-began/"><u>The Chronicles of Intellectual Machines: Uncovering When Artificial Intelligence Began</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-reaping-the-digital-rewards-top-10-plugin-essentials-for-streamlined-editing-workflows/"><u>Updated 2024 Approved Reaping the Digital Rewards Top 10 Plugin Essentials for Streamlined Editing Workflows</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-the-ultimate-vocal-evasion-software-catalog-essential-applications-for-singers-recording-studios-and-beyond/"><u>Updated 2024 Approved The Ultimate Vocal Evasion Software Catalog Essential Applications for Singers, Recording Studios, & Beyond</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-a-step-by-step-guide-to-crafting-professional-level-android-media-with-audio-integration/"><u>Updated In 2024, A Step-by-Step Guide to Crafting Professional-Level Android Media With Audio Integration</u></a></li>
 </ul></div>
 

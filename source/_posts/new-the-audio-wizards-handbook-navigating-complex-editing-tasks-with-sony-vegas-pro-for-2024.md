@@ -1,7 +1,7 @@
 ---
 title: New The Audio Wizards Handbook Navigating Complex Editing Tasks with Sony Vegas Pro for 2024
-date: 2024-09-25T06:13:09.616Z
-updated: 2024-10-01T00:46:32.595Z
+date: 2024-12-09T06:13:53.322Z
+updated: 2024-12-16T07:15:12.106Z
 tags: 
   - audio editing software
   - audio editing
@@ -45,6 +45,10 @@ First of all you need to import your desired audio file to timeline of Vegas Pro
 
 ![Track header](https://images.wondershare.com/edit-audio-in-vegas-pro-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Mute the Audio Track: Press M
 
 ![Mute audio](https://images.wondershare.com/edit-audio-in-vegas-pro-2.jpg)
@@ -68,6 +72,10 @@ Those who want to control volume separately for different portions of audio file
 
 ![Adjust audio volume](https://images.wondershare.com/edit-audio-in-vegas-pro-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Pan:** Pan Adjustments can be done using red lien control over event. Double click over it and move the point up or down to set pan at specific range. Use right click button for advanced options.
 
 ![Adjust audio pan ](https://images.wondershare.com/edit-audio-in-vegas-pro-5.jpg)
@@ -79,6 +87,10 @@ Some professional settings to audio project can be made using fade in/out option
 Hover your cursor on the audio event in timeline, you will find the fade in/out offset handle at the up side corner of the audio event. Pull the Fade in/out offset handle as long as you want:
 
 ![Fade in/out audio ](https://images.wondershare.com/edit-audio-in-vegas-pro-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Section 3: Speed up or Slow down
 
@@ -110,9 +122,17 @@ If you want to add specific effects to your audio files then use two simple meth
 
 ![To portion](https://images.wondershare.com/edit-audio-in-vegas-pro-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 1:** First of all go to Track Description Box and then press the Track FX icon, an audio track FX will soon appear on your device screen. The three basic controls are always activated, that are Track Compressor, Track EQ and Track Noise Gate.
 
 ![Audio track FX ](https://images.wondershare.com/edit-audio-in-vegas-pro-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 For additional personalization you need to use plug-in chain button from right corner.
 
@@ -121,6 +141,10 @@ For additional personalization you need to use plug-in chain button from right c
 **Step 2:** Now select any desired effect from list that can make your audio track more impressive and press Add; once applied then hit OK.
 
 ![ Add audio effect](https://images.wondershare.com/edit-audio-in-vegas-pro-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Make required adjustments with the help of slider or users can also open the drop down box on screen for selection of present templates as per need.
 
@@ -151,26 +175,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-non-gaming-screen-capture-apps-worth-your-time/"><u>[New] Non-Gaming Screen Capture Apps Worth Your Time</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-virality-voyage-navigating-newsfeeds-with-noteworthy-posts/"><u>[New] Virality Voyage Navigating Newsfeeds with Noteworthy Posts</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-from-seedling-to-sunset-the-best-farming-titles-for-togetherness/"><u>[Updated] From Seedling to Sunset The Best Farming Titles for Togetherness</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-vision-to-visual-impact-youtube-trailers-via-filmora/"><u>[Updated] In 2024, From Vision to Visual Impact YouTube Trailers via Filmora</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-the-leading-5-facebook-updates-to-note-this-year/"><u>[Updated] The Leading 5 Facebook Updates to Note This Year</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-tips-for-enhancing-your-photos-with-personal-light-strips/"><u>Essential Tips for Enhancing Your Photos with Personal Light Strips</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/fitbit-sense-vs-apple-watch-the-ultimate-guide-to-choosing-a-health-conscious-smartwatch/"><u>Fitbit Sense Vs. Apple Watch: The Ultimate Guide to Choosing a Health-Conscious Smartwatch</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-bring-your-ideas-to-life-best-video-animation-apps-for-mobile-devices/"><u>In 2024, Bring Your Ideas to Life Best Video Animation Apps for Mobile Devices</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-streamlining-sound-integration-a-fast-fix-manual-for-premiere-pro/"><u>In 2024, Streamlining Sound Integration A Fast Fix Manual for Premiere Pro</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-10-best-voice-recording-apps-for-android-devices-free-included/"><u>New 10 Best Voice Recording Apps for Android Devices Free Included</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-exploring-the-frontier-combining-images-with-soundscapes-2utopia-tech-review-2023-for-2024/"><u>New Exploring the Frontier Combining Images with Soundscapes 2Utopia Tech Review, 2023 for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-how-to-replace-the-audio-track-in-videos-with-2-ways-step-by-step/"><u>New In 2024, How To Replace the Audio Track in Videos with 2 Ways Step by Step</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-perfecting-auditory-aesthetics-in-video-production/"><u>New Perfecting Auditory Aesthetics in Video Production</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneer-in-pc-analysis-unlocking-performance-with-toms-gear-reviews/"><u>Pioneer in PC Analysis - Unlocking Performance with Tom's Gear Reviews</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-creating-seamless-split-screen-visuals-on-sierra-systems/"><u>[New] 2024 Approved Creating Seamless Split-Screen Visuals on Sierra Systems</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-tips-for-incorporating-songs-in-instagram-stories-withwithout-for-2024/"><u>[New] Tips for Incorporating Songs in Instagram Stories (With/Without) for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-cursor-visibility-win10-and-11-techniques/"><u>Clearing Up Cursor Visibility: Win10 & 11 Techniques</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/engineering-eye-catching-podcast-clips/"><u>Engineering Eye-Catching Podcast Clips</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-elite-voice-mimicry-suite-windows-and-apple-harmonization/"><u>New 2024 Approved Elite Voice Mimicry Suite - Windows & Apple Harmonization</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-premium-verses-in-motion-aes-ultimate-lyric-videos/"><u>New 2024 Approved Premium Verses in Motion AEs Ultimate Lyric Videos</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-chart-topping-radio-auditory-elements/"><u>New Chart-Topping Radio Auditory Elements</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-essential-11-audio-focused-smartphone-applications/"><u>New In 2024, Essential 11 Audio-Focused Smartphone Applications</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-mastering-audio-clarity-the-most-effective-noise-reduction-tools-revealed/"><u>New Mastering Audio Clarity The Most Effective Noise Reduction Tools Revealed</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/ultimate-actions-replay-analysis-for-2024/"><u>Ultimate Actions Replay Analysis for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-professional-opportunsities-craft-a-winning-resume-using-chatgpt/"><u>Unlock Professional Opportunsities: Craft a Winning Resume Using ChatGPT</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

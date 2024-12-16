@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Mastering the Art of Volume Control A Guide to Seamless Audio Transitions in Adobe After Effects
-date: 2024-12-03T04:31:44.080Z
-updated: 2024-12-10T00:07:28.741Z
+date: 2024-12-14T21:37:26.046Z
+updated: 2024-12-16T01:48:53.551Z
 tags: 
   - audio editing software
   - audio editing
@@ -30,11 +30,11 @@ However, you will need to have at least basic video and sound editing skills to 
 
  **Read More to Get:** [Best Audio Mixer Software to Trim Your Sound Easily >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Adding the Fade In and Fade Out Effects to Audio Files in AE
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 1: Check audio waveform in After Effects
 
@@ -43,11 +43,7 @@ Once you've created a new project in AE and you've imported the audio files you'
 ![fade out/in audio waveform after effects](https://images.wondershare.com/filmora/filmorapro/fade-out-in-audio-after-effects-waveform.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2: Add a keyframe to the audio file
@@ -59,7 +55,7 @@ The next thing you will have to do is place the playhead at the exact location w
 You may also like: [15 Free After Effects Templates to Power up Your Video](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 3: Complete Fade out/in audio in After Effects
@@ -86,6 +82,10 @@ You may also like: [How to Cut Video in After Effects](https://tools.techidaily.
 
 Besides opening and closing scenes, you can also use the Fade in and fade out effects to mix two different tracks while the shot is still in progress. Fade out one track, make it look like a scene is ending, and then introduce a new theme that changes the mood of that scene. The important thing is to avoid reducing the audio level all the way to -100db because you might end up creating silence in a scene that disrupts the flow of an entire video.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Fading in or fading out audio files in Adobe After Effects doesn't require much effort, as you have to add a few keyframes to the file and adjust the Audio Level value. However, finding the best way to improve the quality of your soundtrack by applying these effects may take some practice. Do you often add Fade in and fade out audio effects in AE? Leave a comment below and share your experiences with us.
@@ -95,7 +95,7 @@ If you want to fade in/out audio easily, we recommend using [Filmora](https://to
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -113,18 +113,14 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-unwind-with-these-favorite-pc-games/"><u>[New] In 2024, Unwind with These Favorite PC Games</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-melodies-for-success-best-top-10-music-for-podcast-startups/"><u>[Updated] Melodies for Success Best Top 10 Music for Podcast Startups</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-visionary-audiovideo-makers-elite-digital-directory-for-2024/"><u>[Updated] Visionary Audio/Video Makers Elite Digital Directory for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-iphones-ultimate-strategy-for-seamless-podcast-downloading/"><u>2024 Approved IPhone's Ultimate Strategy for Seamless Podcast Downloading</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/cambia-formato-aac-a-mp4-gratuitamente-online-con-movavi/"><u>Cambia Formato AAC a MP4 Gratuitamente - Online Con Movavi</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-dreams-on-screen-the-best-motivational-movies/"><u>Crafting Dreams on Screen The Best Motivational Movies</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-15-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone 15 when Phone is Broken?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-the-essential-blueprint-setting-up-your-first-xbox-recorder/"><u>In 2024, The Essential Blueprint Setting Up Your First Xbox Recorder</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-from-silence-to-sight-adding-images-to-your-music-playlist-creative-sound-design/"><u>New 2024 Approved From Silence to Sight Adding Images to Your Music Playlist Creative Sound Design</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-audiophiles-manual-incorporating-pristine-sounds-in-mp4-videos-for-2024/"><u>New Audiophiles Manual Incorporating Pristine Sounds in MP4 Videos for 2024</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/tidal-downloader-pro-convert-and-save-your-favorite-tracks-from-tidal-as-mp4-mp3-or-flac-files/"><u>Tidal Downloader Pro: Convert and Save Your Favorite Tracks From Tidal as MP4, MP3 or FLAC Files</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-achieving-consistent-sound-levels-with-davinci-resolve/"><u>Updated 2024 Approved Achieving Consistent Sound Levels with DaVinci Resolve</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-global-top-rated-mp3-editing-applications/"><u>Updated In 2024, Global Top-Rated MP3 Editing Applications</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-the-ultimate-guide-for-amateurs-and-pros-on-windows-11-video-creation/"><u>[New] 2024 Approved The Ultimate Guide for Amateurs & Pros on Windows 11 Video Creation</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elevate-your-inbox-management-skills-a-guide-to-creating-smart-filters-and-handling-additional-contact-information-on-gmail/"><u>Elevate Your Inbox Management Skills: A Guide to Creating Smart Filters and Handling Additional Contact Information on Gmail</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-infinix-hot-30i-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Infinix Hot 30i Devices</u></a></li>
+<li><a href="https://video-capture.techidaily.com/precision-recording-perfecting-video-captures-on-your-android-phone-for-2024/"><u>Precision Recording Perfecting Video Captures on Your Android Phone for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-guiding-principles-for-altering-tone-without-sacrificing-sound-quality-using-audacity/"><u>Updated In 2024, Guiding Principles for Altering Tone Without Sacrificing Sound Quality Using Audacity</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-the-art-of-harmonizing-moving-images-and-sounds-a-2023-approach/"><u>Updated In 2024, The Art of Harmonizing Moving Images and Sounds (A 2023 Approach)</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-navigating-through-the-premier-selection-of-free-vst-tools-ready-to-elevate-your-sound-for-2024/"><u>Updated Navigating Through the Premier Selection of FREE VST Tools Ready to Elevate Your Sound for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-top-10-complimentary-ios-and-android-music-to-visual-applications-for-2024/"><u>Updated Top 10 Complimentary iOS & Android Music-to-Visual Applications for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated The Sound Engineers Toolkit In-Depth Strategies for Effective MP3 Manipulation for 2024
-date: 2024-12-02T19:14:15.800Z
-updated: 2024-12-10T04:21:42.627Z
+date: 2024-12-09T02:57:13.209Z
+updated: 2024-12-15T18:53:01.778Z
 tags: 
   - audio editing software
   - audio editing
@@ -53,10 +53,6 @@ For macOS 10.12 or later
 
 Are you ready to use Filmora Audio Editor, but do you know how to edit an MP3 file? Don’t worry if you have never done this before because we are about to share its step-by-step guideline.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 1: Importing Audio
 
 To edit the MP3 file with Filmora Audio Editor, you firstly need to create a new project. After the project has been created, let's import the media file. For that, go to 'Import Media' from the Files tab and select 'Import Media Files.'
@@ -74,6 +70,14 @@ Once the file has been imported, drag it onto the timeline so that you can start
 With the Audio Editing Panel, you can completely edit and customize the MP3 file. It offers the 'Fade In’ and ‘Fade Out’ options. You can also remove background noise from the 'Denoise' option. Moreover, you can use the Equalizer, set the Pitch, etc.
 
 ![edit your mp3 file](https://images.wondershare.com/filmora/article-images/2022/edit-mp3-files-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 4: Export the File
 
@@ -97,132 +101,9 @@ The plus point for this editing software is that it supports a wide range of fil
 * Audacity provides support to various plug-ins, for instance, LV2, Nyquist, VST, LADSPA, and also Audio Unit Effect.
 * Another interesting thing about Audacity is that it records live audio from Mic or Mixer. You can also combine files and export them in different formats.
 
-### 02 [Ocenaudio](https://www.ocenaudio.com/)
-
-Can you name a great audio editor for home musicians and podcasters? Yes, Ocenaudio Audio Editor is the perfect, free audio editing platform for podcasters and home musicians. The audio editor has a very clear interface that everyone can use easily, without any complications. Editing MP3 files and analyzing them is made easy with Ocenaudio.
-
-The audio editing software is famous because of its efficiency as it can edit large files. Do you want to know the fascinating thing about Ocenaudio? Well, the software uses advanced memory management, which means it opens files without wasting your PC's memory.
-
-![oceanaudio editor](https://images.wondershare.com/filmora/article-images/2022/edit-mp3-files-6.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-* The audio editor is the best option for everyday audio editing. Also, the software offers great filter selection with precise selection tools.
-* What attracts the most users is its powerful and complete spectrogram view. Along with the waveform view, Ocenaudio also features a spectrogram view of the audio files.
-* The software offers uniform features and the same graphics on all versions. Moreover, it supports various platforms like Windows, Mac OS X, and Linux.
-
-### 03 [WavePad Audio Editor](https://www.nch.com.au/wavepad/index.html)
-
-Are you ready to talk about WavePad Audio Editor? The software is very famous because of the wide range of features it offers. What can you do with this audio editor? Let’s start sharing!
-
-With WavePad Audio Editor, you can edit audio by trimming, cutting, joining, splitting, etc. In addition to editing, you can also add different effects to your audio. For instance, effects like to normalize, amplify, equalize, etc. The audio editor also supports extracting audio from CDs and removing audio noise.
-
-Do you know what else it can do? You can easily edit and export the audio file in different formats from WavePad Audio Editor.
-
-![wavepad audio editor](https://images.wondershare.com/filmora/article-images/2022/edit-mp3-files-7.jpg)
-
-* The most amazing thing about WavePad Audio Editor is that it supports batch processing. You no longer have to wait as the software works very efficiently.
-* Want to know something interesting about WavePad Audio Editor? It is compatible with different file formats and holds strong editing capabilities.
-* Which audio editor can compress files? With WavePad, you can compress files with great ease and load files with just two mouse clicks.
-
-### Bottom Line
-
-As we promised earlier that we would help you and guide you on how to edit MP3 files so, this article has everything you need. We shared how you can edit MP3 files with the best audio MP3 editor, Wondershare Filmora. Along with that, we also shared 3 popular and free audio MP3 editors.
-
-#### Wondershare Filmora
-
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-02 [3 Popular Free MP3 Editor for Windows](#part2)
-
-## Part 1 How to Edit MP3 Files?
-
-As we have mentioned earlier, to edit MP3 files, a good audio editor is essential. Do you know any good Audio Editor? Although there are various editors, [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is unbeatable. It offers a whole editing world to its users. Filmora is hands down the best software when it comes to audio editing. Its intuitive interface is easy to understand and work with that even beginners can use it.
-
-What else does Filmora have to offer? It provides various editing elements. You name anything, and Filmora has it. The editor has a wide variety of Transitions, Effects, Filters, and other elements. Interestingly, Filmora also has a media library, Filmstock, that is full of amazing things.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### Features of Filmora That Will Amaze You
-
-As we are talking about MP3 editing so, let’s shed light on Filmora Audio Editor. The editor has some mind-blowing features that you should know.
-
-* Audio Split is a key feature that good Audio Editors must have. Filmora lets you split audio, and additionally, you can also Trim Audio with this editor.
-* A very highlighting feature that you get from Filmora Audio Editor is 'Detach Audio from Video.' With this feature, you can detach and remove audio from video.
-* Features like Audio Denoise, Audio Mixer, Audio Equalizer are also offered by Wondershare Filmora Audio Editor.
-* Ready to know a fun feature? Not only can you add Voiceover, Filmora easily replaces the original audio of the video.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-### Step-by-Step Guideline to use Filmora Audio Editor
-
-Are you ready to use Filmora Audio Editor, but do you know how to edit an MP3 file? Don’t worry if you have never done this before because we are about to share its step-by-step guideline.
-
-### Step 1: Importing Audio
-
-To edit the MP3 file with Filmora Audio Editor, you firstly need to create a new project. After the project has been created, let's import the media file. For that, go to 'Import Media' from the Files tab and select 'Import Media Files.'
-
-![import audio file](https://images.wondershare.com/filmora/article-images/2022/edit-mp3-files-1.jpg)
-
-### Step 2: Audio Editing Panel
-
-Once the file has been imported, drag it onto the timeline so that you can start editing the audio. You have to double click on the audio file to open the ‘Audio Editing Panel.'
-
-![double click on audio](https://images.wondershare.com/filmora/article-images/2022/edit-mp3-files-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### Step 3: Let’s Start Editing
-
-With the Audio Editing Panel, you can completely edit and customize the MP3 file. It offers the 'Fade In’ and ‘Fade Out’ options. You can also remove background noise from the 'Denoise' option. Moreover, you can use the Equalizer, set the Pitch, etc.
-
-![edit your mp3 file](https://images.wondershare.com/filmora/article-images/2022/edit-mp3-files-3.jpg)
-
-### Step 4: Export the File
-
-Lastly, once the editing is complete and you are satisfied, you can export the file. For that, hit the ‘Export’ button to open the export window. There, head over to the ‘Local’ section to select ‘MP3’ as the output format and ‘Export’ it to your device.
-
-![export mp3 file](https://images.wondershare.com/filmora/article-images/2022/edit-mp3-files-4.jpg)
-
-## Part 2 3 Popular Free MP3 Editor for Windows
-
-Now that we have discussed in detail Wondershare Filmora, should we talk a little about free MP3 editors? You can get a variety of free MP3 editors for Windows on the internet, but how do you know that yours is the best? If you want to know about the 3 best MP3 editors that are famous for their features, then this section is for you.
-
-### 01 [Audacity](https://www.audacityteam.org/)
-
-Audacity is a fantastic audio editing software that is perfect for music trimming, sound effects, and dialogue. The tool offers a free version to its users. Audacity is open-source, a multi-track audio editor that makes editing easy.
-
-The plus point for this editing software is that it supports a wide range of file formats like FLAC, WAV, MP3, and others. What attracts the users? Well, the easy and simple interface of Audacity attracts a lot of users. Another thing that matters a lot is the installation process, and in Audacity's case, the installation is pretty easy.
-
-![audacity interface](https://images.wondershare.com/filmora/article-images/2022/edit-mp3-files-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-* For endless audio editing and merging audio files, nothing is better than Audacity. Also, the software supports 16-bit, 24-bit, and 32-bit sound quality.
-* Audacity provides support to various plug-ins, for instance, LV2, Nyquist, VST, LADSPA, and also Audio Unit Effect.
-* Another interesting thing about Audacity is that it records live audio from Mic or Mixer. You can also combine files and export them in different formats.
 
 ### 02 [Ocenaudio](https://www.ocenaudio.com/)
 
@@ -235,129 +116,6 @@ The audio editing software is famous because of its efficiency as it can edit la
 * The audio editor is the best option for everyday audio editing. Also, the software offers great filter selection with precise selection tools.
 * What attracts the most users is its powerful and complete spectrogram view. Along with the waveform view, Ocenaudio also features a spectrogram view of the audio files.
 * The software offers uniform features and the same graphics on all versions. Moreover, it supports various platforms like Windows, Mac OS X, and Linux.
-
-### 03 [WavePad Audio Editor](https://www.nch.com.au/wavepad/index.html)
-
-Are you ready to talk about WavePad Audio Editor? The software is very famous because of the wide range of features it offers. What can you do with this audio editor? Let’s start sharing!
-
-With WavePad Audio Editor, you can edit audio by trimming, cutting, joining, splitting, etc. In addition to editing, you can also add different effects to your audio. For instance, effects like to normalize, amplify, equalize, etc. The audio editor also supports extracting audio from CDs and removing audio noise.
-
-Do you know what else it can do? You can easily edit and export the audio file in different formats from WavePad Audio Editor.
-
-![wavepad audio editor](https://images.wondershare.com/filmora/article-images/2022/edit-mp3-files-7.jpg)
-
-* The most amazing thing about WavePad Audio Editor is that it supports batch processing. You no longer have to wait as the software works very efficiently.
-* Want to know something interesting about WavePad Audio Editor? It is compatible with different file formats and holds strong editing capabilities.
-* Which audio editor can compress files? With WavePad, you can compress files with great ease and load files with just two mouse clicks.
-
-### Bottom Line
-
-As we promised earlier that we would help you and guide you on how to edit MP3 files so, this article has everything you need. We shared how you can edit MP3 files with the best audio MP3 editor, Wondershare Filmora. Along with that, we also shared 3 popular and free audio MP3 editors.
-
-#### Wondershare Filmora
-
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
-
-02 [3 Popular Free MP3 Editor for Windows](#part2)
-
-## Part 1 How to Edit MP3 Files?
-
-As we have mentioned earlier, to edit MP3 files, a good audio editor is essential. Do you know any good Audio Editor? Although there are various editors, [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is unbeatable. It offers a whole editing world to its users. Filmora is hands down the best software when it comes to audio editing. Its intuitive interface is easy to understand and work with that even beginners can use it.
-
-What else does Filmora have to offer? It provides various editing elements. You name anything, and Filmora has it. The editor has a wide variety of Transitions, Effects, Filters, and other elements. Interestingly, Filmora also has a media library, Filmstock, that is full of amazing things.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### Features of Filmora That Will Amaze You
-
-As we are talking about MP3 editing so, let’s shed light on Filmora Audio Editor. The editor has some mind-blowing features that you should know.
-
-* Audio Split is a key feature that good Audio Editors must have. Filmora lets you split audio, and additionally, you can also Trim Audio with this editor.
-* A very highlighting feature that you get from Filmora Audio Editor is 'Detach Audio from Video.' With this feature, you can detach and remove audio from video.
-* Features like Audio Denoise, Audio Mixer, Audio Equalizer are also offered by Wondershare Filmora Audio Editor.
-* Ready to know a fun feature? Not only can you add Voiceover, Filmora easily replaces the original audio of the video.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-### Step-by-Step Guideline to use Filmora Audio Editor
-
-Are you ready to use Filmora Audio Editor, but do you know how to edit an MP3 file? Don’t worry if you have never done this before because we are about to share its step-by-step guideline.
-
-### Step 1: Importing Audio
-
-To edit the MP3 file with Filmora Audio Editor, you firstly need to create a new project. After the project has been created, let's import the media file. For that, go to 'Import Media' from the Files tab and select 'Import Media Files.'
-
-![import audio file](https://images.wondershare.com/filmora/article-images/2022/edit-mp3-files-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### Step 2: Audio Editing Panel
-
-Once the file has been imported, drag it onto the timeline so that you can start editing the audio. You have to double click on the audio file to open the ‘Audio Editing Panel.'
-
-![double click on audio](https://images.wondershare.com/filmora/article-images/2022/edit-mp3-files-2.jpg)
-
-### Step 3: Let’s Start Editing
-
-With the Audio Editing Panel, you can completely edit and customize the MP3 file. It offers the 'Fade In’ and ‘Fade Out’ options. You can also remove background noise from the 'Denoise' option. Moreover, you can use the Equalizer, set the Pitch, etc.
-
-![edit your mp3 file](https://images.wondershare.com/filmora/article-images/2022/edit-mp3-files-3.jpg)
-
-### Step 4: Export the File
-
-Lastly, once the editing is complete and you are satisfied, you can export the file. For that, hit the ‘Export’ button to open the export window. There, head over to the ‘Local’ section to select ‘MP3’ as the output format and ‘Export’ it to your device.
-
-![export mp3 file](https://images.wondershare.com/filmora/article-images/2022/edit-mp3-files-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## Part 2 3 Popular Free MP3 Editor for Windows
-
-Now that we have discussed in detail Wondershare Filmora, should we talk a little about free MP3 editors? You can get a variety of free MP3 editors for Windows on the internet, but how do you know that yours is the best? If you want to know about the 3 best MP3 editors that are famous for their features, then this section is for you.
-
-### 01 [Audacity](https://www.audacityteam.org/)
-
-Audacity is a fantastic audio editing software that is perfect for music trimming, sound effects, and dialogue. The tool offers a free version to its users. Audacity is open-source, a multi-track audio editor that makes editing easy.
-
-The plus point for this editing software is that it supports a wide range of file formats like FLAC, WAV, MP3, and others. What attracts the users? Well, the easy and simple interface of Audacity attracts a lot of users. Another thing that matters a lot is the installation process, and in Audacity's case, the installation is pretty easy.
-
-![audacity interface](https://images.wondershare.com/filmora/article-images/2022/edit-mp3-files-5.jpg)
-
-* For endless audio editing and merging audio files, nothing is better than Audacity. Also, the software supports 16-bit, 24-bit, and 32-bit sound quality.
-* Audacity provides support to various plug-ins, for instance, LV2, Nyquist, VST, LADSPA, and also Audio Unit Effect.
-* Another interesting thing about Audacity is that it records live audio from Mic or Mixer. You can also combine files and export them in different formats.
-
-### 02 [Ocenaudio](https://www.ocenaudio.com/)
-
-Can you name a great audio editor for home musicians and podcasters? Yes, Ocenaudio Audio Editor is the perfect, free audio editing platform for podcasters and home musicians. The audio editor has a very clear interface that everyone can use easily, without any complications. Editing MP3 files and analyzing them is made easy with Ocenaudio.
-
-The audio editing software is famous because of its efficiency as it can edit large files. Do you want to know the fascinating thing about Ocenaudio? Well, the software uses advanced memory management, which means it opens files without wasting your PC's memory.
-
-![oceanaudio editor](https://images.wondershare.com/filmora/article-images/2022/edit-mp3-files-6.jpg)
-
-* The audio editor is the best option for everyday audio editing. Also, the software offers great filter selection with precise selection tools.
-* What attracts the most users is its powerful and complete spectrogram view. Along with the waveform view, Ocenaudio also features a spectrogram view of the audio files.
-* The software offers uniform features and the same graphics on all versions. Moreover, it supports various platforms like Windows, Mac OS X, and Linux.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 03 [WavePad Audio Editor](https://www.nch.com.au/wavepad/index.html)
 
@@ -479,6 +237,248 @@ Do you know what else it can do? You can easily edit and export the audio file i
 * The most amazing thing about WavePad Audio Editor is that it supports batch processing. You no longer have to wait as the software works very efficiently.
 * Want to know something interesting about WavePad Audio Editor? It is compatible with different file formats and holds strong editing capabilities.
 * Which audio editor can compress files? With WavePad, you can compress files with great ease and load files with just two mouse clicks.
+
+### Bottom Line
+
+As we promised earlier that we would help you and guide you on how to edit MP3 files so, this article has everything you need. We shared how you can edit MP3 files with the best audio MP3 editor, Wondershare Filmora. Along with that, we also shared 3 popular and free audio MP3 editors.
+
+#### Wondershare Filmora
+
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+
+02 [3 Popular Free MP3 Editor for Windows](#part2)
+
+## Part 1 How to Edit MP3 Files?
+
+As we have mentioned earlier, to edit MP3 files, a good audio editor is essential. Do you know any good Audio Editor? Although there are various editors, [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is unbeatable. It offers a whole editing world to its users. Filmora is hands down the best software when it comes to audio editing. Its intuitive interface is easy to understand and work with that even beginners can use it.
+
+What else does Filmora have to offer? It provides various editing elements. You name anything, and Filmora has it. The editor has a wide variety of Transitions, Effects, Filters, and other elements. Interestingly, Filmora also has a media library, Filmstock, that is full of amazing things.
+
+### Features of Filmora That Will Amaze You
+
+As we are talking about MP3 editing so, let’s shed light on Filmora Audio Editor. The editor has some mind-blowing features that you should know.
+
+* Audio Split is a key feature that good Audio Editors must have. Filmora lets you split audio, and additionally, you can also Trim Audio with this editor.
+* A very highlighting feature that you get from Filmora Audio Editor is 'Detach Audio from Video.' With this feature, you can detach and remove audio from video.
+* Features like Audio Denoise, Audio Mixer, Audio Equalizer are also offered by Wondershare Filmora Audio Editor.
+* Ready to know a fun feature? Not only can you add Voiceover, Filmora easily replaces the original audio of the video.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+### Step-by-Step Guideline to use Filmora Audio Editor
+
+Are you ready to use Filmora Audio Editor, but do you know how to edit an MP3 file? Don’t worry if you have never done this before because we are about to share its step-by-step guideline.
+
+### Step 1: Importing Audio
+
+To edit the MP3 file with Filmora Audio Editor, you firstly need to create a new project. After the project has been created, let's import the media file. For that, go to 'Import Media' from the Files tab and select 'Import Media Files.'
+
+![import audio file](https://images.wondershare.com/filmora/article-images/2022/edit-mp3-files-1.jpg)
+
+### Step 2: Audio Editing Panel
+
+Once the file has been imported, drag it onto the timeline so that you can start editing the audio. You have to double click on the audio file to open the ‘Audio Editing Panel.'
+
+![double click on audio](https://images.wondershare.com/filmora/article-images/2022/edit-mp3-files-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### Step 3: Let’s Start Editing
+
+With the Audio Editing Panel, you can completely edit and customize the MP3 file. It offers the 'Fade In’ and ‘Fade Out’ options. You can also remove background noise from the 'Denoise' option. Moreover, you can use the Equalizer, set the Pitch, etc.
+
+![edit your mp3 file](https://images.wondershare.com/filmora/article-images/2022/edit-mp3-files-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### Step 4: Export the File
+
+Lastly, once the editing is complete and you are satisfied, you can export the file. For that, hit the ‘Export’ button to open the export window. There, head over to the ‘Local’ section to select ‘MP3’ as the output format and ‘Export’ it to your device.
+
+![export mp3 file](https://images.wondershare.com/filmora/article-images/2022/edit-mp3-files-4.jpg)
+
+## Part 2 3 Popular Free MP3 Editor for Windows
+
+Now that we have discussed in detail Wondershare Filmora, should we talk a little about free MP3 editors? You can get a variety of free MP3 editors for Windows on the internet, but how do you know that yours is the best? If you want to know about the 3 best MP3 editors that are famous for their features, then this section is for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### 01 [Audacity](https://www.audacityteam.org/)
+
+Audacity is a fantastic audio editing software that is perfect for music trimming, sound effects, and dialogue. The tool offers a free version to its users. Audacity is open-source, a multi-track audio editor that makes editing easy.
+
+The plus point for this editing software is that it supports a wide range of file formats like FLAC, WAV, MP3, and others. What attracts the users? Well, the easy and simple interface of Audacity attracts a lot of users. Another thing that matters a lot is the installation process, and in Audacity's case, the installation is pretty easy.
+
+![audacity interface](https://images.wondershare.com/filmora/article-images/2022/edit-mp3-files-5.jpg)
+
+* For endless audio editing and merging audio files, nothing is better than Audacity. Also, the software supports 16-bit, 24-bit, and 32-bit sound quality.
+* Audacity provides support to various plug-ins, for instance, LV2, Nyquist, VST, LADSPA, and also Audio Unit Effect.
+* Another interesting thing about Audacity is that it records live audio from Mic or Mixer. You can also combine files and export them in different formats.
+
+### 02 [Ocenaudio](https://www.ocenaudio.com/)
+
+Can you name a great audio editor for home musicians and podcasters? Yes, Ocenaudio Audio Editor is the perfect, free audio editing platform for podcasters and home musicians. The audio editor has a very clear interface that everyone can use easily, without any complications. Editing MP3 files and analyzing them is made easy with Ocenaudio.
+
+The audio editing software is famous because of its efficiency as it can edit large files. Do you want to know the fascinating thing about Ocenaudio? Well, the software uses advanced memory management, which means it opens files without wasting your PC's memory.
+
+![oceanaudio editor](https://images.wondershare.com/filmora/article-images/2022/edit-mp3-files-6.jpg)
+
+* The audio editor is the best option for everyday audio editing. Also, the software offers great filter selection with precise selection tools.
+* What attracts the most users is its powerful and complete spectrogram view. Along with the waveform view, Ocenaudio also features a spectrogram view of the audio files.
+* The software offers uniform features and the same graphics on all versions. Moreover, it supports various platforms like Windows, Mac OS X, and Linux.
+
+### 03 [WavePad Audio Editor](https://www.nch.com.au/wavepad/index.html)
+
+Are you ready to talk about WavePad Audio Editor? The software is very famous because of the wide range of features it offers. What can you do with this audio editor? Let’s start sharing!
+
+With WavePad Audio Editor, you can edit audio by trimming, cutting, joining, splitting, etc. In addition to editing, you can also add different effects to your audio. For instance, effects like to normalize, amplify, equalize, etc. The audio editor also supports extracting audio from CDs and removing audio noise.
+
+Do you know what else it can do? You can easily edit and export the audio file in different formats from WavePad Audio Editor.
+
+![wavepad audio editor](https://images.wondershare.com/filmora/article-images/2022/edit-mp3-files-7.jpg)
+
+* The most amazing thing about WavePad Audio Editor is that it supports batch processing. You no longer have to wait as the software works very efficiently.
+* Want to know something interesting about WavePad Audio Editor? It is compatible with different file formats and holds strong editing capabilities.
+* Which audio editor can compress files? With WavePad, you can compress files with great ease and load files with just two mouse clicks.
+
+### Bottom Line
+
+As we promised earlier that we would help you and guide you on how to edit MP3 files so, this article has everything you need. We shared how you can edit MP3 files with the best audio MP3 editor, Wondershare Filmora. Along with that, we also shared 3 popular and free audio MP3 editors.
+
+#### Wondershare Filmora
+
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+
+02 [3 Popular Free MP3 Editor for Windows](#part2)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Part 1 How to Edit MP3 Files?
+
+As we have mentioned earlier, to edit MP3 files, a good audio editor is essential. Do you know any good Audio Editor? Although there are various editors, [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is unbeatable. It offers a whole editing world to its users. Filmora is hands down the best software when it comes to audio editing. Its intuitive interface is easy to understand and work with that even beginners can use it.
+
+What else does Filmora have to offer? It provides various editing elements. You name anything, and Filmora has it. The editor has a wide variety of Transitions, Effects, Filters, and other elements. Interestingly, Filmora also has a media library, Filmstock, that is full of amazing things.
+
+### Features of Filmora That Will Amaze You
+
+As we are talking about MP3 editing so, let’s shed light on Filmora Audio Editor. The editor has some mind-blowing features that you should know.
+
+* Audio Split is a key feature that good Audio Editors must have. Filmora lets you split audio, and additionally, you can also Trim Audio with this editor.
+* A very highlighting feature that you get from Filmora Audio Editor is 'Detach Audio from Video.' With this feature, you can detach and remove audio from video.
+* Features like Audio Denoise, Audio Mixer, Audio Equalizer are also offered by Wondershare Filmora Audio Editor.
+* Ready to know a fun feature? Not only can you add Voiceover, Filmora easily replaces the original audio of the video.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+### Step-by-Step Guideline to use Filmora Audio Editor
+
+Are you ready to use Filmora Audio Editor, but do you know how to edit an MP3 file? Don’t worry if you have never done this before because we are about to share its step-by-step guideline.
+
+### Step 1: Importing Audio
+
+To edit the MP3 file with Filmora Audio Editor, you firstly need to create a new project. After the project has been created, let's import the media file. For that, go to 'Import Media' from the Files tab and select 'Import Media Files.'
+
+![import audio file](https://images.wondershare.com/filmora/article-images/2022/edit-mp3-files-1.jpg)
+
+### Step 2: Audio Editing Panel
+
+Once the file has been imported, drag it onto the timeline so that you can start editing the audio. You have to double click on the audio file to open the ‘Audio Editing Panel.'
+
+![double click on audio](https://images.wondershare.com/filmora/article-images/2022/edit-mp3-files-2.jpg)
+
+### Step 3: Let’s Start Editing
+
+With the Audio Editing Panel, you can completely edit and customize the MP3 file. It offers the 'Fade In’ and ‘Fade Out’ options. You can also remove background noise from the 'Denoise' option. Moreover, you can use the Equalizer, set the Pitch, etc.
+
+![edit your mp3 file](https://images.wondershare.com/filmora/article-images/2022/edit-mp3-files-3.jpg)
+
+### Step 4: Export the File
+
+Lastly, once the editing is complete and you are satisfied, you can export the file. For that, hit the ‘Export’ button to open the export window. There, head over to the ‘Local’ section to select ‘MP3’ as the output format and ‘Export’ it to your device.
+
+![export mp3 file](https://images.wondershare.com/filmora/article-images/2022/edit-mp3-files-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Part 2 3 Popular Free MP3 Editor for Windows
+
+Now that we have discussed in detail Wondershare Filmora, should we talk a little about free MP3 editors? You can get a variety of free MP3 editors for Windows on the internet, but how do you know that yours is the best? If you want to know about the 3 best MP3 editors that are famous for their features, then this section is for you.
+
+### 01 [Audacity](https://www.audacityteam.org/)
+
+Audacity is a fantastic audio editing software that is perfect for music trimming, sound effects, and dialogue. The tool offers a free version to its users. Audacity is open-source, a multi-track audio editor that makes editing easy.
+
+The plus point for this editing software is that it supports a wide range of file formats like FLAC, WAV, MP3, and others. What attracts the users? Well, the easy and simple interface of Audacity attracts a lot of users. Another thing that matters a lot is the installation process, and in Audacity's case, the installation is pretty easy.
+
+![audacity interface](https://images.wondershare.com/filmora/article-images/2022/edit-mp3-files-5.jpg)
+
+* For endless audio editing and merging audio files, nothing is better than Audacity. Also, the software supports 16-bit, 24-bit, and 32-bit sound quality.
+* Audacity provides support to various plug-ins, for instance, LV2, Nyquist, VST, LADSPA, and also Audio Unit Effect.
+* Another interesting thing about Audacity is that it records live audio from Mic or Mixer. You can also combine files and export them in different formats.
+
+### 02 [Ocenaudio](https://www.ocenaudio.com/)
+
+Can you name a great audio editor for home musicians and podcasters? Yes, Ocenaudio Audio Editor is the perfect, free audio editing platform for podcasters and home musicians. The audio editor has a very clear interface that everyone can use easily, without any complications. Editing MP3 files and analyzing them is made easy with Ocenaudio.
+
+The audio editing software is famous because of its efficiency as it can edit large files. Do you want to know the fascinating thing about Ocenaudio? Well, the software uses advanced memory management, which means it opens files without wasting your PC's memory.
+
+![oceanaudio editor](https://images.wondershare.com/filmora/article-images/2022/edit-mp3-files-6.jpg)
+
+* The audio editor is the best option for everyday audio editing. Also, the software offers great filter selection with precise selection tools.
+* What attracts the most users is its powerful and complete spectrogram view. Along with the waveform view, Ocenaudio also features a spectrogram view of the audio files.
+* The software offers uniform features and the same graphics on all versions. Moreover, it supports various platforms like Windows, Mac OS X, and Linux.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### 03 [WavePad Audio Editor](https://www.nch.com.au/wavepad/index.html)
+
+Are you ready to talk about WavePad Audio Editor? The software is very famous because of the wide range of features it offers. What can you do with this audio editor? Let’s start sharing!
+
+With WavePad Audio Editor, you can edit audio by trimming, cutting, joining, splitting, etc. In addition to editing, you can also add different effects to your audio. For instance, effects like to normalize, amplify, equalize, etc. The audio editor also supports extracting audio from CDs and removing audio noise.
+
+Do you know what else it can do? You can easily edit and export the audio file in different formats from WavePad Audio Editor.
+
+![wavepad audio editor](https://images.wondershare.com/filmora/article-images/2022/edit-mp3-files-7.jpg)
+
+* The most amazing thing about WavePad Audio Editor is that it supports batch processing. You no longer have to wait as the software works very efficiently.
+* Want to know something interesting about WavePad Audio Editor? It is compatible with different file formats and holds strong editing capabilities.
+* Which audio editor can compress files? With WavePad, you can compress files with great ease and load files with just two mouse clicks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Bottom Line
 
@@ -524,20 +524,18 @@ It can also help you bring your A-game to the field if you're a professional vid
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-navigating-ig-videos-successfully-building-an-efficient-marketing-blueprint-for-2024/"><u>[New] Navigating IG Videos Successfully Building an Efficient Marketing Blueprint for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-spur-the-playback-of-vimeo-media-for-2024/"><u>[Updated] Spur the Playback of Vimeo Media for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-apple-iphone-8-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On Apple iPhone 8? Find the Best Solution Here</u></a></li>
-<li><a href="https://fox-making.techidaily.com/best-free-and-premium-digital-collage-apps-top-picks-for-creating-stunning-layouts/"><u>Best Free and Premium Digital Collage Apps: Top Picks for Creating Stunning Layouts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-how-chatgpt-can-revolutionize-your-time-management-techniques-5-tips-inside/"><u>Discover How ChatGPT Can Revolutionize Your Time-Management Techniques (5 Tips Inside)</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-the-power-of-consistency-steps-to-increase-youtube-views-and-subscriptions/"><u>In 2024, The Power of Consistency Steps to Increase YouTube Views and Subscriptions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-honor-80-pro-straight-screen-edition-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Honor 80 Pro Straight Screen Edition? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quick-fixes-for-wi-fi-troubleshooting-tackling-wireless-adapter-and-access-point-error-messages/"><u>Quick Fixes for Wi-Fi Troubleshooting: Tackling Wireless Adapter and Access Point Error Messages</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/quick-video-sharing-tweet-it-up-no-need-for-retweets-for-2024/"><u>Quick Video Sharing Tweet It Up - No Need for Retweets for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/sea-of-thieves-wont-open-heres-what-you-can-do/"><u>Sea of Thieves Won't Open? Here's What You Can Do</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/the-power-of-speed-unleashed-a-detailed-examination-of-the-netgear-nighthawk-x10-ad72amojio/"><u>The Power of Speed Unleashed: A Detailed Examination of the Netgear Nighthawk X10 AD72amojio</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-resonant-harmony-a-comprehensive-list-of-voice-enhancing-apps-for-all-audiences-and-budgets/"><u>Updated In 2024, Resonant Harmony A Comprehensive List of Voice-Enhancing Apps for All Audiences and Budgets</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-ultimate-wav-to-mp3-conversion-tool-speedy-flawless-converting/"><u>Updated In 2024, Ultimate WAV to MP3 Conversion Tool Speedy, Flawless Converting</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-top-tier-voip-games-conversation-tools-for-2024/"><u>Updated Top-Tier VOIP Games Conversation Tools for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/your-companion-guide-top-10-audio-transcription-software-for-all-budgets/"><u>Your Companion Guide Top 10 Audio-Transcription Software For All Budgets</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-device-diversity-met-with-editing-brilliance/"><u>[New] 2024 Approved Device Diversity Met With Editing Brilliance</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-clearing-up-opaque-video-views-on-youtube/"><u>[New] In 2024, Clearing Up Opaque Video Views on YouTube</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-exclusive-moba-selection-for-android-gamers/"><u>[Updated] Exclusive MOBA Selection for Android Gamers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-cutting-ties-with-instagram-users/"><u>In 2024, Cutting Ties with Instagram Users</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-saving-instagrams-finest-in-your-photo-gallery/"><u>In 2024, Saving Instagram's Finest in Your Photo Gallery</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-ultimate-list-of-8-powerful-daw-options-revolutionize-your-music-production-process/"><u>New The Ultimate List of 8 Powerful DAW Options Revolutionize Your Music Production Process</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-ultimate-backward-beat-playlist-for-2024/"><u>The Ultimate Backward Beat Playlist for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-ultimate-guide-8-premium-rain-impact-noises-for-creative-projects-for-2024/"><u>The Ultimate Guide 8 Premium Rain Impact Noises for Creative Projects for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-mastering-vimeo-visuals-a-comprehensive-guide-to-aspect-ratios-and-formats/"><u>Updated 2024 Approved Mastering Vimeo Visuals A Comprehensive Guide to Aspect Ratios and Formats</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-crafting-the-perfect-track-heres-our-selection-of-the-best-8-chrome-os-compatible-daws-musicians-for-2024/"><u>Updated Crafting the Perfect Track? Heres Our Selection of the Best 8 Chrome OS-Compatible DAWs Musicians for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-essential-pop-tunes-assortment-for-enhancing-video-narratives-with-dynamic-soundscapes-for-2024/"><u>Updated Essential Pop Tunes Assortment for Enhancing Video Narratives with Dynamic Soundscapes for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/will-upgrading-to-windows-11-deliver-a-noticeable-boost/"><u>Will Upgrading to Windows 11 Deliver a Noticeable Boost?</u></a></li>
 </ul></div>
 

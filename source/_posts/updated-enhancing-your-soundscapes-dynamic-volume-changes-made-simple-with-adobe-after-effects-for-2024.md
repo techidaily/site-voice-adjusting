@@ -1,7 +1,7 @@
 ---
 title: Updated Enhancing Your Soundscapes Dynamic Volume Changes Made Simple with Adobe After Effects for 2024
-date: 2024-10-29T16:42:21.023Z
-updated: 2024-11-04T16:09:22.825Z
+date: 2024-12-08T19:37:32.675Z
+updated: 2024-12-16T05:51:37.849Z
 tags: 
   - audio editing software
   - audio editing
@@ -30,6 +30,10 @@ However, you will need to have at least basic video and sound editing skills to 
 
  **Read More to Get:** [Best Audio Mixer Software to Trim Your Sound Easily >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Adding the Fade In and Fade Out Effects to Audio Files in AE
 
 ### Step 1: Check audio waveform in After Effects
@@ -38,20 +42,21 @@ Once you've created a new project in AE and you've imported the audio files you'
 
 ![fade out/in audio waveform after effects](https://images.wondershare.com/filmora/filmorapro/fade-out-in-audio-after-effects-waveform.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 2: Add a keyframe to the audio file
 
 The next thing you will have to do is place the playhead at the exact location where you want the Fade In effect to start. In most cases, Fade effects are added at the starting point of the audio file, so you should position the playhead at the beginning of the timeline or zero seconds. You will be able to see a stopwatch next to the Audio Levels option located in the Composition tab. Click on it to add the first keyframe and assign a negative value to the Audio Level setting. -100db or -50db values will make the audio file silent, and you can pick either based on how long you want the Fade in effect to last. If you don't know how to use keyframes in After Effects, [this article will give you some info](https://www.schoolofmotion.com/blog/how-to-set-keyframes-after-effects).
 
 ![Add keyframe to fade out/in audio](https://images.wondershare.com/filmora/filmorapro/add-keyframe-fade-in-out-audio.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You may also like: [15 Free After Effects Templates to Power up Your Video](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 3: Complete Fade out/in audio in After Effects
 
@@ -63,6 +68,10 @@ Move the playhead to the location where you want the effect to end and add anoth
 
 The process of creating a fade in or a fade out effect in AE is quite simple, but it is up to you to discover creative ways of using these effects. Here are a few tips that can help you use these audio effects more creatively.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Avoid Hard Cuts
 
 A high pitch sound at the very begging of a new sequence can ruin your soundtrack and ultimately the entire video, so in case you've cut an audio file at the location where the sound peaks, you can apply a fade in effect to make the transition between two audio files softer.
@@ -73,23 +82,9 @@ You may also like: [How to Cut Video in After Effects](https://tools.techidaily.
 
 [Audio compression](https://theproaudiofiles.com/compression-techniques/) is a process that reduces loud sounds and amplifies quiet sounds, resulting from the audio file's dynamic range being compressed. In most cases, you won't notice the effects of audio compression, but if you compress an audio file too much, you might get some unwanted side effects if you add a fade out effect to that file. That's why it is best to rely on the default audio compression features a video or audio editing app offers.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Use the Fade In and Fade Out Effects Creatively
 
 Besides opening and closing scenes, you can also use the Fade in and fade out effects to mix two different tracks while the shot is still in progress. Fade out one track, make it look like a scene is ending, and then introduce a new theme that changes the mood of that scene. The important thing is to avoid reducing the audio level all the way to -100db because you might end up creating silence in a scene that disrupts the flow of an entire video.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -100,10 +95,7 @@ If you want to fade in/out audio easily, we recommend using [Filmora](https://to
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -121,21 +113,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-tiktoks-viral-video-wave-twitters-top-10-rankings-for-2024/"><u>[New] TikTok's Viral Video Wave Twitter's Top 10 Rankings for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-full-assessment-hero4-black-capabilities/"><u>[Updated] Full Assessment Hero4 Black Capabilities</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-rhythmic-rebellion-top-audio-anomaly-apps-for-mobile/"><u>[Updated] In 2024, Rhythmic Rebellion Top Audio Anomaly Apps for Mobile</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-unleashing-screen-content-with-zdsofts-magic-for-2024/"><u>[Updated] Unleashing Screen Content with ZDSoft's Magic for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-safeguarding-your-listening-pleasure-with-3-steps/"><u>2024 Approved Safeguarding Your Listening Pleasure with 3 Steps</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-download-guide-finding-and-installing-canon-printscan-device-drivers-on-pc/"><u>Easy Download Guide: Finding and Installing Canon Print/Scan Device Drivers on PC</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-upgrade-your-whatsapp-experience-with-a-bespokel-ringtones-design/"><u>In 2024, Upgrade Your WhatsApp Experience with a Bespokel Ringtones Design</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-aol-mail-experiencing-a-blackout-or-are-connectivity-problems-on-your-end/"><u>Is AOL Mail Experiencing a Blackout? Or Are Connectivity Problems on Your End?</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-ultimate-ranking-8-best-ios-compatible-daws-for-ipad-and-iphone-enthusiasts/"><u>New The Ultimate Ranking 8 Best iOS-Compatible DAWs for iPad and iPhone Enthusiasts</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-upscale-video-sound-intensity-louden-your-viewing-experience-for-2024/"><u>New Upscale Video Sound Intensity Louden Your Viewing Experience for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/optimize-your-connection-with-intel-network-drivers-compatible-with-win-11107-download-now/"><u>Optimize Your Connection with Intel Network Drivers – Compatible with Win 11/10/7 [Download Now]</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-guide-to-isolating-and-removing-audio-tracks-in-video-editing-using-premiere-pro/"><u>Updated 2024 Approved Guide to Isolating and Removing Audio Tracks in Video Editing Using Premiere Pro</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-the-intricacies-of-omegle-a-comprehensive-guide-to-its-functioning-and-safety-measures/"><u>Updated 2024 Approved The Intricacies of Omegle A Comprehensive Guide to Its Functioning and Safety Measures</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-voicing-efficiency-a-comprehensive-review-of-the-top-6-auto-transcribing-software-systems/"><u>Updated 2024 Approved Voicing Efficiency A Comprehensive Review of the Top 6 Auto-Transcribing Software Systems</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-cutting-edge-tools-for-podcasters-a-guide-to-the-best-free-and-paid-audio-editing-software-on-the-market/"><u>Updated Cutting-Edge Tools for Podcasters A Guide to the Best Free & Paid Audio Editing Software on the Market</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-advanced-audacity-editing-adjusting-pitch-without-audio-degradation/"><u>Updated In 2024, Advanced Audacity Editing Adjusting Pitch Without Audio Degradation</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-cut-to-the-chase-comparing-gopro-and-drift-ghosts/"><u>[Updated] In 2024, Cut to the Chase Comparing GoPro and Drift Ghosts</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-celestial-sound-shift-exploring-the-features-user-manuals-and-alternatives-for-star-voice-transformation/"><u>In 2024, Celestial Sound Shift Exploring the Features, User Manuals & Alternatives for Star Voice Transformation</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-professional-filmmakers-choices-17-best-lights/"><u>In 2024, Professional Filmmakers' Choices #17 Best Lights</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-step-by-step-analysis-of-substitutes-for-apowersofts-audio-recorder/"><u>In 2024, Step-by-Step Analysis of Substitutes for Apowersofts Audio Recorder</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-sync-your-sound-step-by-step-audio-editing-in-avidemux-for-the-modern-producer/"><u>In 2024, Sync Your Sound Step-by-Step Audio Editing in Avidemux for the Modern Producer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-automation-for-batch-files/"><u>Mastering Windows Automation for Batch Files</u></a></li>
+<li><a href="https://facebook.techidaily.com/messengers-new-ar-tools-a-social-revolution/"><u>Messenger's New AR Tools: A Social Revolution</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-free-3gp-video-rotation-software-top-picks/"><u>New 2024 Approved Free 3GP Video Rotation Software Top Picks</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-exploring-the-leading-10-cost-effective-podcast-production-applications/"><u>New Exploring the Leading 10 Cost-Effective Podcast Production Applications</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-how-to-cut-audio-in-imovie-on-mac-and-iphone-in-2024/"><u>New How to Cut Audio in iMovie on Mac & iPhone, In 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-10plus-free-online-mp3-to-text-converters/"><u>New In 2024, 10+ FREE Online MP3 to Text Converters</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-audio-enhancement-in-your-windows-environment-maximizing-sound-on-budget/"><u>New In 2024, Audio Enhancement in Your Windows Environment - Maximizing Sound on Budget</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-learn-to-embed-songs-in-your-videos-without-investment/"><u>New In 2024, Learn to Embed Songs in Your Videos Without Investment</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-resurrect-ccleaner-in-windows-11/"><u>Steps to Resurrect CCleaner in Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/stream-and-enjoy-high-definition-cinema-at-home-using-moviebox-compatible-with-both-windows-10-and-11/"><u>Stream and Enjoy High-Definition Cinema at Home Using MovieBox – Compatible With Both Windows 10 & 11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/428456-9780446562553-the-joy-of-meditating/"><u>The Joy of Meditating | Free Book</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unlock-4k-the-top-free-video-converters/"><u>Unlock 4K The Top Free Video Converters</u></a></li>
 </ul></div>
 
