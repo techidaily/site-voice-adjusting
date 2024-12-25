@@ -1,7 +1,7 @@
 ---
 title: New The Audio Engineers Guide to Live Sound Management with OBS Maximizing Your Broadcast Quality
-date: 2024-12-11T00:06:52.958Z
-updated: 2024-12-15T18:45:38.723Z
+date: 2024-12-21T16:28:35.489Z
+updated: 2024-12-25T03:28:11.027Z
 tags: 
   - audio editing software
   - audio editing
@@ -29,7 +29,7 @@ Video making or filmmaking has now come to the level where the history of imperf
 If you are a content creator, maybe you will be familiar with coordinating the right audio with the video. If not, it isn't a problem anymore as I have included a detailed guide of implementing **audio ducking** in a step-wise way. With primary importance to the popular software **OBS** followed by a suitable alternative, let's begin our article!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Balance Your Stream Sound with OBS Audio Ducking?
@@ -59,7 +59,7 @@ You can now specify the values of the ratio, threshold, attack, release, output 
 It's complete. Yes, OBS audio ducking is over. Now you can check the video and alter the parameters if required after a preview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: The Best Audio Ducking Alternative to OBS
@@ -74,7 +74,7 @@ Developed for the inspired, Filmora follows its unique way of ducking sound, eas
 * Add voiceover, sprinkle magic with filters, detect beat, and create markers easily with Wondershare Filmora.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to use the audio ducking feature in Wondershare Filmora?
@@ -100,7 +100,7 @@ Select the clips with dialogue, whereby right-clicking or double-clicking on the
 On the following audio editing window, tick the "**Lower the volume of other clips**" option to reduce background music or any other media volume.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -110,7 +110,7 @@ I hope you have now come to know why **ducking sound** is a must and how well **
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -128,18 +128,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-tips-for-perfect-control-how-to-use-your-switch-pro-on-steam/"><u>[New] In 2024, Tips for Perfect Control How to Use Your Switch Pro on Steam</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-step-by-step-guide-to-achieving-the-perfectly-loops-youtube-videos/"><u>[Updated] 2024 Approved Step-By-Step Guide to Achieving the Perfectly Loops YouTube Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-navigating-the-world-of-avis-to-gifs-with-help-from-filmora/"><u>[Updated] Navigating the World of AVIs to GIFs with Help From Filmora</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/crystal-clear-playback-top-5-ultra-hd-gaming-displays-with-hdmi-21-ps5/"><u>Crystal Clear Playback Top 5 Ultra HD Gaming Displays with HDMI 2.1 [PS5]</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-redmi-note-12-proplus-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi Redmi Note 12 Pro+ 5G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-10-premier-websites-to-access-high-quality-bgm-libraries/"><u>In 2024, 10 Premier Websites to Access High-Quality BGM Libraries</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-70-lite-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor 70 Lite 5G Phone FRP Lock</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/navigating-the-world-of-public-domain-photography-the-pexels-experience-for-2024/"><u>Navigating the World of Public Domain Photography The Pexels Experience for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-compilation-of-top-soundscapes-adopting-the-perfect-audio-accompaniment-for-your-montage-creation/"><u>New Compilation of Top Soundscapes Adopting the Perfect Audio Accompaniment for Your Montage Creation</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unleash-your-full-potential-top-ideas-for-productive-podcast-sessions-for-2024/"><u>Unleash Your Full Potential Top Ideas for Productive Podcast Sessions for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-how-to-merge-video-and-audio-for-2024/"><u>Updated How to Merge Video and Audio for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/virtual-odyssey-comparing-oculus-htc-vive-and-ps-vrs-gaming-offerings/"><u>Virtual Odyssey Comparing Oculus, HTC Vive & PS VR’s Gaming Offerings</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/where-to-find-premium-dj-audios-online/"><u>Where to Find Premium DJ Audios Online</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-a-review-of-the-goofy-movie-vhs-for-2024/"><u>[New] A Review of The Goofy Movie VHS for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-become-a-videographer-essentials-of-recording-with-logitech-for-2024/"><u>[Updated] Become a Videographer Essentials of Recording with Logitech for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-the-years-best-tiktok-collaborations-in-hip-hop/"><u>In 2024, The Year’s Best TikTok Collaborations in Hip-Hop</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-mechanics-behind-anime-translations-insights-into-adaptation-and-localization-for-2024/"><u>New The Mechanics Behind Anime Translations Insights Into Adaptation and Localization for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/premier-software-solutions-for-clearing-up-rough-audio-texture-for-2024/"><u>Premier Software Solutions for Clearing Up Rough Audio Texture for 2024</u></a></li>
+<li><a href="https://win-docs.techidaily.com/rcu-action-guide-comprehensive-qanda-insights/"><u>RCU Action Guide: Comprehensive Q&A Insights</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-motorola-razr-40-ultra-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Motorola Razr 40 Ultra</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/room-and-pc-readiness-for-immersive-vr-with-oculus/"><u>Room & PC Readiness for Immersive VR with Oculus</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-speakers-digest-top-text-to-speech-sites-for-enhanced-digital-interaction-for-2024/"><u>The Speakers Digest - Top Text-to-Speech Sites for Enhanced Digital Interaction for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-unveiling-the-essence-of-clubhouse-a-comprehensive-overview-for-newcomers/"><u>Updated 2024 Approved Unveiling the Essence of Clubhouse A Comprehensive Overview for Newcomers</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-discovering-the-finest-online-sound-design-tools-with-cost-breakdown/"><u>Updated In 2024, Discovering the Finest Online Sound Design Tools - With Cost Breakdown</u></a></li>
 </ul></div>
 

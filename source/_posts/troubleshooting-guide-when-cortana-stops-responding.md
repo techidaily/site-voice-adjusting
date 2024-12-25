@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: When Cortana Stops Responding"
-date: 2024-12-12T04:51:00.882Z
-updated: 2024-12-15T20:52:51.713Z
+date: 2024-12-21T04:28:45.133Z
+updated: 2024-12-25T01:40:18.184Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
 
 **Cortana not working?**  I believe it’s one of your pet hates. Don’t panic. Usually it’s an easy problem to fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do I fix Cortana not working?
 
  Here are 5 methods you can try to fix this glitch. Please work your way down the list until you find the that works.
@@ -28,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
 3. [Make sure your Windows 10 system is up-to-date](https://tools.techidaily.com/drivereasy/download/)
 4. [Update your Microphone driver and audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Reset Cortana](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1: Reboot your Windows 10 PC
 
@@ -45,10 +53,6 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Region & language.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
@@ -58,14 +62,10 @@ Check your region and language settings on your computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5) Try Cortana again to see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 3: Make sure your Windows 10 system is up-to-date
 
@@ -82,6 +82,10 @@ Check your region and language settings on your computer:
 3) Install the available updates.
 
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Update your Microphone driver and audio driver
 
@@ -103,10 +107,6 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8cc9febab7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Click the  **Update**  button next to all flagged drivers to automatically download and install the correct version of their driver (you can do this with the FREE version).
 
 Or click  **Update All** to automatically download and install the correct version of  _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
@@ -114,6 +114,10 @@ Or click  **Update All** to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
 
 4) Reboot your Windows 10 and try Cortana again to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 5: Reset your Cortana
 
@@ -123,21 +127,17 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb16d80e39a.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the button beside **On** in **Hey Cortana** to turn off it. You should then see the **Off**  status.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb180855417.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Try Cortana again to see if it works.
 
@@ -159,14 +159,22 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-leveraging-facebook-for-automatic-video-views/"><u>[Updated] Leveraging Facebook for Automatic Video Views</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-mergecombinejoin-youtube-flv-videos/"><u>2024 Approved How to Merge/Combine/Join YouTube (FLV) Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-smirk-sculptor-image-maker/"><u>2024 Approved Smirk Sculptor Image Maker</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-find-lost-iphone-13-mini-backup-files-on-windows-pc-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to find lost iPhone 13 mini Backup files on Windows PC? | Stellar</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-a-guide-to-copyright-free-tracks-perfect-for-videographic-artistry/"><u>In 2024, A Guide to Copyright-Free Tracks Perfect for Videographic Artistry</u></a></li>
-<li><a href="https://driver-download.techidaily.com/installing-the-latest-hp-laserjet-p1102w-drivers-for-windows-step-by-step-tutorial/"><u>Installing the Latest HP LaserJet P1102w Drivers for Windows - Step-by-Step Tutorial</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-preferred-6-web-linked-audiophone-extraction-devices/"><u>New 2024 Approved Preferred 6 Web-Linked Audiophone Extraction Devices</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-elevating-audio-standards-top-10-sound-upgraders-for-smartphones-androidios-for-2024/"><u>New Elevating Audio Standards Top 10 Sound Upgraders for Smartphones (Android/iOS) for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-marketing-mastery-series-top-podcasts-to-guide-you-through-social-medias-impact/"><u>New In 2024, Marketing Mastery Series Top Podcasts to Guide You Through Social Medias Impact</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-harmonious-hits-free-download-zones-for-skype-tunes/"><u>[New] Harmonious Hits Free Download Zones for Skype Tunes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-mastering-facebook-vids-the-top-20-marketing-hacks/"><u>[New] In 2024, Mastering Facebook Vids The Top 20 Marketing Hacks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-frosty-olympics-highlights-in-figure-skating/"><u>[Updated] 2024 Approved Frosty Olympics Highlights in Figure Skating</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-ipad-tech-unveiling-the-secrets-of-time-lapse-videos/"><u>[Updated] 2024 Approved IPad Tech Unveiling the Secrets of Time-Lapse Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-navigating-instagrams-live-broadcasting/"><u>[Updated] 2024 Approved Navigating Instagram's Live Broadcasting</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-prime-editing-choosing-the-best-for-youtube/"><u>[Updated] In 2024, Prime Editing Choosing the Best For YouTube</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/final-hours-of-october-prime-deals-exclusive-game-discounts-and-savings-of-up-to-1000-dont-miss-out-techradar/"><u>Final Hours of October Prime Deals: Exclusive Game Discounts & Savings of Up to $1,000 - Don't Miss Out! | TechRadar</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Infinix Smart 8? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722082614161-impatient-for-a-direct-chat-with-chatgpt-on-your-computer-heres-why-you-shouldnt-overlook-open-source-substitutes/"><u>Impatient for a Direct Chat with ChatGPT on Your Computer? Here's Why You Shouldn’t Overlook Open Source Substitutes!</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-depth-review-the-ultimate-gaming-experience-with-oculus-quest-2-elite-straps-battery-and-protective-case/"><u>In-Depth Review: The Ultimate Gaming Experience with Oculus Quest ^2 Elite Straps, Battery, and Protective Case</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-exploring-the-leading-8-android-daw-applications-to-amplify-your-audio-artistry/"><u>Updated In 2024, Exploring the Leading 8 Android DAW Applications to Amplify Your Audio Artistry</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-free-8-best-plugins-for-logic-pro-x/"><u>Updated In 2024, FREE 8 Best Plugins for Logic Pro X</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-unveiling-melodys-pulse-techniques-for-online-rhythm-extraction/"><u>Updated In 2024, Unveiling Melodys Pulse Techniques for Online Rhythm Extraction</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-the-best-free-web-integrated-daw-software-ranked-your-guide/"><u>Updated The Best Free, Web-Integrated DAW Software Ranked - Your Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-the-ultimate-safe-and-entertaining-directory-of-non-casual-social-networks-for-2024/"><u>Updated The Ultimate Safe and Entertaining Directory of Non-Casual Social Networks for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-top-10-free-audio-capture-tools-for-excellent-podcasts-updated-for-2024/"><u>Updated Top 10 Free Audio Capture Tools for Excellent Podcasts (Updated) for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-top-tier-voip-games-conversation-tools/"><u>Updated Top-Tier VOIP Games Conversation Tools</u></a></li>
 </ul></div>
 

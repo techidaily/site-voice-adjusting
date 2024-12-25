@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Splitting Audio and Visuals in iMovie Using a Mac
-date: 2024-12-14T02:43:49.244Z
-updated: 2024-12-15T23:55:56.315Z
+date: 2024-12-17T21:48:52.210Z
+updated: 2024-12-24T21:19:41.484Z
 tags: 
   - audio editing software
   - audio editing
@@ -35,7 +35,7 @@ Now let's look at how to **separate audio from video in iMovie on Mac**.
 * [**Part 3\. FAQs about Separating Audio from Video in iMovie**](#part3)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1\. How to Separate/Detach/Split Audio from Video in iMovie on Mac
@@ -63,7 +63,7 @@ Select **Delete** from the shortcut menu by right-clicking.
 Or hold **Control** while clicking and selecting **Delete**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. Separate Audio from Video on Mac with the Best Alternative to iMovie
@@ -73,7 +73,7 @@ Want to extract the music file from a video clip's audio and visual tracks? Or d
 [![Download Filmora Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can make your own MP3 file of the amazing piece of music for enjoyment on the move, whether it's from a music video, TV show, or concert footage. To separate your audio from your video, follow the steps outlined below.
@@ -95,6 +95,10 @@ You've successfully detached the audio track from the video file.
 Because the audio and video tracks have been split, you may simply delete the audio or video track you don't need and replace it with the new one. Then press "Export" to save the audio track as an MP3 file, or go straight to the "iPod" preset to listen on the move.
 
 You should first save the split video frame or audio track to a project file on your hard disk if you wish to save it separately in a new file. Reload the project file that contains the video frame after you've finished exporting the audio track, and then export it to a new video file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3\. FAQs about Separating Audio from Video in iMovie
 
@@ -133,7 +137,7 @@ By clicking the play button next to the **Share** button, you may see a preview 
 Alternatively, you can share it directly from the app to other social media platforms. Apart from removing audio from videos, Animaker also includes other video editing tools that you'll need to modify your videos for social media and your website.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Wrap Up
@@ -145,10 +149,6 @@ If a video has music, sounds, or voices that you'd like to separate from the vid
 And if iMovie can’t meet your need, don’t worry. Wondershare Filmora can be your better choice.
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -165,24 +165,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-building-effective-product-sponsor-relationships-for-2024/"><u>[Updated] Building Effective Product-Sponsor Relationships for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-perfecting-presentations-with-zoom-screenshares/"><u>[Updated] Perfecting Presentations with Zoom Screenshares</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-remove-drums-from-a-song-online-easy-tips-and-tricks/"><u>2024 Approved Remove Drums From a Song Online Easy Tips and Tricks</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ng-edge-techniques-for-aspiring-youtube-game-streamers-for-2024/"><u>Cutting-Edge Techniques for Aspiring YouTube Game Streamers for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-3-ways-to-unlock-your-apple-iphone-13-pro-for-free-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Your Apple iPhone 13 Pro for Free</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-motorola-razr-40-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Motorola Razr 40 Phone? | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-maximize-learning-mac-methods-to-document-lectures/"><u>In 2024, Maximize Learning Mac Methods to Document Lectures</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/locating-the-dynamics-of-whistling-audio/"><u>Locating the Dynamics of Whistling Audio</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gear-quality-a-deep-dive-into-hardware-reviewed-by-tom/"><u>Mastering Gear Quality: A Deep Dive Into Hardware Reviewed by Tom</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-enhancing-audio-quality-techniques-for-distraction-free-sounds-with-wondershare-filmora/"><u>New 2024 Approved Enhancing Audio Quality Techniques for Distraction-Free Sounds with Wondershare Filmora</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-leading-audio-modification-programs-a-comprehensive-guide/"><u>New Leading Audio-Modification Programs A Comprehensive Guide</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-mastering-iphone-voice-recording-a-comprehensive-tutorial-for-2024/"><u>New Mastering iPhone Voice Recording A Comprehensive Tutorial for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-audio-architects-guide-to-stripping-down-beats-online-for-2024/"><u>New The Audio Architects Guide to Stripping Down Beats Online for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-top-10-online-platforms-for-sourcing-professional-quality-montage-tracks-for-2024/"><u>New Top 10 Online Platforms for Sourcing Professional-Quality Montage Tracks for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/security-wake-up-call-unauthorized-digital-access/"><u>Security Wake-Up Call: Unauthorized Digital Access</u></a></li>
-<li><a href="https://article-files.techidaily.com/uncovering-whatsapp-written-off-tricks-and-tips/"><u>Uncovering WhatsApp' Written Off Tricks and Tips</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-create-stunning-collages-best-web-based-photo-and-video-editors/"><u>Updated 2024 Approved Create Stunning Collages Best Web-Based Photo and Video Editors</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-final-cut-pro-sound-visualization-step-by-step-on-rendering-audio-waveforms-and-their-animation-integration/"><u>Updated In 2024, Final Cut Pro Sound Visualization Step-by-Step on Rendering Audio Waveforms and Their Animation Integration</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-understanding-audacitys-noise-suppression-techniques-step-by-step-guide-for-2024/"><u>Updated Understanding Audacitys Noise Suppression Techniques Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-perfect-photo-placement-on-windows-machines/"><u>[New] Perfect Photo Placement on Windows Machines</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-apple-iphone-15-pro-icloud-activation-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing Apple iPhone 15 Pro iCloud Activation Lock</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-tecno-spark-20-proplus-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Tecno Spark 20 Pro+? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-seamless-live-stream-quality-with-steam/"><u>Ensuring Seamless Live Stream Quality with Steam</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-your-intel-iris-gma-655-graphics-with-windows-11-drivers/"><u>How to Update Your Intel Iris GMA 655 Graphics with Windows 11 Drivers</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-quick-repairs-stabilize-your-division-2-gaming-experience-effortlessly/"><u>Master Quick Repairs: Stabilize Your Division 2 Gaming Experience Effortlessly</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/mastering-volume-transitions-keyframe-techniques-in-filmora-mac/"><u>Mastering Volume Transitions Keyframe Techniques in Filmora (Mac)</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-fundamental-features-to-consider-when-selecting-an-audio-editor-for-mac-users/"><u>New 2024 Approved Fundamental Features to Consider When Selecting an Audio Editor for Mac Users</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-art-of-infusing-audio-harmonies-with-visual-narratives-at-zero-expense/"><u>New 2024 Approved The Art of Infusing Audio Harmonies with Visual Narratives at Zero Expense</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-beat-engineers-handbook-designing-sounds-for-the-silver-screen/"><u>New 2024 Approved The Beat Engineers Handbook Designing Sounds for the Silver Screen</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-a-technical-approach-to-combining-soundtracks-with-video-footage-on-mobile-devices/"><u>New A Technical Approach to Combining Soundtracks with Video Footage on Mobile Devices</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-an-insiders-look-6-exemplary-chrome-os-gadgets-for-exceptional-voice-alteration-experiences-creativesuitelumiere/"><u>New An Insiders Look 6 Exemplary Chrome OS Gadgets for Exceptional Voice Alteration Experiences - CreativeSuiteLumiere</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-discovering-the-finest-zero-cost-open-source-audio-management-on-windows/"><u>New Discovering the Finest Zero-Cost, Open-Source Audio Management on Windows</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-mastering-gaming-the-8-best-sound-effects-available-without-a-price-tag/"><u>New Mastering Gaming The 8 Best Sound Effects Available Without a Price Tag</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-tecno-spark-10-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Tecno Spark 10 5G Device</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-vivo-v29-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Vivo V29 Pro FRP Bypass</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-list-of-elite-apple-watches-in-2vee-expertly-evaluated-and-critiqued-zdnet/"><u>Ultimate List of Elite Apple Watches in 2Vee: Expertly Evaluated and Critiqued | ZDNet</u></a></li>
 </ul></div>
 
