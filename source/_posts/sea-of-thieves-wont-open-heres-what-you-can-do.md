@@ -1,7 +1,7 @@
 ---
 title: Sea of Thieves Won't Open? Here's What You Can Do
-date: 2025-01-01T20:00:57.910Z
-updated: 2025-01-03T00:45:34.130Z
+date: 2024-12-27T04:51:00.655Z
+updated: 2025-01-03T05:41:14.543Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 2. Click **Check for Updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/update.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  There are 7 fixes for you. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -60,20 +56,8 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/properties.jpg)
 3. Under the **Compatibility** tab, tick **Run this program as an administrator** . Then click **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/ad.jpg)
 4. Run the game to check whether the problem is solved or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Do an App reset
 
@@ -85,20 +69,20 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/windows-store-cache.jpg)
 4. Download and install the Sea of Thieves.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Press the**Windows key + I** together and click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/app.jpg)
 6. Find and click **Sea of Thieves** on the list.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Click **Advanced Options** and click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/reset.jpg)
 8. Run Sea of Thieves to check.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Change the Time & Region
@@ -117,6 +101,10 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/region-1.jpg)
 5. Reboot your PC
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Run Sea of Thieves to check.
 
 **Note** : If your language and region is set to **English (United States)** already please change it to **English (United Kingdom)** instead.
@@ -130,8 +118,16 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/powershell.jpg)
 3. Copy and paste the following into the Powershell window and press Enter.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **Get-AppXPackage | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($\_.InstallLocation)\\AppXManifest.xml”}**
 4. Run Sea of Thieves to check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Update your drivers and programs
 
@@ -162,12 +158,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Reboot your PC and run Sea of Thieves to check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable incompatible apps
 
@@ -200,24 +200,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-extensive-investigation-the-future-of-panorama-cams-with-samsung/"><u>[New] Extensive Investigation The Future of Panorama Cams with Samsung</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-vivavideo-review-insights-and-impressions/"><u>[Updated] 2024 Approved VivaVideo Review Insights and Impressions</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-navigating-the-nuances-of-simplified-live-streaming/"><u>[Updated] In 2024, Navigating the Nuances of Simplified Live Streaming</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-mastering-the-art-of-screen-recording-on-snapchat-devices-for-2024/"><u>[Updated] Mastering the Art of Screen Recording on Snapchat Devices for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-channel-growth-essential-steps-for-youtube-backlink-creation/"><u>2024 Approved Channel Growth Essential Steps for YouTube Backlink Creation</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-navigating-through-music-production-software-landscape-can-magix-samplitude-be-considered-supreme/"><u>2024 Approved Navigating Through Music Production Software Landscape Can MAGIX Samplitude Be Considered Supreme?</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/discovering-websites-with-free-gaming-ambient-sounds/"><u>Discovering Websites with Free Gaming Ambient Sounds</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/effortless-video-download-tool-premium-quality-from-okru-streaming-service/"><u>Effortless Video Download Tool - Premium Quality From Ok.ru Streaming Service</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explore-the-depths-of-video-clarity-comprehensive-guide-to-vce-22-for-2024/"><u>Explore the Depths of Video Clarity - Comprehensive Guide to VCE 2.2 for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-most-attractive-ringtones-for-your-phone/"><u>In 2024, Most Attractive Ringtones for Your Phone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-expertise/"><u>Navigating the World of Gadgets with Tom's Hardware Expertise</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-top-5-linux-audio-gadgets-and-expert-advice-on-achieving-professional-sound-quality/"><u>New In 2024, Top 5 Linux Audio Gadgets and Expert Advice on Achieving Professional Sound Quality</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-unleashing-creativity-in-mobile-sound-selection-how-to-design-ringtones/"><u>New In 2024, Unleashing Creativity in Mobile Sound Selection How to Design Ringtones</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/techniques-for-embedding-images-into-music-tracks-for-2024/"><u>Techniques for Embedding Images Into Music Tracks for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/the-rise-of-the-slabtop-revolutionary-ideas-for-personalizing-your-apple-laptops-design/"><u>The Rise of the SLABTOP: Revolutionary Ideas for Personalizing Your Apple Laptop's Design</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-comprehensive-approach-to-quieter-listening-best-practices-for-reducing-noise-with-digital-and-analog-methods/"><u>Updated 2024 Approved Comprehensive Approach to Quieter Listening Best Practices for Reducing Noise with Digital & Analog Methods</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-vibrant-soundscapes-10-melodies-that-elevate-your-video-montages/"><u>Updated In 2024, Vibrant Soundscapes 10 Melodies That Elevate Your Video Montages</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-techniques-for-embedding-images-into-music-tracks-for-2024/"><u>Updated Techniques for Embedding Images Into Music Tracks for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On OnePlus 12? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-elevating-your-brand-with-intriguing-instagram-puzzle-feeds/"><u>[New] Elevating Your Brand with Intriguing Instagram Puzzle Feeds</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-gopro-and-yi-4k-battle-royale-of-high-resolution-cams-in-23/"><u>[New] In 2024, GoPro and Yi 4K Battle Royale of High-Resolution Cams in '23</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-explore-top-10-no-cost-digital-photography-tools/"><u>[Updated] Explore Top 10 No-Cost Digital Photography Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/accelerating-cybersecurity-australia-urges-companies-to-update-vulnerable-systems-promptly-insights-from-zdnet/"><u>Accelerating Cybersecurity: Australia Urges Companies to Update Vulnerable Systems Promptly - Insights From ZDNet</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-innovative-applications-unveiling-the-most-advanced-11-voice-modification-solutions-on-ios-and-android-without-an-expense/"><u>In 2024, Innovative Applications Unveiling the Most Advanced 11 Voice Modification Solutions on iOS and Android Without an Expense</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-easy-path-to-pure-audio-advanced-noise-reduction-tactics-for-audacity-and-filmorapro-users/"><u>In 2024, The Easy Path to Pure Audio Advanced Noise Reduction Tactics for Audacity and FilmoraPro Users</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-vivo-t2-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Vivo T2 5G</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-ultimate-guide-to-protected-and-entertaining-chatting-apps-for-unknown-individuals/"><u>In 2024, Ultimate Guide to Protected and Entertaining Chatting Apps for Unknown Individuals</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to trade pokemon go from far away On Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Huawei Nova Y91? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-essential-compilation-discovering-the-top-11-free-audio-customization-tools-for-ios-and-android-gadgets/"><u>New 2024 Approved Essential Compilation Discovering the Top 11 Free Audio Customization Tools for iOS & Android Gadgets</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-syncing-soundtracks-with-visuals/"><u>New 2024 Approved Syncing Soundtracks with Visuals</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-elevate-your-video-edits-mastering-the-art-of-live-audio-dampening-with-final-cut-pro-xs-autoduck-capabilities-for-2024/"><u>New Elevate Your Video Edits Mastering the Art of Live Audio Dampening with Final Cut Pro Xs AutoDuck Capabilities for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-ultimate-guide-to-fine-tuning-audio-volume-for-optimal-listening-experience/"><u>New In 2024, The Ultimate Guide to Fine-Tuning Audio Volume for Optimal Listening Experience</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-singing-simplified-accessible-audio-enhancers-for-every-musicians-toolkit-for-2024/"><u>New Singing Simplified Accessible Audio Enhancers for Every Musicians Toolkit for 2024</u></a></li>
+<li><a href="https://win-bits.techidaily.com/top-rated-tools-for-efficient-hard-drive-duplication-on-windows-server-versions-2003-2008-2012/"><u>Top Rated Tools for Efficient Hard Drive Duplication on Windows Server Versions (2003, 2008, 2012)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-secrets-of-capturing-details-at-closest-range-a-guide-to-macro-photography/"><u>Unveiling the Secrets of Capturing Details at Closest Range: A Guide to Macro Photography</u></a></li>
 </ul></div>
 

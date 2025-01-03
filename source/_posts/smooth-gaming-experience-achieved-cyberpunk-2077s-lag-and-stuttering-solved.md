@@ -1,7 +1,7 @@
 ---
 title: "Smooth Gaming Experience Achieved: Cyberpunk 2077'S Lag and Stuttering Solved!"
-date: 2025-01-01T23:11:30.376Z
-updated: 2025-01-03T01:22:59.325Z
+date: 2024-12-27T06:25:53.142Z
+updated: 2025-01-02T19:14:38.743Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/5396014f071443efd9e1f13ed6c2f299f41c76737
 Cyperpunk 2077 has been out for a while now, and there’re still reports about unstable FPS and laggy gameplay on Windows. If you’re on the same boat, don’t worry. Here’re some proven fixes you can try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -31,10 +31,6 @@ Cyperpunk 2077 has been out for a while now, and there’re still reports about 
 4. [**Install all Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Enable HAGS (hardware-accelerated GPU scheduling)**](https://www.drivereasy.com/knowledge/solved-cyberpunk-2077-fps-drops/#fix5)
 6. **[Change in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your specs meet the requirements
 
@@ -76,10 +72,6 @@ Here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press the **Windows logo key** and type **cmd** . Select **Run as Administrator** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press **Enter** .  
@@ -129,6 +121,10 @@ First visit the website of your graphics card manufacturer:
 
  If updating the graphics driver doesn’t work for you, simply check out the next method below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Install all Windows updates
 
  The newly released Windows 10 20H2 update includes loads of new features, some of which might come with compatibility fixes and a performance boost. If you never bother to install system updates manually, you should do it now.
@@ -139,10 +135,6 @@ And here’s a simple guide for that:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Then wait for Windows to download and install the available system updates.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  If you haven’t been updating for a while,**repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -150,10 +142,6 @@ And here’s a simple guide for that:
  After installing all the system updates, restart your computer and test the gameplay in Cyberpunk 2077.
 
  If this method doesn’t help you, take a look at the next one below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Enable HAGS (hardware-accelerated GPU scheduling)
 
@@ -167,26 +155,30 @@ And here’s enable HAGS:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-02.jpg)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn on **Hardware-accelerated GPU scheduling** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-4.jpg)
 5. Restart your PC for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now you can launch Cyberpunk 2077 and check the gameplay.
 
  If enabling HAGS doesn’t do the trick for you, you can continue to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Lower your in-game settings
 
@@ -199,7 +191,7 @@ To change the in-game graphics settings, simply follow these steps:
 2. Navigate to the**GAMEPLAY** tab. Under the**Performance** section, set**Crowd Density** to**Low** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-2.jpg)
@@ -211,7 +203,15 @@ To change the in-game graphics settings, simply follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-4.jpg)
 5. The next two settings are optional. You can try turning off**Ray Tracing** and see if it improves the performance.**DLSS** is a new RTX technology that uses AI to boost your FPS. (Sounds fancy.) You can try setting it to**Performance** or**Ultra Performance** and see if it really helps. (Doing so might make the game seem blurry.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  For more tuning details, check out[this article](https://www.tomshardware.com/news/cyberpunk-2077-pc-benchmarks-settings-performance-analysis) .
 
@@ -234,19 +234,22 @@ To change the in-game graphics settings, simply follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-unleash-creativity-fast-windows-10-photo-edits-made-simple/"><u>[New] Unleash Creativity Fast Windows 10 Photo Edits Made Simple</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-unleash-creativity-video-art-and-live-streaming-with-vlc-webcam-capabilities/"><u>[Updated] In 2024, Unleash Creativity Video Art & Live Streaming with VLC Webcam Capabilities</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-increasing-visibility-with-strategic-reddit-posts/"><u>[Updated] Increasing Visibility with Strategic Reddit Posts</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-update-scansnap-drivers-on-windows-a-step-by-step-tutorial/"><u>Download & Update ScanSnap Drivers on Windows - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://win-lab.techidaily.com/erstellen-eines-bootfahigen-resets-von-windows-7-schritt-fur-schritt-anleitungen/"><u>Erstellen Eines Bootfähigen Resets Von Windows 7 – Schritt-Für-Schritt Anleitungen</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-enable-two-step-verification-on-your-icloud-email-for-added-security/"><u>How to Enable Two-Step Verification on Your iCloud Email for Added Security</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-15-simple-steps-to-convert-youtube-to-mpeg-effortlessly/"><u>In 2024, 15 Simple Steps to Convert YouTube to MPEG Effortlessly</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-inner-peace-chatgpt-for-continual-reflection/"><u>Navigating Inner Peace: ChatGPT for Continual Reflection</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/sonic-storytelling-weaving-a-tapestry-of-sound-and-imagery/"><u>Sonic Storytelling Weaving a Tapestry of Sound and Imagery</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/top-8-ambiance-sounds-to-enhance-youtube-beginnings-for-2024/"><u>Top 8 Ambiance Sounds to Enhance YouTube Beginnings for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-all-about-anime-dubbing/"><u>Updated All About Anime Dubbing</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-best-audio-libraries-top-10-sites-for-high-quality-video-soundtracks-for-2024/"><u>Updated Best Audio Libraries Top 10 Sites for High-Quality Video Soundtracks for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-cross-platform-audio-transcription-turning-text-into-mp3-clips-for-2024/"><u>Updated Cross-Platform Audio Transcription Turning Text Into MP3 Clips for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-from-blocked-to-liked-on-omegle-methods-for-unbanning-your-account/"><u>Updated From Blocked to Liked on Omegle Methods for Unbanning Your Account</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/compatibility-problem-windows-10-cant-find-mp620-drivers/"><u>[Compatibility Problem] Windows 10 Can't Find MP620 Drivers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-revolutionize-your-beat-matching-try-free-online-detectors-now/"><u>[Updated] Revolutionize Your Beat Matching – Try Free Online Detectors Now</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-adobe-audition-expertise-eliminating-unwanted-sounds-and-noise/"><u>2024 Approved Adobe Audition Expertise Eliminating Unwanted Sounds and Noise</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/creating-a-personalized-profile-a-how-to-for-your-nintendo-3ds-online-id/"><u>Creating a Personalized Profile: A How-To for Your Nintendo 3DS Online ID</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-xiaomi-redmi-note-12r-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Xiaomi Redmi Note 12R is off? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/linguistic-enhancement-applying-custom-rom-patches/"><u>Linguistic Enhancement: Applying Custom ROM Patches</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-discovering-tools-to-emulate-natural-human-digestive-resonances-in-media-projects/"><u>New Discovering Tools to Emulate Natural Human Digestive Resonances in Media Projects</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-enriched-sound-experience-synthesizing-audio-waves-and-animating-them-for-premiere-pro-audience/"><u>New Enriched Sound Experience Synthesizing Audio Waves and Animating Them for Premiere Pro Audience</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-how-to-install-and-use-autotune-in-audacity-for-2024/"><u>New How to Install and Use Autotune in Audacity for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-how-to-add-video-and-audio-transition-between-scenesclips/"><u>New In 2024, How to Add Video and Audio Transition Between Scenes/Clips</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-pursuit-of-pristine-sounds-a-complete-guide-to-utilizing-adobe-auditions-noise-reduction-features/"><u>New The Pursuit of Pristine Sounds A Complete Guide to Utilizing Adobe Auditions Noise Reduction Features</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/overcome-no-free-space-issue-to-get-ios-navigate-through-this-guide-for-a-smooth-update/"><u>Overcome 'No Free Space' Issue to Get iOS Navigate Through This Guide for a Smooth Update.</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pricing-guide-to-film-a-bands-music-visual-for-2024/"><u>Pricing Guide to Film a Band's Music Visual for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/streamlined-methods-for-obtaining-pitched-ding-sound-files-online-the-top-10-list-for-2024/"><u>Streamlined Methods for Obtaining Pitched Ding Sound Files Online - The Top 10 List for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-strategies-how-to-successfully-continue-an-interrupted-iphone-software-update/"><u>Top Strategies: How to Successfully Continue an Interrupted iPhone Software Update</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-audio-transformation-made-simple-an-instructional-guide-on-altering-speed-and-pitch-through-digital-platforms/"><u>Updated In 2024, Audio Transformation Made Simple An Instructional Guide on Altering Speed & Pitch Through Digital Platforms</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-compatibility-for-netgear-a6200-adapter/"><u>Windows Compatibility for Netgear A6200 Adapter</u></a></li>
 </ul></div>
 

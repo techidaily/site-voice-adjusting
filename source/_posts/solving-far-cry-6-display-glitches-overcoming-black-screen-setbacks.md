@@ -1,7 +1,7 @@
 ---
 title: "Solving Far Cry 6 Display Glitches: Overcoming Black Screen Setbacks"
-date: 2025-01-01T00:35:33.285Z
-updated: 2025-01-02T22:10:33.761Z
+date: 2024-12-29T16:45:26.833Z
+updated: 2025-01-02T20:11:24.179Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 
  When you click Fallout 4 but see the black screen which doesn’t load anything, you must feel frustrated. Don’t worry, there are tips that can help you solve this**black screen issue** . Read on to find how…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -31,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Run Fallout 4 as Compatibility mode
 
  Run Fallout 4 in compatibility mode is a way to solve many problems. This Fallout 4 black screen error may be caused by the incompatibility with the system. So change the compatibility mode may help you solve the issue.
@@ -43,15 +43,7 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 2. In the Compatibility tab, click**Run this program in compatibility mode for** . Then choose the system in the drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 3. Click **OK** then run Fallout 4 to check.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update Graphics Card Drivers
 
@@ -68,7 +60,11 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2019/07/NVIDIA-Geoforce-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -89,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Lower the graphics settings in the game
 
  It is possible that the game can be crashed because your graphics card cannot capable of the high settings in the game. So if you’re using an old graphics card, you can try this method to fix the problem.
@@ -101,7 +101,7 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 4. Click**Advanced** . Lower the settings and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Run the game to check the problem will appear or not.
@@ -135,22 +135,22 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-music-device-innovations-spotlighted/"><u>[New] 2024 Approved Music Device Innovations Spotlighted</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-top-10-apps-for-live-sports-and-football-streaming-for-2024/"><u>[New] Top 10 Apps for Live Sports & Football Streaming for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-perfecting-your-content-chrome-compatible-tiktok-uploads-for-2024/"><u>[Updated] Perfecting Your Content Chrome-Compatible TikTok Uploads for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/effortless-guide-how-to-transform-reddit-videos-into-gifs-flawlessly/"><u>Effortless Guide: How to Transform Reddit Videos Into GIFs Flawlessly</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-download-final-cut-pro-for-free-for-2024/"><u>How to Download Final Cut Pro for Free for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/lyric-purifier-toolkit-assemble-custom-music-beds-for-2024/"><u>Lyric Purifier Toolkit Assemble Custom Music Beds for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/mastering-video-sound-tips-for-optimal-audio-control-for-2024/"><u>Mastering Video Sound Tips for Optimal Audio Control for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/melody-and-mics-the-10-most-user-friendly-voice-capture-tools-in-technology-for-2024/"><u>Melody and Mics The 10 Most User-Friendly Voice Capture Tools in Technology for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/navigating-the-world-of-online-video-conferencing/"><u>Navigating the World of Online Video Conferencing</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-troubleshooting-speed-mastering-sound-integration-in-adobe-premiere-pro/"><u>New 2024 Approved Troubleshooting Speed Mastering Sound Integration in Adobe Premiere Pro</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-cutting-edge-ios-daw-apps-a-guide-to-the-8-best-choices-for-tablets-and-smartphones-for-2024/"><u>New Cutting-Edge iOS DAW Apps A Guide to the 8 Best Choices for Tablets and Smartphones for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-cutting-edge-cost-free-daw-software-options-revealed-a-beginners-guide-to-2023-for-2024/"><u>New Cutting-Edge, Cost-Free DAW Software Options Revealed A Beginners Guide to 2023 for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-best-practices-to-minimize-resonance-in-sound-captures/"><u>New In 2024, Best Practices to Minimize Resonance in Sound Captures</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-reclaiming-your-omegle-presence-steps-to-overcome-an-online-ban/"><u>New In 2024, Reclaiming Your Omegle Presence Steps to Overcome an Online Ban</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/nubia-red-magic-8s-proplus-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Nubia Red Magic 8S Pro+ ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revitalize-windows-sounds-after-disruption-by-glitches/"><u>Revitalize Windows Sounds After Disruption by Glitches</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-5-top-realistic-text-to-speech-ai-voice-generators-you-may-like-for-2024/"><u>Updated 5 Top Realistic Text to Speech AI Voice Generators You May Like for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-key-steps-to-accurate-and-effective-market-research-analysis/"><u>[New] In 2024, Key Steps to Accurate and Effective Market Research Analysis</u></a></li>
+<li><a href="https://techtrends.techidaily.com/efficient-methods-to-keep-tabs-on-your-bandwidth-expenditure/"><u>Efficient Methods to Keep Tabs on Your Bandwidth Expenditure</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-iphone-14-plus-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From iPhone 14 Plus? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://win-superb.techidaily.com/identifying-cpu-malfunction-a-comprehensive-guide-by-yl-computing/"><u>Identifying CPU Malfunction: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/illuminate-any-room-in-over-16-million-shades-for-under-60-discover-the-sleek-design-with-zdnets-top-pick/"><u>Illuminate Any Room in Over 16 Million Shades for Under $60 - Discover the Sleek Design with ZDNET's Top Pick</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-audiovisual-integration-incorporating-audio-waveform-and-creative-animation-into-davinci-resolve/"><u>In 2024, Audiovisual Integration Incorporating Audio Waveform and Creative Animation Into DaVinci Resolve</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-essential-firefox-screen-capturing-plugins/"><u>In 2024, Essential Firefox Screen Capturing Plugins</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-top-10-safe-chat-platforms-for-socializing-digitally/"><u>In 2024, Top 10 Safe Chat Platforms for Socializing Digitally</u></a></li>
+<li><a href="https://facebook.techidaily.com/national-survey-reveals-platforms-cause-greater-harm/"><u>National Survey Reveals: Platforms Cause Greater Harm</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/navigating-the-synergy-between-soundtracks-and-photographic-frames-for-2024/"><u>Navigating the Synergy Between Soundtracks and Photographic Frames for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-alternatives-to-facetime-androids-leading-video-calling-solutions/"><u>New 2024 Approved Alternatives to FaceTime Androids Leading Video Calling Solutions</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-clearing-the-air-understanding-digital-audio-workstations/"><u>New Clearing the Air Understanding Digital Audio Workstations</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-crafting-the-ultimate-strum-a-comprehensive-look-at-the-top-7-daws-designed-for-guitar-recordings/"><u>New Crafting the Ultimate Strum A Comprehensive Look at the Top 7 DAWs Designed for Guitar Recordings</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-mastering-the-art-of-flawless-podcast-production-your-comprehensive-tutorial-for-2024/"><u>New Mastering the Art of Flawless Podcast Production Your Comprehensive Tutorial for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-premier-pop-song-selections-for-film-and-media-production-for-2024/"><u>New Premier Pop Song Selections for Film and Media Production for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-approach-to-resolve-the-windows-update-malfunction-error-code-0x8024401c-in-windows-1011/"><u>Step-by-Step Approach to Resolve the Windows Update Malfunction (Error Code 0X8024401C) in Windows 10/11</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/what-stops-a-laptop-from-starting-expert-advice-on-computer-booting-problems-with-yl-tech-support/"><u>What Stops a Laptop From Starting? Expert Advice on Computer Booting Problems with YL Tech Support</u></a></li>
 </ul></div>
 
