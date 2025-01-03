@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Mastering Sound A Guide to Advanced Editing Techniques with Sony Vegas
-date: 2024-12-21T17:30:48.675Z
-updated: 2024-12-25T04:11:59.818Z
+date: 2024-12-31T22:53:47.190Z
+updated: 2025-01-02T19:41:20.361Z
 tags: 
   - audio editing software
   - audio editing
@@ -29,7 +29,7 @@ Being the most commonly used professional video editing tool, Sony (Magix) Vegas
 **You May Also Like:** [How to Edit YouTube Audio >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sony (Magix) Vegas Audio Editor: How to edit audio in Vegas Pro
@@ -68,6 +68,10 @@ Those who want to control volume separately for different portions of audio file
 
 ![Mute audio to selected part](https://images.wondershare.com/edit-audio-in-vegas-pro-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Volume:** Check the deep blue line on selected event and then double click over it for addition of a marking point. Drag this point up or down for appropriate volume settings and use right click option for additional adjustments.
 
 ![Adjust audio volume](https://images.wondershare.com/edit-audio-in-vegas-pro-4.jpg)
@@ -76,6 +80,10 @@ Those who want to control volume separately for different portions of audio file
 
 ![Adjust audio pan ](https://images.wondershare.com/edit-audio-in-vegas-pro-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Section 2: Fade in and Fade Out
 
 Some professional settings to audio project can be made using fade in/out options. Users can pull the fade adjust curser to any direction for easy customization.
@@ -83,6 +91,10 @@ Some professional settings to audio project can be made using fade in/out option
 Hover your cursor on the audio event in timeline, you will find the fade in/out offset handle at the up side corner of the audio event. Pull the Fade in/out offset handle as long as you want:
 
 ![Fade in/out audio ](https://images.wondershare.com/edit-audio-in-vegas-pro-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Section 3: Speed up or Slow down
 
@@ -95,10 +107,6 @@ If you want to change the speed of specific portions of your audio project then 
 One can easily reverse his selected audio clip; simply right click over it and then choose Reverse option from drop down menu; it will help to move audio frames in reverse order.
 
 ![Reverse audio](https://images.wondershare.com/edit-audio-in-vegas-pro-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Section 5: Noise Removal
 
@@ -122,16 +130,12 @@ If you want to add specific effects to your audio files then use two simple meth
 
 ![Audio track FX ](https://images.wondershare.com/edit-audio-in-vegas-pro-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 For additional personalization you need to use plug-in chain button from right corner.
 
 ![Audio plugins](https://images.wondershare.com/edit-audio-in-vegas-pro-12.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2:** Now select any desired effect from list that can make your audio track more impressive and press Add; once applied then hit OK.
@@ -139,7 +143,7 @@ For additional personalization you need to use plug-in chain button from right c
 ![ Add audio effect](https://images.wondershare.com/edit-audio-in-vegas-pro-13.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3:** Make required adjustments with the help of slider or users can also open the drop down box on screen for selection of present templates as per need.
@@ -156,10 +160,6 @@ The Vegas Pro is rated as a professional editing software tool due to its advanc
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -175,21 +175,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-maximize-your-content-impact-with-insights-from-social-blade-on-youtube/"><u>[Updated] 2024 Approved Maximize Your Content Impact with Insights From Social Blade on YouTube</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-clever-circumventions-for-edgenuity-video-course-skipping/"><u>[Updated] In 2024, Clever Circumventions for Edgenuity Video Course Skipping</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ving-video-popularity-mastering-youtube-thumbnail-selection/"><u>Achieving Video Popularity Mastering YouTube Thumbnail Selection</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/guide-pour-contourner-le-probleme-de-la-cle-de-recuperation-bitlocker-sous-windows-11/"><u>Guide Pour Contourner Le Problème De La Clé De Récupération BitLocker Sous Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-infinix-note-30-pro-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Infinix Note 30 Pro</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/lg-bp350-evaluation-size-resolution-and-connectivity-for-2024/"><u>LG BP350 Evaluation - Size, Resolution, and Connectivity for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-ps4-screen-captures-a-comprehensive-tutorial/"><u>Mastering the Art of PS4 Screen Captures - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-s-top-picks-best-split-screen-video-apps-for-iphone-and-android-for-2024/"><u>New S Top Picks Best Split-Screen Video Apps for iPhone and Android for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-guide-to-enhancing-avi-files-with-audio-tracks/"><u>New The Guide to Enhancing AVI Files with Audio Tracks</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/premier-audio-file-transformer-effortless-mp3-creation-in-seconds-for-2024/"><u>Premier Audio File Transformer Effortless MP3 Creation in Seconds for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-fixing-crackling-audio-problems-in-windows-operating-systems/"><u>Resolved: Fixing Crackling Audio Problems in Windows Operating Systems</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-audio-visual-harmony-merging-films-and-recordings-in-the-digital-age/"><u>Updated 2024 Approved Audio-Visual Harmony Merging Films and Recordings in the Digital Age</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-beat-centric-editing-mastery-the-ultimate-guide-to-audio-and-video-coordination-in-final-cut-pro-x-for-2024/"><u>Updated Beat-Centric Editing Mastery The Ultimate Guide to Audio and Video Coordination in Final Cut Pro X for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-best-song-identifiers-online-you-can-find-for-2024/"><u>Updated Best Song Identifiers Online You Can Find for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-boost-visual-speakers-output-enhance-movie-and-video-audibility-for-2024/"><u>Updated Boost Visual Speakers Output Enhance Movie and Video Audibility for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-how-to-edit-the-beat-and-sync-videos-to-music-in-final-cut-pro-x/"><u>Updated How to Edit the Beat and Sync Videos to Music in Final Cut Pro X</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-mastering-visual-enhancements-with-polarrs-platform-for-2024/"><u>[New] Mastering Visual Enhancements with Polarr's Platform for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-the-potential-crafting-top-tier-gopro-filming/"><u>[New] Unlocking the Potential Crafting Top-Tier Gopro Filming</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-synergistic-videos-to-skyrocket-your-follower-count/"><u>[Updated] Synergistic Videos to Skyrocket Your Follower Count</u></a></li>
+<li><a href="https://win-help.techidaily.com/3-strategien-zum-speichern-einer-entfernten-sql-server-datenbank-auf-lokalem-datentrager/"><u>3 Strategien Zum Speichern Einer Entfernten SQL Server-Datenbank Auf Lokalem Datenträger</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-how-ios-18s-ai-revolutionized-mobile-tech-exploring-the-highlights-from-apples-wwdc-2024-keynote/"><u>Discover How iOS 18'S AI Revolutionized Mobile Tech: Exploring the Highlights From Apple's WWDC 2024 Keynote</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-on-apple-iphone-13-mini-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock On Apple iPhone 13 mini You Should Try Out</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-art-of-sonic-depth-incorporating-virtual-reverberation-into-your-windows-based-audio-projects/"><u>New The Art of Sonic Depth Incorporating Virtual Reverberation Into Your Windows-Based Audio Projects</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-audio-wizards-handbook-navigating-complex-editing-tasks-with-sony-vegas-pro-for-2024/"><u>New The Audio Wizards Handbook Navigating Complex Editing Tasks with Sony Vegas Pro for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/no-charge-audiophiles-choice-premium-conversion-software-for-mpa-to-mp3-transition-for-2024/"><u>No-Charge Audiophiles Choice Premium Conversion Software for MPA to MP3 Transition for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/premier-virtual-tts-services-a-comprehensive-list-of-online-resources-for-2024/"><u>Premier Virtual TTS Services A Comprehensive List of Online Resources for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-discord-not-responding-dilemma-a-comprehensive-guide/"><u>Solving the 'Discord Not Responding' Dilemma - A Comprehensive Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-invisible-touch-methods-to-apply-fading-effects-on-sound-in-imovie/"><u>The Invisible Touch Methods to Apply Fading Effects on Sound in iMovie</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-voice-over-advantage-elevating-video-quality/"><u>The Voice-Over Advantage Elevating Video Quality</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unlocking-the-power-of-social-networks-a-look-into-facebook-twitter-instagram-and-youtube/"><u>Unlocking the Power of Social Networks: A Look Into Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-avs-sound-engineer-insights-comprehensive-overview-of-tools-advantages-and-substitutes/"><u>Updated 2024 Approved AVS Sound Engineer Insights Comprehensive Overview of Tools, Advantages, and Substitutes</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-premier-free-mp3-harmonizer-software/"><u>Updated 2024 Approved Premier Free MP3 Harmonizer Software</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-best-budget-friendly-mp3-mesh-merger-software-2023s-guide/"><u>Updated Best Budget-Friendly MP3 Mesh Merger Software 2023S Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-elevate-your-music-creation-a-comprehensive-review-of-the-best-8-digital-audio-workstations-for-professionals-for-2024/"><u>Updated Elevate Your Music Creation A Comprehensive Review of the Best 8 Digital Audio Workstations for Professionals for 2024</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-how-to-use-emojis-on-windows-10-and-windows-11/"><u>Updated How to Use Emojis on Windows 10 and Windows 11?</u></a></li>
 </ul></div>
 

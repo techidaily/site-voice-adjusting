@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: When Cortana Stops Responding"
-date: 2024-12-21T04:28:45.133Z
-updated: 2024-12-25T01:40:18.184Z
+date: 2024-12-29T21:56:55.402Z
+updated: 2025-01-02T19:14:01.095Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
 
 **Cortana not working?**  I believe it’s one of your pet hates. Don’t panic. Usually it’s an easy problem to fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How do I fix Cortana not working?
 
  Here are 5 methods you can try to fix this glitch. Please work your way down the list until you find the that works.
@@ -34,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
 5. [Reset Cortana](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Reboot your Windows 10 PC
@@ -49,9 +45,17 @@ Check your region and language settings on your computer:
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **I** at the same time to open the **Settings** window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Time** **& language** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Region & language.**
 
@@ -62,7 +66,7 @@ Check your region and language settings on your computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5) Try Cortana again to see if it works.
@@ -84,7 +88,7 @@ Check your region and language settings on your computer:
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Update your Microphone driver and audio driver
@@ -116,7 +120,7 @@ Or click  **Update All** to automatically download and install the correct versi
 4) Reboot your Windows 10 and try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 5: Reset your Cortana
@@ -126,10 +130,6 @@ Or click  **Update All** to automatically download and install the correct versi
  1) Type **Cortana**  in the search box from Start and click **Cortana & Search settings**  from the top.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb16d80e39a.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Click the button beside **On** in **Hey Cortana** to turn off it. You should then see the **Off**  status.
 
@@ -159,22 +159,21 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-harmonious-hits-free-download-zones-for-skype-tunes/"><u>[New] Harmonious Hits Free Download Zones for Skype Tunes</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-mastering-facebook-vids-the-top-20-marketing-hacks/"><u>[New] In 2024, Mastering Facebook Vids The Top 20 Marketing Hacks</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-frosty-olympics-highlights-in-figure-skating/"><u>[Updated] 2024 Approved Frosty Olympics Highlights in Figure Skating</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-ipad-tech-unveiling-the-secrets-of-time-lapse-videos/"><u>[Updated] 2024 Approved IPad Tech Unveiling the Secrets of Time-Lapse Videos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-navigating-instagrams-live-broadcasting/"><u>[Updated] 2024 Approved Navigating Instagram's Live Broadcasting</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-prime-editing-choosing-the-best-for-youtube/"><u>[Updated] In 2024, Prime Editing Choosing the Best For YouTube</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/final-hours-of-october-prime-deals-exclusive-game-discounts-and-savings-of-up-to-1000-dont-miss-out-techradar/"><u>Final Hours of October Prime Deals: Exclusive Game Discounts & Savings of Up to $1,000 - Don't Miss Out! | TechRadar</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Infinix Smart 8? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722082614161-impatient-for-a-direct-chat-with-chatgpt-on-your-computer-heres-why-you-shouldnt-overlook-open-source-substitutes/"><u>Impatient for a Direct Chat with ChatGPT on Your Computer? Here's Why You Shouldn’t Overlook Open Source Substitutes!</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-depth-review-the-ultimate-gaming-experience-with-oculus-quest-2-elite-straps-battery-and-protective-case/"><u>In-Depth Review: The Ultimate Gaming Experience with Oculus Quest ^2 Elite Straps, Battery, and Protective Case</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-exploring-the-leading-8-android-daw-applications-to-amplify-your-audio-artistry/"><u>Updated In 2024, Exploring the Leading 8 Android DAW Applications to Amplify Your Audio Artistry</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-free-8-best-plugins-for-logic-pro-x/"><u>Updated In 2024, FREE 8 Best Plugins for Logic Pro X</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-unveiling-melodys-pulse-techniques-for-online-rhythm-extraction/"><u>Updated In 2024, Unveiling Melodys Pulse Techniques for Online Rhythm Extraction</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-the-best-free-web-integrated-daw-software-ranked-your-guide/"><u>Updated The Best Free, Web-Integrated DAW Software Ranked - Your Guide</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-the-ultimate-safe-and-entertaining-directory-of-non-casual-social-networks-for-2024/"><u>Updated The Ultimate Safe and Entertaining Directory of Non-Casual Social Networks for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-top-10-free-audio-capture-tools-for-excellent-podcasts-updated-for-2024/"><u>Updated Top 10 Free Audio Capture Tools for Excellent Podcasts (Updated) for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-top-tier-voip-games-conversation-tools/"><u>Updated Top-Tier VOIP Games Conversation Tools</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-unraveling-triller-its-distinctive-place-in-the-world-of-online-videos/"><u>[New] 2024 Approved Unraveling Triller Its Distinctive Place in the World of Online Videos</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-avs-audio-editor-product-details-key-features-reviews-and-alternatives/"><u>2024 Approved AVS Audio Editor Product Details, Key Features, Reviews & Alternatives</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-can-subforsub-help-increase-my-youtube-subscribers-without-risk/"><u>2024 Approved Can Subforsub Help Increase My YouTube Subscribers Without Risk?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-lava-yuva-2-pro-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Lava Yuva 2 Pro Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/comprehensive-guide-to-popular-free-comedy-audio-tracks-for-filmmakers-for-2024/"><u>Comprehensive Guide to Popular Free Comedy Audio Tracks for Filmmakers for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-long-start-ups-in-windows-11-easily-and-swiftly/"><u>Conquering Long Start-Ups in Windows 11 Easily and Swiftly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722904005916-decode-the-future-of-smartwear-unlock-insider-rumors-on-apple-ring-cost-debut-date-and-tech-specs-so-far/"><u>Decode the Future of Smartwear: Unlock Insider Rumors on Apple Ring Cost, Debut Date, & Tech Specs So Far</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-on-repairing-and-optimizing-io-device-performance/"><u>Expert Advice on Repairing and Optimizing I/O Device Performance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-system-requirements-guide-for-the-latest-mac-os-release/"><u>In 2024, System Requirements Guide for the Latest Mac OS Release</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/master-list-top-free-photo-stockpile-locales/"><u>Master List Top Free Photo Stockpile Locales</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-mastering-the-art-of-soundscape-alteration-on-digital-media/"><u>New 2024 Approved Mastering the Art of Soundscape Alteration on Digital Media</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-silent-movie-revolution-procedures-for-deleting-sound-elements-in-mov-files-across-computers-and-devices/"><u>New 2024 Approved The Silent Movie Revolution Procedures for Deleting Sound Elements in MOV Files Across Computers and Devices</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/revolutionize-your-listening-habits-the-best-voice-recording-tools-to-download-now/"><u>Revolutionize Your Listening Habits The Best Voice Recording Tools to Download Now</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-discover-the-5-premier-voice-recording-gadgets-optimized-for-mp3-files-for-2024/"><u>Updated Discover the 5 Premier Voice Recording Gadgets Optimized for MP3 Files for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-the-ultimate-collection-best-10-android-phone-apps-for-excellent-audio-recording/"><u>Updated In 2024, The Ultimate Collection Best 10 Android Phone Apps for Excellent Audio Recording</u></a></li>
 </ul></div>
 
