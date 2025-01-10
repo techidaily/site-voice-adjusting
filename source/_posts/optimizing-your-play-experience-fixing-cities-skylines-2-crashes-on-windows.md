@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Your Play Experience: Fixing Cities: Skylines 2 Crashes on Windows"
-date: 2024-12-30T22:41:14.581Z
-updated: 2025-01-02T22:12:21.932Z
+date: 2025-01-06T19:09:49.188Z
+updated: 2025-01-10T02:12:04.812Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
 
  This is extremely frustrating and you’re not alone! Many gamers are reporting it. Although it’s often hard to detect the causes because of all the unique hardware and software settings you have, here are 8 known fixes you can try to rule out common issues.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -32,6 +36,10 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
 7. **[Check for Windows Firewall](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Run your game in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check your PC specs
 
@@ -63,7 +71,7 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-00-51.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Make sure your PC meets the minimum specs, then go ahead with the fix below. (If your computer doesn’t meet the minimum specs, the only solution would be upgrading your PC.)
@@ -75,10 +83,6 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
  So you should close unnecessary programs while gaming, especially your overlay applications. To do it, the quickest way is to turn off your computer and turn it back on.
 
  If the crashing issue still exists after killing unnecessary programs, move on to Fix 3, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Run your game as an administrator
 
@@ -93,10 +97,6 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
 **3)** Click the**Compatibility** tab, then check**Run this program as an administrator** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-41-28.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)**  Restart_Total War: WARHAMMER II_ from Steam.
 
@@ -127,6 +127,10 @@ If your game crashes again, then try the next fix.
 **4)** Click**Roll Back Driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-29_11-53-47.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you can’t click the button, or if rolling back to the previous version didn’t fix your issue, then move on and try updating your graphics driver.
 
@@ -159,6 +163,10 @@ If your game crashes again, then try the next fix.
 
 If your issue persists, then move on to the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Verify the integrity of your game files
 
  Damaged or missing game files can also cause your game to fail. The good news is that you can verify the game files and do a repair if needed within the Steam client. Here is how to do it:
@@ -178,6 +186,10 @@ If your issue persists, then move on to the next fix below.
  Wait for Steam to detect and fix any corrupted game files automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-04-44.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Relaunch your game after the process is complete.
 
@@ -201,15 +213,15 @@ If the game is still unplayable, check the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-53-08.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **6)** Type**\-dx11** on the box and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-55-10.jpg)
 
 If your game still won’t launch properly, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Check for Windows Firewall
 
@@ -224,16 +236,12 @@ If your game still won’t launch properly, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-12-04-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Under**View by** , select**Small icons** , then click**Windows Defender Firewall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-20-25.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Click**Allow an app or feature through Windows Defender Firewall** .
 
@@ -247,10 +255,6 @@ If your game still won’t launch properly, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-17-25.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **7)** Remove all**_Total War: Warhammer_** entities from the list. Then, click OK.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-17-25-1.jpg)
@@ -262,7 +266,7 @@ If your game still won’t launch properly, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-24-19.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this method doesn’t work for you, move on to try the fix below.
@@ -300,16 +304,12 @@ If this method doesn’t work for you, move on to try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-31-33.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-31-39.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Under **View by** , select **Category** , then click**Uninstall a program** .
 
@@ -352,18 +352,19 @@ If this method doesn’t work for you, move on to try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-unveiling-the-magic-of-seamless-sound-integration-in-videos/"><u>[New] Unveiling the Magic of Seamless Sound Integration in Videos</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-from-undiscovered-to-famous-the-seo-playbook-for-your-podcast-for-2024/"><u>[Updated] From Undiscovered to Famous The SEO Playbook for Your Podcast for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-from-a-symphony-of-surroundings-to-silent-solitude-the-pathway-to-muting-background-noise/"><u>2024 Approved From a Symphony of Surroundings to Silent Solitude The Pathway to Muting Background Noise</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-m1-pro-and-m1-max-exploring-their-significant-differences/"><u>2024 Approved M1 Pro & M1 Max Exploring Their Significant Differences</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/captivating-your-network-streamlining-content-via-wirecast-to-facebook-for-2024/"><u>Captivating Your Network Streamlining Content via Wirecast to Facebook for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/evaluating-features-pick-your-elgato-stream-deck/"><u>Evaluating Features: Pick Your Elgato Stream Deck</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-oppo-f25-pro-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-best.techidaily.com/m-files-enhances-auto-management-with-abbyys-ai-tech-for-advanced-information-control/"><u>M-Files Enhances Auto-Management with ABBYY's AI Tech for Advanced Information Control</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/marketing-mastery-series-top-podcasts-to-guide-you-through-social-medias-impact/"><u>Marketing Mastery Series Top Podcasts to Guide You Through Social Medias Impact</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-mastering-your-music-on-a-chromebook-the-top-8-daws-that-will-elevate-your-sound-updated-list-2023/"><u>New 2024 Approved Mastering Your Music on a Chromebook The Top 8 DAWs that Will Elevate Your Sound (Updated List, 2023)</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-conquering-complex-audioscapes-a-no-nonsense-guide-to-effective-track-combination-in-premiere-pro-for-2024/"><u>New Conquering Complex Audioscapes A No-Nonsense Guide to Effective Track Combination in Premiere Pro for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-discover-the-best-free-beats-and-tunes-creation-programs-for-pc-and-mac-updated/"><u>New In 2024, Discover the Best Free Beats and Tunes Creation Programs for PC & Mac, Updated</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-ultimate-guide-to-selecting-mobile-speech-to-text-software/"><u>New In 2024, Ultimate Guide to Selecting Mobile Speech-to-Text Software</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-cutting-through-hype-8-best-free-srt-tools-exposed/"><u>[New] 2024 Approved Cutting Through Hype 8 Best Free SRT Tools Exposed</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-phones-to-cameras-diy-setup-guide-for-mobile-video-recording/"><u>[Updated] 2024 Approved Phones to Cameras DIY Setup Guide for Mobile Video Recording</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-incrementally-lower-decibels-in-logic-pro/"><u>How to Incrementally Lower Decibels in Logic Pro</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-how-to-shield-yourself-from-online-commercial-floods/"><u>In 2024, How to Shield Yourself From Online Commercial Floods</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-ultimate-guide-to-spectacular-sound-art-ranking-the-top-5-visualizers/"><u>In 2024, The Ultimate Guide to Spectacular Sound Art Ranking the Top 5 Visualizers</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/mastering-sound-intervals-techniques-for-manipulating-audio-timestamps-in-final-cut-pro-x/"><u>Mastering Sound Intervals Techniques for Manipulating Audio Timestamps in Final Cut Pro X</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-a-guide-to-optimal-mac-compatible-audio-data-labelers-for-2024/"><u>New A Guide to Optimal Mac-Compatible Audio Data Labelers for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-clearer-soundscapes-strategies-to-eradicate-unwanted-whistling-noises/"><u>New Clearer Soundscapes Strategies to Eradicate Unwanted Whistling Noises</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-elevate-audio-output-simple-gratis-methods-to-increase-volume-on-windows/"><u>New Elevate Audio Output Simple, Gratis Methods to Increase Volume on Windows</u></a></li>
+<li><a href="https://win-unique.techidaily.com/restoring-lost-notes-from-notions-trash-bin-using-the-myrecover-app-a-step-by-step-guide/"><u>Restoring Lost Notes From Notion's Trash Bin Using the MyRecover App - A Step-by-Step Guide.</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/revolutionizing-workflow-with-abbyy-top-picks-and-findings-by-nelsonhall-research-specialists/"><u>Revolutionizing Workflow with ABBYY: Top Picks & Findings by NelsonHall Research Specialists</u></a></li>
+<li><a href="https://fox-http.techidaily.com/symphony-on-your-phone-best-tone-acquisition-websites/"><u>Symphony on Your Phone Best Tone Acquisition Websites</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-skypes-full-capacity-with-effective-zoom-methods/"><u>Unlocking Skype's Full Capacity with Effective Zoom Methods</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/bed-out-todays-most-fondly-watched-tracks/"><u>Youtubed Out Today's Most Fondly Watched Tracks</u></a></li>
 </ul></div>
 

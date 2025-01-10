@@ -1,7 +1,7 @@
 ---
 title: Techniques for Audience-Friendly Audio Declines in iMovie Projects
-date: 2024-12-08T17:41:03.883Z
-updated: 2024-12-15T21:15:45.925Z
+date: 2025-01-08T23:01:10.263Z
+updated: 2025-01-09T22:12:06.143Z
 tags: 
   - audio editing software
   - audio editing
@@ -48,7 +48,7 @@ After adding the fade-in and fade-out effects to your video, let's check how to 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Fade Music and Audio in iMovie on Mac
@@ -65,6 +65,10 @@ When the project opens, check "Show Waveforms" at the bottom of the Project wind
 
 ![Show Audio Waveforms -iMovie](https://images.wondershare.com/filmora/article-images/show-waveforms-imovie.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** The Blue waveforms indicate the sound recorded within your video clips. Green and purple waveforms indicate sounds and music you’ve added to your project.
 
 #### Step 2. Move Pointer to Apply Fade Effects
@@ -73,15 +77,15 @@ Move the pointer over a waveform, and drag the small gray fade handle at the lef
 
 ![iMovie fade in audio pointer](https://images.wondershare.com/filmora/article-images/imovie-audio-fade-in-pointer.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Step 3. Playback to Check
 
 Move the playhead to the beginning part of the clips with fade effects to check the fade-in and fade-out effects. If everything works OK, uncheck "Show Waveforms" to hide the waveforms.
 
 ![imovie audio fade out pointer](https://images.wondershare.com/filmora/article-images/imovie-audio-fade-out-pointer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Related:** [How to Remove Background Noise from Video](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -110,7 +114,7 @@ If you manually adjust the effect, you can have a better effect.
 ![imovie fade audio done](https://images.wondershare.com/filmora/article-images/imovie-fade-audio-done.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After the settings, you can preview the effect in the viewing window to make sure all goes well, and you are much satisfied. Then click "Done" to save the audio fade-in and fade-out effects in iMovie.
@@ -118,10 +122,6 @@ After the settings, you can preview the effect in the viewing window to make sur
 Now, that's done! I hope the above information does help you to set the fade effects to smooth your video and audio transitions.
 
 **Related:** [How to Get More iMovie Themes](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: An Easier Way to Fade Audio and Music on Mac
 
@@ -141,15 +141,15 @@ Place the video onto the timeline. Double-click on it and then choose "Audio". I
 
 ![fade aduio](https://images.wondershare.com/filmora/guide/filmora-mac-audio-settings.jpg "resize video")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 3. Save Your Video
 
 Click the "Export" button to select one of the export methods. You can choose your desired format or mobile devices, burn it to DVD and upload it to YouTube and Vimeo.
 
 ![Filmora9 for Mac Export](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg "resize video")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 That's all about how to fade music and audio with iMovie and its alternative. If you want to learn more about how to edit video clips with Filmora, you can visit its [YouTube channel](https://www.youtube.com/channel/UCY%5FLMaDAoa6hwHKBE4Dx56w) to get more detailed information. Feel free to leave comments below if you need further assistance.
 
@@ -170,18 +170,16 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-inquiry-how-to-view-all-media-sharing-in-app-messages/"><u>[Updated] Inquiry How to View All Media Sharing in App Messages?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-invisible-smile-vanished-eyes-in-picsart/"><u>[Updated] Invisible Smile, Vanished Eyes in Picsart</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/complete-guide-to-record-desktop-screen-on-windows-for-free-3-ways-for-2024/"><u>Complete Guide to Record Desktop Screen on Windows for Free [3 Ways] for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-high-fps-impacts-slow-motion-movie-quality-for-2024/"><u>How High FPS Impacts Slow Motion Movie Quality for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-innovative-music-creation-with-ipads-the-8-leading-ios-daws-you-must-try/"><u>In 2024, Innovative Music Creation with iPads The 8 Leading iOS DAWs You Must Try</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-maximizing-your-platforms-posting-tiktok-content-on-twitter/"><u>In 2024, Maximizing Your Platforms Posting TikTok Content on Twitter</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/learning-on-the-go-discover-the-most-effective-allavsoft-udemy-app-for-windows-and-mac-os-versions-1187vista/"><u>Learning on the Go: Discover the Most Effective Allavsoft Udemy App for Windows and Mac OS Versions 11/8/7/Vista</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/mastering-sound-a-guide-to-advanced-editing-techniques-with-sony-vegas/"><u>Mastering Sound A Guide to Advanced Editing Techniques with Sony Vegas</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-snipping-sounds-expert-tips-for-audio-trimming-in-imovie-on-mobile-devices/"><u>New 2024 Approved Snipping Sounds Expert Tips for Audio Trimming in iMovie on Mobile Devices</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-what-to-look-for-in-audio-editor-software-for-mac-os-x/"><u>New In 2024, What to Look for in Audio Editor Software for Mac OS X</u></a></li>
-<li><a href="https://article-posts.techidaily.com/quick-guide-adding-zoom-to-your-email-communications-for-2024/"><u>Quick Guide Adding Zoom to Your Email Communications for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-4-fantastic-substitutes-for-google-play-discover-new-options-today/"><u>Top 4 Fantastic Substitutes for Google Play: Discover New Options Today!</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-2024-approved-what-is-an-ai-video-generator/"><u>Updated 2024 Approved What Is an AI Video Generator?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-collaboration-techniques-in-video-making-viewership-up/"><u>[New] In 2024, Collaboration Techniques in Video Making, Viewership Up</u></a></li>
+<li><a href="https://win-popular.techidaily.com/guide-comment-effectuer-une-restauration-complet-avec-wbadmin-sur-windows-11/"><u>Guide - Comment Effectuer Une Restauration Complet Avec WBAdmin Sur Windows 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-oneplus-12-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror OnePlus 12 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-periscope-understanding-features-pricing-and-registration-steps/"><u>Navigating Periscope Understanding Features, Pricing & Registration Steps</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-glitch-your-way-to-creativity-top-free-online-effect-generators-for-2024/"><u>New Glitch Your Way to Creativity Top Free Online Effect Generators for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-computer-review-your-ultimate-guide-to-tech-gear/"><u>Tom's Computer Review: Your Ultimate Guide to Tech Gear</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-the-ultimate-selection-of-downloadable-cartoon-soundscapes-for-animators/"><u>Updated In 2024, The Ultimate Selection of Downloadable Cartoon Soundscapes for Animators</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-leading-digital-sound-transformer-quick-seamless-mp3-conversions-for-2024/"><u>Updated Leading Digital Sound Transformer Quick, Seamless MP3 Conversions for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-top-5-essential-linux-based-audio-capture-tools-and-practical-recording-techniques-for-2024/"><u>Updated Top 5 Essential Linux-Based Audio Capture Tools & Practical Recording Techniques for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-top-8-android-audio-workstations-elevating-your-music-creation/"><u>Updated Top 8 Android Audio Workstations Elevating Your Music Creation</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-unleashing-your-creative-potential-the-comprehensive-guide-to-volume-automation-and-ducking-with-adobe-premiere-pro-mac-edition-for-2024/"><u>Updated Unleashing Your Creative Potential The Comprehensive Guide to Volume Automation and Ducking with Adobe Premiere Pro (Mac Edition) for 2024</u></a></li>
 </ul></div>
 

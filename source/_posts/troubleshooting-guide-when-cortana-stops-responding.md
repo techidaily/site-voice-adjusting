@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: When Cortana Stops Responding"
-date: 2024-12-31T07:19:09.104Z
-updated: 2025-01-03T05:32:07.830Z
+date: 2025-01-04T01:52:08.053Z
+updated: 2025-01-09T19:51:39.726Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
 **Cortana not working?**  I believe it’s one of your pet hates. Don’t panic. Usually it’s an easy problem to fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I fix Cortana not working?
@@ -33,13 +33,13 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
 4. [Update your Microphone driver and audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Reset Cortana](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Reboot your Windows 10 PC
 
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Check your region and language settings
 
@@ -52,10 +52,6 @@ Check your region and language settings on your computer:
  2) Click **Time** **& language** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Region & language.**
 
@@ -75,21 +71,17 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f33c9a31.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Install the available updates.
 
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Update your Microphone driver and audio driver
 
@@ -117,7 +109,15 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Reboot your Windows 10 and try Cortana again to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 5: Reset your Cortana
 
@@ -127,13 +127,13 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb16d80e39a.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the button beside **On** in **Hey Cortana** to turn off it. You should then see the **Off**  status.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
@@ -159,24 +159,20 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-expert-tips-for-preserving-your-roblox-playthrough-mac/"><u>[New] Expert Tips for Preserving Your Roblox Playthrough (Mac)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-squad-mic-not-working-2024-guide/"><u>[Solved] Squad Mic Not Working – 2024 Guide</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-audio-removal-guide-for-mp4-files/"><u>2024 Approved Audio Removal Guide for MP4 Files</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-audiophiles-guide-to-mp3-enhancement-fundamental-strategies/"><u>2024 Approved Audiophiles Guide to MP3 Enhancement Fundamental Strategies</u></a></li>
-<li><a href="https://win-community.techidaily.com/boost-your-pcs-performance-expert-tips-from-yl-computing-on-accelerating-computer-speed/"><u>Boost Your PC's Performance: Expert Tips From YL Computing on Accelerating Computer Speed</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-how-to-clone-voice-in-2-ways-create-ai-voices/"><u>In 2024, How to Clone Voice in 2 Ways-Create AI Voices</u></a></li>
-<li><a href="https://review-topics.techidaily.com/itel-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Itel Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/mastering-tiktok-sound-control-simple-methods-for-quieting-videos-for-2024/"><u>Mastering TikTok Sound Control Simple Methods for Quieting Videos for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-clearing-the-clutter-streamlined-methods-for-reducing-ambient-noise-in-audio-editing-software-audacity-and-filmorapro-for-2024/"><u>New Clearing the Clutter Streamlined Methods for Reducing Ambient Noise in Audio Editing Software (Audacity & FilmoraPro) for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-elevating-music-production-a-curated-list-of-the-top-8-macdaws/"><u>New Elevating Music Production A Curated List of the Top 8 MacDAWS</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-from-full-spectrum-to-focus-extracting-core-rhythms-for-multimedia-use/"><u>New From Full Spectrum to Focus Extracting Core Rhythms for Multimedia Use</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-dynamic-duets-of-sound-and-sight-afx-lyric-templates/"><u>New In 2024, Dynamic Duets of Sound and Sight - AFX Lyric Templates</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-beastly-symphony-capturing-giants-in-audio-form/"><u>New The Beastly Symphony Capturing Giants in Audio Form</u></a></li>
-<li><a href="https://fox-that.techidaily.com/qr-codes-not-reading-properly-on-your-iphone-attempt-these-10-remedies/"><u>QR Codes Not Reading Properly on Your iPhone? Attempt These 10 Remedies</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-iphone-xs-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone XS Data From iOS iTunes | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/solution-simple-et-facile-pour-forcer-la-fermeture-dun-fichier-ouvert-dans-un-programme-concurrent/"><u>Solution Simple Et Facile Pour Forcer La Fermeture D’Un Fichier Ouvert Dans Un Programme Concurrent</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210900548-9781088192559-the-science-of-meditation/"><u>The Science of Meditation | Free Book</u></a></li>
-<li><a href="https://fox-info.techidaily.com/top-tier-business-data-haven-selection/"><u>Top-Tier Business Data Haven Selection</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722177654446-unlocking-secrets-50-mobile-phone-deal-plus-demystifying-ransomware-decryption-tactics/"><u>Unlocking Secrets: $50 Mobile Phone Deal + Demystifying Ransomware Decryption Tactics</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-perfecting-the-pause-how-to-craft-exceptional-slow-motion-videos/"><u>[New] Perfecting the Pause How to Craft Exceptional Slow Motion Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-oppo-find-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/acer-nitro-5-users-manual-how-to-refresh-system-drivers-efficiently/"><u>Acer Nitro 5 User's Manual: How to Refresh System Drivers Efficiently</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-oppo-a79-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Oppo A79 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convertir-archivo-pbm-para-su-visualizacion-en-vista-previa-gratuita-guia-paso-a-paso-de-movavi/"><u>Convertir Archivo PBM Para Su Visualización en Vista Previa Gratuita: Guía Paso a Paso De Movavi</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-vivo-y27-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Vivo Y36i? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-step-by-step-utilizing-aiseesoft-for-video-captures/"><u>In 2024, Step-by-Step Utilizing Aiseesoft for Video Captures</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/premium-e-reader-insight-amazons-kindle-oasis-is-the-expense-worth-it/"><u>Premium E-Reader Insight: Amazon's Kindle Oasis - Is the Expense Worth It?</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/smooth-gaming-experience-achieved-cyberpunk-2077s-lag-and-stuttering-solved/"><u>Smooth Gaming Experience Achieved: Cyberpunk 2077'S Lag and Stuttering Solved!</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-speak-now-type-soon-essential-free-tools-for-mobile-audio-transcriptions/"><u>Updated In 2024, Speak Now, Type Soon Essential Free Tools for Mobile Audio Transcriptions</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-the-silent-movie-revolution-procedures-for-deleting-sound-elements-in-mov-files-across-computers-and-devices/"><u>Updated In 2024, The Silent Movie Revolution Procedures for Deleting Sound Elements in MOV Files Across Computers and Devices</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-top-8-best-daw-app-for-android-to-accelerate-your-music-production/"><u>Updated In 2024, Top 8 Best DAW App for Android to Accelerate Your Music Production</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-premier-free-mp3-harmonizer-software/"><u>Updated Premier Free MP3 Harmonizer Software</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-the-ultimate-journey-in-voice-coaching-changing-how-you-sound-for-2024/"><u>Updated The Ultimate Journey in Voice Coaching Changing How You Sound for 2024</u></a></li>
 </ul></div>
 

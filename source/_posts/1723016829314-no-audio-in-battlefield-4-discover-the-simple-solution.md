@@ -1,7 +1,7 @@
 ---
 title: No Audio in Battlefield 4? Discover the Simple Solution
-date: 2025-01-01T02:36:39.575Z
-updated: 2025-01-03T10:30:27.205Z
+date: 2025-01-06T03:28:23.700Z
+updated: 2025-01-10T03:53:21.287Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/01edaba53137429381532b08b94562d4a741359e1
  Enjoy this game but find no sound at all in Battlefield 4? If everything works fine and this happens only to BF4 (or other games from the EA Origin client), you’re in the right place. In this post, you will learn every possible fix to the ‘Battlefield 4 no sound’ issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6 Fixes for Battlefield 4 No Sound Issues
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/01edaba53137429381532b08b94562d4a741359e1
 4. **[Disable Windows Defender](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Verify the game integrity](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Rule out other interference](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1\. Update your audio drivers
 
@@ -69,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/01edaba53137429381532b08b94562d4a741359e1
 
 ![open sound settings](https://images.drivereasy.com/wp-content/uploads/2021/09/playback-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Set the right device as the default playback device. There will be a green tick and a signal icon on this device if it’s set as default.
 
 ![set the right default device](https://images.drivereasy.com/wp-content/uploads/2021/09/speaker.jpg)
@@ -81,12 +73,16 @@ thumbnail: https://thmb.techidaily.com/01edaba53137429381532b08b94562d4a741359e1
 
 ![set another device as default](https://images.drivereasy.com/wp-content/uploads/2021/09/set-as-default.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Right-click your default device and select**Properties** . Go to the Advanced tab, and select a format**no more than 24 bit, 96000 Hz** .
 
 ![choose a correct sample format](https://images.drivereasy.com/wp-content/uploads/2021/09/quality.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Click**Apply** to save the changes.
@@ -101,17 +97,21 @@ thumbnail: https://thmb.techidaily.com/01edaba53137429381532b08b94562d4a741359e1
 
 ![open volume mixer](https://images.drivereasy.com/wp-content/uploads/2021/09/open-volume-mixer.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Make sure that Battlefield 4 is not muted in Volume Mixer.
 
 ![check battlefield 4 sound not working](https://images.drivereasy.com/wp-content/uploads/2021/09/mixer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Now you’ll need to go to the**Advanced Sound settings** . Press the**Windows logo** key +**I** at the same time, and select**System** .
 
 ![open system](https://images.drivereasy.com/wp-content/uploads/2021/09/system-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Select**Sound** from the left pane, and click**App volume and device preferences** under**Advanced sound options** .
 
@@ -128,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/01edaba53137429381532b08b94562d4a741359e1
  1) Press the**Windows logo** key +**I** at the same time and select**Update & Security** \>**Windows Security** and then**Firewall & network protection** . Or click[here](https://tools.techidaily.com/drivereasy/download/) to open Windows Defender.
 
 ![open firewall settings](https://images.drivereasy.com/wp-content/uploads/2021/09/firewall.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2) Click the active network.
 
@@ -153,13 +149,13 @@ Launch your Battlefield 4 and check if the sound is working now.
 
 ![Battlefield 4 repair](https://images.drivereasy.com/wp-content/uploads/2021/09/battlefield-1200x686.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Once complete, close Origin. Then run Origin as administrator.
 
 ![run origin as admin](https://images.drivereasy.com/wp-content/uploads/2019/08/run-origin-as-sdministrator.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Play Battlefield 4 and test the sound issue. If the Battlefield 4 sound not working issue persists, it’s very likely caused by interference by your devices or other apps.
 
@@ -173,12 +169,16 @@ Launch your Battlefield 4 and check if the sound is working now.
 
 ![origin application settings](https://images.drivereasy.com/wp-content/uploads/2021/09/app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Origin In-Game** tab. Toggle the **Off** switch to turn Origin In-Game off.
 
 ![turn off orgin in game](https://images.drivereasy.com/wp-content/uploads/2021/09/originingame.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If disabling Origin In-Game Overlay doesn’t work, you can[perform a clean boot](https://tools.techidaily.com/drivereasy/download/) on your PC to find a problematic application.
@@ -206,18 +206,16 @@ Launch your Battlefield 4 and check if the sound is working now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-secret-techniques-in-ps-for-first-timers/"><u>[New] Secret Techniques in PS for First-Timers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-streaming-into-the-future-a-review/"><u>[Updated] Streaming Into the Future A Review</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-clutter-mastering-the-deletion-of-drive-partitions-in-win-os/"><u>Avoiding Clutter: Mastering the Deletion of Drive Partitions in Win OS</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/tional-gaming-content-on-youtube-for-2024/"><u>Educational Gaming Content on YouTube for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/explore-and-engage-with-10-key-network-settings-in-winos/"><u>Explore and Engage with 10 Key Network Settings in WinOS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-creation-your-guide-to-googles-audio-upload-for-2024/"><u>From Creation Your Guide to Google's Audio Upload for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-seo-innovation-pivotal-tech-to-elevate-your-vids/"><u>In 2024, SEO Innovation Pivotal Tech to Elevate Your Vids</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-mastering-sound-with-these-top-10-audio-editors-compatible-with-windows-and-mac/"><u>New 2024 Approved Mastering Sound with These Top 10 Audio Editors Compatible with Windows and Mac</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/praktische-schritte-zur-veranderung-von-videoformaten-je-nach-spezifischen-anwendungszielen/"><u>Praktische Schritte Zur Veränderung Von Videoformaten Je Nach Spezifischen Anwendungszielen</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/uniform-visual-clarity-in-microsoft-teams-conferences-for-2024/"><u>Uniform Visual Clarity in Microsoft Teams Conferences for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-bridging-audio-realms-to-the-screen-designing-eye-catching-audio-graphs-and-animating-video-sequences-with-premiere-pro-mastery/"><u>Updated Bridging Audio Realms to the Screen Designing Eye-Catching Audio Graphs & Animating Video Sequences with Premiere Pro Mastery</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-achieving-tiktok-peace-effective-strategies-for-dialing-down-volume/"><u>Updated In 2024, Achieving TikTok Peace Effective Strategies for Dialing Down Volume</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-master-list-of-prime-online-destinations-for-quality-montage-audio-acquisition-for-2024/"><u>Updated Master List of Prime Online Destinations for Quality Montage Audio Acquisition for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-can-i-peruse-friends-shared-videos-and-pics-via-messenger-for-2024/"><u>[Updated] Can I Peruse Friends' Shared Videos & Pics via Messenger for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unleash-creativity-with-these-8-mirrorless-cams-for-video/"><u>[Updated] Unleash Creativity with These 8 Mirrorless Cams For Video</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhancing-sound-output-for-a-better-experience-with-windows-11/"><u>Enhancing Sound Output for a Better Experience with Windows 11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210410922-9781644112304-secret-history-of-the-wild-wild-west/"><u>Secret History of the Wild, Wild West | Free Book</u></a></li>
+<li><a href="https://program-issues.techidaily.com/sons-of-the-forest-crashing-on-pc-how-to-fix/"><u>Sons of the Forest Crashing on PC: How to Fix?</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-beginners-blueprint-to-creating-an-audio-book-with-ease-a-compreranly-updated-manual/"><u>The Beginners Blueprint to Creating an Audio Book with Ease A Compreranly Updated Manual</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-ultimate-audio-editing-playbook-mastering-the-use-of-keyframes-for-dynamic-filmmaking-in-final-cut-pro-x/"><u>The Ultimate Audio Editing Playbook Mastering the Use of Keyframes for Dynamic Filmmaking in Final Cut Pro X</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-iphone-12-pro-max-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On iPhone 12 Pro Max Making It Possible</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-vivo-y100-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Vivo Y100 5G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/unveiling-the-finest-subsidized-virtual-studio-technology-plugins-for-2024/"><u>Unveiling the Finest Subsidized Virtual Studio Technology Plugins for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-enriching-avi-images-with-auditory-elements-in-the-2023-version/"><u>Updated 2024 Approved Enriching AVI Images with Auditory Elements in the 2023 Version</u></a></li>
 </ul></div>
 

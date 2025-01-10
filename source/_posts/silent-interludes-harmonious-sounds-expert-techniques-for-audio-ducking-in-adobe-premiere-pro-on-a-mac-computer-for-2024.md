@@ -1,7 +1,7 @@
 ---
 title: Silent Interludes, Harmonious Sounds Expert Techniques for Audio Ducking in Adobe Premiere Pro on a Mac Computer for 2024
-date: 2024-12-30T16:16:24.411Z
-updated: 2025-01-02T18:26:09.234Z
+date: 2025-01-07T17:43:23.743Z
+updated: 2025-01-10T04:32:00.827Z
 tags: 
   - audio editing software
   - audio editing
@@ -29,7 +29,7 @@ Too many times, while mixing voiceover with the background music in a video, the
 The best thing about Premiere Pro audio ducking is that it is an automatic process and we don’t need to put a lot of effort. To make your job easier, I’m going to let you know how to use the Adobe Premiere Pro audio ducking feature in a step by step manner in this guide.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Use Audio Ducking to Balance Music and Voiceover in Adobe Premiere Pro on Mac?
@@ -61,7 +61,7 @@ Great! You can now preview the changes you have made and check the audio ducking
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
@@ -71,7 +71,7 @@ As you can see, the Premiere Pro audio ducking feature can get a bit complicated
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
@@ -101,7 +101,7 @@ Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -119,19 +119,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-audible-riches-from-social-media-videos-fb-to-mp3-guide/"><u>2024 Approved Audible Riches From Social Media Videos - FB To MP3 Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-frequent-collapses-while-playing-world-of-tanks-blitz-on-your-device/"><u>How to Stop Frequent Collapses While Playing World of Tanks Blitz on Your Device</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/inside-microsofts-strategic-move-to-acquire-blizzard-delving-into-ai-art-and-language-solutions-podcast-episode/"><u>Inside Microsoft’s Strategic Move to Acquire Blizzard: Delving Into AI Art & Language Solutions [Podcast Episode]</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-art-microsoft-paints-latest-enhancements/"><u>Mastering Art: Microsoft Paint's Latest Enhancements</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-top-10-safe-chat-platforms-for-socializing-digitally/"><u>New Top 10 Safe Chat Platforms for Socializing Digitally</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/optimizing-your-videography-journey-using-adobe-connects-tools-for-2024/"><u>Optimizing Your Videography Journey Using Adobe Connect's Tools for 2024</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/professional-winx-deluxe-video-editor-convert-and-optimize-content-faster-using-powerful-gpu-speeds/"><u>Professional WinX Deluxe Video Editor: Convert and Optimize Content Faster Using Powerful GPU Speeds</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/social-synergy-optimizing-your-facebook-linkedin-and-youtube-strategy/"><u>Social Synergy: Optimizing Your Facebook, LinkedIn, and YouTube Strategy</u></a></li>
-<li><a href="https://extra-information.techidaily.com/step-by-step-customizing-windows-11-walls/"><u>Step-by-Step Customizing Windows 11 Walls</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/the-ultimate-guide-to-background-music-sets-for-video-creators-download-for-2024/"><u>The Ultimate Guide to Background Music Sets for Video Creators - Download for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-advanced-software-options-for-distilling-pure-auditory-experiences-for-2024/"><u>Updated Advanced Software Options for Distilling Pure Auditory Experiences for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-becoming-the-next-star-how-to-utilize-voice-changer-plus-app-for-iphones-effectively-for-2024/"><u>Updated Becoming the Next Star How to Utilize Voice Changer Plus App for iPhones Effectively for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-best-11-free-voice-changer-apps-for-ios-and-android-for-2024/"><u>Updated Best 11 FREE Voice Changer Apps for iOS and Android for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-easy-to-use-vocal-modification-tools-overview-of-functions-rules-and-substitutes/"><u>Updated Easy-to-Use Vocal Modification Tools Overview of Functions, Rules, and Substitutes</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-simplify-creating-youtube-thumbnails-now/"><u>[Updated] 2024 Approved Simplify Creating YouTube Thumbnails Now</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-blade-chroma-revolutionized-by-quad-hd-technology/"><u>[Updated] Blade Chroma Revolutionized by Quad-HD Technology</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-walking-dead-an-insiders-guide-to-best-zombie-experiences/"><u>[Updated] Walking Dead An Insider's Guide to Best Zombie Experiences</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-consumers-perspective-on-the-ring-doorbell-pro-functionality-design-and-review-comparisons/"><u>A Consumer's Perspective on the Ring Doorbell Pro: Functionality, Design & Review Comparisons</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-doorbells-demystified-how-the-remobell-offers-value-for-money-under-100/"><u>Budget-Friendly Doorbells Demystified - How the RemoBell Offers Value for Money Under $100</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-strategies-for-flawlessly-reflecting-youtube-vids-a-step-by-step-guide/"><u>Effortless Strategies for Flawlessly Reflecting YouTube Vids – A Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-note-12-4g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi Note 12 4G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-gradual-diminishment-of-audio-fidelity-in-adobe-rush-for-2024/"><u>The Gradual Diminishment of Audio Fidelity in Adobe Rush for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-when-red-dead-redemption-2-fails-to-start-on-your-computer/"><u>Troubleshooting Steps When Red Dead Redemption 2 Fails to Start on Your Computer</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-avs-audio-editor-product-details-features-reviews-and-alternatives/"><u>Updated 2024 Approved AVS Audio Editor Product Details, Features, Reviews & Alternatives</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-expert-audio-tidying-up-techniques-and-applications-to-purify-soundtracks/"><u>Updated 2024 Approved Expert Audio Tidying Up Techniques and Applications to Purify Soundtracks</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-melody-match-masters-unveiling-the-hottest-tunes-on-web-platforms/"><u>Updated 2024 Approved Melody Match Masters Unveiling the Hottest Tunes on Web Platforms</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-top-tools-for-silencing-unwanted-sound-in-podcasts-and-recordings/"><u>Updated 2024 Approved Top Tools for Silencing Unwanted Sound in Podcasts and Recordings</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-a-detailed-exploration-of-top-value-free-plugins-and-their-download-sources-for-2024/"><u>Updated A Detailed Exploration of Top Value Free Plugins and Their Download Sources for 2024</u></a></li>
 </ul></div>
 

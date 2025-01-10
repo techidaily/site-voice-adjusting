@@ -1,7 +1,7 @@
 ---
 title: "Smooth Gaming Experience Achieved: Cyberpunk 2077'S Lag and Stuttering Solved!"
-date: 2024-12-27T06:25:53.142Z
-updated: 2025-01-02T19:14:38.743Z
+date: 2025-01-03T16:31:51.422Z
+updated: 2025-01-10T03:10:05.672Z
 tags:
   - win11
   - win10
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/5396014f071443efd9e1f13ed6c2f299f41c76737
 ## Cyberpunk 2077 Performance Boosted – Overcoming Previous FPS Drops
 
 Cyperpunk 2077 has been out for a while now, and there’re still reports about unstable FPS and laggy gameplay on Windows. If you’re on the same boat, don’t worry. Here’re some proven fixes you can try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -70,6 +66,10 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select **Ultimate Performance** . If you don’t see this power plan, simply continue to the next step to unhide it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press the **Windows logo key** and type **cmd** . Select **Run as Administrator** .  
 
@@ -83,6 +83,10 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
  After changing your power plan, you can then check it there’s any improvements in Cyberpunk 2077.
 
  if this trick doesn’t give you luck, you can move on to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -112,6 +116,10 @@ First visit the website of your graphics card manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -122,7 +130,7 @@ First visit the website of your graphics card manufacturer:
  If updating the graphics driver doesn’t work for you, simply check out the next method below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
@@ -136,6 +144,10 @@ And here’s a simple guide for that:
 2. Click**Check for updates** . Then wait for Windows to download and install the available system updates.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you haven’t been updating for a while,**repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -155,23 +167,11 @@ And here’s enable HAGS:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-02.jpg)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn on **Hardware-accelerated GPU scheduling** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-4.jpg)
 5. Restart your PC for the changes to take effect.
@@ -191,11 +191,15 @@ To change the in-game graphics settings, simply follow these steps:
 2. Navigate to the**GAMEPLAY** tab. Under the**Performance** section, set**Crowd Density** to**Low** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-2.jpg)
 3. Under the**Miscellaneous** section, set**Enable Analytics** to**OFF** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-3.jpg)
 4. Navigate to the**GRAPHICS** tab. Under the**Basic** section, set both**Film Grain** and**Chromatic Aberration** to**OFF** .  
@@ -204,14 +208,10 @@ To change the in-game graphics settings, simply follow these steps:
 5. The next two settings are optional. You can try turning off**Ray Tracing** and see if it improves the performance.**DLSS** is a new RTX technology that uses AI to boost your FPS. (Sounds fancy.) You can try setting it to**Performance** or**Ultra Performance** and see if it really helps. (Doing so might make the game seem blurry.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  For more tuning details, check out[this article](https://www.tomshardware.com/news/cyberpunk-2077-pc-benchmarks-settings-performance-analysis) .
 
@@ -234,22 +234,21 @@ To change the in-game graphics settings, simply follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/compatibility-problem-windows-10-cant-find-mp620-drivers/"><u>[Compatibility Problem] Windows 10 Can't Find MP620 Drivers</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-revolutionize-your-beat-matching-try-free-online-detectors-now/"><u>[Updated] Revolutionize Your Beat Matching – Try Free Online Detectors Now</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-adobe-audition-expertise-eliminating-unwanted-sounds-and-noise/"><u>2024 Approved Adobe Audition Expertise Eliminating Unwanted Sounds and Noise</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/creating-a-personalized-profile-a-how-to-for-your-nintendo-3ds-online-id/"><u>Creating a Personalized Profile: A How-To for Your Nintendo 3DS Online ID</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-xiaomi-redmi-note-12r-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Xiaomi Redmi Note 12R is off? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/linguistic-enhancement-applying-custom-rom-patches/"><u>Linguistic Enhancement: Applying Custom ROM Patches</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-discovering-tools-to-emulate-natural-human-digestive-resonances-in-media-projects/"><u>New Discovering Tools to Emulate Natural Human Digestive Resonances in Media Projects</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-enriched-sound-experience-synthesizing-audio-waves-and-animating-them-for-premiere-pro-audience/"><u>New Enriched Sound Experience Synthesizing Audio Waves and Animating Them for Premiere Pro Audience</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-how-to-install-and-use-autotune-in-audacity-for-2024/"><u>New How to Install and Use Autotune in Audacity for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-how-to-add-video-and-audio-transition-between-scenesclips/"><u>New In 2024, How to Add Video and Audio Transition Between Scenes/Clips</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-pursuit-of-pristine-sounds-a-complete-guide-to-utilizing-adobe-auditions-noise-reduction-features/"><u>New The Pursuit of Pristine Sounds A Complete Guide to Utilizing Adobe Auditions Noise Reduction Features</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/overcome-no-free-space-issue-to-get-ios-navigate-through-this-guide-for-a-smooth-update/"><u>Overcome 'No Free Space' Issue to Get iOS Navigate Through This Guide for a Smooth Update.</u></a></li>
-<li><a href="https://extra-support.techidaily.com/pricing-guide-to-film-a-bands-music-visual-for-2024/"><u>Pricing Guide to Film a Band's Music Visual for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/streamlined-methods-for-obtaining-pitched-ding-sound-files-online-the-top-10-list-for-2024/"><u>Streamlined Methods for Obtaining Pitched Ding Sound Files Online - The Top 10 List for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-strategies-how-to-successfully-continue-an-interrupted-iphone-software-update/"><u>Top Strategies: How to Successfully Continue an Interrupted iPhone Software Update</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-audio-transformation-made-simple-an-instructional-guide-on-altering-speed-and-pitch-through-digital-platforms/"><u>Updated In 2024, Audio Transformation Made Simple An Instructional Guide on Altering Speed & Pitch Through Digital Platforms</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-compatibility-for-netgear-a6200-adapter/"><u>Windows Compatibility for Netgear A6200 Adapter</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-a-complete-tutorial-on-saving-your-instagram-story/"><u>[New] 2024 Approved A Complete Tutorial on Saving Your Instagram Story</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-iphone-guide-inverting-your-media-files/"><u>[New] 2024 Approved IPhone Guide Inverting Your Media Files</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-tips-and-tricks-for-iphone-low-light-photography/"><u>[New] Tips and Tricks for iPhone Low Light Photography</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-10-best-video-cameras-to-shoot-musical-videos-4khd-2024/"><u>[Updated] 10 Best Video Cameras to Shoot Musical Videos (4K/HD) 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-quick-growth-guide-mastering-instagram-likes-and-video/"><u>[Updated] Quick Growth Guide - Mastering Instagram Likes & Video</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-unleash-your-potential-top-6-head-mounted-cameras-by-gopro-for-2024/"><u>[Updated] Unleash Your Potential Top 6 Head-Mounted Cameras by GoPro for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726222818571-wmvasf-movavi/"><u>將WMV更換成ASF的無限制線上換版工具 - Movavi 轉換技術</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-walkthrough-incorporating-subtitles-in-mp4s-for-2024/"><u>Step-by-Step Walkthrough Incorporating Subtitles in MP4s for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-complete-manual-of-sound-control-enhancing-your-live-stream-with-obs-ducking-for-2024/"><u>The Complete Manual of Sound Control Enhancing Your Live Stream with OBS Ducking for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-gradual-diminishment-of-audio-fidelity-in-adobe-rush-for-2024/"><u>The Gradual Diminishment of Audio Fidelity in Adobe Rush for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-to-convert-dvds-into-avi-formats-on-windows-11-2024-edition/"><u>Ultimate Guide to Convert DVDs Into Avi Formats on Windows 11 - 2024 Edition</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-10-top-vocal-remover-software-for-karaoke-music-production-and-more/"><u>Updated 10 Top Vocal Remover Software for Karaoke, Music Production, and More</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-melody-match-masters-unveiling-the-hottest-tunes-on-web-platforms/"><u>Updated 2024 Approved Melody Match Masters Unveiling the Hottest Tunes on Web Platforms</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-top-tools-for-silencing-unwanted-sound-in-podcasts-and-recordings/"><u>Updated 2024 Approved Top Tools for Silencing Unwanted Sound in Podcasts and Recordings</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-a-detailed-exploration-of-top-value-free-plugins-and-their-download-sources-for-2024/"><u>Updated A Detailed Exploration of Top Value Free Plugins and Their Download Sources for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-elevate-your-music-production-the-best-six-free-digital-audio-workstations-for-those-starting-out-for-2024/"><u>Updated Elevate Your Music Production The Best Six Free Digital Audio Workstations for Those Starting Out for 2024</u></a></li>
 </ul></div>
 

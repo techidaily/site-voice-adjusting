@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Sound on Your Device: Resolving 'Evil Genius 2' Quiet Conundrum"
-date: 2025-01-02T05:07:47.553Z
-updated: 2025-01-02T21:31:20.777Z
+date: 2025-01-07T20:14:55.414Z
+updated: 2025-01-10T04:43:38.233Z
 tags:
   - win11
   - win10
@@ -53,24 +53,20 @@ Many players have reported that the Elden Ring multiplayer can not work. Even af
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-10_14-38-37.jpg)
 2. Click the**Network** tab on the top and then it will switch to the Network settings panel.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-10_14-25-55-network-settings.jpg)
 3. Click**Launch Setting** and then click the pointing arrow behind**Launch Setting** to select**Play Online** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-10_14-39-232222.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After you optimize the Elden Ring’s network settings, you can check if it works. If not, move to the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Update your network drivers
 
@@ -98,6 +94,10 @@ Here are two ways to update your network drivers.
  Or you can click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-network-adapter-driver-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After updating your network drivers, see if your Elden Ring multiplayer works. If not, move to the next method.
 
 ### Method 3: Enable auto-updates of Elden Ring
@@ -111,16 +111,20 @@ Here are two ways to update your network drivers.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-10_18-05-493333.jpg)
 3. Click the**UPDATES** tab on the left panel.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-11_14-14-13-update-1.jpg)
 4. Click**Always keep this game updated** under AUTOMATIC UPDATES. Whenever there is an available update, Steam will update the game automatically.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-11_14-12-34update-3.jpg)
 
  After enabling auto-dates of Elden Ring, you can check if your Elden Ring multiplayer works. If not, move to the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Verify integrity of game files
 
@@ -130,15 +134,11 @@ Here are two ways to update your network drivers.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-10_18-11-58加水印.jpg)
 2. Right-click**ELDEN RING** and select**Properties…** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-10_18-05-493333.jpg)
 3. Click the**Installed Files** and select**Verify integrity of game files** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Verify-integrity-of-game-files.jpg)
@@ -160,16 +160,20 @@ Here are two ways to update your network drivers.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
  After repairing the system files, you can check if the Elden Ring multiplayer works normally.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 6: Update your Windows system
 
@@ -191,14 +195,10 @@ Here are two ways to update your network drivers.
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/win11-search-bar-check-for-updates.jpg)
 2. Click on the **Check for updates**  button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![win11 - Download & install Windows Update](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When updates are available, follow the on-screen instructions to download and install them.
@@ -224,16 +224,22 @@ Here are two ways to update your network drivers.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-identifying-the-optimal-cloud-data-vaults/"><u>[Updated] In 2024, Identifying the Optimal Cloud Data Vaults</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-live-production-pros-dilemma-pmix-vs-castpro/"><u>2024 Approved Live Production Pros' Dilemma PMix Vs. CastPro</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-your-chat-experience-with-these-forgotten-ai-features/"><u>Elevate Your Chat Experience with These Forgotten AI Features</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-youtubes-queue-with-precision-a-comprehensive-tutorial/"><u>In 2024, Navigating YouTube's Queue with Precision A Comprehensive Tutorial</u></a></li>
-<li><a href="https://driver-download.techidaily.com/instant-hp-audio-device-drivers-free-access-and-effortless-installation-steps/"><u>Instant HP Audio Device Drivers – Free Access and Effortless Installation Steps</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/locating-the-dynamics-of-whistling-audio/"><u>Locating the Dynamics of Whistling Audio</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-enhancing-audio-quality-techniques-for-distraction-free-sounds-with-wondershare-filmora/"><u>New 2024 Approved Enhancing Audio Quality Techniques for Distraction-Free Sounds with Wondershare Filmora</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-leading-audio-modification-programs-a-comprehensive-guide/"><u>New Leading Audio-Modification Programs A Comprehensive Guide</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-audio-architects-guide-to-stripping-down-beats-online-for-2024/"><u>New The Audio Architects Guide to Stripping Down Beats Online for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-understanding-audacitys-noise-suppression-techniques-step-by-step-guide-for-2024/"><u>Updated Understanding Audacitys Noise Suppression Techniques Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/upgrade-your-lenovo-thinkpad-t13-with-an-ssd-two-proven-methods/"><u>Upgrade Your Lenovo ThinkPad T13 with an SSD - Two Proven Methods</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fast-track-video-scaling-for-perfect-mac-display/"><u>[New] 2024 Approved Fast-Track Video Scaling for Perfect Mac Display</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-whats-new-with-windows-11/"><u>[New] 2024 Approved What's New with Windows 11?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-from-chaos-to-calm-quick-edits-for-your-overwhelming-tiktok-drafters/"><u>[Updated] In 2024, From Chaos to Calm Quick Edits for Your Overwhelming TikTok Drafters</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-navigate-meeting-arrangements-with-zoom-ease/"><u>[Updated] In 2024, Navigate Meeting Arrangements with Zoom Ease</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-superior-nintendo-switch-brawlers-selection-max-156/"><u>[Updated] In 2024, Superior Nintendo Switch Brawlers Selection (Max 156)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-illuminating-interactions-mastering-animate-texts-in-stories/"><u>2024 Approved Illuminating Interactions Mastering Animate Texts in Stories</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/1726029422187-gifwindows-10/"><u>GIFを簡単にWindows 10で制作する究極のチュートリアル</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-quick-guide-uploading-tiktoks-directly-to-facebook/"><u>In 2024, Quick Guide Uploading TikToks Directly to Facebook</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-ultimate-toolkit-for-after-effects-lyric-video-enthusiasts-for-2024/"><u>New The Ultimate Toolkit for After Effects Lyric Video Enthusiasts for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-unveiling-the-top-10-audio-editing-platforms-a-guide-to-free-and-paid-services-for-musicians/"><u>New Unveiling the Top 10 Audio Editing Platforms A Guide to Free & Paid Services for Musicians</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/synchronized-sonic-space-techniques-for-achieving-uniform-auditory-dynamics-across-video-content/"><u>Synchronized Sonic Space Techniques for Achieving Uniform Auditory Dynamics Across Video Content</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/tutorial-mudah-bantu-anda-pemulihan-data-dari-telepon-iphone-yang-terbakar-tanpa-kebutuhkan-sispi/"><u>Tutorial Mudah Bantu Anda Pemulihan Data Dari Telepon iPhone Yang Terbakar, Tanpa Kebutuhkan Sispi</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-adjusting-decibels-fine-tuning-sound-on-audacity/"><u>Updated 2024 Approved Adjusting Decibels Fine-Tuning Sound on Audacity</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-auditory-delights-in-cinema-celebrating-the-best-8-film-soundscapes/"><u>Updated 2024 Approved Auditory Delights in Cinema - Celebrating the Best 8 Film Soundscapes</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-rhythm-and-reel-leveraging-premiere-pro-features-for-time-synchronized-video-editing/"><u>Updated 2024 Approved Rhythm and Reel Leveraging Premiere Pro Features for Time-Synchronized Video Editing</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-exploring-the-best-dawn-and-rise-of-browser-based-daws-top-10-selection/"><u>Updated Exploring the Best Dawn and Rise of Browser-Based DAWs Top 10 Selection</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-how-to-edit-videos-to-the-beat-in-premiere-pro-for-2024/"><u>Updated How to Edit Videos to the Beat in Premiere Pro for 2024</u></a></li>
 </ul></div>
 

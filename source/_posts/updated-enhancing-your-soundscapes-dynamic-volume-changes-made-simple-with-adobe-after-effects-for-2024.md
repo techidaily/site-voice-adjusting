@@ -1,7 +1,7 @@
 ---
 title: Updated Enhancing Your Soundscapes Dynamic Volume Changes Made Simple with Adobe After Effects for 2024
-date: 2024-12-30T20:44:42.734Z
-updated: 2025-01-02T19:44:27.913Z
+date: 2025-01-06T01:29:52.538Z
+updated: 2025-01-10T05:00:55.669Z
 tags: 
   - audio editing software
   - audio editing
@@ -30,11 +30,11 @@ However, you will need to have at least basic video and sound editing skills to 
 
  **Read More to Get:** [Best Audio Mixer Software to Trim Your Sound Easily >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-## Adding the Fade In and Fade Out Effects to Audio Files in AE
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Adding the Fade In and Fade Out Effects to Audio Files in AE
 
 ### Step 1: Check audio waveform in After Effects
 
@@ -42,17 +42,21 @@ Once you've created a new project in AE and you've imported the audio files you'
 
 ![fade out/in audio waveform after effects](https://images.wondershare.com/filmora/filmorapro/fade-out-in-audio-after-effects-waveform.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 2: Add a keyframe to the audio file
 
 The next thing you will have to do is place the playhead at the exact location where you want the Fade In effect to start. In most cases, Fade effects are added at the starting point of the audio file, so you should position the playhead at the beginning of the timeline or zero seconds. You will be able to see a stopwatch next to the Audio Levels option located in the Composition tab. Click on it to add the first keyframe and assign a negative value to the Audio Level setting. -100db or -50db values will make the audio file silent, and you can pick either based on how long you want the Fade in effect to last. If you don't know how to use keyframes in After Effects, [this article will give you some info](https://www.schoolofmotion.com/blog/how-to-set-keyframes-after-effects).
 
 ![Add keyframe to fade out/in audio](https://images.wondershare.com/filmora/filmorapro/add-keyframe-fade-in-out-audio.jpg)
 
-You may also like: [15 Free After Effects Templates to Power up Your Video](https://tools.techidaily.com/wondershare/filmora/download/)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+You may also like: [15 Free After Effects Templates to Power up Your Video](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ### Step 3: Complete Fade out/in audio in After Effects
 
@@ -61,7 +65,7 @@ Move the playhead to the location where you want the effect to end and add anoth
 ![Complete fade out/in audio in After Effects](https://images.wondershare.com/filmora/filmorapro/complete-fade-iin-out-audio-after-effects.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tips For Making Better Fade In and Fade Out Effects
@@ -82,10 +86,6 @@ You may also like: [How to Cut Video in After Effects](https://tools.techidaily.
 
 Besides opening and closing scenes, you can also use the Fade in and fade out effects to mix two different tracks while the shot is still in progress. Fade out one track, make it look like a scene is ending, and then introduce a new theme that changes the mood of that scene. The important thing is to avoid reducing the audio level all the way to -100db because you might end up creating silence in a scene that disrupts the flow of an entire video.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Fading in or fading out audio files in Adobe After Effects doesn't require much effort, as you have to add a few keyframes to the file and adjust the Audio Level value. However, finding the best way to improve the quality of your soundtrack by applying these effects may take some practice. Do you often add Fade in and fade out audio effects in AE? Leave a comment below and share your experiences with us.
@@ -95,7 +95,7 @@ If you want to fade in/out audio easily, we recommend using [Filmora](https://to
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -113,19 +113,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-monetizing-mastery-comparing-streaming-giants-strategies/"><u>[New] 2024 Approved Monetizing Mastery Comparing Streaming Giants' Strategies</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-visualize-and-save-premium-free-screen-capture-software-on-pcmac-for-2024/"><u>[New] Visualize and Save - Premium Free Screen Capture Software on PC/Mac for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-step-by-step-save-gifs-from-fb-on-different-devices/"><u>[Updated] Step-by-Step Save GIFs From FB on Different Devices</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-guide-to-the-most-reliable-and-fastest-flash-drives/"><u>2024 Guide to the Most Reliable and Fastest Flash Drives</u></a></li>
-<li><a href="https://win-docs.techidaily.com/effizientes-system-zur-automatischen-datenerfassung-und-uberwachung/"><u>Effizientes System Zur Automatischen Datenerfassung Und -Überwachung</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-apple-iphone-12-mini-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from Apple iPhone 12 mini or iPad?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-from-ingest-to-delivery-mastering-video-import-and-export-in-adobe-premiere/"><u>New From Ingest to Delivery Mastering Video Import and Export in Adobe Premiere</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-google-pixel-7a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-impact-of-geminis-one-million-token-upgrade-on-blockchain-technology/"><u>Unveiling the Impact of Gemini's One Million Token Upgrade on Blockchain Technology</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-ultimate-wav-to-mp3-conversion-tool-speedy-flawless-converting/"><u>Updated In 2024, Ultimate WAV to MP3 Conversion Tool Speedy, Flawless Converting</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-voice-activated-data-collection-on-ios-ranking-the-top-10-apps/"><u>Updated In 2024, Voice-Activated Data Collection on iOS Ranking the Top 10 Apps</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-mastering-audio-level-management-discover-the-top-5-dynamic-ducking-software-for-2024/"><u>Updated Mastering Audio Level Management Discover the Top 5 Dynamic Ducking Software for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-the-filmorians-guide-to-eloquent-volume-dynamics-using-keyframe-editing-on-macos/"><u>Updated The Filmorians Guide to Eloquent Volume Dynamics Using Keyframe Editing on macOS</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-unlocking-the-best-free-tools-for-high-quality-podcast-recording-in-todays-market/"><u>Updated Unlocking the Best Free Tools for High-Quality Podcast Recording in Todays Market</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-content-creators-preferences-vimeo-or-youtube-for-2024/"><u>[Updated] Content Creators' Preferences Vimeo or YouTube for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-pros-guide-to-free-screen-recording-on-mac-devices/"><u>[Updated] Pro's Guide to FREE Screen Recording on Mac Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-navigate-the-world-of-podcast-seo-efficiently/"><u>2024 Approved Navigate the World of Podcast SEO Efficiently</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/beginners-guide-mastering-the-art-of-photography-for-successful-poshmark-sales-techniques-and-trends/"><u>Beginner's Guide: Mastering the Art of Photography for Successful Poshmark Sales - Techniques and Trends</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722164575235-discover-your-next-adventure-faster-the-best-free-travel-planning-ai-applications-available-today/"><u>Discover Your Next Adventure Faster - The Best Free Travel Planning AI Applications Available Today</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-make-every-frame-count-best-1080p-video-editing-software-for-film-quality-results/"><u>New Make Every Frame Count Best 1080P Video Editing Software for Film-Quality Results</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-exploring-the-best-available-free-audio-editing-solutions-for-windows-and-mac-enthusiasts/"><u>Updated In 2024, Exploring the Best Available Free Audio Editing Solutions for Windows and Mac Enthusiasts</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-streamlining-audio-production-advanced-methods-of-audio-ducking-using-adobe-premiere-pro-on-a-mac/"><u>Updated In 2024, Streamlining Audio Production Advanced Methods of Audio Ducking Using Adobe Premiere Pro on a Mac</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-top-7-online-audio-cutters-for-efficient-and-hassle-free-file-management/"><u>Updated In 2024, Top 7 Online Audio Cutters for Efficient and Hassle-Free File Management</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-revolutionizing-sound-the-top-8-mobile-daw-platforms-for-musicians-today-for-2024/"><u>Updated Revolutionizing Sound The Top 8 Mobile DAW Platforms for Musicians Today for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-ultimate-selection-the-top-7-daws-excelling-in-guitar-track-production-updated-for-2024/"><u>Updated Ultimate Selection The Top 7 DAWs Excelling in Guitar Track Production (Updated ) for 2024</u></a></li>
 </ul></div>
 

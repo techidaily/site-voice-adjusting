@@ -1,7 +1,7 @@
 ---
 title: "Diving Deep: A Closer Look at Samsung's Latest Marvel - The Galaxy S2lete) to the 'Lord of the Rings', One Might Say, It Is a Journey Through Middle-Earth."
-date: 2024-12-30T07:59:22.734Z
-updated: 2025-01-02T16:55:47.585Z
+date: 2025-01-03T03:06:03.517Z
+updated: 2025-01-10T03:35:45.059Z
 categories:
   - BestProducts
 description: "This Article Describes Diving Deep: A Closer Look at Samsung's Latest Marvel - The Galaxy S2lete) to the 'Lord of the Rings', One Might Say, It Is a Journey Through Middle-Earth."
@@ -13,12 +13,16 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 
 4.8
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fitbit Versa 3
 
 ![Fitbit Versa 3](https://www.lifewire.com/thmb/o6kUvWKq2MSbSx2pJd8dWHiWkOc=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fitbit-Versa-3-Hero5x4-3bcbedf50dc940008e9c10ee237c88a3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Yoona Wagener
@@ -41,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 [View On Amazon $200](https://www.amazon.com/dp/B08DFPV5Y2?tag=lifewire-onsite-prod-20&ascsubtag=5085846%7Cn26ddc34e6f384548afef5156ecfdf19e18%7CB08DFPV5Y2) [View On Walmart $199](https://www.walmart.com/ip/Fitbit-Versa-3-Black/797672948) [View On Verizon](https://www.verizon.com/products/fitbit-versa-3/?slpfid=3)
 
 4.8
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fitbit Versa 3
 
@@ -72,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 
 ![Fitbit Versa 3](https://www.lifewire.com/thmb/ceE1xxVfUTF44pCOtEXiO6JW_IA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fitbit-Versa-3-04-ef922812d0444da4a7277e91efe2fcf8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Yoona Wagener
 
 ## Design: Sleek and smart-looking
@@ -88,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 
  This smartwatch is capable of storing five different watch faces, and while they’re easy to find, downloading a new face, just like all apps—took quite a while. The SPO2 watch face is compatible with the Versa 3, but you’ll have to pay for the Fitbit Premium app subscription to access this data in any meaningful way.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Comfort: Lightweight for all-day wear
 
  I found the Fitbit Versa 3 to be pleasantly lightweight and easy to wear for the whole day. Sleeping with it was never an issue, and the sleep mode setting was easy to turn on for uninterrupted sleep. Showering with the device was also uneventful, though I found that the side button was somehow turned on by contact with the water. I’m not sure how this bodes for swimming workouts with this device, which it’s supposed to be able to handle with its 50-meter water resistance.
@@ -99,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
  Shoppers looking for the best-fitting smartwatches for women will appreciate the standard small band and the option of swapping it out with the provided large band if you need extra notches. While comfortable to wear because of the light build, finding the right fit, especially after I briefly removed the watch, was a bit tricky at first. But once I got it in the right place, I barely noticed it over the course of a full day.
 
 ![Fitbit Versa 3](https://www.lifewire.com/thmb/R_j7dFFwnlWoGyar6N0dYZREqIM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fitbit-Versa-3-02-8b212782c0f245459f26ffaa0e2982e2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Yoona Wagener
 
@@ -121,10 +125,6 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
  Like the Fitbit Sense, the Fitbit Versa 3 is supposed to last for over six days on a single charge when the display is not set to “always on.” My experience yielded six days before the battery was critically low. This could be because I chose to download and use the Fitbit SPO2 watch face that measures blood oxygen saturation. Fitbit says this face could accelerate the need for charging. Otherwise, I used[GPS](https://www.lifewire.com/what-is-gps-how-it-works-4688647) for about 30 minutes each day and only streamed music via Spotify for 2 hours total.
 
  It charged from critically low to 100 percent in about 1.25 hours, which is in line with the 1-2 hour estimation by the manufacturer. A quick charge brought the device from 9 percent to 29 percent, which tracks with the claim that a 12-minute charge would bring it up to a full day of battery life.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Software/Key Features: Wellness and convenience features reign
 
@@ -151,7 +151,7 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
  The Versa 3 is also about $100 cheaper than the Fitbit Sense, which offers a few more wellness-tracking flourishes such as the ECG app and EDA responses. The smartwatch claims to offer similarly accurate heart rate monitoring and onboard GPS and some users will still benefit from the array of wellness-centric features like reminders to move, food and water tracking, guided breathing, and all the smart features the more costly Sense has too.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fitbit Versa 3 vs. Samsung Galaxy Watch Active2
@@ -171,7 +171,7 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
  The Fitbit Versa 3 is a lightweight wearable that offers an attractive blend of fitness and wellness-tracking tools and connected features. New on-device GPS, enhanced heart-rate monitoring, music controls, and the companion app could provide some users an easy deep dive into wellness trends along with desirable customization power. Those looking for added motivation to stay active may find it in this comfortable and capable wearable.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -200,20 +200,21 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-bite-sized-urls-essential-tools-for-youtubers-to-streamline-sharing/"><u>[New] In 2024, Bite-Sized URLs Essential Tools for Youtubers to Streamline Sharing</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-art-of-virtual-environments-in-cinema/"><u>[Updated] In 2024, The Art of Virtual Environments in Cinema</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oppo-a79-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/comic-crafting-mastering-7-cheeky-content-strategies-for-2024/"><u>Comic Crafting Mastering 7 Cheeky Content Strategies for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/empowering-policy-management-using-gpresult/"><u>Empowering Policy Management Using GPResult</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/free-raw-image-converter-online-raw-format-editing-with-movavi/"><u>Free RAW Image Converter - Online RAW Format Editing with Movavi</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-harmonizing-sounds-with-imagery-professional-strategies-to-boost-your-videography/"><u>In 2024, Harmonizing Sounds with Imagery Professional Strategies to Boost Your Videography</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-play-40c-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Honor Play 40C Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-mirrorless-innovation-taking-over-dslr-in-videos/"><u>In 2024, Mirrorless Innovation Taking Over DSLR in Videos?</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-simple-vocal-transformation-facilities-analysis-of-capabilities-guidelines-for-usage-and-multiple-approaches/"><u>In 2024, Simple Vocal Transformation Facilities Analysis of Capabilities, Guidelines for Usage, and Multiple Approaches</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-enhancing-quicktime-videos-with-surround-sound-a-step-by-step-guide/"><u>New 2024 Approved Enhancing QuickTime Videos with Surround Sound A Step-by-Step Guide</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-elevating-your-media-adding-compelling-audio-elements-to-videos/"><u>New Elevating Your Media Adding Compelling Audio Elements to Videos</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-expert-techniques-for-crafting-complex-audio-edits-with-keyframes-in-premiere-pro-mac-edition/"><u>New Expert Techniques for Crafting Complex Audio Edits with Keyframes in Premiere Pro, Mac Edition</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-omegle-resurgence-overcoming-a-profile-ban-and-reconnecting-with-others/"><u>New In 2024, Omegle Resurgence Overcoming a Profile Ban and Reconnecting with Others</u></a></li>
-<li><a href="https://win11.techidaily.com/virtualbox-upgrade-strategies-to-version-70-on-windows-11-systems/"><u>VirtualBox Upgrade Strategies to Version 7.0 on Windows 11 Systems</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-top-10-hidden-gems-for-enhancing-canva-images/"><u>[New] Top 10 Hidden Gems for Enhancing Canva Images</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-hashtag-wisdom-uncovering-the-best-tags-to-dominate-on-instagram/"><u>[Updated] Hashtag Wisdom Uncovering the Best Tags to Dominate on Instagram</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-comprehensible-guide-downloading-safe-free-vlc-on-macos/"><u>[Updated] The Comprehensible Guide Downloading Safe, Free VLC on macOS</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-blending-past-memories-with-instagrams-vivid-filters/"><u>2024 Approved Blending Past Memories with Instagram's Vivid Filters</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-the-pinnacle-of-photonic-innovation-sonys-xperia-xz-premium/"><u>2024 Approved The Pinnacle of Photonic Innovation Sony's Xperia XZ Premium</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/download-premium-3gp-films-for-free-expert-tips-on-mastering-3gp-downloaders-and-converters/"><u>Download Premium 3GP Films for Free: Expert Tips on Mastering 3GP Downloaders and Converters</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-retrieve-your-iphone-when-it-seems-missing-from-find-my-app/"><u>How To Retrieve Your iPhone When It Seems Missing From Find My App</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-from-voice-to-verse-a-novices-guide-to-creating-a-polished-podcast-masterpiece/"><u>In 2024, From Voice to Verse A Novices Guide to Creating a Polished Podcast Masterpiece</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-selecting-the-premier-windows-application-for-auditory-emptying-in-videos/"><u>In 2024, Selecting the Premier Windows Application for Auditory Emptying in Videos</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/incorporate-melodies-into-gif-file-on-pc/"><u>Incorporate Melodies Into GIF File on PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/must-watch-teen-movie-collection-on-netflix/"><u>Must-Watch Teen Movie Collection on Netflix</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-mastering-premiere-pro-simplified-guide-to-managing-audio-layers/"><u>New 2024 Approved Mastering Premiere Pro Simplified Guide to Managing Audio Layers</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-explore-the-best-8-audio-editing-platforms-available-for-mac-and-pc-users-for-2024/"><u>New Explore the Best 8 Audio Editing Platforms Available for Mac & PC Users for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-how-to-select-superb-instrumental-tracks-for-enhanced-video-vibes-for-2024/"><u>New How to Select Superb Instrumental Tracks for Enhanced Video Vibes for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-10-best-mp3-to-text-file-transcription-aids-at-zero-cost-accommodating-with-expressslide-pro-integration/"><u>New The 10 Best MP3 to Text File Transcription Aids at Zero Cost - Accommodating with ExpressSlide Pro Integration</u></a></li>
 </ul></div>
 
