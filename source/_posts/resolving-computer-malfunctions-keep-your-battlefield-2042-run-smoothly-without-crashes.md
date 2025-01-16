@@ -1,7 +1,7 @@
 ---
 title: "Resolving Computer Malfunctions: Keep Your Battlefield 2042 Run Smoothly Without Crashes"
-date: 2025-01-04T16:46:04.206Z
-updated: 2025-01-10T05:31:52.278Z
+date: 2025-01-13T20:59:15.472Z
+updated: 2025-01-15T23:50:29.184Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/0de73caf3bb5c02daed1ee386cf09afb53bbd23f4
 **Control keeps crashing on your PC?** Don’t worry…  
  Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other Control PC version players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -37,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/0de73caf3bb5c02daed1ee386cf09afb53bbd23f4
 9. **[Add Control as an exception to your 3rd party antivirus software](https://tools.techidaily.com/drivereasy/download/)**
 10. **[Run Program Compatibility Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 11. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics drivers
 
@@ -60,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/0de73caf3bb5c02daed1ee386cf09afb53bbd23f4
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Alternatively, if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
@@ -83,19 +79,11 @@ Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-system-requirements.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  _The system requirements information is captured from Epic Games Launcher_
 
  If you’re currently running Control with DirectX 12, it’s recommended that you run Control**with DirectX 11** to avoid the game crash issues.
 
  Restart the game to see if this fix works, if not, try the next fix below to modify your graphics card settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Modify your graphics card settings
 
@@ -113,19 +101,19 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View the Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Modify AMD graphics card settings
@@ -140,15 +128,15 @@ Here are the system requirements for Control:
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Modify Intel graphics card
 
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by Large icons.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select Intel Graphics Settings to open it.  
@@ -164,6 +152,10 @@ Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
@@ -190,6 +182,10 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
  If there are no updates related to MS Visual C++ or .NET Framework from Windows Update, you can download their installation files via the links below on your own and manually install them on your PC.
@@ -202,7 +198,7 @@ Here are the system requirements for Control:
  After installing Microsoft Visual C++ 2013 and Microsoft .NET Framework, you need to restart Windows. Then launch Control to see if this issue persists. If not, congratulations, you’ve resolved this issue! If this issue reappears, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Install the latest Control patch
@@ -211,10 +207,6 @@ Here are the system requirements for Control:
 
  If a patch is available, just download and install it to see if it can fix the crashing issue; if there’s no patches available, or if the issue persists after you installed the latest patch, try the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 8: Verify the game file
 
  The faulty game files may also crash the game. To fix this issue, you need to verify the game files. Here is how to do it:
@@ -222,6 +214,10 @@ Here are the system requirements for Control:
 1. In Epic Game Launcher, navigate to your **Library** . Click **the cog icon** on the lower-right corner of **Control** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-49-47.png)
 2. Click **Verify** to start verifying the game files.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 
@@ -235,6 +231,10 @@ Here are the system requirements for Control:
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 10: Run Program Compatibility Troubleshooter
 
  If Control often crashes on your Windows 10 PC, you can try running Windows Program Compatibility Troubleshooter to run the game in Windows 7 mode. Here’s how to do it:
@@ -243,12 +243,12 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-12_12-24-18.png)
 2. In the Properties Window, navigate to**the Compatibility tab** , check the box next to**Run this program in compatibility mode for:** and select**Windows 7** from the drop-down list. Check the box next to**Run as an administrator** and then click**OK** to save the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-12_14-25-41.png)
 3. Double-click the shortcut of Control on your desktop to launch it. This time Control will run in the compatibility mode you set in step 2.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 See if this fix works for you. If not, try the next fix, below.
 
@@ -278,17 +278,22 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-elite-list-best-apps-for-live-basketball-and-international-football-games/"><u>[Updated] In 2024, Elite List Best Apps for Live Basketball and International Football Games</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-keep-a-record-of-your-online-sessions/"><u>2024 Approved Keep a Record of Your Online Sessions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-the-latest-on-teslas-innovation-in-transportation-taxi-revolution-with-estimated-price-arrival-date-and-top-notch-specs/"><u>Get the Latest on Tesla's Innovation in Transportation - Taxi Revolution with Estimated Price, Arrival Date and Top-Notch Specs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/gps-companions-top-10-drones-that-stay-close/"><u>GPS Companions Top 10 Drones That Stay Close</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/guide-steps-for-securely-encrypting-and-decrypting-your-macs-hard-drive/"><u>Guide: Steps for Securely Encrypting & Decrypting Your Mac's Hard Drive</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-12-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 12 With 7 Methods</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-realme-12-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Realme 12 5G</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/techniques-for-audience-friendly-audio-declines-in-imovie-projects/"><u>Techniques for Audience-Friendly Audio Declines in iMovie Projects</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/the-filmorians-guide-to-eloquent-volume-dynamics-using-keyframe-editing-on-macos-for-2024/"><u>The Filmorians Guide to Eloquent Volume Dynamics Using Keyframe Editing on macOS for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-microsoft-surface-laptop-go-breakdown-a-compact-powerhouse-for-everyday-use/"><u>The Microsoft Surface Laptop Go Breakdown - A Compact Powerhouse for Everyday Use</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-exploring-the-best-virtual-music-production-suites-comparison-chart-included-for-2024/"><u>Updated Exploring the Best Virtual Music Production Suites – Comparison Chart Included for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-aiff-to-mp3-mastery-transforming-your-audio-collection-effortlessly/"><u>Updated In 2024, AIFF to MP3 Mastery Transforming Your Audio Collection Effortlessly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-footage-to-polished-highlights/"><u>[New] 2024 Approved From Raw Footage to Polished Highlights</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-youtube-profile-pics-templates-available/"><u>[New] 2024 Approved YouTube Profile Pics Templates Available</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-top-6-sustainable-mc-base-designs-for-2024/"><u>[New] Top 6 Sustainable MC Base Designs for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-visionmaster-vs-screencapturer/"><u>[Updated] In 2024, VisionMaster vs ScreenCapturer</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-enhancing-remote-sessions-with-premium-bgs/"><u>In 2024, Enhancing Remote Sessions with Premium BGs</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-practical-pitch-isolators-from-rookies-to-vocal-maestros/"><u>In 2024, Practical Pitch Isolators From Rookies to Vocal Maestros</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/listen-up-write-it-down-comprehensive-guide-to-free-audio-to-text-apps-for-android-and-ios-for-2024/"><u>Listen Up, Write It Down Comprehensive Guide to Free Audio-to-Text Apps for Android and iOS for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-money-management-buying-games-on-steam/"><u>Mastering Money Management: Buying Games on Steam</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-taking-snapshots-on-an-hp-computer/"><u>Mastering the Art of Taking Snapshots on an HP Computer</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-audio-splitter-how-to-split-audio-files-easily/"><u>New In 2024, Audio Splitter How to Split Audio Files Easily</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-artisans-guide-to-using-garageband-for-recording-and-editing-audio-projects/"><u>New In 2024, The Artisans Guide to Using GarageBand for Recording and Editing Audio Projects</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-beat-makers-playbook-ranking-the-top-8-daw-applications-for-contemporary-urban-music/"><u>New In 2024, The Beat Makers Playbook Ranking the Top 8 DAW Applications for Contemporary Urban Music</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-mastering-audio-clarity-simplified-techniques-for-noise-elimination-in-audacity-and-filmorapro/"><u>New Mastering Audio Clarity Simplified Techniques for Noise Elimination in Audacity & FilmoraPro</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-tempo-transitions-the-art-of-syncing-your-footage-to-music-pulses-using-adobe-premiere-pros-tools/"><u>New Tempo Transitions The Art of Syncing Your Footage to Music Pulses Using Adobe Premiere Pros Tools</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-2023-guide-to-integrating-creative-audio-elements-into-your-film-projects/"><u>New The 2023 Guide to Integrating Creative Audio Elements Into Your Film Projects</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rt-of-amplification-masterful-youtube-tagging-tips-for-2024/"><u>The Art of Amplification Masterful YouTube Tagging Tips for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-9-solutions-for-when-your-airpods-fail-to-charge/"><u>Top 9 Solutions for When Your AirPods Fail to Charge</u></a></li>
 </ul></div>
 

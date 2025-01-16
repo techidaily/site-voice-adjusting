@@ -1,7 +1,7 @@
 ---
 title: Updated How to Do Automatic Audio Ducking in Final Cut Pro X for 2024
-date: 2025-01-03T18:07:47.349Z
-updated: 2025-01-09T20:23:29.272Z
+date: 2025-01-09T21:51:02.780Z
+updated: 2025-01-16T00:40:46.924Z
 tags: 
   - audio editing software
   - audio editing
@@ -36,6 +36,10 @@ If you have a video in which you have background music and a voiceover, then you
 
 ![Audio Ducking Process](https://images.wondershare.com/filmora/article-images/automatic-audio-ducking-in-fcpx-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Therefore, you can use any reliable third-party FCPX tool like Audified or AutoDuck to meet your requirements. For instance, let’s consider the example of FCPX AutoDuck, which is a paid macOS application. To perform FCPX audio ducking, you first have to export the music and voiceover as two dedicated files. Later, you can import them to FCPX AutoDuck to perform auto-ducking of the music.
 
 #### Step 1: Export the Music Files
@@ -46,13 +50,13 @@ For this, you can just go to the main menu on Final Cut Pro and select **File** 
 
 ![Final Cut Pro Master Files](https://images.wondershare.com/filmora/article-images/automatic-audio-ducking-in-fcpx-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now, once the Master File window would be opened, you can go to the “Role” tab and select “Audio Only” as the output role. This will display a list of the background music and the voiceover file.
 
 ![Export Audio Tracks](https://images.wondershare.com/filmora/article-images/automatic-audio-ducking-in-fcpx-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can now select the files of your choice and click on the “Next” button to save them to any desired location on your Mac.
 
@@ -62,13 +66,13 @@ Great! Now, you can just open the FCPX AutoDuck application on your Mac via its 
 
 ![FCPX AutoDuck Process](https://images.wondershare.com/filmora/article-images/automatic-audio-ducking-in-fcpx-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 FCPX will also let you select the level of music ducking from its dedication option. There are also different options to set up things like setting up the window or pre-roll for the audio.
 
 ![FCPS AutoDuck Options](https://images.wondershare.com/filmora/article-images/automatic-audio-ducking-in-fcpx-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 In the end, you can click on the “Duck” button and let FCPX AutoDuck perform automatic audio ducking on the files.
 
@@ -78,17 +82,9 @@ Once the FCPX audio ducking process is completed, it will generate an XML file. 
 
 ![Import XML in Final Cut Pro](https://images.wondershare.com/filmora/article-images/automatic-audio-ducking-in-fcpx-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You can now copy the modified music clip, go to the timeline, and paste it at the starting of the video. Here, you can just mute the previous music clip and let the auto-duck audio play instead.
 
 ![Audio Ducking Media Final Cut Pro](https://images.wondershare.com/filmora/article-images/automatic-audio-ducking-in-fcpx-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: The Best FCPX Alternative for Mac to Perform Automatic Audio Ducking
 
@@ -104,10 +100,6 @@ To begin with, just launch Wondershare Filmora on your Mac and just drag-and-dro
 
 ![Filmora Import Media File](https://images.wondershare.com/filmora/guide/import-media-file-to-filmora-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Once your video is imported, you can drag it to the timeline at the bottom to work on it. If you want, you can click on the voiceover icon (adjacent to the preview section) to record dialogues right away.
 
 ![Filmora Record Voiceovers](https://images.wondershare.com/filmora/article-images/record-voiceovers-audio-ducking.jpg)
@@ -116,23 +108,31 @@ Apart from that, you can also import music files to your video or use the extens
 
 ![Filmora Royalty Free Audio Files](https://images.wondershare.com/filmora/article-images/royalty-free-audio-files.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 2: Perform Automatic Audio Ducking
 
 Great! Now, on the timeline of Filmora, you can see your video and the music track. From here, you need to select the track that you want to amplify (like the voiceover).
 
 ![Filmora Apply Audio Ducking](https://images.wondershare.com/filmora/article-images/apply-audio-ducking.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Afterward, right-click the audio track and select the “Adjust Audio” option from the context menu.
 
 ![Filmora Adjust Audio](https://images.wondershare.com/filmora/article-images/right-click-adjust-audio.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This will open a dedicated Audio Mixer window on the screen. Just go to the Audio tab and enable the “Ducking” option to lower the volume of other audio tracks. You can also select the desired level for music ducking to implement.
 
 ![Filmora Audio Ducking](https://images.wondershare.com/filmora/guide/audio-ducking-lower-other-clips.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Step 3: Export the Edited Video
 
@@ -159,14 +159,21 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-simplifying-tasks-with-ez-grabber-techniques/"><u>[New] Simplifying Tasks with EZ Grabber Techniques</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-nokia-xr21-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Nokia XR21</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/are-you-looking-for-videoleap-for-macbook-but-cant-seem-to-find-any-solution-here-is-a-detailed-guide-on-how-to-download-and-install-videoleap-for-mac-for-2/"><u>Are You Looking for Videoleap for MacBook, but Cant Seem to Find Any Solution? Here Is a Detailed Guide on How to Download and Install Videoleap for Mac for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/how-to-erase-your-ios-device-info-from-afar-complete-guide/"><u>How to Erase Your iOS Device Info From Afar - Complete Guide</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/mastering-zoom-recording-a-step-by-step-manual-for-both-hosts-and-attendees/"><u>Mastering Zoom Recording: A Step-by-Step Manual for Both Hosts & Attendees</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/streamlined-methods-for-obtaining-pitched-ding-sound-files-online-the-top-10-list/"><u>Streamlined Methods for Obtaining Pitched Ding Sound Files Online - The Top 10 List</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/the-new-frontier-of-video-conversations-a-2023-guide-to-non-omegle-chat-websites-for-2024/"><u>The New Frontier of Video Conversations A 2023 Guide to Non-Omegle Chat Websites for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-go-to-websites-offering-complimentary-acoustic-guitar-melodies-and-visual-inspirations/"><u>Updated Go-To Websites Offering Complimentary Acoustic Guitar Melodies & Visual Inspirations</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-auditory-experience-the-world-of-cricket-sounds/"><u>Updated In 2024, Auditory Experience The World of Cricket Sounds</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-bite-size-flavors-top-eating-moments-on-tiktok/"><u>[New] 2024 Approved Bite-Size Flavors Top Eating Moments on TikTok</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-codec-battlegrounds-assessing-the-advantages-of-av1-and-vp9/"><u>[New] Codec Battlegrounds Assessing the Advantages of Av1 and VP9</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-advanced-screenshot-options-for-windows-users/"><u>[New] In 2024, Advanced Screenshot Options for Windows Users</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-unlock-instagram-stardom-crafting-attractive-unboxing-videos/"><u>[Updated] In 2024, Unlock Instagram Stardom Crafting Attractive Unboxing Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-elevate-video-views-twitter-to-facebook-transition/"><u>2024 Approved Elevate Video Views Twitter to Facebook Transition</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/comprehensive-tutorial-for-enjoying-library-ebooks-via-overdrive-on-the-kindle-paperwhite-device/"><u>Comprehensive Tutorial for Enjoying Library Ebooks via OverDrive on the Kindle Paperwhite Device</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-window-11s-search-to-new-heights/"><u>Elevate Your Window 11'S Search to New Heights</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-elite-selection-of-virtual-audio-editing-experts/"><u>In 2024, The Elite Selection of Virtual Audio Editing Experts</u></a></li>
+<li><a href="https://win11.techidaily.com/mending-usb30-device-failure-in-windows-1011-systems/"><u>Mending USB3.0 Device Failure in Windows 10/11 Systems</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-mirroring-your-ipad-screen-using-airplay-on-mac-pc-and-apple-tv/"><u>Step-by-Step Guide: Mirroring Your iPad Screen Using AirPlay on Mac, PC & Apple TV</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/top-10-gaming-voice-modification-tools-rankings-and-analysis/"><u>Top 10 Gaming Voice Modification Tools Rankings and Analysis</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-8-popular-streaming-audio-recorder-that-you-should-know/"><u>Updated 2024 Approved 8 Popular Streaming Audio Recorder That You Should Know</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-exploring-the-leading-edge-of-audio-production-does-magix-samplitude-hold-sway/"><u>Updated Exploring the Leading Edge of Audio Production Does MAGIX Samplitude Hold Sway?</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-mastering-audio-downloads-a-guide-to-collecting-podcast-episodes-on-pc/"><u>Updated In 2024, Mastering Audio Downloads A Guide to Collecting Podcast Episodes on PC</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-the-smartest-spots-to-download-trendy-whoosh-sounds-online/"><u>Updated The Smartest Spots to Download Trendy Whoosh Sounds Online</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-your-ultimate-source-list-the-top-picks-of-copyright-friendly-comic-soundtracks-websites/"><u>Updated Your Ultimate Source List The Top Picks of Copyright-Friendly Comic Soundtracks Websites</u></a></li>
 </ul></div>
 

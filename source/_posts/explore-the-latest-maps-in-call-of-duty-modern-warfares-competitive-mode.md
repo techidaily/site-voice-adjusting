@@ -1,7 +1,7 @@
 ---
 title: "Explore the Latest Maps in Call of Duty: Modern Warfare's Competitive Mode"
-date: 2025-01-04T18:29:36.334Z
-updated: 2025-01-09T18:56:49.825Z
+date: 2025-01-11T23:13:17.821Z
+updated: 2025-01-15T17:14:21.497Z
 tags:
   - win11
   - win10
@@ -34,7 +34,7 @@ Your Modern Warfare crashing can be caused by the following issues:
  It’s hard to locate the exact cause, but you can try the following workarounds to fix it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Fix Modern Warfare Crashing
@@ -50,6 +50,10 @@ Your Modern Warfare crashing can be caused by the following issues:
 7. **[Disable Discord in-game overlay](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Change Priority](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Repair your system files](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Close all background Apps and repair your game
 
@@ -92,10 +96,6 @@ Your Modern Warfare crashing can be caused by the following issues:
 
 4) Restart your PC for the changes to take full effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Set texture quality to high or normal
 
  Many Call of Duty players may set their graphics settings to**Low** , which can be the culprit of the Modern Warfare crashing issue. Modern Warfare may crash for not having enough texture quality, especially if you get an error code**Dev Error 6178** . Many gamers find**setting Texture Resolution to Normal or High** solved their crashing issues, depending on your PC specs.
@@ -108,13 +108,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/texture-resolution-to-normal-or-high-1200x628.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can keep everything else on the lowest settings, except Texture Filter Anisotropic on High. Also, make sure to turn off**Sync Every Frame (V-Sync)** , which is best left off within games.
 
 Play Modern Warfare again to see if the crashing issue persists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Scan and Repair your game
 
@@ -124,15 +124,15 @@ Play Modern Warfare again to see if the crashing issue persists.
 
  If you’re on**Blizzard Battle.net** , you can locate Modern Warfare and click**Options** \>**Scan and Repair** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Stop Overclocking
 
  Overclocking your CPU can improve your gaming performance but may leave your game unstable, which may cause Modern Warfare to crash.
 
  If Call of Duty: Modern Warfare starts to crash after you overclock your GPU, you can try lowering it back to the default setting. This might be enough to prevent or reduce the number of Modern Warfare crashes you’re experiencing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Disable NVIDIA V-Sync for Modern Warfare
 
@@ -178,6 +178,10 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/priority.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) When prompted for permission to make changes, select**Change Priority** .
 
 ### Fix 9\. Repair your system files
@@ -195,10 +199,6 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/FORTECTLOG.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Fortect** Windows Repair is tailored to your specific system and is working in a private and automatic way. It will first check hardware-related issues to identify problems, and then security issues (powered by Avira Antivirus), and finally it detects programs that crash, missing system files. Once complete, it will find a solution to your specific problem.
 
  Fortect is a trusted repair tool and it will do no harm to your PC. The best part is that you won’t need to worry about losing any programs and your personal data.
@@ -212,7 +212,7 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Option 2 – Manually
@@ -227,6 +227,10 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click**Yes** when prompted for permission to make changes to your device.
 
  2) In the Command Prompt, type the following command and hit**Enter** .
@@ -236,10 +240,6 @@ sfc /scannow
  3) System File Check will begin to scan all system files and repair any corrupted or missing ones it detected. This may take 3-5 minutes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) You may receive something like the following messages after the verification.
 
@@ -297,24 +297,24 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-share-a-podcast-on-instagram-story-or-post/"><u>[New] Share a Podcast on Instagram Story or Post</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-strategies-for-smoother-real-time-dialogue-with-chatgpt/"><u>7 Strategies for Smoother Real-Time Dialogue with ChatGPT</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-vivo-v27-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Vivo V27 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-closer-look-ffmpeg-for-pristine-audio-extraction-for-2024/"><u>A Closer Look FFmpeg for Pristine Audio Extraction for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/cutting-through-the-clutter-innovative-ai-strategies-for-signal-purification/"><u>Cutting Through the Clutter Innovative AI Strategies for Signal Purification</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/essential-free-cloud-services-with-massive-1tb-space-included/"><u>Essential Free Cloud Services with Massive 1TB Space Included</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/eu-imposes-2b-penalty-on-apple-for-anticompetitive-practices-in-app-store-management-insights/"><u>EU Imposes $2B Penalty on Apple for Anticompetitive Practices in App Store Management - Insights</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-apple-iphone-se-2020-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On Apple iPhone SE (2020)? How to Fix it?</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-freely-available-tunes-to-elevate-your-film-and-video-compositions/"><u>In 2024, Freely Available Tunes to Elevate Your Film and Video Compositions</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-pushing-boundaries-top-15-revolutionary-songs-in-rock/"><u>In 2024, Pushing Boundaries Top 15 Revolutionary Songs in Rock</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721477637783-iphone-silentring-mode-vibration-issue-try-these-8-proven-methods-to-resolve-it-now/"><u>IPhone Silent/Ring Mode Vibration Issue? Try These 8 Proven Methods to Resolve It Now!</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-canine-howl-amalgam-sounds-and-effects-compilation/"><u>New 2024 Approved Canine Howl Amalgam Sounds & Effects Compilation</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-unleash-creativity-best-free-video-effects-apps-for-mobile-devices/"><u>New 2024 Approved Unleash Creativity Best Free Video Effects Apps for Mobile Devices</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-unleashing-creativity-in-mobile-sound-selection-how-to-design-ringtones/"><u>New 2024 Approved Unleashing Creativity in Mobile Sound Selection How to Design Ringtones</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-reimagining-auditory-experiences-with-these-industry-standards-for-2024/"><u>New Reimagining Auditory Experiences with These Industry Standards for 2024</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-lava-yuva-3-pro-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Lava Yuva 3 Pro</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-from-silence-to-symphony-practical-steps-for-reducing-unintentional-auditory-background/"><u>Updated 2024 Approved From Silence to Symphony Practical Steps for Reducing Unintentional Auditory Background</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-perfecting-the-choreography-between-images-and-acoustics-for-2024/"><u>Updated Perfecting the Choreography Between Images and Acoustics for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-preferred-playlists-and-music-packages-for-effortless-background-entertainment-for-2024/"><u>Updated Preferred Playlists and Music Packages for Effortless Background Entertainment for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-chucklecrafts-create-meme-delight/"><u>[New] ChuckleCrafts Create Meme Delight</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tock-strategies-unveiled-essential-youtube-video-resources-for-2024/"><u>[New] Stock Strategies Unveiled Essential YouTube Video Resources for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-spotlight-10-anonymous-story-gazers/"><u>[Updated] 2024 Approved Spotlight 10 Anonymous Story Gazers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-srt-file-management-for-seamless-audible-experience/"><u>[Updated] SRT File Management for Seamless Audible Experience</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-ultimate-deck-to-deck-users-manual-for-durecorder/"><u>2024 Approved The Ultimate Deck-to-Deck User's Manual for DuRecorder</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-chinas-breakthrough-the-new-cixin-p1-ai-processor-surpasses-expectations-with-a-45-tops-speed/"><u>Exploring China's Breakthrough: The New Cixin P1 AI Processor Surpasses Expectations with a 45 TOPS Speed</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-6s-to-mac-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 6s to Mac? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-cut-costs-boost-creativity-learn-the-secrets-of-green-screen-artistry-from-4-leading-educators/"><u>In 2024, Cut Costs, Boost Creativity Learn the Secrets of Green Screen Artistry From 4 Leading Educators</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-ultimate-guide-to-the-top-8-advanced-speech-recognition-tools-on-various-operating-systems/"><u>New The Ultimate Guide to the Top 8 Advanced Speech-Recognition Tools on Various Operating Systems</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-ultimate-selection-of-six-compelling-chrome-talk-transformers-to-experience-moviemagicsuite-for-2024/"><u>New The Ultimate Selection of Six Compelling Chrome Talk Transformers to Experience - MovieMagicSuite for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/transformative-soundscape-design-proven-strategies-for-smooth-volume-fading-and-elevating-with-adobe-after-effects/"><u>Transformative Soundscape Design Proven Strategies for Smooth Volume Fading and Elevating with Adobe After Effects</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/unlock-the-potential-of-amr-waves-detailed-guide-to-their-conversion-and-manipulation-for-2024/"><u>Unlock the Potential of AMR WAVES Detailed Guide to Their Conversion and Manipulation for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/unveiling-the-most-accessible-and-affordable-browser-based-daw-tools-for-2024/"><u>Unveiling the Most Accessible and Affordable Browser-Based DAW Tools for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-10-best-podcast-hosting-platforms-for-2024/"><u>Updated 10 Best Podcast Hosting Platforms for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-sonic-resource-hub-a-curated-list-of-premium-websites-with-a-stockpile-of-free-sound-scores/"><u>Updated 2024 Approved Sonic Resource Hub A Curated List of Premium Websites with a Stockpile of Free Sound Scores</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-the-sound-detectives-handbook-extracting-silence-from-video-files-in-iosos-x-systems/"><u>Updated 2024 Approved The Sound Detectives Handbook Extracting Silence From Video Files in iOS/OS X Systems</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-unlocking-speech-from-melody-top-3-online-methods-for-mp3-to-text-conversion/"><u>Updated 2024 Approved Unlocking Speech From Melody Top 3 Online Methods for MP3-to-Text Conversion</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-fcpx-captioning-guide-best-practices-for-2024/"><u>Updated The Ultimate FCPX Captioning Guide Best Practices for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/win-media-powerhouses-top-7-freebies-for-viewing-bliss/"><u>Win Media Powerhouses: Top 7 Freebies for Viewing Bliss</u></a></li>
 </ul></div>
 

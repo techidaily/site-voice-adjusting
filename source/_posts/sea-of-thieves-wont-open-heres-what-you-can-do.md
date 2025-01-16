@@ -1,7 +1,7 @@
 ---
 title: Sea of Thieves Won't Open? Here's What You Can Do
-date: 2025-01-06T23:07:26.582Z
-updated: 2025-01-09T23:22:13.343Z
+date: 2025-01-12T00:48:08.962Z
+updated: 2025-01-15T21:22:24.857Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 2. Click **Check for Updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/update.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  There are 7 fixes for you. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -60,12 +56,12 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/properties.jpg)
 3. Under the **Compatibility** tab, tick **Run this program as an administrator** . Then click **OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/ad.jpg)
 4. Run the game to check whether the problem is solved or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Do an App reset
 
@@ -77,24 +73,16 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/windows-store-cache.jpg)
 4. Download and install the Sea of Thieves.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Press the**Windows key + I** together and click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/app.jpg)
 6. Find and click **Sea of Thieves** on the list.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Click **Advanced Options** and click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/reset.jpg)
 8. Run Sea of Thieves to check.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Change the Time & Region
@@ -109,17 +97,25 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/time.jpg)
 3. Check your time zone and date.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click **Region** and check your region is corrected.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/region-1.jpg)
 5. Reboot your PC
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Run Sea of Thieves to check.
 
 **Note** : If your language and region is set to **English (United States)** already please change it to **English (United Kingdom)** instead.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Run Powershell
 
@@ -132,6 +128,10 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 
  **Get-AppXPackage | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($\_.InstallLocation)\\AppXManifest.xml”}**
 4. Run Sea of Thieves to check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Update your drivers and programs
 
@@ -162,12 +162,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Reboot your PC and run Sea of Thieves to check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable incompatible apps
 
@@ -200,20 +200,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-vcs-quickcapture-critique-full-review-and-guide/"><u>[New] VCS QuickCapture Critique Full Review & Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/2022s-leading-hyperconverged-systems-vendors-comprehensive-analysis-and-reviews-on-zdnet/"><u>2022'S Leading Hyperconverged Systems Vendors: Comprehensive Analysis and Reviews on ZDNET</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/efficiently-dividing-soundtracks-an-introduction-to-audio-segmentation-tools-for-2024/"><u>Efficiently Dividing Soundtracks An Introduction to Audio Segmentation Tools for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-iphone-13-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From iPhone 13 without Password?</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-tackling-legal-differences-youtubes-restrictions-and-creative-commons-licensing/"><u>In 2024, Tackling Legal Differences YouTube's Restrictions & Creative Commons Licensing</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-dial-down-the-din-practical-strategies-for-diminishing-background-disturbances-in-audacity-and-filmorapro/"><u>New 2024 Approved Dial Down the Din Practical Strategies for Diminishing Background Disturbances in Audacity & FilmoraPro</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-background-freedom-mastering-noise-reduction-in-videos-and-audio/"><u>New In 2024, Background Freedom Mastering Noise Reduction in Videos and Audio</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-top-trio-of-virtual-mp3-intensity-maximizers-for-2024/"><u>New The Top Trio of Virtual MP3 Intensity Maximizers for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209541310-9780008319434-pisces-2020-your-personal-horoscope/"><u>Pisces 2020: Your Personal Horoscope | Free Book</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-6-virtual-reality-vr-gloves-to-check-out-for-2024/"><u>Top 6 Virtual Reality (VR) Gloves to Check Out for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/unraveling-vrs-impact-on-digital-cinema/"><u>Unraveling VR's Impact on Digital Cinema</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-top-3-best-mp3-volume-booster-online/"><u>Updated 2024 Approved Top 3 Best MP3 Volume Booster Online</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-from-novice-to-pro-the-top-animation-maker-tools-you-need-to-know-for-2024/"><u>Updated From Novice to Pro The Top Animation Maker Tools You Need to Know for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-harmonizing-media-effective-techniques-to-combine-multiple-audio-files-in-videos/"><u>Updated In 2024, Harmonizing Media Effective Techniques to Combine Multiple Audio Files in Videos</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-the-art-of-auditory-purity-advanced-strategies-to-dismiss-background-noises-using-offline-and-online-technologies/"><u>Updated The Art of Auditory Purity Advanced Strategies to Dismiss Background Noises Using Offline and Online Technologies</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-a-step-by-step-path-to-authentic-selfie-verification-on-ig/"><u>[New] A Step-by-Step Path to Authentic Selfie Verification on IG</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-most-successful-profit-making-youtuber/"><u>[Updated] Most Successful Profit-Making YouTuber</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-discover-new-tunes-curated-dj-hits/"><u>2024 Approved Discover New Tunes Curated DJ Hits</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-secure-swift-airdrop-connections-on-all-apple-devices-fix-guide/"><u>2024 Approved Secure Swift Airdrop Connections on All Apple Devices - Fix Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-discontinues-finewoven-case-series-in-favor-of-acquiring-beats-by-dre-products-insight/"><u>Apple Discontinues FineWoven Case Series in Favor of Acquiring Beats by Dre Products - Insight</u></a></li>
+<li><a href="https://extra-information.techidaily.com/converting-personal-memories-from-stillness-to-motion/"><u>Converting Personal Memories From Stillness to Motion</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-12-pro-max-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot iPhone 12 Pro Max Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-15-pro-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone 15 Pro</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/navigating-the-art-of-selecting-top-notch-sound-designers-for-2024/"><u>Navigating the Art of Selecting Top-Notch Sound Designers for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-demystifying-clubhouse-understanding-the-social-networks-foundation-purpose-and-potential-impact/"><u>New 2024 Approved Demystifying Clubhouse Understanding the Social Networks Foundation, Purpose, and Potential Impact</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-duosync-advanced-auditory-coordination-toolkit-for-premiere-pro-professionals/"><u>New 2024 Approved DuoSync Advanced Auditory Coordination Toolkit for Premiere Pro Professionals</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-how-to-select-superb-instrumental-tracks-for-enhanced-video-vibes/"><u>New 2024 Approved How to Select Superb Instrumental Tracks for Enhanced Video Vibes</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-cherished-websites-presenting-fee-free-acoustic-guitar-lyrics-and-illustrations/"><u>New In 2024, Cherished Websites Presenting Fee-Free Acoustic Guitar Lyrics & Illustrations</u></a></li>
+<li><a href="https://fox-place.techidaily.com/rapid-selection-tools-streamline-your-choices/"><u>Rapid Selection Tools - Streamline Your Choices</u></a></li>
 </ul></div>
 

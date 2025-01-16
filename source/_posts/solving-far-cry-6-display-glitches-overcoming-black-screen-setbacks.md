@@ -1,7 +1,7 @@
 ---
 title: "Solving Far Cry 6 Display Glitches: Overcoming Black Screen Setbacks"
-date: 2025-01-04T00:33:57.538Z
-updated: 2025-01-10T00:23:23.419Z
+date: 2025-01-12T23:16:17.976Z
+updated: 2025-01-15T20:22:26.733Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 
  When you click Fallout 4 but see the black screen which doesn’t load anything, you must feel frustrated. Don’t worry, there are tips that can help you solve this**black screen issue** . Read on to find how…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -32,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Run Fallout 4 as Compatibility mode
@@ -60,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2019/07/NVIDIA-Geoforce-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -82,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Lower the graphics settings in the game
@@ -94,19 +98,15 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4-1.jpg)
 3. Tick the**Windowed Mode** and**Borderless** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click**Advanced** . Lower the settings and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Run the game to check the problem will appear or not.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable antivirus software
 
@@ -135,22 +135,24 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-crafting-visual-narratives-adding-memorable-story-emoji-images/"><u>[New] 2024 Approved Crafting Visual Narratives Adding Memorable Story Emoji Images</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-core-principles-in-internet-story-development/"><u>[New] Core Principles in Internet Story Development</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ips-for-effective-tripod-usage-in-video-blogging-for-2024/"><u>[New] Tips for Effective Tripod Usage in Video Blogging for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-10-best-intro-maker-apps-for-iphone-and-android/"><u>[Updated] 2024 Approved 10 Best Intro Maker Apps for iPhone and Android</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-unlocking-faster-more-effective-vocal-alterations-for-pubg-players/"><u>[Updated] 2024 Approved Unlocking Faster, More Effective Vocal Alterations for PUBG Players</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-how-to-create-an-affordable-customizable-virtual-reality-gear-for-2024/"><u>[Updated] How to Create an Affordable, Customizable Virtual Reality Gear for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-audio-removal-guide-for-mp4-files/"><u>2024 Approved Audio Removal Guide for MP4 Files</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-comprehensive-review-of-facetunes-latest-updates/"><u>2024 Approved Comprehensive Review of Facetune's Latest Updates</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-melody-meets-picture-infuse-photos-with-free-audio-content/"><u>2024 Approved Melody Meets Picture Infuse Photos with Free Audio Content</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-audacity-automation-implementing-auto-tune-effectively-in-your-projects/"><u>In 2024, Audacity Automation Implementing Auto-Tune Effectively in Your Projects</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-enhancing-accuracy-tiktok-age-adjustment/"><u>In 2024, Enhancing Accuracy TikTok Age Adjustment</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/mastering-tiktok-sound-control-simple-methods-for-quieting-videos-for-2024/"><u>Mastering TikTok Sound Control Simple Methods for Quieting Videos for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-how-to-remove-background-music-from-video-for-2024/"><u>New How to Remove Background Music From Video for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-beastly-symphony-capturing-giants-in-audio-form/"><u>New The Beastly Symphony Capturing Giants in Audio Form</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-thunderous-echoes-the-soundscape-of-immense-entities-for-2024/"><u>New Thunderous Echoes The Soundscape of Immense Entities for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-radeon-missing-in-device-manager-solution-found/"><u>NVIDIA Radeon Missing in Device Manager, Solution Found</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-mp4-file-editing-removing-sound-tracks-for-2024/"><u>Updated MP4 File Editing Removing Sound Tracks for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-four-streaming-ways-to-showcase-fb-live-events-on-tv/"><u>[New] In 2024, Four Streaming Ways to Showcase FB Live Events on TV</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-achieving-virality-in-instagram-videos-practical-advice/"><u>[Updated] In 2024, Achieving Virality in Instagram Videos Practical Advice</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-a-visual-hook-creating-captivating-youtube-thumbnails-to-drive-traffic/"><u>2024 Approved A Visual Hook Creating Captivating YouTube Thumbnails to Drive Traffic</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-xiaomi-redmi-a2plus-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Xiaomi Redmi A2+ Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-10-excellent-cost-free-video-meeting-solutions/"><u>In 2024, 10 Excellent, Cost-Free Video Meeting Solutions</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-3-ways-to-track-apple-iphone-14-plus-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Track Apple iPhone 14 Plus without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-top-8-masterful-audio-designs-in-film-for-2024/"><u>New Top 8 Masterful Audio Designs in Film for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mov-movies-on-xiaomi-14-ultra-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/"><u>Play MOV movies on Xiaomi 14 Ultra, is it possible?</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-11-pro-max-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 11 Pro Max Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-correcting-error-0xc10100be-in-videos/"><u>Troubleshooting Guide for Correcting Error 0xC10100BE in Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-hidden-truth-behind-windows-activation-error-0x8007251d/"><u>Unveiling the Hidden Truth Behind Windows Activation Error 0X8007251D</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-changing-dynamics-of-auditory-experience-in-the-newest-adobe-rush-release/"><u>Updated 2024 Approved Changing Dynamics of Auditory Experience in the Newest Adobe Rush Release</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-leading-speech-transcription-tools-for-smartphones-android-and-iphone-edition/"><u>Updated 2024 Approved Leading Speech Transcription Tools for Smartphones - Android and iPhone Edition</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-mastering-mac-audio-keyframe-techniques-in-adobe-premiere-pro/"><u>Updated 2024 Approved Mastering Mac Audio Keyframe Techniques in Adobe Premiere Pro</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-rewind-and-play-the-quintet-of-best-opposite-direction-melodies/"><u>Updated 2024 Approved Rewind and Play The Quintet of Best Opposite-Direction Melodies</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-8-best-cartoon-sound-effects-you-can-download-for-2024/"><u>Updated 8 Best Cartoon Sound Effects You Can Download for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-androids-premier-digital-audio-workstation-apps-for-top-notch-music-creation-for-2024/"><u>Updated Androids Premier Digital Audio Workstation Apps for Top-Notch Music Creation for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-beginner-friendly-choir-separation-technology-for-professional-use-for-2024/"><u>Updated Beginner-Friendly Choir Separation Technology for Professional Use for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-enhancing-videos-with-voiceover-modern-techniques/"><u>Updated In 2024, Enhancing Videos with Voiceover Modern Techniques</u></a></li>
 </ul></div>
 

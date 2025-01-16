@@ -1,7 +1,7 @@
 ---
 title: New The Audio Engineers Guide to Live Sound Management with OBS Maximizing Your Broadcast Quality
-date: 2025-01-05T21:11:12.544Z
-updated: 2025-01-09T23:57:04.914Z
+date: 2025-01-11T20:54:21.015Z
+updated: 2025-01-15T18:39:20.101Z
 tags: 
   - audio editing software
   - audio editing
@@ -29,7 +29,7 @@ Video making or filmmaking has now come to the level where the history of imperf
 If you are a content creator, maybe you will be familiar with coordinating the right audio with the video. If not, it isn't a problem anymore as I have included a detailed guide of implementing **audio ducking** in a step-wise way. With primary importance to the popular software **OBS** followed by a suitable alternative, let's begin our article!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Balance Your Stream Sound with OBS Audio Ducking?
@@ -58,6 +58,10 @@ You can now specify the values of the ratio, threshold, attack, release, output 
 
 It's complete. Yes, OBS audio ducking is over. Now you can check the video and alter the parameters if required after a preview.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: The Best Audio Ducking Alternative to OBS
 
 Although OBS is preferable for being an open-source and free option with comprehensive abilities in video recording and live streaming strategies, the OBS ducking interface might seem a little unfriendly, making it difficult for newbies. Hence, we have come up with [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) in this session as the best alternative to Streamlabs OBS audio ducking. With an intuitive easy-to-use interface, and attractive video/audio features, Filmora stands as the recommended choice for professionals and beginners!
@@ -69,16 +73,12 @@ Developed for the inspired, Filmora follows its unique way of ducking sound, eas
 * Perfect your audio to the video along with tons of features like an audio mixer along with options like mute, detach, split, and background removal.
 * Add voiceover, sprinkle magic with filters, detect beat, and create markers easily with Wondershare Filmora.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to use the audio ducking feature in Wondershare Filmora?
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Download and install Wondershare Filmora by clicking on the **Try It Free** button above. Once installed, follow the steps below.
@@ -100,7 +100,7 @@ Select the clips with dialogue, whereby right-clicking or double-clicking on the
 On the following audio editing window, tick the "**Lower the volume of other clips**" option to reduce background music or any other media volume.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -110,7 +110,7 @@ I hope you have now come to know why **ducking sound** is a must and how well **
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -128,18 +128,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-unveiling-the-5-premier-android-ps2-emulation-tools/"><u>[New] Unveiling the 5 Premier Android PS2 Emulation Tools</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-fixes-for-when-your-discord-camera-stops-responding/"><u>Effective Fixes for When Your Discord Camera Stops Responding</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-obs-recording-black-screen-error-and-solutions/"><u>How To Resolve OBS Recording: Black Screen Error & Solutions</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-streaming-wars-whos-leading-vimeo-or-popular-online-platforms/"><u>In 2024, Streaming Wars Who's Leading – Vimeo or Popular Online Platforms?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-infinix-smart-8-hd-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Infinix Smart 8 HD Android SIM Unlock APK</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-unlocking-microsoft-azure-transcription-capabilities/"><u>In 2024, Unlocking Microsoft Azure Transcription Capabilities</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-tecno-spark-20-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Tecno Spark 20 Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-6-free-daw-software-for-beginners-to-use/"><u>Updated 2024 Approved 6 Free DAW Software for Beginners to Use</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-synthesis-and-shaping-sounds-the-essential-list-of-digital-audio-effects-to-explore/"><u>Updated 2024 Approved Synthesis and Shaping Sounds The Essential List of Digital Audio Effects to Explore</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-an-in-depth-analysis-of-waveedits-latest-features-for-2024/"><u>Updated An In-Depth Analysis of WaveEdits Latest Features for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-exploring-top-rated-podcast-hosting-solutions-for-2024/"><u>Updated Exploring Top-Rated Podcast Hosting Solutions for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-auditory-data-mining-extracting-sounds-from-moving-images/"><u>Updated In 2024, Auditory Data Mining Extracting Sounds From Moving Images</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-best-11-free-voice-changer-apps-for-ios-and-android/"><u>Updated In 2024, Best 11 FREE Voice Changer Apps for iOS and Android</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unveil-the-best-free-backdrop-and-footage-sources-top-8-online-lists/"><u>[New] Unveil the Best Free Backdrop & Footage Sources Top 8 Online Lists</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-mastering-snaps-in-zooms-camera-feature-for-2024/"><u>[Updated] Mastering Snaps in Zoom's Camera Feature for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-scape-discovering-the-artistic-no-money-backdrops-of-tiktok/"><u>2024 Approved FREE-Scape Discovering the Artistic No-Money Backdrops of TikTok</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-leading-platforms-for-seamless-mp3-refinement-and-cutting/"><u>2024 Approved Leading Platforms for Seamless MP3 Refinement and Cutting</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-samsung-galaxy-a34-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Samsung Galaxy A34 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-cutting-edge-music-editing-software-roundup-the-top-10-compatible-apps-for-windows-and-mac/"><u>In 2024, Cutting-Edge Music Editing Software Roundup The Top 10 Compatible Apps for Windows and Mac</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-vivo-s18-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Vivo S18 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-compilation-of-top-soundscapes-adopting-the-perfect-audio-accompaniment-for-your-montage-creation/"><u>New Compilation of Top Soundscapes Adopting the Perfect Audio Accompaniment for Your Montage Creation</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-navigating-through-music-production-software-landscape-can-magix-samplitude-be-considered-supreme-for-2024/"><u>New Navigating Through Music Production Software Landscape Can MAGIX Samplitude Be Considered Supreme for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-accessing-command-prompt-on-windows-operating-systems/"><u>Step-by-Step Guide: Accessing Command Prompt on Windows Operating Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/tweak-how-windows-renders-confirmation-alerts/"><u>Tweak How Windows Renders Confirmation Alerts</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-how-to-merge-video-and-audio-for-2024/"><u>Updated How to Merge Video and Audio for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/where-to-find-premium-dj-audios-online/"><u>Where to Find Premium DJ Audios Online</u></a></li>
 </ul></div>
 

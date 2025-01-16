@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Splitting Audio and Visuals in iMovie Using a Mac
-date: 2025-01-06T17:55:30.999Z
-updated: 2025-01-10T03:58:34.017Z
+date: 2025-01-11T16:38:33.806Z
+updated: 2025-01-15T20:25:23.803Z
 tags: 
   - audio editing software
   - audio editing
@@ -35,7 +35,7 @@ Now let's look at how to **separate audio from video in iMovie on Mac**.
 * [**Part 3\. FAQs about Separating Audio from Video in iMovie**](#part3)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1\. How to Separate/Detach/Split Audio from Video in iMovie on Mac
@@ -63,7 +63,7 @@ Select **Delete** from the shortcut menu by right-clicking.
 Or hold **Control** while clicking and selecting **Delete**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. Separate Audio from Video on Mac with the Best Alternative to iMovie
@@ -73,7 +73,7 @@ Want to extract the music file from a video clip's audio and visual tracks? Or d
 [![Download Filmora Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can make your own MP3 file of the amazing piece of music for enjoyment on the move, whether it's from a music video, TV show, or concert footage. To separate your audio from your video, follow the steps outlined below.
@@ -97,7 +97,7 @@ Because the audio and video tracks have been split, you may simply delete the au
 You should first save the split video frame or audio track to a project file on your hard disk if you wish to save it separately in a new file. Reload the project file that contains the video frame after you've finished exporting the audio track, and then export it to a new video file.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3\. FAQs about Separating Audio from Video in iMovie
@@ -136,10 +136,6 @@ By clicking the play button next to the **Share** button, you may see a preview 
 
 Alternatively, you can share it directly from the app to other social media platforms. Apart from removing audio from videos, Animaker also includes other video editing tools that you'll need to modify your videos for social media and your website.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Wrap Up
 
 As seen in this instructional article, iMovie has countless amazing features as a [video editor on Mac](https://tools.techidaily.com/wondershare/filmora/download/). Separating audio from a video is one of those interesting features on iMovie.
@@ -149,6 +145,10 @@ If a video has music, sounds, or voices that you'd like to separate from the vid
 And if iMovie can’t meet your need, don’t worry. Wondershare Filmora can be your better choice.
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -165,20 +165,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-master-artwork-accelerated-techniques-for-editing-photos-on-pc/"><u>[New] 2024 Approved Master Artwork Accelerated Techniques for Editing Photos on PC</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-perfecting-the-art-of-slow-motion-in-snapchat-stories/"><u>[Updated] 2024 Approved Perfecting the Art of Slow Motion in Snapchat Stories</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/a-new-era-of-conversational-ai-usechatgpts-co-pilot-extension/"><u>A New Era of Conversational AI: UseChatGPT's Co-Pilot Extension</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-fix-football-manager-2021-freezing-issues-on-pc-step-by-step-guide/"><u>How to Fix Football Manager 2021 Freezing Issues on PC: Step-by-Step Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Motorola Edge 40 Pro? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-tecno-spark-go-2024-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Tecno Spark Go (2024) FRP Bypass</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-essential-list-8-premier-music-production-software-options-for-mac-os-and-windows/"><u>New The Essential List 8 Premier Music Production Software Options for Mac OS and Windows</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-noise-free-zone-step-by-step-guide-to-refining-audio-quality-with-audacity-and-filmorapro-for-2024/"><u>New The Noise-Free Zone Step-by-Step Guide to Refining Audio Quality with Audacity and FilmoraPro for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-unlocking-free-audacity-features-for-efficient-audio-recording-for-2024/"><u>New Unlocking FREE Audacity Features for Efficient Audio Recording for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/step-by-step-guide-downloading-videos-from-youtube-using-a-link/"><u>Step-by-Step Guide: Downloading Videos From YouTube Using a Link</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/streamline-your-systems-security-the-ultimate-guide-to-using-stellard-file-eraser-5-on-windows/"><u>Streamline Your System's Security: The Ultimate Guide to Using Stellard File Eraser 5 on Windows</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/the-ultimate-list-of-easy-to-find-websites-offering-free-ding-noise-sounds-for-2024/"><u>The Ultimate List of Easy-to-Find Websites Offering Free Ding Noise Sounds for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/understanding-iphones-hidden-photo-storage-solutions-for-items-missing-post-deletion/"><u>Understanding iPhone's Hidden Photo Storage: Solutions for Items Missing Post-Deletion</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-how-to-separate-audio-from-video-in-imovie-on-mac-for-2024/"><u>Updated How to Separate Audio From Video in iMovie on Mac for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-capturing-perfect-sound-a-comprehensive-guide-for-advanced-mac-users/"><u>Updated In 2024, Capturing Perfect Sound A Comprehensive Guide for Advanced Mac Users</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nstant-stars-youtube-videos-with-rapid-popularity/"><u>[New] Instant Stars Youtube Videos with Rapid Popularity</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-crafting-content-success-top-hashtags-to-follow-today/"><u>[Updated] 2024 Approved Crafting Content Success Top #Hashtags to Follow Today</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/44cm57ch5y2y44gr44od44od44oj44kt44oj44k544oi44ks5lplusd5a2y44gn44gn44kl56m25qw144gu44ks44kk44oj44cn/"><u>「簡単にポッドキャストを保存できる究極のガイド」</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/comment-resoudre-le-probleme-de-non-affichage-du-wd-my-book-sur-windows-11-guide-complet/"><u>Comment Résoudre Le Problème De Non-Affichage Du WD My Book Sur Windows 11 - Guide Complet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Oppo Reno 9A? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-enhancing-audio-quality-techniques-for-distraction-free-sounds-with-wondershare-filmora/"><u>New 2024 Approved Enhancing Audio Quality Techniques for Distraction-Free Sounds with Wondershare Filmora</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-audio-architects-guide-to-stripping-down-beats-online-for-2024/"><u>New The Audio Architects Guide to Stripping Down Beats Online for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-top-10-online-platforms-for-sourcing-professional-quality-montage-tracks-for-2024/"><u>New Top 10 Online Platforms for Sourcing Professional-Quality Montage Tracks for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/superior-camera-stabilization-the-10-best-for-smartphones-and-dslrs/"><u>Superior Camera Stabilization The 10 Best for Smartphones & DSLRs</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/tcl-roku-refrigerator-50s425-top-value-50-inch-4k-television-review-for-2019-models/"><u>TCL Roku Refrigerator (50S425) - Top Value 50 Inch 4K Television Review for 2019 Models</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>The Best 8 VPN Hardware Devices Reviewed On Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/trouble-free-gaming-resolving-baldurs-gate-3-crashes-on-desktop-pcs/"><u>Trouble-Free Gaming: Resolving Baldur's Gate 3 Crashes on Desktop PCs</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-final-cut-pro-sound-visualization-step-by-step-on-rendering-audio-waveforms-and-their-animation-integration/"><u>Updated In 2024, Final Cut Pro Sound Visualization Step-by-Step on Rendering Audio Waveforms and Their Animation Integration</u></a></li>
 </ul></div>
 

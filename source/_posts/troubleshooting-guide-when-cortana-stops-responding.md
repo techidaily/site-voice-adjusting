@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: When Cortana Stops Responding"
-date: 2025-01-04T01:52:08.053Z
-updated: 2025-01-09T19:51:39.726Z
+date: 2025-01-12T00:13:47.833Z
+updated: 2025-01-15T20:23:37.505Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
 
 **Cortana not working?**  I believe it’s one of your pet hates. Don’t panic. Usually it’s an easy problem to fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How do I fix Cortana not working?
 
  Here are 5 methods you can try to fix this glitch. Please work your way down the list until you find the that works.
@@ -34,12 +30,16 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
 5. [Reset Cortana](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Reboot your Windows 10 PC
 
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Check your region and language settings
 
@@ -48,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
 Check your region and language settings on your computer:
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **I** at the same time to open the **Settings** window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click **Time** **& language** .
 
@@ -80,7 +84,7 @@ Check your region and language settings on your computer:
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Update your Microphone driver and audio driver
@@ -109,14 +113,10 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Reboot your Windows 10 and try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 5: Reset your Cortana
@@ -127,10 +127,6 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb16d80e39a.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click the button beside **On** in **Hey Cortana** to turn off it. You should then see the **Off**  status.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
@@ -138,6 +134,10 @@ Or click  **Update All** to automatically download and install the correct versi
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb180855417.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Try Cortana again to see if it works.
 
@@ -159,20 +159,21 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-perfecting-the-pause-how-to-craft-exceptional-slow-motion-videos/"><u>[New] Perfecting the Pause How to Craft Exceptional Slow Motion Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-oppo-find-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Oppo Find X6 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/acer-nitro-5-users-manual-how-to-refresh-system-drivers-efficiently/"><u>Acer Nitro 5 User's Manual: How to Refresh System Drivers Efficiently</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-oppo-a79-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Oppo A79 5G Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/convertir-archivo-pbm-para-su-visualizacion-en-vista-previa-gratuita-guia-paso-a-paso-de-movavi/"><u>Convertir Archivo PBM Para Su Visualización en Vista Previa Gratuita: Guía Paso a Paso De Movavi</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-vivo-y27-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Vivo Y36i? | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-step-by-step-utilizing-aiseesoft-for-video-captures/"><u>In 2024, Step-by-Step Utilizing Aiseesoft for Video Captures</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/premium-e-reader-insight-amazons-kindle-oasis-is-the-expense-worth-it/"><u>Premium E-Reader Insight: Amazon's Kindle Oasis - Is the Expense Worth It?</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/smooth-gaming-experience-achieved-cyberpunk-2077s-lag-and-stuttering-solved/"><u>Smooth Gaming Experience Achieved: Cyberpunk 2077'S Lag and Stuttering Solved!</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-speak-now-type-soon-essential-free-tools-for-mobile-audio-transcriptions/"><u>Updated In 2024, Speak Now, Type Soon Essential Free Tools for Mobile Audio Transcriptions</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-the-silent-movie-revolution-procedures-for-deleting-sound-elements-in-mov-files-across-computers-and-devices/"><u>Updated In 2024, The Silent Movie Revolution Procedures for Deleting Sound Elements in MOV Files Across Computers and Devices</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-top-8-best-daw-app-for-android-to-accelerate-your-music-production/"><u>Updated In 2024, Top 8 Best DAW App for Android to Accelerate Your Music Production</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-premier-free-mp3-harmonizer-software/"><u>Updated Premier Free MP3 Harmonizer Software</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-the-ultimate-journey-in-voice-coaching-changing-how-you-sound-for-2024/"><u>Updated The Ultimate Journey in Voice Coaching Changing How You Sound for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-cutting-edge-approaches-for-secure-and-precise-call-logging/"><u>[New] Cutting-Edge Approaches for Secure and Precise Call Logging</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/liminating-grey-edges-on-video-a-youtube-fix-guide-for-2024/"><u>[New] Eliminating Grey Edges on Video A YouTube Fix Guide for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-staying-grounded-in-vr-worlds-for-2024/"><u>[New] Staying Grounded in VR Worlds for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-zest-up-social-feeds-create-meme-adobe-style-for-2024/"><u>[New] Zest Up Social Feeds Create Meme Adobe-Style for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-mastering-audio-editing-removing-sound-from-films-with-imovie/"><u>2024 Approved Mastering Audio Editing Removing Sound From Films with iMovie</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beginners-guide-to-solo-youtube-broadcasting-from-yourphone-for-2024/"><u>Beginner's Guide to Solo YouTube Broadcasting From Yourphone for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/conquering-instagram-reels-like-an-elite-creator-for-2024/"><u>Conquering Instagram Reels Like an Elite Creator for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-videos-best-3d-animation-and-video-software/"><u>Elevate Your Videos Best 3D Animation and Video Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-guides-and-steps-to-resolve-continuous-crashes-in-resident-evil-4-remake/"><u>Essential Guides & Steps To Resolve Continuous Crashes In Resident Evil 4 Remake</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-synchronized-sonic-space-techniques-for-achieving-uniform-auditory-dynamics-across-video-content/"><u>In 2024, Synchronized Sonic Space Techniques for Achieving Uniform Auditory Dynamics Across Video Content</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-expanding-your-expression-methods-for-adapting-your-natural-voice/"><u>New 2024 Approved Expanding Your Expression Methods for Adapting Your Natural Voice</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-speakers-selection-top-rated-audio-recording-applications-of-the-year/"><u>New 2024 Approved The Speakers Selection Top-Rated Audio Recording Applications of the Year</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-6-best-free-daw-software-for-beginners-to-use/"><u>New 6 Best Free DAW Software for Beginners to Use</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-sound-purification-techniques-how-to-combat-persistent-echoes-and-hiss/"><u>New In 2024, Sound Purification Techniques How to Combat Persistent Echoes and Hiss</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-soundwave-shift-step-by-step-mp3-to-mp4-audio-file-transformation-for-2024/"><u>New Soundwave Shift Step-by-Step MP3 to MP4 Audio File Transformation for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-the-cartoon-conversion-blueprint-tips-and-tricks/"><u>Updated 2024 Approved The Cartoon Conversion Blueprint Tips and Tricks</u></a></li>
 </ul></div>
 
