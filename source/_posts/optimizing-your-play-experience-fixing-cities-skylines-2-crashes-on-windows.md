@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Your Play Experience: Fixing Cities: Skylines 2 Crashes on Windows"
-date: 2025-01-10T23:37:27.036Z
-updated: 2025-01-15T17:57:01.223Z
+date: 2025-01-15T03:14:33.711Z
+updated: 2025-01-21T21:54:04.972Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
 8. **[Run your game in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check your PC specs
 
  Total War: Warhammer 2 is a fantastic game, however, it’s one of the most demanding when it comes to your hardware. The game won’t work well unless your computer can handle it.
@@ -53,6 +57,10 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
 **2)**  Type **dxdiag**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-00-43.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Check your operating system, processor,**and memory** .
 
@@ -86,17 +94,9 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-41-28.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Restart_Total War: WARHAMMER II_ from Steam.
 
 If your game crashes again, then try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Roll back/Update your graphics driver
 
@@ -115,6 +115,10 @@ If your game crashes again, then try the next fix.
 **2)** Type**devmgmt.msc** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-29_11-47-41.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Double-click**Display adapters** . Then, right-click**your graphics card** and select**Properties** .
 
@@ -146,6 +150,10 @@ If your game crashes again, then try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-02-36.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -175,16 +183,12 @@ If your issue persists, then move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-04-44.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Relaunch your game after the process is complete.
 
 If the game is still unplayable, check the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Run your game with DirectX 11
@@ -209,6 +213,10 @@ If the game is still unplayable, check the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-55-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If your game still won’t launch properly, move on to the next fix.
 
 ### Fix 7: Check for Windows Firewall
@@ -228,16 +236,12 @@ If your game still won’t launch properly, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-20-25.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Click**Allow an app or feature through Windows Defender Firewall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-23-02.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Click**Change settings** .
 
@@ -258,7 +262,7 @@ If your game still won’t launch properly, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-24-19.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this method doesn’t work for you, move on to try the fix below.
@@ -270,10 +274,6 @@ If this method doesn’t work for you, move on to try the fix below.
 **1)** Right-click the**Total War: WARHAMMER II icon** , then select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-05-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
@@ -287,6 +287,10 @@ If this method doesn’t work for you, move on to try the fix below.
 
  If this didn’t work for you, you need to reopen the Properties Window and disable the Compatibility mode . Then, try the fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 9: Reinstall Steam
 
  If none of the fixes above worked, reinstalling Steam is very likely the solution to your problem. Here is how to do it:
@@ -299,10 +303,6 @@ If this method doesn’t work for you, move on to try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-31-33.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-31-39.jpg)
@@ -311,13 +311,13 @@ If this method doesn’t work for you, move on to try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-32-12.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-32-53.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)**  Follow the on-screen instructions to uninstall Steam.
 
@@ -352,24 +352,14 @@ If this method doesn’t work for you, move on to try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-the-art-of-using-cc-copyrights-wisely/"><u>[New] Mastering the Art of Using CC Copyrights Wisely</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-bring-out-canons-best-enjoy-10-free-luts-and-beyond-selection/"><u>[Updated] 2024 Approved Bring Out Canon's Best Enjoy 10 Free LUTs and Beyond Selection</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-showdowns-and-stunts-the-best-of-snowboard-cross/"><u>[Updated] In 2024, Showdowns and Stunts The Best of Snowboard Cross</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1-no-printer-solutions-easy-steps-to-print-anywhere/"><u>1. No-Printer Solutions: Easy Steps to Print Anywhere</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-smooth-video-viewing-experience-enabledisable-pip-for-iphone-youtube/"><u>2024 Approved Smooth Video Viewing Experience Enable/Disable PIP for iPhone YouTube</u></a></li>
-<li><a href="https://techtrends.techidaily.com/boosting-iphone-efficiency-unveiling-the-impact-of-integrating-google-gemini-into-ios-insights-from-zdnet/"><u>Boosting iPhone Efficiency: Unveiling the Impact of Integrating Google Gemini Into iOS - Insights From ZDNet</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-tips-for-safaris-picture-and-window-sharing-feature-for-2024/"><u>Expert Tips for Safari's Picture and Window Sharing Feature for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/1723016829314-no-audio-in-battlefield-4-discover-the-simple-solution/"><u>No Audio in Battlefield 4? Discover the Simple Solution</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209178918-overcome-window-11s-touchscreen-woes-here-are-5-tips-for-quick-repairs/"><u>Overcome Window 11'S Touchscreen Woes? Here Are 5 Tips for Quick Repairs</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/premium-e-reader-insight-amazons-kindle-oasis-is-the-expense-worth-it/"><u>Premium E-Reader Insight: Amazon's Kindle Oasis - Is the Expense Worth It?</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/1720600735310-reclaim-lost-data-in-minutes-stellar-service-guarantee/"><u>Reclaim Lost Data in Minutes - Stellar Service Guarantee</u></a></li>
-<li><a href="https://win-online.techidaily.com/resolving-your-printers-connection-problem-expert-tips-from-yl-computing/"><u>Resolving Your Printer's Connection Problem: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/smooth-gaming-experience-achieved-cyberpunk-2077s-lag-and-stuttering-solved/"><u>Smooth Gaming Experience Achieved: Cyberpunk 2077'S Lag and Stuttering Solved!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-your-bumble-profile-how-to-appear-in-more-search-results/"><u>Troubleshooting Your Bumble Profile: How to Appear in More Search Results</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-speak-now-type-soon-essential-free-tools-for-mobile-audio-transcriptions/"><u>Updated In 2024, Speak Now, Type Soon Essential Free Tools for Mobile Audio Transcriptions</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-the-silent-movie-revolution-procedures-for-deleting-sound-elements-in-mov-files-across-computers-and-devices/"><u>Updated In 2024, The Silent Movie Revolution Procedures for Deleting Sound Elements in MOV Files Across Computers and Devices</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-master-your-sound-without-spending-a-dime-top-11-free-audio-tools-for-pc-and-mac-users/"><u>Updated Master Your Sound Without Spending a Dime Top 11 Free Audio Tools for PC & Mac Users</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-premier-free-mp3-harmonizer-software/"><u>Updated Premier Free MP3 Harmonizer Software</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-the-ultimate-journey-in-voice-coaching-changing-how-you-sound-for-2024/"><u>Updated The Ultimate Journey in Voice Coaching Changing How You Sound for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-mac-users-mastering-chic-videos-for-your-first-youtube-post/"><u>[Updated] 2024 Approved Mac Users Mastering Chic Videos for Your First YouTube Post</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transform-your-online-image-top-9-insights-for-insta-stardom/"><u>[Updated] Transform Your Online Image Top 9 Insights for Insta Stardom</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-mastering-chroma-magic-with-green-background-tech-for-newbies/"><u>2024 Approved Mastering Chroma Magic with Green Background Tech for Newbies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-power-of-ubuntu-2n04-speed-meets-secure-shielding-in-this-cutting-edge-linux-release-zdnet/"><u>Exploring the Power of Ubuntu 2N.04: Speed Meets Secure Shielding in This Cutting-Edge Linux Release | ZDNet</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-elite-selection-of-virtual-audio-editing-experts/"><u>New 2024 Approved The Elite Selection of Virtual Audio Editing Experts</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-streamlining-audio-dynamics-a-comprehensive-approach-to-volume-normalization-with-vlc/"><u>New Streamlining Audio Dynamics A Comprehensive Approach to Volume Normalization with VLC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-lameencdll-dll-file-problems-in-your-audacity-mp3-conversion-tasks/"><u>Solving the lame_enc.dll DLL File Problems In Your Audacity MP3 Conversion Tasks</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-the-complete-pexels-primer-knowledge-essential-for-graphic-designers-and-marketers/"><u>Updated In 2024, The Complete Pexels Primer Knowledge Essential for Graphic Designers and Marketers</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-transform-your-singing-with-autotune-in-audacity-a-complete-tutorial-followed-through-for-2024/"><u>Updated Transform Your Singing with Autotune in Audacity – A Complete Tutorial Followed Through for 2024</u></a></li>
 </ul></div>
 

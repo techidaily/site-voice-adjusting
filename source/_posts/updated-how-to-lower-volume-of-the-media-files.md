@@ -1,7 +1,7 @@
 ---
 title: Updated How to Lower Volume of the Media Files
-date: 2025-01-14T23:13:40.283Z
-updated: 2025-01-15T21:08:32.562Z
+date: 2025-01-15T01:56:43.326Z
+updated: 2025-01-21T16:48:54.567Z
 tags: 
   - audio editing software
   - audio editing
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3
 ## Lower Volume of the Media Files Step by Step Guide
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1 Add media files you want to lower volume
@@ -43,7 +43,11 @@ thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3
 ![lower volume](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2 Lower volume of the media files
@@ -55,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3
 ![how to lower volume](https://images.wondershare.com/images/multimedia/video-editor/change-volume.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3 Save the files
@@ -72,14 +76,10 @@ thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -97,20 +97,19 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/nnovating-with-youtube-studio-editor-for-next-gen-videos/"><u>[New] Innovating with YouTube Studio Editor for Next-Gen Videos</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-expert-video-grabbing-kit-perfect-for-firefox-browser-users/"><u>[Updated] 2024 Approved Expert Video Grabbing Kit Perfect for FireFox Browser Users</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/disable-incoming-audio-cues-and-import-fresh-audiovisual-components-via-windows-moviemaker-software/"><u>Disable Incoming Audio Cues & Import Fresh Audiovisual Components via Windows Moviemaker Software</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-realme-note-50-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-building-blocks-of-boosted-bots-elevating-bot-based-promotion/"><u>In 2024, Building Blocks of Boosted Bots Elevating Bot-Based Promotion</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-samsung-photo-editor-review-pros-con-features-and-guide/"><u>In 2024, Samsung Photo Editor Review - Pros, Con, Features, and Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-dell-thunderbolt-tb16-docking-station-driver-software-how-to-install/"><u>Latest Dell Thunderbolt TB16 Docking Station Driver Software – How to Install!</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-must-have-specifications-in-mac-audio-editing-applications/"><u>New 2024 Approved Must-Have Specifications in Mac Audio Editing Applications</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-creative-audio-analysis-crafting-an-interactive-waveform-animation-spectacle-within-premiere-pro/"><u>New In 2024, Creative Audio Analysis Crafting an Interactive Waveform Animation Spectacle Within Premiere Pro</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-synching-visuals-and-audio-step-by-step-process-for-2024/"><u>New Synching Visuals and Audio Step-by-Step Process for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-15-melodic-matchmakers-tailoring-audio-to-each-videos-characteristic-mood/"><u>Updated 2024 Approved 15 Melodic Matchmakers Tailoring Audio to Each Videos Characteristic Mood</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-3-key-approaches-to-efficiently-change-your-podcast-audio-to-mp3/"><u>Updated 3 Key Approaches to Efficiently Change Your Podcast Audio to MP3</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-setting-up-and-disabling-audacity-for-enhanced-sound-editing-on-your-chromebook-for-2024/"><u>Updated Setting Up and Disabling Audacity for Enhanced Sound Editing on Your Chromebook for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-the-pros-and-cons-of-using-vidma-as-a-screen-grabber/"><u>[New] 2024 Approved The Pros & Cons of Using Vidma as a Screen Grabber</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/erfecting-youtube-shorts-step-by-step-video-production-tips/"><u>[New] Perfecting YouTube Shorts Step-by-Step Video Production Tips</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-unlocking-potential-how-to-gain-more-viewers-and-followers-on-youtube/"><u>[Updated] 2024 Approved Unlocking Potential How to Gain More Viewers and Followers on Youtube</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-optimize-your-social-media-videos-on-fb-with-the-right-ratio/"><u>[Updated] Optimize Your Social Media Videos on FB with the Right Ratio</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/effortless-guide-transform-your-avchd-video-into-mp4-format-without-costs-on-windows-11/"><u>Effortless Guide: Transform Your AVCHD Video Into MP4 Format without Costs on Windows 11</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-step-by-step-analysis-of-substitutes-for-apowersofts-audio-recorder/"><u>In 2024, Step-by-Step Analysis of Substitutes for Apowersofts Audio Recorder</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-sync-your-sound-step-by-step-audio-editing-in-avidemux-for-the-modern-producer/"><u>In 2024, Sync Your Sound Step-by-Step Audio Editing in Avidemux for the Modern Producer</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-depth-recmaster-screen-capture-analysis/"><u>In-Depth Recmaster Screen Capture Analysis</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-best-liked-platforms-to-access-compilation-of-guitar-chord-diagrams-and-visual-themes-for-2024/"><u>New Best-Liked Platforms to Access Compilation of Guitar Chord Diagrams & Visual Themes for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-discovering-the-leading-8-voice-command-programs-for-desktop-and-mobile-devices/"><u>New Discovering the Leading 8 Voice Command Programs for Desktop and Mobile Devices</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-reverse-rhythms-2023s-most-memorable-inverted-melodies/"><u>New Reverse Rhythms 2023S Most Memorable Inverted Melodies</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-hd-video-editing-software-roundup-for-2024/"><u>New The Ultimate HD Video Editing Software Roundup for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/professional-framing-methods-using-letterbox-and-black-bar-on-social-networks/"><u>Professional Framing Methods Using Letterbox & Black Bar on Social Networks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/referencing-chatgpt-in-academic-writing-best-practices-and-guidelnaces/"><u>Referencing ChatGPT in Academic Writing: Best Practices and Guidelnaces</u></a></li>
 </ul></div>
 

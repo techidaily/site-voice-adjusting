@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: When Cortana Stops Responding"
-date: 2025-01-12T00:13:47.833Z
-updated: 2025-01-15T20:23:37.505Z
+date: 2025-01-16T00:10:40.506Z
+updated: 2025-01-22T00:49:07.381Z
 tags:
   - win11
   - win10
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
 5. [Reset Cortana](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Reboot your Windows 10 PC
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Check your region and language settings
@@ -48,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
 Check your region and language settings on your computer:
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **I** at the same time to open the **Settings** window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Click **Time** **& language** .
 
@@ -75,16 +71,24 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f33c9a31.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Install the available updates.
 
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Update your Microphone driver and audio driver
@@ -107,6 +111,10 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8cc9febab7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Click the  **Update**  button next to all flagged drivers to automatically download and install the correct version of their driver (you can do this with the FREE version).
 
 Or click  **Update All** to automatically download and install the correct version of  _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
@@ -114,10 +122,6 @@ Or click  **Update All** to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
 
 4) Reboot your Windows 10 and try Cortana again to see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 5: Reset your Cortana
 
@@ -134,10 +138,6 @@ Or click  **Update All** to automatically download and install the correct versi
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb180855417.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Try Cortana again to see if it works.
 
@@ -159,21 +159,20 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-cutting-edge-approaches-for-secure-and-precise-call-logging/"><u>[New] Cutting-Edge Approaches for Secure and Precise Call Logging</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/liminating-grey-edges-on-video-a-youtube-fix-guide-for-2024/"><u>[New] Eliminating Grey Edges on Video A YouTube Fix Guide for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-staying-grounded-in-vr-worlds-for-2024/"><u>[New] Staying Grounded in VR Worlds for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-zest-up-social-feeds-create-meme-adobe-style-for-2024/"><u>[New] Zest Up Social Feeds Create Meme Adobe-Style for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-mastering-audio-editing-removing-sound-from-films-with-imovie/"><u>2024 Approved Mastering Audio Editing Removing Sound From Films with iMovie</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/beginners-guide-to-solo-youtube-broadcasting-from-yourphone-for-2024/"><u>Beginner's Guide to Solo YouTube Broadcasting From Yourphone for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/conquering-instagram-reels-like-an-elite-creator-for-2024/"><u>Conquering Instagram Reels Like an Elite Creator for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-videos-best-3d-animation-and-video-software/"><u>Elevate Your Videos Best 3D Animation and Video Software</u></a></li>
-<li><a href="https://program-issues.techidaily.com/essential-guides-and-steps-to-resolve-continuous-crashes-in-resident-evil-4-remake/"><u>Essential Guides & Steps To Resolve Continuous Crashes In Resident Evil 4 Remake</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-synchronized-sonic-space-techniques-for-achieving-uniform-auditory-dynamics-across-video-content/"><u>In 2024, Synchronized Sonic Space Techniques for Achieving Uniform Auditory Dynamics Across Video Content</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-expanding-your-expression-methods-for-adapting-your-natural-voice/"><u>New 2024 Approved Expanding Your Expression Methods for Adapting Your Natural Voice</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-speakers-selection-top-rated-audio-recording-applications-of-the-year/"><u>New 2024 Approved The Speakers Selection Top-Rated Audio Recording Applications of the Year</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-6-best-free-daw-software-for-beginners-to-use/"><u>New 6 Best Free DAW Software for Beginners to Use</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-sound-purification-techniques-how-to-combat-persistent-echoes-and-hiss/"><u>New In 2024, Sound Purification Techniques How to Combat Persistent Echoes and Hiss</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-soundwave-shift-step-by-step-mp3-to-mp4-audio-file-transformation-for-2024/"><u>New Soundwave Shift Step-by-Step MP3 to MP4 Audio File Transformation for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-the-cartoon-conversion-blueprint-tips-and-tricks/"><u>Updated 2024 Approved The Cartoon Conversion Blueprint Tips and Tricks</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-top-picks-for-cutting-edge-websites-of-text-styling-tools/"><u>[New] In 2024, Top Picks for Cutting-Edge Websites of Text Styling Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-learn-about-free-recording-software-today/"><u>[New] Learn About Free Recording Software Today</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-smart-shelfings-leading-frame-apps-of-the-future/"><u>[New] Smart Shelfings Leading Frame Apps of the Future</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-photo-and-video-slideshow-makers-for-macos-sierra/"><u>[New] Top Photo and Video Slideshow Makers for macOS Sierra</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-asus-usb-bt500-bluetooth-50-driver-on-your-pc-free-download-for-win11win10win8/"><u>Install Asus USB-BT500 Bluetooth 5.0 Driver on Your PC - Free Download for Win11/Win10/Win8</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/remedied-geforce-shader-compatibility/"><u>Remedied GeForce Shader Compatibility</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-ultimate-guide-to-enhancing-logic-pro-x-8-top-ranked-free-and-premium-plugins-for-2024/"><u>The Ultimate Guide to Enhancing Logic Pro X - 8 Top-Ranked Free & Premium Plugins for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-guide-to-achieving-soundless-visual-content/"><u>Updated 2024 Approved Guide to Achieving Soundless Visual Content</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-how-to-fade-in-and-fade-out-audio-in-adobe-after-effects/"><u>Updated 2024 Approved How to Fade In and Fade Out Audio in Adobe After Effects</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-navigating-through-this-years-top-ten-budget-friendly-browser-based-daw-solutions/"><u>Updated 2024 Approved Navigating Through This Years Top Ten Budget-Friendly Browser-Based DAW Solutions</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-efficiently-dividing-soundtracks-an-introduction-to-audio-segmentation-tools/"><u>Updated Efficiently Dividing Soundtracks An Introduction to Audio Segmentation Tools</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-essential-considerations-for-incorporating-sound-in-photography-compositions/"><u>Updated Essential Considerations for Incorporating Sound in Photography Compositions</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-elevate-your-films-soundtrack-top-imovie-audio-editing-secrets-revealed/"><u>Updated In 2024, Elevate Your Films Soundtrack Top iMovie Audio Editing Secrets Revealed</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/windows-vehicle-get-iphone-driver-software-installed-easily/"><u>Windows Vehicle: Get iPhone Driver Software Installed Easily</u></a></li>
 </ul></div>
 

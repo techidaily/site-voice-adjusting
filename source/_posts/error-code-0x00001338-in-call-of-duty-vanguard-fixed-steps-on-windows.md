@@ -1,7 +1,7 @@
 ---
 title: Error Code 0X00001338 in Call of Duty Vanguard - Fixed Steps on Windows
-date: 2025-01-14T16:29:36.482Z
-updated: 2025-01-16T01:02:29.412Z
+date: 2025-01-19T23:44:28.043Z
+updated: 2025-01-22T02:23:13.284Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ Call of Duty is a free-to-play first-person shooter game for everyone. It was re
 5. [Reinstall Warzone Pacific](https://tools.techidaily.com/drivereasy/download/)
 6. [Repair system files](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check the minimum requirements
 
  The first thing you need to do is to ensure your PC meets the minimum requirements. If your system doesn’t meet the minimum requirements, then you gonna have issues like crashing.
@@ -39,10 +43,6 @@ Call of Duty is a free-to-play first-person shooter game for everyone. It was re
 | GPU          | NVIDIA GeForce GTX 670 / GeForce GTX 1650 or Radeon HD 7950 |
 | Direct X     | DirectX 12.0 compatible system                              |
 | Video Memory | 2 GB                                                        |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -71,11 +71,15 @@ OR
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Relaunch Call of Duty: Warzone Pacific and check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -115,20 +119,16 @@ If it fixes the issue then slowly increase your graphics settings.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-20_18-43-17.jpg)
 4. Find MW and Battle.net. Right-click on it and click**Unistall/Change** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-20_18-44-15.jpg)
 5. Follow the on-screen instructions to uninstall the software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Delete all the files.
 7. Go to the Warzone Pacific official website and download the game. Install it step-by-step.
 8. Relaunch the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Repair system files
 
@@ -144,11 +144,11 @@ If it fixes the issue then slowly increase your graphics settings.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -172,24 +172,24 @@ If it fixes the issue then slowly increase your graphics settings.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-fb-hd-stream-to-local-storage-for-2024/"><u>[Updated] FB HD Stream to Local Storage for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-unlocking-hidden-recommendations-on-social-media/"><u>[Updated] In 2024, Unlocking Hidden Recommendations on Social Media</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-return-artisan-set/"><u>[Updated] Return Artisan Set</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-shadow-scribes-compendium-best-kept-voice-apps-iosandroid-for-2024/"><u>[Updated] Shadow Scribes' Compendium Best-Kept Voice Apps (iOS/Android) for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210970078-9781088236147-espinas-del-tiempo/"><u>Espinas del Tiempo | Free Book</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/expert-advice-on-scheduling-a-successful-mobile-dj-session-with-pcdj-software/"><u>Expert Advice on Scheduling a Successful Mobile DJ Session with PCdj Software</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722997084130-guide-resolve-your-world-of-warcraft-crash-problems-swiftly-and-effectively/"><u>Guide: Resolve Your World of Warcraft Crash Problems Swiftly & Effectively!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/immersing-in-apples-augmented-reality-vision-an-insider-look-at-their-innovative-iphone-powered-headset/"><u>Immersing in Apple's Augmented Reality Vision: An Insider Look at Their Innovative iPhone-Powered Headset</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-guides-to-efface-auditory-components-from-cinematic-pieces/"><u>In 2024, Guides to Efface Auditory Components From Cinematic Pieces</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-vocal-vanishing-act-how-to-seamlessly-remove-singers-voice-from-an-audio-track-using-audacity-tools/"><u>In 2024, Vocal Vanishing Act How to Seamlessly Remove Singers Voice From an Audio Track Using Audacity Tools</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/instructional-series-altering-the-auditory-component-of-digital-clips-for-2024/"><u>Instructional Series Altering the Auditory Component of Digital Clips for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-top-7-digital-tools-for-seamless-audio-cutting-and-editing/"><u>New 2024 Approved Top 7 Digital Tools for Seamless Audio Cutting and Editing</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-achieving-sonic-clarity-overcoming-hiss-and-other-unwanted-noises-in-audio-tracks/"><u>New Achieving Sonic Clarity Overcoming Hiss and Other Unwanted Noises in Audio Tracks</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-cutting-edge-techniques-for-pitch-modification-in-audacity-keeping-the-sound-crisp/"><u>New Cutting-Edge Techniques for Pitch Modification in Audacity Keeping the Sound Crisp</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-harmonizing-multiple-recordings-achieving-an-exclusive-one-file-mix/"><u>New Harmonizing Multiple Recordings Achieving an Exclusive One-File Mix</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-how-to-add-music-to-a-video-online-for-free/"><u>New How to Add Music to a Video Online for Free</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-seamless-integration-of-multiple-audio-layers-creating-a-consolidated-master-file/"><u>New In 2024, Seamless Integration of Multiple Audio Layers Creating a Consolidated Master File</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/premier-funny-picture-tinker-for-2024/"><u>Premier Funny Picture Tinker for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unveiling-hidden-sights-in-google-meet-conferences/"><u>Unveiling Hidden Sights in Google Meet Conferences</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-budget-friendly-high-end-mac-tiktok-enhancements/"><u>[Updated] Budget-Friendly, High-End Mac TikTok Enhancements</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-master-the-art-of-social-media-success-with-these-10-facebook-tips/"><u>[Updated] In 2024, Master the Art of Social Media Success with These 10 Facebook Tips</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-navigating-the-new-world-of-360-camera-shopping/"><u>[Updated] In 2024, Navigating the New World of 360 Camera Shopping</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/antiquitys-verse-the-linguistic-voyage-from-greek/"><u>Antiquity's Verse: The Linguistic Voyage From Greek</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/effective-guide-to-cast-apple-iphone-13-to-macbook-without-hindrance-drfone-by-drfone-ios/"><u>Effective Guide to Cast Apple iPhone 13 to MacBook without Hindrance | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/guide-to-retrieving-old-files-from-your-computers-archive-on-windows-a-step-by-step-process-yl-solutions/"><u>Guide to Retrieving Old Files From Your Computer's Archive on Windows: A Step-by-Step Process - YL Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Vivo Y17s? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-top-8-masterful-audio-designs-in-film-for-2024/"><u>New Top 8 Masterful Audio Designs in Film for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-enhancing-your-gaming-experience-with-these-6-fixes-for-hogwarts-legacys-stuttering-issues-2024-edition/"><u>Resolved: Enhancing Your Gaming Experience with These 6 Fixes for Hogwarts Legacy's Stuttering Issues - 2024 Edition</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/top-10-gaming-pc-graphics-for-ultimate-youtube-viewing-experience-for-2024/"><u>Top 10 Gaming PC Graphics For Ultimate YouTube Viewing Experience for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-changing-dynamics-of-auditory-experience-in-the-newest-adobe-rush-release/"><u>Updated 2024 Approved Changing Dynamics of Auditory Experience in the Newest Adobe Rush Release</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-mastering-mac-audio-keyframe-techniques-in-adobe-premiere-pro/"><u>Updated 2024 Approved Mastering Mac Audio Keyframe Techniques in Adobe Premiere Pro</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-rewind-and-play-the-quintet-of-best-opposite-direction-melodies/"><u>Updated 2024 Approved Rewind and Play The Quintet of Best Opposite-Direction Melodies</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-8-best-cartoon-sound-effects-you-can-download-for-2024/"><u>Updated 8 Best Cartoon Sound Effects You Can Download for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-advanced-techniques-to-purify-recorded-audio-from-unwanted-echoes/"><u>Updated Advanced Techniques to Purify Recorded Audio From Unwanted Echoes</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-androids-premier-digital-audio-workstation-apps-for-top-notch-music-creation-for-2024/"><u>Updated Androids Premier Digital Audio Workstation Apps for Top-Notch Music Creation for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-beginner-friendly-choir-separation-technology-for-professional-use-for-2024/"><u>Updated Beginner-Friendly Choir Separation Technology for Professional Use for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-enhancing-videos-with-voiceover-modern-techniques/"><u>Updated In 2024, Enhancing Videos with Voiceover Modern Techniques</u></a></li>
 </ul></div>
 

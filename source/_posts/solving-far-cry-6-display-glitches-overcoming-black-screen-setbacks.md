@@ -1,7 +1,7 @@
 ---
 title: "Solving Far Cry 6 Display Glitches: Overcoming Black Screen Setbacks"
-date: 2025-01-12T23:16:17.976Z
-updated: 2025-01-15T20:22:26.733Z
+date: 2025-01-15T20:03:11.038Z
+updated: 2025-01-21T19:39:38.374Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 
  When you click Fallout 4 but see the black screen which doesn’t load anything, you must feel frustrated. Don’t worry, there are tips that can help you solve this**black screen issue** . Read on to find how…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -34,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 5. [**Disable antivirus software**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Run Fallout 4 as Compatibility mode
 
@@ -63,11 +55,11 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2019/07/NVIDIA-Geoforce-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Edit configuration files
 
@@ -85,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Lower the graphics settings in the game
 
  It is possible that the game can be crashed because your graphics card cannot capable of the high settings in the game. So if you’re using an old graphics card, you can try this method to fix the problem.
@@ -98,15 +86,27 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4-1.jpg)
 3. Tick the**Windowed Mode** and**Borderless** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click**Advanced** . Lower the settings and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Run the game to check the problem will appear or not.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable antivirus software
 
@@ -135,24 +135,18 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-four-streaming-ways-to-showcase-fb-live-events-on-tv/"><u>[New] In 2024, Four Streaming Ways to Showcase FB Live Events on TV</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-achieving-virality-in-instagram-videos-practical-advice/"><u>[Updated] In 2024, Achieving Virality in Instagram Videos Practical Advice</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-a-visual-hook-creating-captivating-youtube-thumbnails-to-drive-traffic/"><u>2024 Approved A Visual Hook Creating Captivating YouTube Thumbnails to Drive Traffic</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-xiaomi-redmi-a2plus-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Xiaomi Redmi A2+ Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-10-excellent-cost-free-video-meeting-solutions/"><u>In 2024, 10 Excellent, Cost-Free Video Meeting Solutions</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-3-ways-to-track-apple-iphone-14-plus-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Track Apple iPhone 14 Plus without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-top-8-masterful-audio-designs-in-film-for-2024/"><u>New Top 8 Masterful Audio Designs in Film for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/play-mov-movies-on-xiaomi-14-ultra-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/"><u>Play MOV movies on Xiaomi 14 Ultra, is it possible?</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-11-pro-max-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 11 Pro Max Data From iCloud | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-correcting-error-0xc10100be-in-videos/"><u>Troubleshooting Guide for Correcting Error 0xC10100BE in Videos</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-the-hidden-truth-behind-windows-activation-error-0x8007251d/"><u>Unveiling the Hidden Truth Behind Windows Activation Error 0X8007251D</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-changing-dynamics-of-auditory-experience-in-the-newest-adobe-rush-release/"><u>Updated 2024 Approved Changing Dynamics of Auditory Experience in the Newest Adobe Rush Release</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-leading-speech-transcription-tools-for-smartphones-android-and-iphone-edition/"><u>Updated 2024 Approved Leading Speech Transcription Tools for Smartphones - Android and iPhone Edition</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-mastering-mac-audio-keyframe-techniques-in-adobe-premiere-pro/"><u>Updated 2024 Approved Mastering Mac Audio Keyframe Techniques in Adobe Premiere Pro</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-rewind-and-play-the-quintet-of-best-opposite-direction-melodies/"><u>Updated 2024 Approved Rewind and Play The Quintet of Best Opposite-Direction Melodies</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-8-best-cartoon-sound-effects-you-can-download-for-2024/"><u>Updated 8 Best Cartoon Sound Effects You Can Download for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-androids-premier-digital-audio-workstation-apps-for-top-notch-music-creation-for-2024/"><u>Updated Androids Premier Digital Audio Workstation Apps for Top-Notch Music Creation for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-beginner-friendly-choir-separation-technology-for-professional-use-for-2024/"><u>Updated Beginner-Friendly Choir Separation Technology for Professional Use for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-enhancing-videos-with-voiceover-modern-techniques/"><u>Updated In 2024, Enhancing Videos with Voiceover Modern Techniques</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-striking-the-balance-visual-strategies-for-podcast-identity-for-2024/"><u>[New] Striking the Balance Visual Strategies for Podcast Identity for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtubes-rewind-feat-unraveling-sequence-with-a-single-click/"><u>[Updated] YouTube's Rewind Feat Unraveling Sequence with a Single Click</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-bridging-audio-realms-to-the-screen-designing-eye-catching-audio-graphs-and-animating-video-sequences-with-premiere-pro-mastery/"><u>2024 Approved Bridging Audio Realms to the Screen Designing Eye-Catching Audio Graphs & Animating Video Sequences with Premiere Pro Mastery</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/breathe-new-purpose-into-outdated-computers-using-this-underrated-linux-distribution/"><u>Breathe New Purpose Into Outdated Computers Using This Underrated Linux Distribution</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-in-simplistic-elegance-with-the-light-phone-3-your-ideal-minimalist-smartphone/"><u>Discover the Ultimate in Simplistic Elegance with the Light Phone 3 - Your Ideal Minimalist Smartphone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-solution-for-bcm2035a0-driver-troubles-learn-the-steps/"><u>Effortless Solution for BCM2035A0 Driver Troubles - Learn the Steps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevating-training-conversations-a-guide-to-perfecting-chatgpt-prompt-strategies/"><u>Elevating Training Conversations: A Guide to Perfecting ChatGPT Prompt Strategies</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-lava-blaze-pro-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Lava Blaze Pro 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-enhancing-m4a-listening-pleasure-advanced-tips-for-android-users/"><u>New In 2024, Enhancing M4A Listening Pleasure Advanced Tips for Android Users</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-mastering-silence-techniques-for-eliminating-sibilance-in-recordings-for-2024/"><u>New Mastering Silence Techniques for Eliminating Sibilance in Recordings for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/soundscape-seeking-outstanding-claps-and-cheers/"><u>Soundscape Seeking Outstanding Claps and Cheers</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-the-art-and-science-of-capturing-real-time-audio-for-digital-platforms-for-2024/"><u>Updated The Art and Science of Capturing Real-Time Audio for Digital Platforms for 2024</u></a></li>
 </ul></div>
 

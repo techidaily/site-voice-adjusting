@@ -1,7 +1,7 @@
 ---
 title: "Aria Review: Blending Novelty and Functionality"
-date: 2025-01-09T23:43:07.869Z
-updated: 2025-01-16T00:26:37.424Z
+date: 2025-01-18T19:27:18.034Z
+updated: 2025-01-21T17:14:59.240Z
 categories:
   - BestProducts
 description: "This Article Describes Aria Review: Blending Novelty and Functionality"
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
 ## Lenovo Thinkpad X1 Fold
 
 ![Lenovo Thinkpad X1 Fold](https://www.lifewire.com/thmb/nz6QQcRoYxT9-vZdRJvHnRqit6c=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_horiz_Lenovo-X1-Fold-1-14756f522df84525a64a007692b7a0ff.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Andy Zahn / Lifewire
 
@@ -51,7 +47,7 @@ Andy Zahn / Lifewire
 ![Lenovo Thinkpad X1 Fold](https://www.lifewire.com/thmb/m_vIjFrzd75ye5pEp_0Px7yJw4Y=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_horiz_Lenovo-X1-Fold-1-14756f522df84525a64a007692b7a0ff.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Andy Zahn / Lifewire
@@ -86,10 +82,14 @@ Andy Zahn / Lifewire
 ![Lenovo Thinkpad X1 Fold](https://www.lifewire.com/thmb/3KFmSYd3_u5cpUuIhOmkCh6JkRk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lenovo-X1-Fold-3-8b72e61b43a8491294d1ce6a241efa66.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Andy Zahn / Lifewire
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Design: Bizarre and beautiful shapeshifter
 
@@ -119,6 +119,10 @@ Andy Zahn / Lifewire
 
 Andy Zahn / Lifewire
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Display: Absolutely spectacular
 
  Whatever you may say about the other aspects of the X1 Fold and its daring design, the one thing that is beyond dispute is the quality of its high-resolution[OLED display](https://www.lifewire.com/oled-organic-led-4151091) . With a resolution of 2048x1536 in a 13.3-inch device, it delivers crystal clear detail, thanks to the resulting high pixel density, but the real star of the show is the OLED. The deep blacks and rich colors put other more traditional displays to shame, and to some extent, it helps justify the hefty price tag beyond the novelty of its folding design.
@@ -135,6 +139,10 @@ Andy Zahn / Lifewire
 
 Andy Zahn / Lifewire
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Navigation: A device of many inputs
 
  Using the X1 Fold is an interesting experience, to say the least, but despite being a bit rough around the edges, it really does deliver on its promise of flexibility. The[touchscreen](https://www.lifewire.com/what-is-a-touchscreen-4144770) is as responsive as any other, though when partly folded it can be somewhat tricky to tap things right on the crease.
@@ -147,15 +155,7 @@ Andy Zahn / Lifewire
 
 ![Lenovo Thinkpad X1 Fold](https://www.lifewire.com/thmb/SreHCwqxjjZpgsINWuMbPmtuOoE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lenovo-X1-Fold-9-6b25f0217be34b8d8b3685f8419206fe.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Andy Zahn / Lifewire
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Performance: A distinct lack of power
 
@@ -167,10 +167,6 @@ Andy Zahn / Lifewire
 
  The deep blacks and rich colors put other more traditional displays to shame, and to some extent, it helps justify the hefty price tag beyond the novelty of its folding design.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Software: Minimal bloatware
 
  Aside from a few built-in Lenovo and Microsoft apps, the X1 Fold came with very little bloatware installed. The Lenovo Commercial Vantage software was quite useful for checking the computer's status, installing updates, and managing the extra level of Wi-Fi security that Lenovo offers. Windows 10 itself functions surprisingly well, considering the constantly shifting way in which the X1 Fold is designed to function. There were only a few hiccups here and there as the device figured out my orientation or whether I’d attached the keyboard.
@@ -181,15 +177,7 @@ Andy Zahn / Lifewire
 
 ![Lenovo Thinkpad X1 Fold](https://www.lifewire.com/thmb/TzQnSBet8ESte9--b4aREI2Fo3A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lenovo-X1-Fold-4-f985e96cb6e741c083693c69311e91b7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Andy Zahn / Lifewire
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Camera: OK in good light
 
@@ -201,15 +189,27 @@ Andy Zahn / Lifewire
 
  Don’t plan on using the X1 Fold for anything more than the most basic of photo editing and graphic design applications.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Battery Life: Reasonably long-lasting
 
  Lenovo’s claims of 8.5 to 10.4 hours of battery life was fairly accurate. This is definitely adequate, though not terribly impressive by modern laptop standards. It will get you through a day of work without having to recharge, depending on use, of course.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Price: Bleeding money on the cutting edge
 
  As tested, the X1 Fold will set you back $2,750, and that is this brilliant device’s greatest Achilles heel. That much money would buy you a seriously powerful gaming laptop capable of so much more than the measly i5 processor and 8GB of RAM that power the X1 Fold. The tiny 256GB SSD is insultingly small. Its components would be more at home in a laptop one third the price. However, with the X1 Fold, you’re not paying for power, and it's really up to you to judge if the neat tricks justify the cost, though that beautiful OLED certainly sweetens the deal.
 
 ![Lenovo Thinkpad X1 Fold](https://www.lifewire.com/thmb/jI8D6QycYNFCrYWyKfFsEeNKMBQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lenovo-X1-Fold-2-f2581e0132f740469409d73a90c10ce6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Andy Zahn / Lifewire
 
@@ -225,15 +225,15 @@ Andy Zahn / Lifewire
 
  One look at the Lenovo Thinkpad X1 Fold and you know it's something completely new. Its large, foldable screen and clever design paired with well-integrated accessories allows it to morph to fit a variety of different use cases. However, there’s no getting around the painfully high price point, mediocre performance, and all the little flaws that are the hallmark of a first-generation product.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Lenovo Chromebook C330](https://www.lifewire.com/lenovo-chromebook-c330-review-4777109)
 * [Lenovo Ideapad 14](https://www.lifewire.com/lenovo-ideapad-laptop-review-4843583)
 * [Lenovo 130S](https://www.lifewire.com/lenovo-130s-review-4843631)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -272,19 +272,20 @@ Andy Zahn / Lifewire
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-strategic-media-mapping-charting-your-course-against-competitors-videos-for-2024/"><u>[Updated] Strategic Media Mapping Charting Your Course Against Competitors' Videos for 2024</u></a></li>
-<li><a href="https://discover-help.techidaily.com/dvdvlc100/"><u>DVDファイルがVLCプレイヤー上で見難い?この詳しい方法で100%再生可能にする - 初心者も完全成功</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-apple-studio-display-stunning-27-inch-5k-screen-with-high-costs-a-must-have-or-just-too-expensive/"><u>Exploring the Apple Studio Display: Stunning 27-Inch 5K Screen with High Costs – A Must-Have or Just Too Expensive?</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-nokia-c12-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Nokia C12? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-15-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone 15 Pro? | Stellar</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-12-mini-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 12 mini to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-apple-iphone-8-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From Apple iPhone 8 in the Best Ways</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unlock-videos-free-effect-sites-ranked/"><u>Unlock Videos Free Effect Sites Ranked</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-mastering-your-podcast-sound-with-these-10-premier-audio-editing-software-options-free-or-paid/"><u>Updated In 2024, Mastering Your Podcast Sound with These 10 Premier Audio Editing Software Options (Free or Paid)</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-sony-vegas-audio-editor-how-to-edit-audio-in-vegas-pro/"><u>Updated Sony Vegas Audio Editor How to Edit Audio in Vegas Pro</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-sound-purification-techniques-how-to-combat-persistent-echoes-and-hiss/"><u>Updated Sound Purification Techniques How to Combat Persistent Echoes and Hiss</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-top-10-acapella-extractors-online-and-on-the-go-solutions-for-2024/"><u>Updated Top 10 Acapella Extractors Online and On-the-Go Solutions for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-top-8-free-and-premium-tools-to-enhance-your-logic-pro-x-experience/"><u>Updated Top 8 Free and Premium Tools to Enhance Your Logic Pro X Experience</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-unveiling-8-crucial-video-game-auditory-elements-all-free/"><u>Updated Unveiling 8 Crucial Video Game Auditory Elements - All Free</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/aily-digital-domination-top-10-youtube-viewership-ranking/"><u>[New] Daily Digital Domination Top 10 YouTube Viewership Ranking</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-guide-to-overcoming-mobile-video-sending-problems-in-fb-chat/"><u>2024 Approved Guide to Overcoming Mobile Video Sending Problems in FB Chat</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-mastering-music-a-curated-list-of-the-best-5-mp3-compatible-audio-combiners-for-mac/"><u>2024 Approved Mastering Music A Curated List of the Best 5 MP3 Compatible Audio Combiners for Mac</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-the-secret-ingredient-to-learning-top-ideas-for-combining-tasks-with-talk-shows/"><u>2024 Approved The Secret Ingredient to Learning Top Ideas for Combining Tasks with Talk Shows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-samsung-galaxy-f54-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Samsung Galaxy F54 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/5-crucial-considerations-when-shopping-for-your-next-activity-monitor/"><u>5 Crucial Considerations When Shopping for Your Next Activity Monitor</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-revolutionizes-browsing-top-8-productive-chrome-extensions-powered-by-machine-learning/"><u>AI Revolutionizes Browsing: Top 8 Productive Chrome Extensions Powered by Machine Learning</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/final-cut-pros-audio-mastery-unlocking-potential-through-waveform-graphics-and-animated-soundscapes-for-2024/"><u>Final Cut Pros Audio Mastery Unlocking Potential Through Waveform Graphics and Animated Soundscapes for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-audio-annihilation-101-instructions-to-remove-unwanted-sounds-from-video-clips-on-windows-and-mac/"><u>In 2024, Audio Annihilation 101 Instructions to Remove Unwanted Sounds From Video Clips on Windows & Mac</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-syncing-yt-beats-with-visual-timelines/"><u>In 2024, Syncing YT Beats with Visual Timelines</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-best-mac-compatible-soundboard-options-a-five-pack-review/"><u>New 2024 Approved Best Mac-Compatible Soundboard Options A Five-Pack Review</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-top-ranked-ringtones-to-enhance-your-call-experience/"><u>New In 2024, Top-Ranked Ringtones to Enhance Your Call Experience</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/sound-seekers-sanctuary-download-and-listen-to-songs-for-2024/"><u>Sound Seeker's Sanctuary Download & Listen To Songs for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/sh-growth-potential-simple-strategies-for-video-success/"><u>Unleash Growth Potential Simple Strategies for Video Success</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-step-by-step-creating-fade-inout-sequences-for-dynamic-audio/"><u>Updated 2024 Approved Step-by-Step Creating Fade In/Out Sequences for Dynamic Audio</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Smooth Gaming Experience Achieved: Cyberpunk 2077'S Lag and Stuttering Solved!"
-date: 2025-01-11T16:17:22.724Z
-updated: 2025-01-15T21:39:30.581Z
+date: 2025-01-15T23:41:36.616Z
+updated: 2025-01-21T19:54:59.968Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/5396014f071443efd9e1f13ed6c2f299f41c76737
 
 Cyperpunk 2077 has been out for a while now, and there’re still reports about unstable FPS and laggy gameplay on Windows. If you’re on the same boat, don’t worry. Here’re some proven fixes you can try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that gives you luck.
@@ -27,6 +31,10 @@ Cyperpunk 2077 has been out for a while now, and there’re still reports about 
 4. [**Install all Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Enable HAGS (hardware-accelerated GPU scheduling)**](https://www.drivereasy.com/knowledge/solved-cyberpunk-2077-fps-drops/#fix5)
 6. **[Change in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your specs meet the requirements
 
@@ -56,10 +64,6 @@ Cyperpunk 2077 has been out for a while now, and there’re still reports about 
 
  If your setup is powerful enough for this title, you can continue to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Change your Power Plan to Ultimate Performance
 
  Windows users can control the way their PC uses power by selecting different power schemes. In the Windows 10 April 2018 update, Microsoft rolled out a power plan called Ultimate Performance, which could purportedly make the most of your hardware. So you can try this plan and see how it goes.
@@ -70,15 +74,15 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select **Ultimate Performance** . If you don’t see this power plan, simply continue to the next step to unhide it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press the **Windows logo key** and type **cmd** . Select **Run as Administrator** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press **Enter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this, **return to step 2** to enable the Ultimate Performance power plan.  
@@ -119,10 +123,6 @@ First visit the website of your graphics card manufacturer:
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if Cyberpunk 2077 runs smoother.
@@ -130,7 +130,7 @@ First visit the website of your graphics card manufacturer:
  If updating the graphics driver doesn’t work for you, simply check out the next method below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
@@ -143,11 +143,11 @@ And here’s a simple guide for that:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Then wait for Windows to download and install the available system updates.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  If you haven’t been updating for a while,**repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -156,7 +156,7 @@ And here’s a simple guide for that:
  If this method doesn’t help you, take a look at the next one below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Enable HAGS (hardware-accelerated GPU scheduling)
@@ -171,12 +171,12 @@ And here’s enable HAGS:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-02.jpg)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn on **Hardware-accelerated GPU scheduling** .  
@@ -198,10 +198,6 @@ To change the in-game graphics settings, simply follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-1.jpg)
 2. Navigate to the**GAMEPLAY** tab. Under the**Performance** section, set**Crowd Density** to**Low** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-2.jpg)
 3. Under the**Miscellaneous** section, set**Enable Analytics** to**OFF** .  
 
@@ -212,6 +208,10 @@ To change the in-game graphics settings, simply follow these steps:
 5. The next two settings are optional. You can try turning off**Ray Tracing** and see if it improves the performance.**DLSS** is a new RTX technology that uses AI to boost your FPS. (Sounds fancy.) You can try setting it to**Performance** or**Ultra Performance** and see if it really helps. (Doing so might make the game seem blurry.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  For more tuning details, check out[this article](https://www.tomshardware.com/news/cyberpunk-2077-pc-benchmarks-settings-performance-analysis) .
 
@@ -234,18 +234,22 @@ To change the in-game graphics settings, simply follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-navigate-youtube-success-a-compreehensive-guide-to-analytics/"><u>[New] In 2024, Navigate YouTube Success A Compreehensive Guide to Analytics</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-activate-funimate-pro-with-a-simple-apk-click/"><u>[Updated] Activate Funimate Pro with a Simple APK Click</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-deciphering-the-language-of-youtube-live-images/"><u>[Updated] Deciphering the Language of YouTube Live Images</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-crafting-timeless-videos-with-historical-flair/"><u>[Updated] In 2024, Crafting Timeless Videos with Historical Flair</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/actions-to-take-on-faulty-surveillance-feed/"><u>Actions to Take on Faulty Surveillance Feed</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/full-review-of-the-latest-facetune-features-and-fixes-for-2024/"><u>Full Review of the Latest Facetune Features and Fixes for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-evaluating-magix-samplitudes-market-position-against-other-audio-editing-suites/"><u>In 2024, Evaluating MAGIX Samplitudes Market Position Against Other Audio Editing Suites</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-depth-analysis-of-sound-forges-audio-processing-features-for-2024/"><u>In-Depth Analysis of Sound Forges Audio Processing Features for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/leading-internet-mp3-editing-solution/"><u>Leading Internet MP3 Editing Solution</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-auditory-excellence-pinpointing-the-best-songs-to-accompany-your-montage-narrative/"><u>New Auditory Excellence Pinpointing the Best Songs to Accompany Your Montage Narrative</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-echo-eradication-professional-strategies-for-silencing-unwanted-acoustic-features-for-2024/"><u>Updated Echo Eradication Professional Strategies for Silencing Unwanted Acoustic Features for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-the-essential-list-of-top-10-audio-editors-for-windows-and-mac-platforms/"><u>Updated In 2024, The Essential List of Top 10 Audio Editors for Windows & Mac Platforms</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/viral-vibes-a-guide-to-memetic-magic-for-2024/"><u>Viral Vibes A Guide to Memetic Magic for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-peak-creation-suite-insightful-2023-analysis/"><u>[New] Peak Creation Suite Insightful 2023 Analysis</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/discover-the-ultimate-tips-to-eliminate-packet-loss-on-your-discord-chat/"><u>Discover the Ultimate Tips to Eliminate Packet Loss on Your Discord Chat</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-gigabyte-sound-card-drivers-for-optimal-performance/"><u>Free Download: Gigabyte Sound Card Drivers for Optimal Performance</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-gt-neo-5-phone-without-pin-by-drfone-android/"><u>How to Unlock Realme GT Neo 5 Phone without PIN</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-11-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock OnePlus 11 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-top-5-psone-emulators-perfect-play-on-your-pc/"><u>In 2024, Top 5 PsOne Emulators Perfect Play on Your PC</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/leading-6-digital-sound-snipping-applications-for-2024/"><u>Leading 6 Digital Sound Snipping Applications for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/neptune-display-premium-4k-all-in-one-screens/"><u>Neptune Display Premium 4K All-in-One Screens</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-mastering-sound-intervals-techniques-for-manipulating-audio-timestamps-in-final-cut-pro-x/"><u>New 2024 Approved Mastering Sound Intervals Techniques for Manipulating Audio Timestamps in Final Cut Pro X</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-efficient-methods-for-turning-whatsapp-audio-into-mp3-files-in-minutes/"><u>New Efficient Methods for Turning WhatsApp Audio Into MP3 Files in Minutes</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-best-10-volume-boosters-for-windows-increase-volume-right-now/"><u>New In 2024, Best 10 Volume Boosters for Windows-Increase Volume Right Now</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-proven-strategies-for-selecting-elite-sound-engineers-in-modern-filmmaking/"><u>New In 2024, Proven Strategies for Selecting Elite Sound Engineers in Modern Filmmaking</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-noise-reduction-for-video-streams-a-comprehensive-guide-to-muting-background-audio-online-for-2024/"><u>New Noise Reduction for Video Streams A Comprehensive Guide to Muting Background Audio Online for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-omegle-uncovered-delving-into-internet-based-social-sessions-security-landscape-for-2024/"><u>New Omegle Uncovered Delving Into Internet-Based Social Sessions Security Landscape for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-revitalize-audio-diminishments-in-video-presentation-for-2024/"><u>New Revitalize Audio Diminishments in Video Presentation for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-journey-through-original-diablo/"><u>Step-by-Step Journey Through Original Diablo</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782114-9781594779336-thomas-berry-dreamer-of-the-earth/"><u>Thomas Berry, Dreamer of the Earth | Free Book</u></a></li>
 </ul></div>
 

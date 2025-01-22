@@ -1,7 +1,7 @@
 ---
 title: What To Do When Your iPhone's Mute Function Isn't Working
-date: 2025-01-12T17:54:24.121Z
-updated: 2025-01-15T18:22:51.952Z
+date: 2025-01-16T21:44:15.345Z
+updated: 2025-01-21T17:43:01.816Z
 tags:
   - iphone
   - apple
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/28b1ebd463673cb8f4ec1dcff8b4e8726440d728e
 
  Well, there are a couple of ways you can mute or unmute your iPhone when its Ring/Silent switch is broken. Follow along, and we'll show you both these methods.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Mute or Unmute iPhone Using AssistiveTouch
 
 [AssistiveTouch is an accessibility feature](https://www.makeuseof.com/create-virtual-iphone-home-button-with-assistivetouch/) that simplifies performing various operations on the iPhone. Among other things, this also includes muting and unmuting the iPhone, and there are three ways you can do this with AssistiveTouch. First, let's start with the basic approach:
@@ -34,13 +30,13 @@ thumbnail: https://thmb.techidaily.com/28b1ebd463673cb8f4ec1dcff8b4e8726440d728e
 ![iPhone Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Touch settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![enabling AssistiveTouch on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-4.jpg)
@@ -50,10 +46,6 @@ Close
 * When you want to mute your iPhone, tap the AssistiveTouch (virtual) button on the screen, select**Device** from the menu, and hit**Mute** .
 
 ![AssistiveTouch top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Mute option in AssistiveTouch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-6.jpg)
 
@@ -79,10 +71,6 @@ Close
 
 ![AssistiveTouch settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![customizing AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-2.jpg)
 
 ![adding a new button to the AssistiveTouch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-3.jpg)
@@ -90,10 +78,6 @@ Close
 ![selecting Mute action for the new AssistiveTouch button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-4.jpg)
 
 ![Mute action in AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -110,15 +94,23 @@ Follow these simple instructions to get this done:
 
 ![AssistiveTouch settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![adding Mute action to Double-Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
 
  Once set up, muting and unmuting your iPhone should be even easier. Simply perform the gesture to which you've assigned the Mute action, and it'll mute the device. Repeat it again to unmute.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Mute or Unmute iPhone Using Back Tap
 
@@ -131,6 +123,10 @@ Close
 
 ![iPhone Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Back Tap feature under Touch Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-2.jpg)
 
 Close
@@ -142,10 +138,14 @@ Close
 
 ![Back Tap gesture options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![setting Mute action to a Back Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -175,21 +175,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-ignite-the-flames-strategies-for-growing-your-youtube-audience/"><u>[Updated] Ignite the Flames Strategies for Growing Your YouTube Audience</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-top-tools-for-efficient-video-capture-on-windows-11/"><u>[Updated] Top Tools for Efficient Video Capture on Windows 11</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/complete-examination-screenflow-full-features-for-mac/"><u>Complete Examination ScreenFlow Full Features for Mac</u></a></li>
-<li><a href="https://win11.techidaily.com/ease-up-on-the-graphics-winwm-usage-optimization-tips/"><u>Ease Up on the Graphics: WinWM Usage Optimization Tips</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-adventure-essentials-top-10-gopro-protectors-reviewed/"><u>In 2024, Adventure Essentials - Top 10 GoPro Protectors Reviewed</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-flickerframe-repository-review/"><u>In 2024, FlickerFrame Repository Review</u></a></li>
-<li><a href="https://win11.techidaily.com/reignite-the-joy-of-win-11-gaming-master-these-seven-game-changing-tweaks/"><u>Reignite the Joy of Win 11 Gaming: Master These Seven Game-Changing Tweaks</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/streamlining-screenshot-tasks-in-minutes-for-2024/"><u>Streamlining Screenshot Tasks in Minutes for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-maximizing-your-m4a-experience-android-audio-file-handling-guide-for-2024/"><u>Updated Maximizing Your M4A Experience Android Audio File Handling Guide for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-streamlining-creativity-top-10-plugin-essentials-for-efficient-media-production/"><u>Updated Streamlining Creativity Top 10 Plugin Essentials for Efficient Media Production</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-the-essential-guide-to-adding-audio-content-to-your-powerpoint-slides-on-pcmac-devices/"><u>Updated The Essential Guide to Adding Audio Content to Your PowerPoint Slides on PC/Mac Devices</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-the-pros-pathway-to-purging-percussion-from-digital-melodies-for-2024/"><u>Updated The Pros Pathway to Purging Percussion From Digital Melodies for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-the-ultimate-selection-8-premium-daws-shaping-the-future-of-hip-hop-beats/"><u>Updated The Ultimate Selection 8 Premium DAWs Shaping the Future of Hip-Hop Beats</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-top-10-mobile-nature-sound-experiences-ios-and-android-edition-for-2024/"><u>Updated Top 10 Mobile Nature Sound Experiences IOS & Android Edition for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-top-3-budget-friendly-methods-to-transcribe-sound-into-words-detailed-processes-2023-for-2024/"><u>Updated Top 3 Budget-Friendly Methods to Transcribe Sound Into Words Detailed Processes - 2023 for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-vivo-v27-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Vivo V27 Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/yakuza-like-a-dragon-game-evaluation-the-essential-role-playing-adventure/"><u>'Yakuza: Like a Dragon' Game Evaluation: The Essential Role-Playing Adventure</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-exploring-the-core-inside-apples-m1-innovation/"><u>[New] In 2024, Exploring the Core Inside Apple’s M1 Innovation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-airwaves-to-your-iphone-mastery-of-podcast-downloads/"><u>2024 Approved From Airwaves to Your iPhone Mastery of Podcast Downloads</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/easy-gif-to-video-transformation-top-5-no-download-options/"><u>Easy GIF to Video Transformation Top 5 No-Download Options</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-switch-off-your-iphone-15-pro-or-pro-max-efficiently-a-comprehensive-guide/"><u>How to Switch Off Your iPhone 15 Pro or Pro Max Efficiently: A Comprehensive Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-evaluating-magix-samplitudes-market-position-against-other-audio-editing-suites/"><u>In 2024, Evaluating MAGIX Samplitudes Market Position Against Other Audio Editing Suites</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/leading-internet-mp3-editing-solution/"><u>Leading Internet MP3 Editing Solution</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-how-to-fade-in-and-fade-out-audio-in-adobe-after-effects-effortlessly/"><u>New 2024 Approved How to Fade In and Fade Out Audio in Adobe After Effects Effortlessly</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-auditory-excellence-pinpointing-the-best-songs-to-accompany-your-montage-narrative/"><u>New Auditory Excellence Pinpointing the Best Songs to Accompany Your Montage Narrative</u></a></li>
+<li><a href="https://win-able.techidaily.com/successful-strategies-for-resolving-the-witcher-3-unable-to-launch-issue/"><u>Successful Strategies For Resolving The Witcher 3 Unable-To-Launch Issue</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ated-asmr-mic-picks-for-quality-sound/"><u>Top-Rated ASMR Mic Picks for Quality Sound</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-eliminating-background-noise-on-tiktok-videos-a-comprehensive-guide-for-2024/"><u>Updated Eliminating Background Noise on TikTok Videos A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-the-quiet-revolution-cutting-edge-approaches-to-taming-sibilance-in-audio-editing-for-2024/"><u>Updated The Quiet Revolution Cutting-Edge Approaches to Taming Sibilance in Audio Editing for 2024</u></a></li>
 </ul></div>
 
