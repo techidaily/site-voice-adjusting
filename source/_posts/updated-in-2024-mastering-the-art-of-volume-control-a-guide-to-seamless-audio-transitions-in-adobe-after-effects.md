@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Mastering the Art of Volume Control A Guide to Seamless Audio Transitions in Adobe After Effects
-date: 2025-01-16T21:26:45.174Z
-updated: 2025-01-21T16:03:48.189Z
+date: 2025-01-28T17:27:10.145Z
+updated: 2025-01-29T16:14:29.464Z
 tags: 
   - audio editing software
   - audio editing
@@ -32,6 +32,10 @@ However, you will need to have at least basic video and sound editing skills to 
 
 ## Adding the Fade In and Fade Out Effects to Audio Files in AE
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 1: Check audio waveform in After Effects
 
 Once you've created a new project in AE and you've imported the audio files you'd like to include in the soundtrack of the video you're making, you should place that audio file on the timeline. Click on the arrow located next to the audio file, then click on the Audio arrow that will be displayed under the file, and finally click on the Waveform arrow. This will enable you to see the waveform of the audio file you'd like to edit on the timeline and allow you to add Fade in and fade out effects with more precision. The file you added to your composition will be displayed as a layer in the Composition tab located in the lower-left region of the software's interface.
@@ -39,7 +43,7 @@ Once you've created a new project in AE and you've imported the audio files you'
 ![fade out/in audio waveform after effects](https://images.wondershare.com/filmora/filmorapro/fade-out-in-audio-after-effects-waveform.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2: Add a keyframe to the audio file
@@ -48,11 +52,11 @@ The next thing you will have to do is place the playhead at the exact location w
 
 ![Add keyframe to fade out/in audio](https://images.wondershare.com/filmora/filmorapro/add-keyframe-fade-in-out-audio.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You may also like: [15 Free After Effects Templates to Power up Your Video](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 3: Complete Fade out/in audio in After Effects
 
@@ -71,16 +75,12 @@ A high pitch sound at the very begging of a new sequence can ruin your soundtrac
 You may also like: [How to Cut Video in After Effects](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Be Mindful of Audio Compression
 
 [Audio compression](https://theproaudiofiles.com/compression-techniques/) is a process that reduces loud sounds and amplifies quiet sounds, resulting from the audio file's dynamic range being compressed. In most cases, you won't notice the effects of audio compression, but if you compress an audio file too much, you might get some unwanted side effects if you add a fade out effect to that file. That's why it is best to rely on the default audio compression features a video or audio editing app offers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Use the Fade In and Fade Out Effects Creatively
 
@@ -95,7 +95,7 @@ If you want to fade in/out audio easily, we recommend using [Filmora](https://to
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -113,20 +113,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/approved-maximizing-youtube-visibility-with-key-hashtags/"><u>2024 Approved Maximizing YouTube Visibility with Key #Hashtags</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-transforming-social-interactions-on-xbox-mastering-zoom/"><u>2024 Approved Transforming Social Interactions on Xbox Mastering Zoom</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-epson-xp-410-drivers-for-windows-pcs-comprehensive-steps-and-downloads/"><u>Easy Installation of Epson XP-410 Drivers for Windows PCs: Comprehensive Steps and Downloads</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Motorola Razr 40? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-laughlens-creator/"><u>In 2024, LaughLens Creator</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-top-picks-next-gen-vr-handwear/"><u>In 2024, Unveiling Top Picks Next Gen VR Handwear</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubes-latest-payment-regulations/"><u>In 2024, YouTube's Latest Payment Regulations</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ize-attention-try-these-7-budget-friendly-tools-for-2024/"><u>Maximize Attention - Try These 7 Budget-Friendly Tools for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-how-to-generate-a-noise-free-avi-version-for-presentation-purposes/"><u>New In 2024, How to Generate a Noise-Free AVI Version for Presentation Purposes</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-revealed-the-5-superior-mac-compatible-audio-mixers-for-2024/"><u>New Revealed The 5 Superior Mac-Compatible Audio Mixers for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/nighttime-storyscapes-in-moving-pictures/"><u>Nighttime Storyscapes in Moving Pictures</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-locate-vocal-noise-sample/"><u>Updated 2024 Approved Locate Vocal Noise Sample</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-audio-extractor-how-to-extract-audio-from-video/"><u>Updated In 2024, Audio Extractor How to Extract Audio From Video</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-sneak-peek-into-the-secret-of-silent-videos-in-windows-10-no-additional-software/"><u>Updated In 2024, Sneak Peek Into the Secret of Silent Videos in Windows 10 (No Additional Software)</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-navigating-through-music-production-software-landscape-can-magix-samplitude-be-considered-supreme-in-2024/"><u>Updated Navigating Through Music Production Software Landscape Can MAGIX Samplitude Be Considered Supreme, In 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-coherent-and-curated-youtube-playlists-online-and-mobile-assembly-guide/"><u>[New] Coherent and Curated YouTube Playlists Online & Mobile Assembly Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-outro-aesthetics-selecting-templates-any-budget/"><u>[New] In 2024, Outro Aesthetics Selecting Templates, Any Budget</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-chart-success-using-youtube-statistics-to-grow-engagement/"><u>[Updated] In 2024, Chart Success Using YouTube Statistics to Grow Engagement</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-streamlining-your-workflow-our-selection-of-the-6-best-automatic-transcription-programs/"><u>In 2024, Streamlining Your Workflow Our Selection of the 6 Best Automatic Transcription Programs</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-top-8-digital-audio-workstations-your-ultimate-guide-for-producing-high-quality-music/"><u>In 2024, Top 8 Digital Audio Workstations Your Ultimate Guide for Producing High-Quality Music</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/mastering-the-art-of-choosing-background-tunes-for-visual-media-for-2024/"><u>Mastering the Art of Choosing Background Tunes for Visual Media for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-xiaomi-14-pro-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Xiaomi 14 Pro and stops randomly</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-exclusive-voip-services-designed-for-the-modern-game-player/"><u>New Exclusive VoIP Services Designed for the Modern Game Player</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-mastering-audio-editing-removing-sound-from-films-with-imovie/"><u>New Mastering Audio Editing Removing Sound From Films with iMovie</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-fix-it-list-reviving-sound-on-your-glitchy-airpods-in-10-steps/"><u>The Ultimate Fix-It List: Reviving Sound on Your Glitchy AirPods in 10 Steps</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/top-of-the-line-free-file-recovery-tools-get-instant-access-and-complimentary-downloads/"><u>Top-of-the-Line Free File Recovery Tools : Get Instant Access & Complimentary Downloads</u></a></li>
 </ul></div>
 

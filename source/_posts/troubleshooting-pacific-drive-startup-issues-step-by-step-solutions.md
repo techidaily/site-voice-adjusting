@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Pacific Drive Startup Issues: Step-by-Step Solutions"
-date: 2025-01-16T02:03:30.442Z
-updated: 2025-01-22T00:22:36.123Z
+date: 2025-01-25T16:31:56.785Z
+updated: 2025-01-29T16:27:06.658Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/f0ebe7bbeaa83391f6bb15edc8e752caf5cabced7
 
 **Control keeps crashing on your PC?** Don’t worry…  
  Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -39,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/f0ebe7bbeaa83391f6bb15edc8e752caf5cabced7
 11. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics drivers
@@ -66,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/f0ebe7bbeaa83391f6bb15edc8e752caf5cabced7
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Stop overclocking
@@ -74,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/f0ebe7bbeaa83391f6bb15edc8e752caf5cabced7
  Many players would like to overclock the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking usually crashes the game. To prevent game crashes, you should reset the CPU or the graphics card to the manufacturer specifications.
 
  Some players reported that Control may crash when they’re using MSI Afterburner or Zotac Firestorm. So if you’ve enabled MSI Afterburner or Zotac Firestorm, try disabling them to see if this issue persists. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Use a reduced settings profile for graphics-related features
 
@@ -92,10 +92,6 @@ Here are the system requirements for Control:
  If you’re currently running Control with DirectX 12, it’s recommended that you run Control**with DirectX 11** to avoid the game crash issues.
 
  Restart the game to see if this fix works, if not, try the next fix below to modify your graphics card settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Modify your graphics card settings
 
@@ -130,10 +126,6 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
@@ -145,6 +137,10 @@ Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select Intel Graphics Settings to open it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click 3D to open the 3D settings.  
@@ -159,6 +155,10 @@ Here are the system requirements for Control:
 7. Click **Apply** to save the settings.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch Control again in reduced settings to see if it crashes or not. If the game still crashes, try the next fix, below.
 
@@ -194,10 +194,6 @@ Here are the system requirements for Control:
 
  After installing Microsoft Visual C++ 2013 and Microsoft .NET Framework, you need to restart Windows. Then launch Control to see if this issue persists. If not, congratulations, you’ve resolved this issue! If this issue reappears, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Install the latest Control patch
 
  Remedy Entertainment (the developer of Control) releases regular game patches to fix bugs and improve gaming performance. It’s possible that an older patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -213,19 +209,15 @@ Here are the system requirements for Control:
 2. Click **Verify** to start verifying the game files.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch Control again after you verified the integrity of the game files. If this issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 9: Add Control as an exception to your 3rd party antivirus software
@@ -235,6 +227,10 @@ Here are the system requirements for Control:
  Since Control consumes a lot of memory and CPU usage when you’re playing a game, many third-party antivirus applications may regard it as a potential threat and Control may not run as expected. You can try   **adding Control as an exception to your third-party antivirus application** .
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 10: Run Program Compatibility Troubleshooter
 
@@ -248,10 +244,14 @@ Here are the system requirements for Control:
 3. Double-click the shortcut of Control on your desktop to launch it. This time Control will run in the compatibility mode you set in step 2.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 See if this fix works for you. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 11: Reinstall the game
 
@@ -279,22 +279,20 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-the-art-of-surrendering-to-the-spectacle-posting-immersive-videos-on-facebook-for-2024/"><u>[New] The Art of Surrendering to the Spectacle Posting Immersive Videos on Facebook for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-cross-network-laughter-whos-tops-today/"><u>[Updated] In 2024, Cross-Network Laughter Who's Tops Today?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-listings-for-3d-type-creation/"><u>2024 Approved Ultimate Listings for 3D Type Creation</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/education-focused-offers-at-digiarty-unlock-your-classrooms-full-potential-with-special-pricing-for-students-and-schools/"><u>Education-Focused Offers at Digiarty – Unlock Your Classroom's Full Potential with Special Pricing for Students and Schools</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-advice-how-to-optimize-your-television-or-home-theater-for-the-ultimate-super-bowl-experience/"><u>Expert Advice: How to Optimize Your Television or Home Theater for the Ultimate Super Bowl Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-the-future-of-multiplayer-games-with-macos/"><u>Is the Future of Multiplayer Games with MacOS?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/modulation-is-a-key-technique-to-change-key-centers-within-music-adding-contrast-and-narrative-progression/"><u>Modulation Is a Key Technique to Change Key Centers Within Music, Adding Contrast and Narrative Progression.</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-chromebook-linux-installation-a-simple-step-by-step-process-updated/"><u>New Chromebook Linux Installation A Simple, Step-by-Step Process (Updated )</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/take-your-photography-to-new-heights-with-lightrooms-hdr-capabilities/"><u>Take Your Photography to New Heights with Lightroom’s HDR Capabilities</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-integrating-audio-seamlessly-techniques-for-film-editors-using-magix-movie-editor-2023/"><u>Updated Integrating Audio Seamlessly Techniques for Film Editors Using Magix Movie Editor 2023</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-maximizing-your-m4a-experience-android-audio-file-handling-guide-for-2024/"><u>Updated Maximizing Your M4A Experience Android Audio File Handling Guide for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-streamlining-creativity-top-10-plugin-essentials-for-efficient-media-production/"><u>Updated Streamlining Creativity Top 10 Plugin Essentials for Efficient Media Production</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-the-essential-guide-to-adding-audio-content-to-your-powerpoint-slides-on-pcmac-devices/"><u>Updated The Essential Guide to Adding Audio Content to Your PowerPoint Slides on PC/Mac Devices</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-the-pros-pathway-to-purging-percussion-from-digital-melodies-for-2024/"><u>Updated The Pros Pathway to Purging Percussion From Digital Melodies for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-the-ultimate-selection-8-premium-daws-shaping-the-future-of-hip-hop-beats/"><u>Updated The Ultimate Selection 8 Premium DAWs Shaping the Future of Hip-Hop Beats</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-top-10-mobile-nature-sound-experiences-ios-and-android-edition-for-2024/"><u>Updated Top 10 Mobile Nature Sound Experiences IOS & Android Edition for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-top-3-budget-friendly-methods-to-transcribe-sound-into-words-detailed-processes-2023-for-2024/"><u>Updated Top 3 Budget-Friendly Methods to Transcribe Sound Into Words Detailed Processes - 2023 for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-freevista-vistas-treasuring-the-visual-wealth-of-costless-tiktok-screens/"><u>[Updated] 2024 Approved The FREEvista Vistas Treasuring the Visual Wealth of Costless TikTok Screens</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-aspect-ratio-insights-for-engaging-youtube-thumbnails/"><u>[Updated] Aspect Ratio Insights for Engaging YouTube Thumbnails</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-maximizing-your-creations-uploading-imovie-videos-to-youtube-for-2024/"><u>[Updated] Maximizing Your Creations Uploading IMovie Videos to YouTube for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-bring-life-to-photos-using-snapchats-fun-cartoon-lenses/"><u>2024 Approved Bring Life to Photos Using Snapchat's Fun Cartoon Lenses</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-pro-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Pro Max without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/innovative-and-gratis-sound-editing-solutions-top-free-options-on-the-digital-frontier/"><u>Innovative and Gratis Sound Editing Solutions Top Free Options on the Digital Frontier</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-best-websites-to-download-nature-sounds/"><u>New 2024 Approved Best Websites to Download Nature Sounds</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-maximizing-your-m4a-experience-android-audio-file-handling-guide/"><u>New Maximizing Your M4A Experience Android Audio File Handling Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-premier-collection-of-popular-mobile-alert-melodies/"><u>New Premier Collection of Popular Mobile Alert Melodies</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-securing-purity-in-recordings-the-art-of-removing-hum-and-hissing-sounds-for-2024/"><u>New Securing Purity in Recordings The Art of Removing Hum and Hissing Sounds for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-compliance-gap-in-tactile-display-resolved/"><u>SOLVED: Compliance Gap in Tactile Display Resolved</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-vivo-v29e-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Vivo V29e for Streaming | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/ultimate-selection-top-rated-montage-anthems/"><u>Ultimate Selection Top-Rated Montage Anthems</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/unveiling-the-leading-mixers-5-highest-rated-audiovideo-combiner-devices/"><u>Unveiling the Leading Mixers 5 Highest Rated Audio/Video Combiner Devices</u></a></li>
 </ul></div>
 
