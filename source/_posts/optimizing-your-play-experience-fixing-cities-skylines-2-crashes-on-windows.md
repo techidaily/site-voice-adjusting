@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Your Play Experience: Fixing Cities: Skylines 2 Crashes on Windows"
-date: 2025-01-28T17:31:49.914Z
-updated: 2025-01-29T16:10:28.102Z
+date: 2025-02-04T17:40:11.376Z
+updated: 2025-02-09T21:57:40.728Z
 tags:
   - win11
   - win10
@@ -54,10 +54,6 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-00-43.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Check your operating system, processor,**and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-00-47.jpg)
@@ -85,6 +81,10 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
 **2)**  Right-click the **Steam icon**  and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-40-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click the**Compatibility** tab, then check**Run this program as an administrator** and click**OK** .
 
@@ -121,7 +121,7 @@ If your game crashes again, then try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-29_11-53-47.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you can’t click the button, or if rolling back to the previous version didn’t fix your issue, then move on and try updating your graphics driver.
@@ -170,7 +170,7 @@ If your issue persists, then move on to the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-04-38.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Click the **LOCAL FILES**  tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
@@ -208,7 +208,7 @@ If the game is still unplayable, check the next fix, below.
 If your game still won’t launch properly, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Check for Windows Firewall
@@ -239,16 +239,12 @@ If your game still won’t launch properly, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-17-25.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **7)** Remove all**_Total War: Warhammer_** entities from the list. Then, click OK.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-17-25-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **8)** Relaunch Steam and your game.
@@ -258,10 +254,14 @@ If your game still won’t launch properly, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-24-19.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this method doesn’t work for you, move on to try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Run your game in compatibility mode
 
@@ -271,21 +271,29 @@ If this method doesn’t work for you, move on to try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-05-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-05-16.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Click the list box below to select **Windows 7** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-05-21-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Relaunch your game to check if your issue had been resolved.
 
  If this didn’t work for you, you need to reopen the Properties Window and disable the Compatibility mode . Then, try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 9: Reinstall Steam
 
@@ -295,10 +303,6 @@ If this method doesn’t work for you, move on to try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-31-22.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back up it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-31-33.jpg)
@@ -306,10 +310,6 @@ If this method doesn’t work for you, move on to try the fix below.
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-31-39.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Under **View by** , select **Category** , then click**Uninstall a program** .
 
@@ -352,17 +352,24 @@ If this method doesn’t work for you, move on to try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-step-by-step-to-stunning-photomontages-for-2024/"><u>[New] Step-by-Step to Stunning Photomontages for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-navigating-copyright-on-youtube-and-cc-for-2024/"><u>[Updated] Navigating Copyright on YouTube & CC for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-complete-checklist-for-youtubes-resolution-width-and-height-settings/"><u>[Updated] The Complete Checklist for YouTube's Resolution, Width & Height Settings</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-top-5-essential-filming-accessories-for-online-creators/"><u>[Updated] Top 5 Essential Filming Accessories for Online Creators</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-school-apps-the-best-10-picks-for-high-school-students/"><u>Essential School Apps: The Best 10 Picks for High School Students</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-reset-and-customize-your-touch-panels-start-position/"><u>How to Reset and Customize Your Touch Panel's Start Position</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-tecno-pova-5-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Tecno Pova 5 Pro to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/insight-into-the-progressive-developments-of-nero-waveedit/"><u>Insight Into the Progressive Developments of Nero WaveEdit</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-cutting-edge-of-audio-production-adding-professional-voiceovers-to-your-vids/"><u>New 2024 Approved The Cutting-Edge of Audio Production Adding Professional Voiceovers to Your Vids</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-ultimate-list-of-8-chromebook-compatible-digital-audio-workstations-for-composers-and-producers/"><u>New 2024 Approved The Ultimate List of 8 Chromebook-Compatible Digital Audio Workstations for Composers and Producers</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-elevate-your-mac-experience-master-the-art-of-sound-recording-with-these-5-proven-tips-for-2024/"><u>New Elevate Your Mac Experience Master the Art of Sound Recording with These 5 Proven Tips for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-simplify-your-edit-the-top-video-editing-apps-for-4k-proxy-videos-this-year/"><u>Updated 2024 Approved Simplify Your Edit The Top Video Editing Apps for 4K Proxy Videos This Year</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-download-ultimate-driver-package-for-creative-sound-blaster-audigy/"><u>[Free Download] Ultimate Driver Package for Creative Sound Blaster Audigy</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-stand-out-with-visual-flair-bordered-video-tutorials/"><u>[New] 2024 Approved Stand Out with Visual Flair Bordered Video Tutorials</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-masterclass-in-youtube-video-previews-and-trailers/"><u>[Updated] Masterclass in YouTube Video Previews and Trailers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/5-best-vpn-for-netflix/"><u>5 Best VPN for Netflix</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-honor-x8b-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Honor X8b without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-itel-a60-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-expert-video-editing-techniques-for-instagram-success/"><u>In 2024, Expert Video Editing Techniques for Instagram Success</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-top-10-free-and-paid-tools-for-converting-podcasts-into-written-format/"><u>New Top 10 Free & Paid Tools for Converting Podcasts Into Written Format</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/premiere-pro-audio-separation-detailed-instructions-for-a-clear-cut-for-2024/"><u>Premiere Pro Audio Separation Detailed Instructions for a Clear Cut for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ise-approach-affordable-creation-of-engaging-youtube-intros/"><u>Stepwise Approach Affordable Creation of Engaging YouTube Intros</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-art-of-auditory-transformation-replacing-audio-in-videos-step-by-step-for-2024/"><u>The Art of Auditory Transformation Replacing Audio in Videos Step by Step for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-insiders-guide-to-dts-virtual-x-revolutionizing-audio-quality/"><u>The Insider's Guide to DTS Virtual X: Revolutionizing Audio Quality</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlock-creative-expression-mastering-jump-cut-usage-for-2024/"><u>Unlock Creative Expression Mastering Jump Cut Usage for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-download-8-best-audio-spectrum-templates-for-video/"><u>Updated 2024 Approved Download 8 Best Audio Spectrum Templates for Video</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-essential-audioscape-a-list-of-prime-online-hubs-for-free-movie-clip-tracks/"><u>Updated 2024 Approved Essential Audioscape A List of Prime Online Hubs for Free Movie Clip Tracks</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-auditory-decline-trends-in-adobe-rush-update-2023/"><u>Updated Auditory Decline Trends in Adobe Rush Update 2023</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-best-nature-sounds-apps-for-ios-and-android-for-2024/"><u>Updated Best Nature Sounds Apps for iOS and Android for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-best-sound-remover-from-video-windowsmaconline-for-2024/"><u>Updated Best Sound Remover From Video Windows/Mac/Online for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-become-an-expert-at-uncomplicated-podcasting-a-stepwise-manual-to-success-2023-guidebook/"><u>Updated In 2024, Become an Expert at Uncomplicated Podcasting A Stepwise Manual to Success 2023 Guidebook</u></a></li>
 </ul></div>
 

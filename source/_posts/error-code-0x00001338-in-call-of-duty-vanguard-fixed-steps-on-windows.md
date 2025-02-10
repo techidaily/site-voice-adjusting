@@ -1,7 +1,7 @@
 ---
 title: Error Code 0X00001338 in Call of Duty Vanguard - Fixed Steps on Windows
-date: 2025-01-25T17:09:01.968Z
-updated: 2025-01-29T17:12:03.968Z
+date: 2025-02-05T21:25:22.659Z
+updated: 2025-02-10T01:43:38.273Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/716b773a3a0bbb4238a628ab28cfde8731d3dd391
 
 Call of Duty is a free-to-play first-person shooter game for everyone. It was relaunched as_Warzone: Pacific_ that has a brand new map for players to explore. However, players are facing all sorts of issues, consistently crashing has ruined patience and enthusiasm for the game. The Caldera map is fun for varied and interesting design, but it was tarnished with a bad launch.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  There’re 5 fixes that have helped many gamers solve their problems. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -27,10 +31,6 @@ Call of Duty is a free-to-play first-person shooter game for everyone. It was re
 4. [Change the in-game settings](https://tools.techidaily.com/drivereasy/download/)
 5. [Reinstall Warzone Pacific](https://tools.techidaily.com/drivereasy/download/)
 6. [Repair system files](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Check the minimum requirements
 
@@ -43,10 +43,6 @@ Call of Duty is a free-to-play first-person shooter game for everyone. It was re
 | GPU          | NVIDIA GeForce GTX 670 / GeForce GTX 1650 or Radeon HD 7950 |
 | Direct X     | DirectX 12.0 compatible system                              |
 | Video Memory | 2 GB                                                        |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -77,12 +73,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Relaunch Call of Duty: Warzone Pacific and check.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Rename the file folder
 
@@ -95,6 +91,10 @@ OR
 5. Launch Warzone Pacific to check if the issue persists.
 
  If this method doesn’t resolve the issue, you can restore the changes with the backup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Change the in-game settings
 
@@ -116,6 +116,10 @@ If it fixes the issue then slowly increase your graphics settings.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-20_18-43-03.jpg)
 3. Set**View by Category** . Click**Uninstall the program** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-20_18-43-17.jpg)
 4. Find MW and Battle.net. Right-click on it and click**Unistall/Change** .  
 
@@ -127,7 +131,7 @@ If it fixes the issue then slowly increase your graphics settings.
 8. Relaunch the game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Repair system files
@@ -140,10 +144,6 @@ If it fixes the issue then slowly increase your graphics settings.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
@@ -172,18 +172,14 @@ If it fixes the issue then slowly increase your graphics settings.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-depth-analysis-of-live-streaming-tech-for-2024/"><u>[New] In-Depth Analysis of Live Streaming Tech for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-optimized-introduction-video-tips-the-best-16-to-increase-views/"><u>[Updated] Optimized Introduction Video Tips The Best 16 to Increase Views</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-metaverse-race-begins-dont-miss-these-7-essential-tools/"><u>[Updated] The Metaverse Race Begins Don't Miss These 7 Essential Tools</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-immersive-escapades-testing-the-latest-lg-vr-headset/"><u>2024 Approved Immersive Escapades Testing the Latest LG VR Headset</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/diving-into-video-quality-dslr-vs-mirrorless-cameras-for-2024/"><u>Diving Into Video Quality DSLR vs Mirrorless Cameras for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/mastering-video-editing-basics-on-windows-8-movie-maker/"><u>Mastering Video Editing Basics on Windows 8 Movie Maker</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-the-ultimate-list-10-meme-creation-apps-for-mobile/"><u>New In 2024, The Ultimate List 10 Meme Creation Apps for Mobile</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/simplified-hangul-learning-your-guide-to-seamless-script-acquisition/"><u>Simplified Hangul Learning: Your Guide to Seamless Script Acquisition</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/the-untold-journey-of-an-instagram-story-enthusiast-for-2024/"><u>The Untold Journey of an Instagram Story Enthusiast for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-essential-auditory-backtracking-applications-the-best-software-selection/"><u>Updated In 2024, Essential Auditory Backtracking Applications The Best Software Selection</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-leading-eight-speech-to-text-platforms-for-pc-apple-devices-and-virtual-environments-updated-guide/"><u>Updated In 2024, Leading Eight Speech-to-Text Platforms for PC, Apple Devices & Virtual Environments - Updated Guide</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-reducing-ambient-acoustic-disturbances-a-guide-to-minimizing-hiss/"><u>Updated In 2024, Reducing Ambient Acoustic Disturbances A Guide to Minimizing Hiss</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-top-10-safe-chat-platforms-for-socializing-digitally/"><u>Updated Top 10 Safe Chat Platforms for Socializing Digitally</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-compre-web-resources-for-effortless-youtube-template-access/"><u>[Updated] Compre-Web Resources for Effortless YouTube Template Access</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/console-like-conundrums-computer-gaming-issues/"><u>Console-Like Conundrums: Computer Gaming Issues</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-oppo-a58-4g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Oppo A58 4G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-iphone-night-photography-step-by-step/"><u>In 2024, IPhone Night Photography Step by Step</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-clearing-the-clutter-streamlined-methods-for-reducing-ambient-noise-in-audio-editing-software-audacity-and-filmorapro-for-2024/"><u>New Clearing the Clutter Streamlined Methods for Reducing Ambient Noise in Audio Editing Software (Audacity & FilmoraPro) for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-elevating-music-production-a-curated-list-of-the-top-8-macdaws/"><u>New Elevating Music Production A Curated List of the Top 8 MacDAWS</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-from-full-spectrum-to-focus-extracting-core-rhythms-for-multimedia-use/"><u>New From Full Spectrum to Focus Extracting Core Rhythms for Multimedia Use</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-dynamic-duets-of-sound-and-sight-afx-lyric-templates/"><u>New In 2024, Dynamic Duets of Sound and Sight - AFX Lyric Templates</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-trim-vlc-videos-on-mac-with-ease-no-quality-loss-guaranteed-for-2024/"><u>New Trim VLC Videos on Mac with Ease No Quality Loss Guaranteed for 2024</u></a></li>
 </ul></div>
 

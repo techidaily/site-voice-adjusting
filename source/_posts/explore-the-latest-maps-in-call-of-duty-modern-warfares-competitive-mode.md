@@ -1,7 +1,7 @@
 ---
 title: "Explore the Latest Maps in Call of Duty: Modern Warfare's Competitive Mode"
-date: 2025-01-27T16:09:57.622Z
-updated: 2025-01-29T17:37:33.175Z
+date: 2025-02-08T22:57:39.262Z
+updated: 2025-02-09T17:56:22.769Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/25bf753c78130a921149c781a28200c1963f284bc
 Call of Duty: Modern Warfare players are experiencing unbearable random crashes on PC when battling their ways to the top. All kinds of Dev error codes such as**Fatal Error: Dev Error 6178** or no error codes at all. It crashes even in single-player mode. If you’re experiencing Modern Warfare crashing, here’re a few fixes you can try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why does Modern Warfare crash?
@@ -54,10 +54,6 @@ Your Modern Warfare crashing can be caused by the following issues:
 ### Fix 1: Close all background Apps and repair your game
 
  Shut down all applications that are running in the background by pressing**Ctrl + Shift + Esc** , especially your antivirus software, which can be over-protective and cause Modern Warfare crashing issues.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your device drivers
 
@@ -96,6 +92,10 @@ Your Modern Warfare crashing can be caused by the following issues:
 
 4) Restart your PC for the changes to take full effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Set texture quality to high or normal
 
  Many Call of Duty players may set their graphics settings to**Low** , which can be the culprit of the Modern Warfare crashing issue. Modern Warfare may crash for not having enough texture quality, especially if you get an error code**Dev Error 6178** . Many gamers find**setting Texture Resolution to Normal or High** solved their crashing issues, depending on your PC specs.
@@ -112,10 +112,6 @@ Here’s how to do it:
 
 Play Modern Warfare again to see if the crashing issue persists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Scan and Repair your game
 
  This is the method you can always try when you run into game crashing issues. Corrupt game files can cause Call of Duty: Modern Warfare crashing issues.
@@ -124,15 +120,15 @@ Play Modern Warfare again to see if the crashing issue persists.
 
  If you’re on**Blizzard Battle.net** , you can locate Modern Warfare and click**Options** \>**Scan and Repair** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Stop Overclocking
 
  Overclocking your CPU can improve your gaming performance but may leave your game unstable, which may cause Modern Warfare to crash.
 
  If Call of Duty: Modern Warfare starts to crash after you overclock your GPU, you can try lowering it back to the default setting. This might be enough to prevent or reduce the number of Modern Warfare crashes you’re experiencing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable NVIDIA V-Sync for Modern Warfare
 
@@ -152,6 +148,10 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/turn-off-vertical-sync.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Try launching your game again to check if Modern Warfare crashes persist. If this doesn’t work, you can try these settings that work fine for other players on[Reddit](https://www.reddit.com/r/modernwarfare/comments/duev1r/crash%5Ffixes%5Ffor%5Fnvidia%5Fusers%5Fon%5Fpc/) .
 
 ### Fix 7: Disable Discord in-game overlay
@@ -167,7 +167,7 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
  If you want to disable in-game overlay just for Call of Duty: Modern Warfare, go to the**Games Activity** tab and toggle off Call of Duty: Modern Warfare.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 8: Change Priority
@@ -183,10 +183,6 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/priority.jpg)
 
  4) When prompted for permission to make changes, select**Change Priority** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 9\. Repair your system files
 
@@ -204,7 +200,7 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/FORTECTLOG.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Fortect** Windows Repair is tailored to your specific system and is working in a private and automatic way. It will first check hardware-related issues to identify problems, and then security issues (powered by Avira Antivirus), and finally it detects programs that crash, missing system files. Once complete, it will find a solution to your specific problem.
@@ -230,6 +226,10 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
  1) On your keyboard, press the Windows logo key and R at the same time to open the Run box. Type**cmd** and press**Ctrl+Shift+Enter** to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click**Yes** when prompted for permission to make changes to your device.
 
@@ -297,18 +297,17 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-the-power-of-multitasking-mastering-ffpm/"><u>[Updated] In 2024, The Power of Multitasking Mastering FFPM</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-you-watch-mov-movies-on-motorola-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can you watch MOV movies on Motorola ?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/cant-access-faceid-on-your-iphone-discover-these-14-effective-repairs/"><u>Can’t Access FaceID on Your iPhone? Discover These 14 Effective Repairs</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/echoes-within-formats-mp4s-guide-to-effortless-audio-retrieval-techniques/"><u>Echoes Within Formats MP4s Guide to Effortless Audio Retrieval Techniques</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fixing-vcompdll-not-found-expert-solutions-for-windows-users/"><u>Fixing 'vcomp.dll Not Found' - Expert Solutions for Windows Users</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-frequent-freezes-a-guide-to-stable-outriders-gaming/"><u>Fixing Frequent Freezes: A Guide to Stable Outriders Gaming</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-chrome-os-users-installation-and-removal-of-audacity-for-advanced-sound-editing/"><u>New In 2024, Chrome OS Users Installation and Removal of Audacity for Advanced Sound Editing</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-sound-engineers-playbook-techniques-for-distilling-song-beats-through-technology/"><u>New In 2024, The Sound Engineers Playbook Techniques for Distilling Song Beats Through Technology</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210611901-9798986225012-overcoming-the-drug-addiction-i-never-had/"><u>Overcoming The Drug Addiction I Never Had | Free Book</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/sony-wma-nw78-superior-audio-acclaim/"><u>Sony WMA-NW78 - Superior Audio Acclaim</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbeatable-macbook-air-offer-up-to-80-discount-on-certified-pre-owned-13-laptops-find-your-bargain-now/"><u>Unbeatable MacBook Air Offer: Up To 80% Discount on Certified Pre-Owned 13 Laptops - Find Your Bargain Now!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-xiaomi-redmi-a2plus-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Xiaomi Redmi A2+ Device</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-decoding-youtubes-comprehensive-audible-archive/"><u>Updated In 2024, Decoding YouTubes Comprehensive Audible Archive</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/uides-on-creating-cost-free-youtube-beginnings-and-conclusions/"><u>[New] Guides on Creating Cost-Free YouTube Beginnings & Conclusions</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/drones-demystified-crucial-considerations-before-buying-for-2024/"><u>Drones Demystified Crucial Considerations Before Buying for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/expert-tips-on-leveraging-morphvox-in-games-the-comprehensive-guide-to-voice-modification-for-2024/"><u>Expert Tips on Leveraging Morphvox in Games – The Comprehensive Guide to Voice Modification for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-digital-signature-for-pdf-v13-document-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Free digital signature for PDF v1.3 document</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-graphics-best-open-source-ai-portfolio-apps/"><u>Gratis Graphics: Best Open Source AI Portfolio Apps</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/how-to-find-the-best-spots-on-the-internet-to-download-high-quality-ding-sounds-2023-compilation/"><u>How to Find the Best Spots on the Internet to Download High-Quality Ding Sounds (2023 Compilation)</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/navigating-through-the-best-8-voice-interpretation-programs-across-different-os-platforms/"><u>Navigating Through the Best 8 Voice Interpretation Programs Across Different OS Platforms</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-audio-enhancement-techniques-in-after-effects-a-comprehensive-2023-guide/"><u>New In 2024, Audio Enhancement Techniques in After Effects A Comprehensive 2023 Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-ssleay32dll-file-is-missing-windows-issue/"><u>Resolving the 'ssleay32.dll File Is Missing' Windows Issue</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-switching-your-browsers-default-search-provider-in-chrome/"><u>Step-by-Step Guide: Switching Your Browser's Default Search Provider in Chrome</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/top-4-solutions-remplacant-stellar-data-recovery/"><u>Top 4 Solutions Remplaçant Stellar Data Recovery</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/understanding-mouse-malfunctions-why-your-mouse-may-freeze-or-cease-movement-yl-software-expertise/"><u>Understanding Mouse Malfunctions: Why Your Mouse May Freeze or Cease Movement (YL Software Expertise)</u></a></li>
 </ul></div>
 

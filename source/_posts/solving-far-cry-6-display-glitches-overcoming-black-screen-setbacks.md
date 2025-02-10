@@ -1,7 +1,7 @@
 ---
 title: "Solving Far Cry 6 Display Glitches: Overcoming Black Screen Setbacks"
-date: 2025-01-22T17:10:01.453Z
-updated: 2025-01-29T17:50:07.575Z
+date: 2025-02-02T21:28:26.889Z
+updated: 2025-02-09T21:07:10.497Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/fallout-4-black-screen-1024x576.jpg)
 
  When you click Fallout 4 but see the black screen which doesn’t load anything, you must feel frustrated. Don’t worry, there are tips that can help you solve this**black screen issue** . Read on to find how…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -45,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update Graphics Card Drivers
 
  Outdated graphics drivers may cause the “Fallout 4 black screen” issue. So you can try to update the graphics driver to fix the problem.
@@ -59,7 +59,19 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2019/07/NVIDIA-Geoforce-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Edit configuration files
 
@@ -77,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Lower the graphics settings in the game
 
  It is possible that the game can be crashed because your graphics card cannot capable of the high settings in the game. So if you’re using an old graphics card, you can try this method to fix the problem.
@@ -90,14 +98,6 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4-1.jpg)
 3. Tick the**Windowed Mode** and**Borderless** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click**Advanced** . Lower the settings and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.2.jpg)
 
 5. Run the game to check the problem will appear or not.
@@ -105,7 +105,7 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable antivirus software
@@ -135,22 +135,14 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-a-sincere-look-at-high-quality-audio-streaming-recordcast-for-2024/"><u>[Updated] A Sincere Look at High-Quality Audio Streaming RecordCast for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-critical-appraisal-of-sound-forge-pros-cons-and-potentials/"><u>2024 Approved Critical Appraisal of Sound Forge Pros, Cons, and Potentials</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-top-10-windows-compatible-speech-recognition-tools/"><u>2024 Approved Top 10 Windows-Compatible Speech Recognition Tools</u></a></li>
-<li><a href="https://fox-links.techidaily.com/enhancing-immersion-prepping-for-oculus-for-2024/"><u>Enhancing Immersion Prepping for Oculus for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/get-bitraser-now-secure-and-efficient-data-wipe-software/"><u>Get BitRaser Now – Secure and Efficient Data Wipe Software</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Intercept Text Messages on Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/navigating-bitcoin-and-altcoins-a-guide-to-existing-legislation-for-digital-assets-yl-software/"><u>Navigating Bitcoin and Altcoins: A Guide to Existing Legislation for Digital Assets - YL Software</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-final-cut-pro-wizardry-incorporating-lifelike-audio-waveforms-and-animation-into-your-video-edits/"><u>New 2024 Approved Final Cut Pro Wizardry Incorporating Lifelike Audio Waveforms and Animation Into Your Video Edits</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-win-and-mac-users-best-picks-top-mp3-recording-software-and-hardware/"><u>New 2024 Approved Win & Mac Users Best Picks Top MP3 Recording Software and Hardware</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-integrating-moving-images-with-sound-a-comprehensive-guide/"><u>New In 2024, Integrating Moving Images with Sound A Comprehensive Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-infinix-smart-7-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Infinix Smart 7 Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-the-dilemma-of-xbox-one-controller-pc-use/"><u>Solve the Dilemma of Xbox One Controller PC Use</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211133076-9781960466136-the-aquarius-age/"><u>The Aquarius Age | Free Book</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/top-5-digital-audio-file-organizers-for-seamless-mp3-management-for-2024/"><u>Top 5 Digital Audio File Organizers for Seamless MP3 Management for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/uniting-two-giants-transmitting-facebook-vids-on-whatsapp/"><u>Uniting Two Giants Transmitting Facebook Vids on WhatsApp</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-final-cut-pro-guide-integrating-waveform-graphics-and-animated-sounds-for-enhanced-editing/"><u>Updated 2024 Approved Final Cut Pro Guide Integrating Waveform Graphics and Animated Sounds for Enhanced Editing</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-the-ultimate-guide-to-choosing-your-best-online-mp3-editor-from-five-sought-after-options-for-2024/"><u>Updated The Ultimate Guide to Choosing Your Best Online MP3 Editor From Five Sought-After Options for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-direct-conversion-of-spotify-music-5-tools-for-youtube-streaming/"><u>[New] Direct Conversion of Spotify Music 5 Tools for YouTube Streaming</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-churning-charts-todays-1-backdrop-music-for-youtube-shorts/"><u>[Updated] 2024 Approved Churning Charts Today's #1 Backdrop Music for YouTube Shorts</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-cutting-through-chaos-effective-techniques-to-silence-unwanted-sounds-in-audacity-and-filmorapro/"><u>New 2024 Approved Cutting Through Chaos Effective Techniques to Silence Unwanted Sounds in Audacity and FilmoraPro</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-getting-started-with-lexisaudioeditor-basic-tips-and-strategies/"><u>New 2024 Approved Getting Started with LexisAudioEditor Basic Tips and Strategies</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-mastering-clean-audio-tactics-to-eradicate-background-noise/"><u>New In 2024, Mastering Clean Audio Tactics to Eradicate Background Noise</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-art-of-diminishing-sound-effects-fading-out-audio-in-imovie-projects/"><u>New In 2024, The Art of Diminishing Sound Effects Fading Out Audio in iMovie Projects</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-visual-companion-premium-webcams-for-podcasts/"><u>The Ultimate Visual Companion Premium Webcams for Podcasts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlock-next-level-photo-editing-capabilities-in-open-source-raw-editor-darktable-for-os-x-and-linux-at-zero-expense/"><u>Unlock Next-Level Photo Editing Capabilities in Open Source RAW Editor, Darktable for OS X and Linux – At Zero Expense</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/whats-the-difference-retweeting-vs-re-tweeting-on-twitter/"><u>What's the Difference: Retweeting Vs. Re-Tweeting on Twitter</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: No Audio in Battlefield 4? Discover the Simple Solution
-date: 2025-01-27T17:00:28.169Z
-updated: 2025-01-29T16:24:20.858Z
+date: 2025-02-03T19:18:41.834Z
+updated: 2025-02-09T23:30:45.968Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/01edaba53137429381532b08b94562d4a741359e1
 4. **[Disable Windows Defender](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Verify the game integrity](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Rule out other interference](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1\. Update your audio drivers
 
@@ -73,21 +69,17 @@ thumbnail: https://thmb.techidaily.com/01edaba53137429381532b08b94562d4a741359e1
 
 ![set another device as default](https://images.drivereasy.com/wp-content/uploads/2021/09/set-as-default.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Right-click your default device and select**Properties** . Go to the Advanced tab, and select a format**no more than 24 bit, 96000 Hz** .
 
 ![choose a correct sample format](https://images.drivereasy.com/wp-content/uploads/2021/09/quality.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click**Apply** to save the changes.
 
  Now launch your Battlefield 4 to check if the sound is coming back. If unfortunately not, don’t worry since we have a few more fixes for you to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3\. Check Windows Volume Mixer
 
@@ -105,17 +97,21 @@ thumbnail: https://thmb.techidaily.com/01edaba53137429381532b08b94562d4a741359e1
 
 ![open system](https://images.drivereasy.com/wp-content/uploads/2021/09/system-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Select**Sound** from the left pane, and click**App volume and device preferences** under**Advanced sound options** .
 
 ![open advanced sound settings](https://images.drivereasy.com/wp-content/uploads/2021/09/soundsettings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Make sure you set the Output of Battlefield 4 to the system default device instead of “Game”.
 
  Does this method do the trick for you? If not, move to the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4\. Disable Windows Defender
 
@@ -126,7 +122,7 @@ thumbnail: https://thmb.techidaily.com/01edaba53137429381532b08b94562d4a741359e1
 ![open firewall settings](https://images.drivereasy.com/wp-content/uploads/2021/09/firewall.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Click the active network.
@@ -134,7 +130,7 @@ thumbnail: https://thmb.techidaily.com/01edaba53137429381532b08b94562d4a741359e1
 ![click domain network](https://images.drivereasy.com/wp-content/uploads/2021/09/domain.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Under**Microsoft Defender Firewall** , swap it to**Off** .
@@ -144,7 +140,7 @@ thumbnail: https://thmb.techidaily.com/01edaba53137429381532b08b94562d4a741359e1
 Launch your Battlefield 4 and check if the sound is working now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5\. Verify the game integrity
@@ -157,11 +153,19 @@ Launch your Battlefield 4 and check if the sound is working now.
 
 ![Battlefield 4 repair](https://images.drivereasy.com/wp-content/uploads/2021/09/battlefield-1200x686.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Once complete, close Origin. Then run Origin as administrator.
 
 ![run origin as admin](https://images.drivereasy.com/wp-content/uploads/2019/08/run-origin-as-sdministrator.png)
 
  Play Battlefield 4 and test the sound issue. If the Battlefield 4 sound not working issue persists, it’s very likely caused by interference by your devices or other apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6\. Rule out other interference
 
@@ -172,10 +176,6 @@ Launch your Battlefield 4 and check if the sound is working now.
 2) Click the Origin menu and select **Application Settings** .
 
 ![origin application settings](https://images.drivereasy.com/wp-content/uploads/2021/09/app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the **Origin In-Game** tab. Toggle the **Off** switch to turn Origin In-Game off.
 
@@ -206,21 +206,15 @@ Launch your Battlefield 4 and check if the sound is working now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-mastery-of-magnified-mining-maps/"><u>[New] In 2024, Mastery of Magnified Mining Maps</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-shooting-hdr-on-iphone-a-comprehensive-guide/"><u>[New] In 2024, Shooting HDR on iPhone A Comprehensive Guide</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-free-ways-to-liven-up-static-video-texts-for-2024/"><u>[Updated] FREE Ways to Liven Up Static Video Texts for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-electrical-energy-the-best-lipo-for-uavs/"><u>[Updated] Mastering Electrical Energy The Best LiPo for UAVs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-oled-notebooks-of-2024-comprehensive-reviews-and-expert-ratings-insights/"><u>Best OLED Notebooks of 2024: Comprehensive Reviews and Expert Ratings Insights</u></a></li>
-<li><a href="https://driver-install.techidaily.com/ease-your-experience-installing-new-drivers-on-classic-and-newer-windows/"><u>Ease Your Experience: Installing New Drivers on Classic & Newer Windows</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-use-revo-uninstaller-to-manage-startup-programs-on-your-pc/"><u>How to Use Revo Uninstaller to Manage Startup Programs on Your PC</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-seamless-synergy-merging-soundtracks-with-visual-narratives-in-modern-cinema/"><u>In 2024, Seamless Synergy Merging Soundtracks with Visual Narratives in Modern Cinema</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-the-countdown-begins-3-simple-steps-to-fcpx-timer-success/"><u>In 2024, The Countdown Begins 3 Simple Steps to FCPX Timer Success</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/melody-cleanse-free-your-content-from-unwanted-musical-elements-for-2024/"><u>Melody Cleanse Free Your Content From Unwanted Musical Elements for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-discover-the-unbeatable-selection-of-cost-free-audio-editing-applications-for-windowsmac-updated-list-2023/"><u>New 2024 Approved Discover the Unbeatable Selection of Cost-Free Audio Editing Applications for Windows/Mac (Updated List, 2023)</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-subtle-soundscape-selection-for-video-creators/"><u>New 2024 Approved Subtle Soundscape Selection for Video Creators</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-boost-visual-speakers-output-enhance-movie-and-video-audibility-for-2024/"><u>New Boost Visual Speakers Output Enhance Movie and Video Audibility for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-comprehensive-guide-to-attaching-audios-in-magix-movie-editor-2023/"><u>New Comprehensive Guide to Attaching Audios in Magix Movie Editor 2023</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-mastering-audio-extraction-removing-sound-tracks-from-video-on-ios-devices-for-2024/"><u>New Mastering Audio Extraction Removing Sound Tracks From Video on iOS Devices for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-13-pro-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 13 Pro Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-enlisted-black-screen-issues/"><u>[SOLVED] Enlisted Black Screen Issues</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-preserving-quality-while-quickening-spotify-auditory-experience/"><u>2024 Approved Preserving Quality While Quickening Spotify Auditory Experience</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-samsung-galaxy-a23-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Samsung Galaxy A23 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://win-great.techidaily.com/como-recuperar-mundos-de-minecraft-borrados-en-windows-y-dispositivos-moviles/"><u>Cómo Recuperar Mundos De Minecraft Borrados en Windows Y Dispositivos Móviles</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exclusive-android-3d-video-enthusiasts-choice-for-2024/"><u>Exclusive Android 3D Video Enthusiasts' Choice for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-mastering-sound-a-guide-to-advanced-editing-techniques-with-sony-vegas/"><u>Updated In 2024, Mastering Sound A Guide to Advanced Editing Techniques with Sony Vegas</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-the-art-and-technique-of-incorporating-dramatic-soundtracks-into-movies/"><u>Updated The Art and Technique of Incorporating Dramatic Soundtracks Into Movies</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-the-ultimate-guide-to-quieting-down-films-and-videos/"><u>Updated The Ultimate Guide to Quieting Down Films and Videos</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/vital-criteria-for-assessing-the-best-mac-based-audio-editors/"><u>Vital Criteria for Assessing the Best Mac-Based Audio Editors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/44og44oq44on44km44o744kq44o844ox44oz44o744km44kn44ow44og44ov44kp44or44oa6lui6ycbic0g44oi44o044kh44ot44kj/"><u>ムリョウ・オープン・ウェブムフォルダ転送 - モヴァビィ</u></a></li>
 </ul></div>
 
