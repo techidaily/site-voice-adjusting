@@ -1,7 +1,7 @@
 ---
 title: Sea of Thieves Won't Open? Here's What You Can Do
-date: 2025-02-06T16:31:21.686Z
-updated: 2025-02-10T01:20:48.835Z
+date: 2025-02-18T04:13:59.035Z
+updated: 2025-02-19T22:50:22.588Z
 tags:
   - win11
   - win10
@@ -57,14 +57,14 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 3. Under the **Compatibility** tab, tick **Run this program as an administrator** . Then click **OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/ad.jpg)
 4. Run the game to check whether the problem is solved or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Do an App reset
@@ -81,13 +81,13 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/app.jpg)
 6. Find and click **Sea of Thieves** on the list.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click **Advanced Options** and click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/reset.jpg)
 8. Run Sea of Thieves to check.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Change the Time & Region
 
@@ -98,16 +98,8 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/timelanguage.jpg)
 2. Open the**Set time automatically** button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/time.jpg)
 3. Check your time zone and date.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Click **Region** and check your region is corrected.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/region-1.jpg)
@@ -117,6 +109,10 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 
 **Note** : If your language and region is set to **English (United States)** already please change it to **English (United Kingdom)** instead.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Run Powershell
 
  Besides these basic fixes, you can use Powershell to enforce the application to launch.
@@ -125,6 +121,10 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 2. Type “powershell” and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/powershell.jpg)
 3. Copy and paste the following into the Powershell window and press Enter.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **Get-AppXPackage | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($\_.InstallLocation)\\AppXManifest.xml”}**
 4. Run Sea of Thieves to check.
@@ -158,15 +158,11 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Reboot your PC and run Sea of Thieves to check.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Disable incompatible apps
@@ -174,6 +170,10 @@ OR
  Third-party applications might be the reason won’t launch issue. You can try to disable apps like AfterBurner that show FPS, OSD, MSI, EVGA, etc and then restart your PC. If this doesn’t help, you can also try to disable your antivirus software like Trend Micro which has been known to cause conflicts.
 
 **IMPORTANT** : Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall your game
 
@@ -200,22 +200,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-stardews-ultimate-game-changing-mods-a-curated-list/"><u>[Updated] 2024 Approved Stardew's Ultimate Game-Changing Mods A Curated List</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-analysis-the-powerhouse-in-your-pocket-lightroom/"><u>[Updated] In-Depth Analysis The Powerhouse in Your Pocket - Lightroom</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-next-level-entertainment-exclusive-windows-10-gaming-and-apps/"><u>[Updated] Next-Level Entertainment Exclusive Windows 10 Gaming & Apps</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-personalizing-presents-top-ten-e-commerce-stores-for-custom-boxes/"><u>2024 Approved Personalizing Presents? Top Ten E-Commerce Stores for Custom Boxes</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-htc-u23-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For HTC U23 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/exploring-options-for-authentic-gaseous-sounds-in-audio-production-for-2024/"><u>Exploring Options for Authentic Gaseous Sounds in Audio Production for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/facing-a-flood-of-promotions-prime-video-set-to-introduce-additional-ads-from-amazon/"><u>Facing a Flood of Promotions: Prime Video Set to Introduce Additional Ads From Amazon</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-reversing-the-flow-a-comprehensive-list-of-advanced-audio-reversal-tools/"><u>In 2024, Reversing the Flow A Comprehensive List of Advanced Audio Reversal Tools</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/maximizing-speaker-output-cost-free-tips-for-windows-users-for-2024/"><u>Maximizing Speaker Output Cost-Free Tips for Windows Users for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-achieving-audio-harmony-on-stream-integrating-background-music-with-obs-effects-for-2024/"><u>New Achieving Audio Harmony on Stream Integrating Background Music with OBS Effects for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-crowded-online-spaces-offering-no-cost-guitar-song-lines-and-artwork/"><u>New Crowded Online Spaces Offering No-Cost Guitar Song Lines and Artwork</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-essential-list-top-10-costless-online-daw-options-to-explore-for-2024/"><u>New Essential List Top 10 Costless Online DAW Options to Explore for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-integrating-audio-elements-within-mixed-media-videos-for-2024/"><u>New Integrating Audio Elements Within Mixed Media Videos for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-sound-off-with-flair-enhancing-high-pitched-vocalization-in-video-content-creation-for-2024/"><u>New Sound Off with Flair Enhancing High-Pitched Vocalization in Video Content Creation for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/unveiling-yuneecs-typhoon-h-an-aerial-powerhouse-review-for-2024/"><u>Unveiling Yuneec’s Typhoon H An Aerial Powerhouse Review for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/why-isnt-my-windows-10-monitor-fullview/"><u>Why Isn't My Windows 10 Monitor Fullview?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/zdnets-top-pick-how-to-expand-your-workspace-using-this-clever-laptop-holder-and-phone-screen-combo/"><u>ZDNet's Top Pick: How to Expand Your Workspace Using This Clever Laptop Holder & Phone-Screen Combo</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-9-essential-iphone-x-hacks-for-every-user/"><u>[New] 2024 Approved 9 Essential iPhone X Hacks for Every User</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-streamers-dilemma-is-vlc-superior-to-mpc/"><u>[Updated] 2024 Approved Streamer's Dilemma Is VLC Superior to MPC?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-tricks-for-non-engagement-with-edgenuity-video-content/"><u>[Updated] 2024 Approved Tricks for Non-Engagement with Edgenuity Video Content</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-cutting-edge-practices-video-acceleration-techniques/"><u>[Updated] Cutting-Edge Practices Video Acceleration Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/efficient-strategies-to-combat-high-cpu-consumption-by-iastordatasvc-on-32-bit-windows-11-a-detailed-walkthrough/"><u>Efficient Strategies to Combat High CPU Consumption by IAstorDataSvc on 32-Bit Windows 11 - A Detailed Walkthrough</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-itel-s23-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Itel S23 to iPod | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/preserving-melody-methods-to-decelerate-sound-waves-without-modifying-frequency-range/"><u>Preserving Melody Methods to Decelerate Sound Waves without Modifying Frequency Range</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trimming-extra-choices-from-win-11s-context-list/"><u>Trimming Extra Choices From Win 11'S Context List</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/unlocking-free-integration-techniques-for-music-in-online-visual-media/"><u>Unlocking Free Integration Techniques for Music in Online Visual Media</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/unraveling-and-repairing-directx-9-startup-issues/"><u>Unraveling and Repairing DirectX 9 Startup Issues</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-a-technical-approach-to-combining-soundtracks-with-video-footage-on-mobile-devices-for-2024/"><u>Updated A Technical Approach to Combining Soundtracks with Video Footage on Mobile Devices for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-future-soundscape-pioneers-unveiling-the-top-8-2023-daws-for-hip-hop-production-excellence-for-2024/"><u>Updated Future Soundscape Pioneers Unveiling the Top 8 2023 DAWs for Hip-Hop Production Excellence for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-echoes-and-rhythms-discovering-the-top-radio-sounds/"><u>Updated In 2024, Echoes and Rhythms Discovering the Top Radio Sounds</u></a></li>
 </ul></div>
 

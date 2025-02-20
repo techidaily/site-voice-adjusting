@@ -1,7 +1,7 @@
 ---
 title: "Banish Unwanted Sounds: Expert Tips for Silencing Headphone Feedback and Buzzing Noises"
-date: 2025-02-07T00:07:36.431Z
-updated: 2025-02-09T23:59:59.543Z
+date: 2025-02-16T17:06:30.620Z
+updated: 2025-02-19T21:33:03.629Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
 
  Gamers have been reporting that Discord voice chat would randomly stop working from time to time. If you experience the same problem, no worries. We’ve put together a few quick fixes for you. Read on and find out what they are…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
  You don’t have to try them all; just work your way down the list until you find the one that does the trick!
@@ -35,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
 
  Before we dive into anything advanced, try restarting Discord and your PC to see if it was just a random glitch.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Check Discord audio settings
 
  When Discord voice chat stops working, the first thing you can look at is the voice and audio settings.
@@ -54,16 +54,12 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/Snipaste_2021-10-21_16-40-44.png)
 5. Select**Voice Activity** as the input mode, and turn off**Automatically determine input sensitivity** . Thereby, you can set up the volume level for Discord to recognize and pick up your voice but not the noise.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/Snipaste_2021-10-21_16-41-23.png)
 
  You can test if Discord voice chat is working now. If adjusting the voice settings in Discord doesn’t help, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Configure your PC sound settings
@@ -84,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
 5. Right-click your headset device, then click **Enable** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-05-17.jpg)
@@ -93,6 +89,10 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-06-58.jpg)
 
  The device you’re using for Discord voice chatting is now set as the input device and allowed for recording. You can now test if Discord picks up your voice. If your problem persists, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Update your audio driver
 
@@ -108,19 +108,19 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
 3. Click the **Update**  button next to the flagged audio driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-54-43.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 If this doesn’t help, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Reset voice settings on Discord
 
@@ -130,15 +130,15 @@ If this doesn’t help, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/Snipaste_2021-10-21_17-27-58.png)
 2. Under the**Voice & Video** tab, scroll down and click**Reset Voice Settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/Snipaste_2021-10-21_17-28-37.png)
 3. Click**Okay** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/Snipaste_2021-10-21_16-42-19.png)
 4. Discord will refresh by itself. You can test if voice chatting is working now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If this doesn’t work, there’s one more fix you can try.
 
@@ -168,22 +168,21 @@ If this doesn’t work, there’s one more fix you can try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-amplify-your-youtube-audience-three-livestream-strategies/"><u>[New] Amplify Your YouTube Audience Three Livestream Strategies</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-legends-of-warfare-the-top-7-total-war-game-series/"><u>[New] In 2024, Legends of Warfare The Top 7 Total War Game Series</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-the-insiders-guide-to-snapchats-spotlight-feature-for-2024/"><u>[Updated] The Insider's Guide to Snapchat's Spotlight Feature for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-where-can-i-find-bell-sound-effect/"><u>2024 Approved Where Can I Find Bell Sound Effect?</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/cing-video-content-iphoneipad-screen-capture-basics/"><u>Enhancing Video Content IPhone/iPad Screen Capture Basics</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-jujutsu-kaisen-making-waves-tiktok-edition/"><u>In 2024, Jujutsu Kaisen Making Waves TikTok Edition</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-ultimate-guide-to-pre-processing-tracks-using-lame-and-audacity/"><u>In 2024, The Ultimate Guide to Pre-Processing Tracks Using Lame & Audacity</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-echoes-equalized-advanced-methods-to-normalize-audio-quality-in-film-and-broadcast/"><u>New 2024 Approved Echoes Equalized Advanced Methods to Normalize Audio Quality in Film and Broadcast</u></a></li>
-<li><a href="https://driver-download.techidaily.com/official-downloads-updated-graphics-drivers-for-amd-radeon-compatible-with-windows-e7/"><u>Official Downloads: Updated Graphics Drivers for AMD Radeon - Compatible with Windows E7</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/sony-ps-lx310bt-review-thin-and-chic-design/"><u>Sony PS-LX310BT Review - Thin & Chic Design</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/the-ultimate-guide-to-disabling-sound-in-windows-10-movies-and-tutorials-no-software-needed-for-2024/"><u>The Ultimate Guide to Disabling Sound in Windows 10 Movies & Tutorials (No Software Needed) for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unveiling-the-secrets-to-smm-mastery-a-comprehensive-guide-in-10-stages/"><u>Unveiling the Secrets to SMM Mastery A Comprehensive Guide in 10 Stages</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-how-to-capture-streaming-audio/"><u>Updated 2024 Approved How to Capture Streaming Audio</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-your-comprehensive-guide-to-top-bgm-download-sites/"><u>Updated 2024 Approved Your Comprehensive Guide to Top BGM Download Sites</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-5-best-video-editors-for-ipad-2022-review-for-2024/"><u>Updated 5 Best Video Editors for iPad 2022 Review for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-creative-and-catchy-ringtone-selections-for-modern-phones-for-2024/"><u>Updated Creative and Catchy Ringtone Selections for Modern Phones for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-detailed-examination-of-sound-forges-functionality/"><u>Updated Detailed Examination of Sound Forges Functionality</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-innovative-iphone-tactics-for-capturing-glass-surfaces/"><u>[New] Innovative iPhone Tactics for Capturing Glass Surfaces</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-editors-journey-creating-impactful-videos-for-youtube-with-pc/"><u>[New] The Editor's Journey Creating Impactful Videos for YouTube with PC</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-implementing-youtube-video-automatic-start-on-facebook/"><u>2024 Approved Implementing Youtube Video Automatic Start on Facebook</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-top-10-best-drones-for-kids-and-beginners/"><u>2024 Approved Top 10 Best Drones for Kids and Beginners</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-magicard-rio-pro-driver-download-optimized-for-modern-windows-os/"><u>Get the Newest Magicard Rio Pro Driver Download: Optimized for Modern Windows OS</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-guides-to-efface-auditory-components-from-cinematic-pieces/"><u>In 2024, Guides to Efface Auditory Components From Cinematic Pieces</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-vocal-vanishing-act-how-to-seamlessly-remove-singers-voice-from-an-audio-track-using-audacity-tools/"><u>In 2024, Vocal Vanishing Act How to Seamlessly Remove Singers Voice From an Audio Track Using Audacity Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-reviews-by-tom-for-savvy-hardware-enthusiasts/"><u>In-Depth Reviews by Tom for Savvy Hardware Enthusiasts</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/instructional-series-altering-the-auditory-component-of-digital-clips-for-2024/"><u>Instructional Series Altering the Auditory Component of Digital Clips for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-achieving-sonic-clarity-overcoming-hiss-and-other-unwanted-noises-in-audio-tracks/"><u>New Achieving Sonic Clarity Overcoming Hiss and Other Unwanted Noises in Audio Tracks</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-cutting-edge-techniques-for-pitch-modification-in-audacity-keeping-the-sound-crisp/"><u>New Cutting-Edge Techniques for Pitch Modification in Audacity Keeping the Sound Crisp</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-harmonizing-multiple-recordings-achieving-an-exclusive-one-file-mix/"><u>New Harmonizing Multiple Recordings Achieving an Exclusive One-File Mix</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-seamless-integration-of-multiple-audio-layers-creating-a-consolidated-master-file/"><u>New In 2024, Seamless Integration of Multiple Audio Layers Creating a Consolidated Master File</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/startende-deutsche-nummerierung-von-eins-bis-hundert-schrittweise-lernen/"><u>Startende Deutsche Nummerierung: Von Eins Bis Hundert Schrittweise Lernen</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-realme-gt-5-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Realme GT 5 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
 </ul></div>
 

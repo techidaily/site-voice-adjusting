@@ -1,7 +1,7 @@
 ---
 title: Updated Sony Vegas Audio Editor How to Edit Audio in Vegas Pro
-date: 2025-02-02T22:16:05.719Z
-updated: 2025-02-09T18:57:08.095Z
+date: 2025-02-13T04:41:22.321Z
+updated: 2025-02-19T21:21:54.281Z
 tags: 
   - audio editing software
   - audio editing
@@ -29,7 +29,7 @@ Being the most commonly used professional video editing tool, Sony (Magix) Vegas
 **You May Also Like:** [How to Edit YouTube Audio >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sony (Magix) Vegas Audio Editor: How to edit audio in Vegas Pro
@@ -50,7 +50,7 @@ First of all you need to import your desired audio file to timeline of Vegas Pro
 ![Track header](https://images.wondershare.com/edit-audio-in-vegas-pro-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Mute the Audio Track: Press M
@@ -75,6 +75,10 @@ Those who want to control volume separately for different portions of audio file
 **Volume:** Check the deep blue line on selected event and then double click over it for addition of a marking point. Drag this point up or down for appropriate volume settings and use right click option for additional adjustments.
 
 ![Adjust audio volume](https://images.wondershare.com/edit-audio-in-vegas-pro-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Pan:** Pan Adjustments can be done using red lien control over event. Double click over it and move the point up or down to set pan at specific range. Use right click button for advanced options.
 
@@ -114,32 +118,20 @@ If you want to add specific effects to your audio files then use two simple meth
 
 ![To entire audio layer ](https://images.wondershare.com/edit-audio-in-vegas-pro-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **To an individual portion of the audio layer**
 
 ![To portion](https://images.wondershare.com/edit-audio-in-vegas-pro-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 1:** First of all go to Track Description Box and then press the Track FX icon, an audio track FX will soon appear on your device screen. The three basic controls are always activated, that are Track Compressor, Track EQ and Track Noise Gate.
 
 ![Audio track FX ](https://images.wondershare.com/edit-audio-in-vegas-pro-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 For additional personalization you need to use plug-in chain button from right corner.
 
 ![Audio plugins](https://images.wondershare.com/edit-audio-in-vegas-pro-12.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2:** Now select any desired effect from list that can make your audio track more impressive and press Add; once applied then hit OK.
@@ -150,11 +142,19 @@ For additional personalization you need to use plug-in chain button from right c
 
 ![audio preset templates](https://images.wondershare.com/edit-audio-in-vegas-pro-14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Recommendation
 
 The Vegas Pro is rated as a professional editing software tool due to its advanced user interface, high price range and availability on Mac devices only. If you are searching for some video editing tools that can work on Windows as well as Mac devices then [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is one of the best options for you all.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -175,20 +175,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-funniest-faces-learning-kinemaster/"><u>[New] Funniest Faces Learning KineMaster</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-explore-10-premium-youtube-to-webm-converter-tools/"><u>[Updated] Explore 10 Premium YouTube-to-WebM Converter Tools</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-understanding-virtual-realitys-basic-words-for-2024/"><u>[Updated] Understanding Virtual Reality's Basic Words for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-leading-platforms-for-seamless-mp3-refinement-and-cutting/"><u>2024 Approved Leading Platforms for Seamless MP3 Refinement and Cutting</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-vloggers-fears-decoded-combat-strategies-for-everyone/"><u>2024 Approved Vloggers' Fears Decoded Combat Strategies for Everyone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/astral-adventures-with-your-luxury-sj4000-essential-accompaniments/"><u>Astral Adventures with Your Luxury SJ4000 - Essential Accompaniments</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/best-music-editing-apps-for-mac-devices-ranked-no-1-4/"><u>Best Music Editing Apps for Mac Devices - Ranked No. 1-4</u></a></li>
-<li><a href="https://video-capture.techidaily.com/expert-techniques-for-superior-quality-in-zoom-meetings-for-2024/"><u>Expert Techniques for Superior Quality in Zoom Meetings for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-cutting-edge-music-editing-software-roundup-the-top-10-compatible-apps-for-windows-and-mac/"><u>In 2024, Cutting-Edge Music Editing Software Roundup The Top 10 Compatible Apps for Windows and Mac</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-expert-techniques-for-crafting-high-end-gopro-vlogs/"><u>In 2024, Expert Techniques for Crafting High-End GoPro Vlogs</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-motorola-moto-g73-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Motorola Moto G73 5G FRP</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-navigating-through-music-production-software-landscape-can-magix-samplitude-be-considered-supreme-for-2024/"><u>New Navigating Through Music Production Software Landscape Can MAGIX Samplitude Be Considered Supreme for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-5-best-cellphone-tunes-of-the-year/"><u>Updated 2024 Approved 5 Best Cellphone Tunes of the Year</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-from-raw-footage-to-hit-vids-a-step-by-step-guide-for-editors/"><u>Updated 2024 Approved From Raw Footage to Hit Vids A Step-by-Step Guide for Editors</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-how-to-merge-video-and-audio-for-2024/"><u>Updated How to Merge Video and Audio for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/rafting-channel-graphics-icons-banners-and-thumbnails/"><u>[New] Crafting Channel Graphics Icons, Banners & Thumbnails</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-engaging-youtube-viewers-effective-interaction-strategies/"><u>[Updated] Engaging YouTube Viewers Effective Interaction Strategies</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-quick-guide-capturing-time-lapses-on-samsung-devices/"><u>[Updated] Quick Guide Capturing Time-Lapses on Samsung Devices</u></a></li>
+<li><a href="https://win-webster.techidaily.com/effective-methods-to-transplant-your-gpt-uefi-drive-data-to-ssd-and-ensure-successful-boot-operations/"><u>Effective Methods to Transplant Your GPT UEFI Drive Data to SSD & Ensure Successful Boot Operations</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-honor-100-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Honor 100 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-harmonizing-media-effective-techniques-to-combine-multiple-audio-files-in-videos/"><u>In 2024, Harmonizing Media Effective Techniques to Combine Multiple Audio Files in Videos</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirror-your-apple-iphone-15-pro-max-display-drfone-by-drfone-ios/"><u>In 2024, How to Screen Mirror your Apple iPhone 15 Pro Max Display? | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-trending-tweet-tales-twitters-top-10-video-hits/"><u>In 2024, Trending Tweet Tales Twitter's Top 10 Video Hits</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unleash-creativity-in-youtube-video-editing-with-adobe-premiere/"><u>In 2024, Unleash Creativity in YouTube Video Editing with Adobe Premiere</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/mastering-tempo-adjustments-aligning-audio-and-visuals-in-fcpx-for-2024/"><u>Mastering Tempo Adjustments Aligning Audio and Visuals in FCPX for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-audio-frequencies-to-textual-formats-an-in-depth-look-at-current-online-mp3-transcription-methods/"><u>New Audio Frequencies to Textual Formats An In-Depth Look at Current Online MP3 Transcription Methods</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-innovations-in-digital-vocal-alteration-top-notch-applications/"><u>New Innovations in Digital Vocal Alteration Top-Notch Applications</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-mastering-the-basics-essential-podcast-editing-tips-for-novices-for-2024/"><u>New Mastering the Basics Essential Podcast Editing Tips for Novices for 2024</u></a></li>
 </ul></div>
 
